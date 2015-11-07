@@ -1,3 +1,6 @@
+## Generate A Tree Structure Based on iOS Headers (iOS 7.0)
+node version v4.2.0
+use `npm install` to instll dependencies, and use `npm start` to run
 ## Dynamically Generated iOS Headers
 
 Here are iOS Objective-C headers as derived from runtime introspection.
@@ -22,13 +25,13 @@ You can use the headers this way:
 
     NSBundle *b = [NSBundle bundleWithPath:@"/System/Library/PrivateFrameworks/GAIA.framework"];
     BOOL success = [b load];
-    
+
     Class SKTelephonyController = NSClassFromString(@"SKTelephonyController");
     id tc = [SKTelephonyController sharedInstance];
-    
+
     NSLog(@"-- myPhoneNumber: %@", [tc myPhoneNumber]);
     NSLog(@"-- imei: %@", [tc imei]);
-    
+
 Note that many other unique identifiers can be retrieved:
 
     Class AADeviceInfo = NSClassFromString(@"AADeviceInfo");

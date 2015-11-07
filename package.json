@@ -4,6 +4,7 @@
   "description": "constructure ios header file class inherit relationship into tree structure",
   "main": "index.js",
   "scripts": {
+    "start" : "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/WJWang/iOS-Runtime-Headers/issues"
   },
-  "homepage": "https://github.com/WJWang/iOS-Runtime-Headers"
+  "homepage": "https://github.com/WJWang/iOS-Runtime-Headers",
+  "dependencies": {
+    "co": "^4.6.0",
+    "lodash": "^3.10.1",
+    "tree-structure": "0.0.7"
+  }
 }
