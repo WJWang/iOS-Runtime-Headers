@@ -1,0 +1,1 @@
+{"CoreSDB.framework":[{"child":"CSDBThreadedRecordStore","father":"NSObject"},{"child":"_CSDBThreadObject","father":"NSObject"}]}

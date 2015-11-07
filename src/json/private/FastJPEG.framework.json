@@ -1,0 +1,1 @@
+{"FastJPEG.framework":[{"child":"FJCache","father":"NSObject"},{"child":"FJCacheEntry","father":"NSObject"},{"child":"FJTile","father":"NSObject"},{"child":"FJTiledLayer","father":"CALayer"}]}

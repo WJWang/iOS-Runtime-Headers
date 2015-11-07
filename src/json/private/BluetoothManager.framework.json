@@ -1,0 +1,1 @@
+{"BluetoothManager.framework":[{"child":"BluetoothDevice","father":"NSObject"},{"child":"BluetoothManager","father":"NSObject"}]}

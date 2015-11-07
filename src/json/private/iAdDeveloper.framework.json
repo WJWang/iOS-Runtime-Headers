@@ -1,0 +1,1 @@
+{"iAdDeveloper.framework":[{"child":"ADEmbeddedAdServer","father":"NSObject"},{"child":"HTSHTTPMessage","father":"NSObject"},{"child":"HTSHTTPMessageRequest","father":"HTSHTTPMessage"},{"child":"HTSHTTPMessageResponse","father":"HTSHTTPMessage"},{"child":"HTSHTTPServer","father":"NSObject"},{"child":"HTSHTTPServerConnection","father":"NSObject"}]}

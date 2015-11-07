@@ -1,0 +1,1 @@
+{"AccountSettings.framework":[{"child":"ASRuntimeFixMailAccount","father":"NSObject"},{"child":"AccountsManager","father":"NSObject"},{"child":"BasicAccount","father":"NSObject"},{"child":"DeviceLocalAccount","father":"BasicAccount"}]}

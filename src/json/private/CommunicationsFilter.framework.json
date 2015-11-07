@@ -1,0 +1,1 @@
+{"CommunicationsFilter.framework":[{"child":"CommunicationFilterItem","father":"NSObject"},{"child":"CommunicationFilterItemCache","father":"NSObject"},{"child":"CommunicationsFilterBlockList","father":"NSObject"},{"child":"CommunicationsFilterBlockListCache","father":"NSObject"}]}

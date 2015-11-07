@@ -1,0 +1,1 @@
+{"ScreenReaderOutput.framework":[{"child":"SCROBrailleClient","father":"SCRCThreadedWeakLinkedObject"},{"child":"SCROConnection","father":"NSObject"},{"child":"SCROMobileBrailleDisplayInputManager","father":"NSObject"},{"child":"SCROMobileBrailleDisplayInputManagerCacheObject","father":"NSObject"},{"child":"SCROScriptClient","father":"NSObject"}]}

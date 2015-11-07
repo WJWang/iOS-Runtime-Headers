@@ -1,0 +1,1 @@
+{"ExFAT.framework":[{"child":"ExFATFile","father":"ExFATItem"},{"child":"ExFATFolder","father":"ExFATItem"},{"child":"ExFATItem","father":"NSObject"},{"child":"ExFATStream","father":"NSObject"},{"child":"ExFATVolume","father":"NSObject"},{"child":"UserFSBuffer","father":"NSObject"},{"child":"UserFSBufferCache","father":"NSObject"}]}

@@ -1,0 +1,1 @@
+{"AITTarget.framework":[{"child":"AITTarget","father":"NSObject"},{"child":"AITTargetObserverRecord","father":"NSObject"},{"child":"AITXPCConnection","father":"NSObject"}]}

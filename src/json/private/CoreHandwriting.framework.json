@@ -1,0 +1,1 @@
+{"CoreHandwriting.framework":[{"child":"CHDrawing","father":"NSObject"},{"child":"CHRecognitionResult","father":"NSObject"},{"child":"CHRecognizer","father":"NSObject"},{"child":"CHTextRecognitionResult","father":"CHRecognitionResult"}]}

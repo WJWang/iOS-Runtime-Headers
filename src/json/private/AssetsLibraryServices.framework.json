@@ -1,0 +1,1 @@
+{"AssetsLibraryServices.framework":[{"child":"PLGatekeeperClient","father":"NSObject"},{"child":"PLUUIDString","father":"NSString"},{"child":"PLXPCData","father":"NSData"},{"child":"PLXPCShMemData","father":"NSData"},{"child":"PLXPCTransaction","father":"NSObject"}]}

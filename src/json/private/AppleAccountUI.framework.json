@@ -1,0 +1,1 @@
+{"AppleAccountUI.framework":[{"child":"AAHighSecurityAccountAlert","father":"NSObject"},{"child":"AAUIAccountCreationRemoteUI","father":"NSObject"},{"child":"AAUIAlertView","father":"UIAlertView"},{"child":"AAUICredentialRecoveryController","father":"NSObject"}]}

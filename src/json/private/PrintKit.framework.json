@@ -1,0 +1,1 @@
+{"PrintKit.framework":[{"child":"DNSServiceRefWrapper","father":"NSObject"},{"child":"PKDefaults","father":"NSObject"},{"child":"PKJob","father":"NSObject"},{"child":"PKMediaName","father":"NSObject"},{"child":"PKPaper","father":"NSObject"},{"child":"PKPrintSettings","father":"NSObject"},{"child":"PKPrinter","father":"NSObject"},{"child":"PKPrinterBrowser","father":"NSObject"}]}

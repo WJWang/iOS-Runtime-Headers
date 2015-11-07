@@ -1,0 +1,1 @@
+{"MobileAccessoryUpdater.framework":[{"child":"FudInternalConnection","father":"NSObject"},{"child":"FudProgressWeights","father":"NSObject"},{"child":"FudXPCConnection","father":"NSObject"},{"child":"MobileAccessoryUpdater","father":"NSObject"}]}

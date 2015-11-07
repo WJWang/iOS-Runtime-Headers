@@ -1,0 +1,1 @@
+{"MMCSServices.framework":[{"child":"MMCSController","father":"NSObject"},{"child":"MMCSGetFile","father":"MMCSSimpleFile"},{"child":"MMCSPutFile","father":"MMCSSimpleFile"},{"child":"MMCSSimpleFile","father":"NSObject"}]}

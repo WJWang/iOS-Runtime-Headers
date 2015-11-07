@@ -1,0 +1,1 @@
+{"Altitude.framework":[{"child":"AltTileFetcher","father":"NSObject"},{"child":"AltitudeGEOResourceObserver","father":"NSObject"},{"child":"AltitudeNetworkRunLoop","father":"NSObject"},{"child":"PipelineJPEGDecoder","father":"NSObject"}]}

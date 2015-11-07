@@ -1,0 +1,1 @@
+{"CommonUtilities.framework":[{"child":"CUTFileCopier","father":"NSObject"},{"child":"CUTPowerAssertion","father":"NSObject"},{"child":"CUTPowerMonitor","father":"NSObject"},{"child":"CUTWeakReference","father":"NSObject"},{"child":"CUTWiFiManager","father":"NSObject"}]}

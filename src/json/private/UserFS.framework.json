@@ -1,0 +1,1 @@
+{"UserFS.framework":[{"child":"UserFSFile","father":"UserFSItem"},{"child":"UserFSFolder","father":"UserFSItem"},{"child":"UserFSItem","father":"NSObject"},{"child":"UserFSStream","father":"NSObject"},{"child":"UserFSVolume","father":"NSObject"}]}

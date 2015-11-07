@@ -1,0 +1,1 @@
+{"XPCService.framework":[{"child":"XPCServiceBundle","father":"NSObject"},{"child":"XPCServiceRuntime","father":"NSObject"}]}

@@ -1,0 +1,1 @@
+{"DataDetectorsCore.framework":[{"child":"DDCompilationNote","father":"DDLocation"},{"child":"DDLocation","father":"NSObject"},{"child":"DDScannerResult","father":"NSObject"},{"child":"DDURLMatch","father":"NSObject"},{"child":"DDURLifier","father":"NSObject"}]}

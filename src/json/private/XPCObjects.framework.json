@@ -1,0 +1,1 @@
+{"XPCObjects.framework":[{"child":"XPCDecoder","father":"NSCoder"},{"child":"XPCDetailedSignature","father":"NSObject"},{"child":"XPCEncoder","father":"NSCoder"},{"child":"XPCEndpoint","father":"NSObject"},{"child":"XPCMachSendRight","father":"NSObject"},{"child":"XPCProxy","father":"NSObject"}]}

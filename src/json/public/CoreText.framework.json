@@ -1,0 +1,1 @@
+{"CoreText.framework":[{"child":"CTGlyphStorageInterface","father":"NSObject"},{"child":"FontAssetDownloadManager","father":"NSObject"},{"child":"_CTFontFallbacksArray","father":"NSArray"},{"child":"_CTGlyphStorage","father":"NSObject"},{"child":"_CTMutableGlyphStorage","father":"_CTGlyphStorage"},{"child":"_CTNativeGlyphStorage","father":"_CTGlyphStorage"}]}
