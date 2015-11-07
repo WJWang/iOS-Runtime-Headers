@@ -1,0 +1,19 @@
+{
+  "name": "ios-inherit-tree",
+  "version": "1.0.0",
+  "description": "constructure ios header file class inherit relationship into tree structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WJWang/iOS-Runtime-Headers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WJWang/iOS-Runtime-Headers/issues"
+  },
+  "homepage": "https://github.com/WJWang/iOS-Runtime-Headers"
+}
