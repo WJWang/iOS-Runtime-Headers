@@ -1,1 +1,1 @@
-{"name":"SyncedDefaults.framework","list":[{"child":"SYDClient","father":"NSObject"},{"child":"SYDJournal","father":"NSObject"},{"child":"SYDRemotePreferencesSource","father":"NSObject"}]}
+{"name":"SyncedDefaults.framework","list":[{"father":"NSObject","childList":["SYDClient"]},{"father":"NSObject","childList":["SYDJournal"]},{"father":"NSObject","childList":["SYDRemotePreferencesSource"]}]}

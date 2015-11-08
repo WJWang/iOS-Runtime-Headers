@@ -1,1 +1,1 @@
-{"name":"AdSupport.framework","list":[{"child":"ASIdentifierManager","father":"NSObject"}]}
+{"name":"AdSupport.framework","list":[{"father":"NSObject","childList":["ASIdentifierManager"]}]}

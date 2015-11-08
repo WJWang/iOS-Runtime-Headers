@@ -1,1 +1,1 @@
-{"name":"Spotlight.framework","list":[{"child":"SPSpotlightManager","father":"NSObject"}]}
+{"name":"Spotlight.framework","list":[{"father":"NSObject","childList":["SPSpotlightManager"]}]}

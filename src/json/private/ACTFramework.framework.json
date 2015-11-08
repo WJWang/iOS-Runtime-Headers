@@ -1,1 +1,1 @@
-{"name":"ACTFramework.framework","list":[{"child":"EGLBase","father":"NSObject"},{"child":"SwingEstimator","father":"NSObject"}]}
+{"name":"ACTFramework.framework","list":[{"father":"NSObject","childList":["EGLBase"]},{"father":"NSObject","childList":["SwingEstimator"]}]}

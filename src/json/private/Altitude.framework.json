@@ -1,1 +1,1 @@
-{"name":"Altitude.framework","list":[{"child":"AltTileFetcher","father":"NSObject"},{"child":"AltitudeGEOResourceObserver","father":"NSObject"},{"child":"AltitudeNetworkRunLoop","father":"NSObject"},{"child":"PipelineJPEGDecoder","father":"NSObject"}]}
+{"name":"Altitude.framework","list":[{"father":"NSObject","childList":["AltTileFetcher"]},{"father":"NSObject","childList":["AltitudeGEOResourceObserver"]},{"father":"NSObject","childList":["AltitudeNetworkRunLoop"]},{"father":"NSObject","childList":["PipelineJPEGDecoder"]}]}

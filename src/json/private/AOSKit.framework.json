@@ -1,1 +1,1 @@
-{"name":"AOSKit.framework","list":[{"child":"AOSContext","father":"NSObject"},{"child":"AOSThreadManager","father":"NSObject"},{"child":"AOSTransaction","father":"NSObject"}]}
+{"name":"AOSKit.framework","list":[{"father":"NSObject","childList":["AOSContext"]},{"father":"NSObject","childList":["AOSThreadManager"]},{"father":"NSObject","childList":["AOSTransaction"]}]}

@@ -24,8 +24,8 @@ Utilities.getFrameworkInherit = function(dirPath, frameWorkName, cb) {
           return str.trim();
         });
         return ({
-          child : tmp[0],
           father : tmp[1],
+          childList : [tmp[0]]
         });
       }
     });

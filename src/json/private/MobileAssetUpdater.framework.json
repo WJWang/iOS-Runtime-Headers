@@ -1,1 +1,1 @@
-{"name":"MobileAssetUpdater.framework","list":[{"child":"MobileAssetUpdater","father":"NSObject"}]}
+{"name":"MobileAssetUpdater.framework","list":[{"father":"NSObject","childList":["MobileAssetUpdater"]}]}

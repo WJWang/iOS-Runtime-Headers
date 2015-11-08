@@ -1,1 +1,1 @@
-{"name":"iOSDiagnosticsSupport.framework","list":[{"child":"MBSDevice","father":"NSObject"}]}
+{"name":"iOSDiagnosticsSupport.framework","list":[{"father":"NSObject","childList":["MBSDevice"]}]}

@@ -1,1 +1,1 @@
-{"name":"IMTranscoding.framework","list":[{"child":"IMTranscodeController","father":"NSObject"}]}
+{"name":"IMTranscoding.framework","list":[{"father":"NSObject","childList":["IMTranscodeController"]}]}

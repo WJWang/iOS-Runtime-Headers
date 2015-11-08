@@ -1,1 +1,1 @@
-{"name":"MobileSoftwareUpdate.framework","list":[{"child":"MSUUpdateBrainAssetLoader","father":"NSObject"}]}
+{"name":"MobileSoftwareUpdate.framework","list":[{"father":"NSObject","childList":["MSUUpdateBrainAssetLoader"]}]}

@@ -1,1 +1,1 @@
-{"name":"WirelessDiagnostics.framework","list":[{"child":"AWDMetricContainer","father":"NSObject"},{"child":"AWDServerConnection","father":"NSObject"}]}
+{"name":"WirelessDiagnostics.framework","list":[{"father":"NSObject","childList":["AWDMetricContainer"]},{"father":"NSObject","childList":["AWDServerConnection"]}]}

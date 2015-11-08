@@ -1,1 +1,1 @@
-{"name":"CoreUtils.framework","list":[{"child":"CAAnimationDelegateBlockHelper","father":"NSObject"}]}
+{"name":"CoreUtils.framework","list":[{"father":"NSObject","childList":["CAAnimationDelegateBlockHelper"]}]}

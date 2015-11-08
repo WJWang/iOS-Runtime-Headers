@@ -1,1 +1,1 @@
-{"name":"MobileAsset.framework","list":[{"child":"ASAsset","father":"NSObject"},{"child":"ASAssetQuery","father":"NSObject"}]}
+{"name":"MobileAsset.framework","list":[{"father":"NSObject","childList":["ASAsset"]},{"father":"NSObject","childList":["ASAssetQuery"]}]}

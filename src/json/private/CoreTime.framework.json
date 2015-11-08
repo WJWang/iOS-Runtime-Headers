@@ -1,1 +1,1 @@
-{"name":"CoreTime.framework","list":[{"child":"_TMBlockDebugger","father":"NSObject"}]}
+{"name":"CoreTime.framework","list":[{"father":"NSObject","childList":["_TMBlockDebugger"]}]}

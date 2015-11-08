@@ -1,1 +1,1 @@
-{"name":"EAFirmwareUpdater.framework","list":[{"child":"EAFirmwareUpdater","father":"MobileAssetUpdater"},{"child":"FirmwareBundle","father":"NSObject"},{"child":"iAUPServer","father":"NSObject"}]}
+{"name":"EAFirmwareUpdater.framework","list":[{"father":"MobileAssetUpdater","childList":["EAFirmwareUpdater"]},{"father":"NSObject","childList":["FirmwareBundle"]},{"father":"NSObject","childList":["iAUPServer"]}]}

@@ -1,1 +1,1 @@
-{"name":"CloudServices.framework","list":[{"child":"CloudServices","father":"NSObject"},{"child":"CloudServicesError","father":"NSObject"},{"child":"SecureBackup","father":"NSObject"}]}
+{"name":"CloudServices.framework","list":[{"father":"NSObject","childList":["CloudServices"]},{"father":"NSObject","childList":["CloudServicesError"]},{"father":"NSObject","childList":["SecureBackup"]}]}

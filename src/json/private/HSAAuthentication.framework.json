@@ -1,1 +1,1 @@
-{"name":"HSAAuthentication.framework","list":[{"child":"HSAAuthenticationServer","father":"NSObject"}]}
+{"name":"HSAAuthentication.framework","list":[{"father":"NSObject","childList":["HSAAuthenticationServer"]}]}

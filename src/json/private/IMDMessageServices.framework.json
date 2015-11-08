@@ -1,1 +1,1 @@
-{"name":"IMDMessageServices.framework","list":[{"child":"IMDMessageServicesCenter","father":"NSObject"}]}
+{"name":"IMDMessageServices.framework","list":[{"father":"NSObject","childList":["IMDMessageServicesCenter"]}]}

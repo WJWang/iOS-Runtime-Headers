@@ -1,1 +1,1 @@
-{"name":"SoftwareBehaviorServices.framework","list":[{"child":"SBManagerClient","father":"NSObject"},{"child":"SBManagerClientCache","father":"NSObject"}]}
+{"name":"SoftwareBehaviorServices.framework","list":[{"father":"NSObject","childList":["SBManagerClient"]},{"father":"NSObject","childList":["SBManagerClientCache"]}]}

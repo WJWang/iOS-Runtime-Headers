@@ -1,1 +1,1 @@
-{"name":"GraphicsServices.framework","list":[{"child":"_UIFontExtraData","father":"NSObject"}]}
+{"name":"GraphicsServices.framework","list":[{"father":"NSObject","childList":["_UIFontExtraData"]}]}

@@ -1,1 +1,1 @@
-{"name":"NewsstandKit.framework","list":[{"child":"NKAssetDownload","father":"NSObject"},{"child":"NKIssue","father":"NSObject"},{"child":"NKLibrary","father":"NSObject"}]}
+{"name":"NewsstandKit.framework","list":[{"father":"NSObject","childList":["NKAssetDownload"]},{"father":"NSObject","childList":["NKIssue"]},{"father":"NSObject","childList":["NKLibrary"]}]}

@@ -1,1 +1,1 @@
-{"name":"IMTransferServices.framework","list":[{"child":"IMTransferServicesController","father":"NSObject"}]}
+{"name":"IMTransferServices.framework","list":[{"father":"NSObject","childList":["IMTransferServicesController"]}]}

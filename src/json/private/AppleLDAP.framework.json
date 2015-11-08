@@ -1,1 +1,1 @@
-{"name":"AppleLDAP.framework","list":[{"child":"OS_ldap_connection","father":"OS_object"},{"child":"OS_ldap_operation","father":"OS_object"}]}
+{"name":"AppleLDAP.framework","list":[{"father":"OS_object","childList":["OS_ldap_connection"]},{"father":"OS_object","childList":["OS_ldap_operation"]}]}

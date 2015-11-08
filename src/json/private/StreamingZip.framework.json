@@ -1,1 +1,1 @@
-{"name":"StreamingZip.framework","list":[{"child":"SZExtractor","father":"NSObject"},{"child":"StreamingUnzipState","father":"NSObject"},{"child":"StreamingUnzipper","father":"NSObject"}]}
+{"name":"StreamingZip.framework","list":[{"father":"NSObject","childList":["SZExtractor"]},{"father":"NSObject","childList":["StreamingUnzipState"]},{"father":"NSObject","childList":["StreamingUnzipper"]}]}

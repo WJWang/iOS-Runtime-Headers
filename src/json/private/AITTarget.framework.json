@@ -1,1 +1,1 @@
-{"name":"AITTarget.framework","list":[{"child":"AITTarget","father":"NSObject"},{"child":"AITTargetObserverRecord","father":"NSObject"},{"child":"AITXPCConnection","father":"NSObject"}]}
+{"name":"AITTarget.framework","list":[{"father":"NSObject","childList":["AITTarget"]},{"father":"NSObject","childList":["AITTargetObserverRecord"]},{"father":"NSObject","childList":["AITXPCConnection"]}]}

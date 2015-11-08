@@ -1,1 +1,1 @@
-{"name":"FastJPEG.framework","list":[{"child":"FJCache","father":"NSObject"},{"child":"FJCacheEntry","father":"NSObject"},{"child":"FJTile","father":"NSObject"},{"child":"FJTiledLayer","father":"CALayer"}]}
+{"name":"FastJPEG.framework","list":[{"father":"NSObject","childList":["FJCache"]},{"father":"NSObject","childList":["FJCacheEntry"]},{"father":"NSObject","childList":["FJTile"]},{"father":"CALayer","childList":["FJTiledLayer"]}]}

@@ -1,1 +1,1 @@
-{"name":"AccountSettings.framework","list":[{"child":"ASRuntimeFixMailAccount","father":"NSObject"},{"child":"AccountsManager","father":"NSObject"},{"child":"BasicAccount","father":"NSObject"},{"child":"DeviceLocalAccount","father":"BasicAccount"}]}
+{"name":"AccountSettings.framework","list":[{"father":"NSObject","childList":["ASRuntimeFixMailAccount"]},{"father":"NSObject","childList":["AccountsManager"]},{"father":"NSObject","childList":["BasicAccount"]},{"father":"BasicAccount","childList":["DeviceLocalAccount"]}]}

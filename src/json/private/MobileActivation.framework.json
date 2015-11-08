@@ -1,1 +1,1 @@
-{"name":"MobileActivation.framework","list":[{"child":"MobileActivationNSXMLParserDelegate","father":"NSObject"}]}
+{"name":"MobileActivation.framework","list":[{"father":"NSObject","childList":["MobileActivationNSXMLParserDelegate"]}]}

@@ -1,1 +1,1 @@
-{"name":"XPCService.framework","list":[{"child":"XPCServiceBundle","father":"NSObject"},{"child":"XPCServiceRuntime","father":"NSObject"}]}
+{"name":"XPCService.framework","list":[{"father":"NSObject","childList":["XPCServiceBundle"]},{"father":"NSObject","childList":["XPCServiceRuntime"]}]}

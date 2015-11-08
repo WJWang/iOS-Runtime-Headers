@@ -1,1 +1,1 @@
-{"name":"CoreHandwriting.framework","list":[{"child":"CHDrawing","father":"NSObject"},{"child":"CHRecognitionResult","father":"NSObject"},{"child":"CHRecognizer","father":"NSObject"},{"child":"CHTextRecognitionResult","father":"CHRecognitionResult"}]}
+{"name":"CoreHandwriting.framework","list":[{"father":"NSObject","childList":["CHDrawing"]},{"father":"NSObject","childList":["CHRecognitionResult"]},{"father":"NSObject","childList":["CHRecognizer"]},{"father":"CHRecognitionResult","childList":["CHTextRecognitionResult"]}]}

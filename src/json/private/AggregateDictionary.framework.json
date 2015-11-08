@@ -1,1 +1,1 @@
-{"name":"AggregateDictionary.framework","list":[{"child":"ADDataStore","father":"NSObject"}]}
+{"name":"AggregateDictionary.framework","list":[{"father":"NSObject","childList":["ADDataStore"]}]}
