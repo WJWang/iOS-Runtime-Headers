@@ -1,1 +1,1 @@
-{"MediaControlSender.framework":[{"child":"AirPlayController","father":"NSObject"},{"child":"AirPlayRemoteSlideshow","father":"NSObject"},{"child":"MediaControlClient","father":"NSObject"}]}
+{"name":"MediaControlSender.framework","list":[{"child":"AirPlayController","father":"NSObject"},{"child":"AirPlayRemoteSlideshow","father":"NSObject"},{"child":"MediaControlClient","father":"NSObject"}]}

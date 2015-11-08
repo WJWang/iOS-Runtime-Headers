@@ -1,1 +1,1 @@
-{"MediaRemote.framework":[{"child":"MRMediaRemoteState","father":"NSObject"}]}
+{"name":"MediaRemote.framework","list":[{"child":"MRMediaRemoteState","father":"NSObject"}]}

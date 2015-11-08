@@ -1,1 +1,1 @@
-{"Twitter.framework":[{"child":"TWRequest","father":"NSObject"},{"child":"TWTweetComposeViewController","father":"UIViewController"}]}
+{"name":"Twitter.framework","list":[{"child":"TWRequest","father":"NSObject"},{"child":"TWTweetComposeViewController","father":"UIViewController"}]}

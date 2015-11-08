@@ -1,1 +1,1 @@
-{"Librarian.framework":[{"child":"LBFSEventsWatcher","father":"NSObject"},{"child":"LBItem","father":"NSObject"},{"child":"LBQuery","father":"NSObject"},{"child":"_LBFSMessage","father":"NSObject"}]}
+{"name":"Librarian.framework","list":[{"child":"LBFSEventsWatcher","father":"NSObject"},{"child":"LBItem","father":"NSObject"},{"child":"LBQuery","father":"NSObject"},{"child":"_LBFSMessage","father":"NSObject"}]}

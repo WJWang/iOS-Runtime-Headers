@@ -1,1 +1,1 @@
-{"IMDPersistence.framework":[{"child":"IMDPersistentAttachmentController","father":"NSObject"}]}
+{"name":"IMDPersistence.framework","list":[{"child":"IMDPersistentAttachmentController","father":"NSObject"}]}

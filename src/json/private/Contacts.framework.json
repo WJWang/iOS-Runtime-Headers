@@ -1,1 +1,1 @@
-{"Contacts.framework":[{"child":"CNContactIdentifier","father":"NSObject"},{"child":"CNContactStore","father":"NSObject"},{"child":"CNMutablePhoneNumber","father":"CNPhoneNumber"},{"child":"CNUuidIdentifierProvider","father":"NSObject"}]}
+{"name":"Contacts.framework","list":[{"child":"CNContactIdentifier","father":"NSObject"},{"child":"CNContactStore","father":"NSObject"},{"child":"CNMutablePhoneNumber","father":"CNPhoneNumber"},{"child":"CNUuidIdentifierProvider","father":"NSObject"}]}

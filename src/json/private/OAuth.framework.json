@@ -1,1 +1,1 @@
-{"OAuth.framework":[{"child":"OACredential","father":"NSObject"},{"child":"OAHMAC_SHA1Signer","father":"NSObject"},{"child":"OAPlainTextSigner","father":"NSObject"},{"child":"OAURLRequestSigner","father":"NSObject"}]}
+{"name":"OAuth.framework","list":[{"child":"OACredential","father":"NSObject"},{"child":"OAHMAC_SHA1Signer","father":"NSObject"},{"child":"OAPlainTextSigner","father":"NSObject"},{"child":"OAURLRequestSigner","father":"NSObject"}]}

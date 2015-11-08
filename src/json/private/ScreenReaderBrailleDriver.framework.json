@@ -1,1 +1,1 @@
-{"ScreenReaderBrailleDriver.framework":[{"child":"SCRDFileReader","father":"NSObject"},{"child":"SCRDKGSPacket","father":"NSObject"},{"child":"SCRDUSBDevice","father":"NSObject"}]}
+{"name":"ScreenReaderBrailleDriver.framework","list":[{"child":"SCRDFileReader","father":"NSObject"},{"child":"SCRDKGSPacket","father":"NSObject"},{"child":"SCRDUSBDevice","father":"NSObject"}]}

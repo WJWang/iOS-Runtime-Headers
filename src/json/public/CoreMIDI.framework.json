@@ -1,1 +1,1 @@
-{"CoreMIDI.framework":[{"child":"MIDINetworkConnection","father":"NSObject"},{"child":"MIDINetworkHost","father":"NSObject"},{"child":"MIDINetworkSession","father":"NSObject"}]}
+{"name":"CoreMIDI.framework","list":[{"child":"MIDINetworkConnection","father":"NSObject"},{"child":"MIDINetworkHost","father":"NSObject"},{"child":"MIDINetworkSession","father":"NSObject"}]}

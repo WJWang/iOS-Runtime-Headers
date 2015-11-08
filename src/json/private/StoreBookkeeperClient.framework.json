@@ -1,1 +1,1 @@
-{"StoreBookkeeperClient.framework":[{"child":"SBCPlaybackPositionServiceInterface","father":"NSObject"},{"child":"SBCPlaybackPositionServiceProxy","father":"SBCXPCServiceProxy"},{"child":"SBCXPCServiceProxy","father":"NSObject"}]}
+{"name":"StoreBookkeeperClient.framework","list":[{"child":"SBCPlaybackPositionServiceInterface","father":"NSObject"},{"child":"SBCPlaybackPositionServiceProxy","father":"SBCXPCServiceProxy"},{"child":"SBCXPCServiceProxy","father":"NSObject"}]}

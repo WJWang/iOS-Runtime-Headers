@@ -1,1 +1,1 @@
-{"AccessibilityUI.framework":[{"child":"AXUIClient","father":"NSObject"},{"child":"AXUIClientConnection","father":"NSObject"}]}
+{"name":"AccessibilityUI.framework","list":[{"child":"AXUIClient","father":"NSObject"},{"child":"AXUIClientConnection","father":"NSObject"}]}

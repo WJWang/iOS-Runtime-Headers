@@ -29,9 +29,11 @@ Utilities.getFrameworkInherit = function(dirPath, frameWorkName, cb) {
         });
       }
     });
-    var obj = {};
-    obj[frameWorkName] = list;
-    cb(obj);
+
+    cb({
+      name : frameWorkName,
+      list : list
+    });
   });
 
 };

@@ -1,1 +1,1 @@
-{"IncomingCallFilter.framework":[{"child":"ICFCallServer","father":"NSObject"}]}
+{"name":"IncomingCallFilter.framework","list":[{"child":"ICFCallServer","father":"NSObject"}]}

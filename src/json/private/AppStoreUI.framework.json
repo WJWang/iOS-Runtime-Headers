@@ -1,1 +1,1 @@
-{"AppStoreUI.framework":[{"child":"ASClientController","father":"SUClientController"},{"child":"ASPurchaseBatch","father":"SUPurchaseBatch"},{"child":"ASViewControllerFactory","father":"SUViewControllerFactory"}]}
+{"name":"AppStoreUI.framework","list":[{"child":"ASClientController","father":"SUClientController"},{"child":"ASPurchaseBatch","father":"SUPurchaseBatch"},{"child":"ASViewControllerFactory","father":"SUViewControllerFactory"}]}

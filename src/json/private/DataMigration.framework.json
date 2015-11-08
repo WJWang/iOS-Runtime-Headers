@@ -1,1 +1,1 @@
-{"DataMigration.framework":[{"child":"DMConnection","father":"DMXPCConnection"},{"child":"DMXPCConnection","father":"NSObject"},{"child":"DataClassMigrator","father":"NSObject"}]}
+{"name":"DataMigration.framework","list":[{"child":"DMConnection","father":"DMXPCConnection"},{"child":"DMXPCConnection","father":"NSObject"},{"child":"DataClassMigrator","father":"NSObject"}]}

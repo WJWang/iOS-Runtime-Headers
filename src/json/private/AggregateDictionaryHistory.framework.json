@@ -1,1 +1,1 @@
-{"AggregateDictionaryHistory.framework":[{"child":"ADHistory","father":"NSObject"},{"child":"ADHistoryDistributionEnumerator","father":"NSObject"}]}
+{"name":"AggregateDictionaryHistory.framework","list":[{"child":"ADHistory","father":"NSObject"},{"child":"ADHistoryDistributionEnumerator","father":"NSObject"}]}

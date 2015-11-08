@@ -1,1 +1,1 @@
-{"WiFiCloudSyncEngine.framework":[{"child":"WiFiCloudSyncEngineCore","father":"NSObject"},{"child":"WiFiCloudSyncEngineLogger","father":"NSObject"}]}
+{"name":"WiFiCloudSyncEngine.framework","list":[{"child":"WiFiCloudSyncEngineCore","father":"NSObject"},{"child":"WiFiCloudSyncEngineLogger","father":"NSObject"}]}
