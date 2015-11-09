@@ -1,1 +1,43 @@
-{"name":"XPCKit.framework","list":[{"father":"NSObject","childList":["XPCClientConnection"]},{"father":"NSObject","childList":["XPCNSClientConnection"]},{"father":"NSObject","childList":["XPCNSRequest"]},{"father":"NSObject","childList":["XPCNSServiceConnection"]},{"father":"NSObject","childList":["XPCNSServiceListener"]},{"father":"NSObject","childList":["XPCRequest"]},{"father":"NSObject","childList":["XPCServiceConnection"]},{"father":"NSObject","childList":["XPCServiceListener"]}]}
+{
+  "name": "XPCKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "XPCClientConnection",
+          "children": []
+        },
+        {
+          "name": "XPCNSClientConnection",
+          "children": []
+        },
+        {
+          "name": "XPCNSRequest",
+          "children": []
+        },
+        {
+          "name": "XPCNSServiceConnection",
+          "children": []
+        },
+        {
+          "name": "XPCNSServiceListener",
+          "children": []
+        },
+        {
+          "name": "XPCRequest",
+          "children": []
+        },
+        {
+          "name": "XPCServiceConnection",
+          "children": []
+        },
+        {
+          "name": "XPCServiceListener",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"name":"MobileBackup.framework","list":[{"father":"NSObject","childList":["MBAggregateDictionary"]},{"father":"NSObject","childList":["MBApp"]},{"father":"NSObject","childList":["MBAppManager"]},{"father":"NSObject","childList":["MBBackup"]},{"father":"NSObject","childList":["MBConnection"]},{"father":"NSObject","childList":["MBDebugContext"]},{"father":"NSObject","childList":["MBDigest"]},{"father":"MBDigest","childList":["MBDigestSHA1"]},{"father":"NSObject","childList":["MBDomain"]},{"father":"NSObject","childList":["MBDomainInfo"]},{"father":"NSObject","childList":["MBEngine"]},{"father":"NSObject","childList":["MBError"]},{"father":"NSException","childList":["MBException"]},{"father":"NSObject","childList":["MBFileInfo"]},{"father":"NSObject","childList":["MBFileManager"]},{"father":"NSObject","childList":["MBFileManagerDelegate"]},{"father":"NSObject","childList":["MBManager"]},{"father":"MBManager","childList":["MBManagerClient"]},{"father":"NSObject","childList":["MBMessage"]},{"father":"NSObject","childList":["MBProperties"]},{"father":"NSObject","childList":["MBRestoreFailure"]},{"father":"NSObject","childList":["MBRestoreInfo"]},{"father":"NSObject","childList":["MBSnapshot"]},{"father":"NSObject","childList":["MBStateInfo"]}]}
+{
+  "name": "MobileBackup.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MBMessage",
+          "children": []
+        },
+        {
+          "name": "MBProperties",
+          "children": []
+        },
+        {
+          "name": "MBRestoreFailure",
+          "children": []
+        },
+        {
+          "name": "MBRestoreInfo",
+          "children": []
+        },
+        {
+          "name": "MBSnapshot",
+          "children": []
+        },
+        {
+          "name": "MBStateInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MBManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "MBManagerClient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSException",
+      "parent": null,
+      "children": [
+        {
+          "name": "MBException",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MBDigest",
+      "parent": null,
+      "children": [
+        {
+          "name": "MBDigestSHA1",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

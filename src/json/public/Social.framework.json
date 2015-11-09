@@ -1,1 +1,259 @@
-{"name":"Social.framework","list":[{"father":"NSObject","childList":["SLAbsintheSigningSession"]},{"father":"NSObject","childList":["SLAggregateLogger"]},{"father":"NSObject","childList":["SLAssetDataProvider"]},{"father":"NSObject","childList":["SLAttachment"]},{"father":"SLRequest","childList":["SLBatchRequest"]},{"father":"UIViewController","childList":["SLComposeServiceViewController"]},{"father":"UIViewController","childList":["SLComposeViewController"]},{"father":"NSObject","childList":["SLDatabase"]},{"father":"NSObject","childList":["SLFacebookAlbum"]},{"father":"UITableViewController","childList":["SLFacebookAlbumChooserViewController"]},{"father":"NSObject","childList":["SLFacebookAlbumManager"]},{"father":"UITableViewCell","childList":["SLFacebookAlbumTableViewCell"]},{"father":"UIButton","childList":["SLFacebookAudienceButton"]},{"father":"UITableViewController","childList":["SLFacebookAudienceTableViewController"]},{"father":"SLFacebookRequest","childList":["SLFacebookAuthorizationRequest"]},{"father":"SLFacebookResponse","childList":["SLFacebookBatchResponse"]},{"father":"SLComposeServiceViewController","childList":["SLFacebookComposeViewController"]},{"father":"NSObject","childList":["SLFacebookFriendList"]},{"father":"NSObject","childList":["SLFacebookGraphUtils"]},{"father":"UITableViewCell","childList":["SLFacebookLoginInfoCell"]},{"father":"UIView","childList":["SLFacebookLoginInfoCellContentView"]},{"father":"UIView","childList":["SLFacebookLoginInfoFooter"]},{"father":"UITableViewController","childList":["SLFacebookLoginInfoViewController"]},{"father":"SLFacebookRequest","childList":["SLFacebookLoginRequest"]},{"father":"SLFacebookRequest","childList":["SLFacebookPermissionDescriptionRequest"]},{"father":"SLPlace","childList":["SLFacebookPlace"]},{"father":"NSObject","childList":["SLFacebookPlaceManager"]},{"father":"NSObject","childList":["SLFacebookPost"]},{"father":"NSObject","childList":["SLFacebookPostPrivacyCategory"]},{"father":"NSObject","childList":["SLFacebookPostPrivacyManager"]},{"father":"NSObject","childList":["SLFacebookPostPrivacySetting"]},{"father":"NSObject","childList":["SLFacebookRegistrationInfo"]},{"father":"SLFacebookRequest","childList":["SLFacebookRegistrationRequest"]},{"father":"SLFacebookRequest","childList":["SLFacebookRenewTokenRequest"]},{"father":"SLRequest","childList":["SLFacebookRequest"]},{"father":"NSObject","childList":["SLFacebookResponse"]},{"father":"NSObject","childList":["SLFacebookSession"]},{"father":"NSObject","childList":["SLFacebookUpload"]},{"father":"UITableViewController","childList":["SLFacebookVideoOptionsViewController"]},{"father":"SLService","childList":["SLFlickrService"]},{"father":"NSObject","childList":["SLGuaranteedRemoteCall"]},{"father":"SLAttachment","childList":["SLImageAttachment"]},{"father":"NSObject","childList":["SLImageDownsampling"]},{"father":"SLRequest","childList":["SLInternalTencentWeiboRequest"]},{"father":"NSObject","childList":["SLLastAccountManager"]},{"father":"NSManagedObject","childList":["SLManagedObject"]},{"father":"UITableViewController","childList":["SLMicroBlogAccountsTableViewController"]},{"father":"UIView","childList":["SLMicroBlogActiveAccountView"]},{"father":"SLComposeServiceViewController","childList":["SLMicroBlogComposeViewController"]},{"father":"UIViewController","childList":["SLMicroBlogMentionsViewController"]},{"father":"NSObject","childList":["SLMicroBlogStatus"]},{"father":"NSObject","childList":["SLMicroBlogUserRecord"]},{"father":"NSObject","childList":["SLNetworkReachabilityWarning"]},{"father":"NSObject","childList":["SLOpenGraphNode"]},{"father":"NSObject","childList":["SLPlace"]},{"father":"_UIRemoteViewController","childList":["SLRemoteComposeViewController"]},{"father":"SLService","childList":["SLRemoteService"]},{"father":"NSObject","childList":["SLRemoteServicePlistLoader"]},{"father":"NSObject","childList":["SLRemoteSession"]},{"father":"NSObject","childList":["SLRemoteSessionProxy"]},{"father":"NSObject","childList":["SLRequest"]},{"father":"NSInputStream","childList":["SLRequestBodyInputStream"]},{"father":"NSObject","childList":["SLRequestMultiPart"]},{"father":"NSInputStream","childList":["SLRequestMultiPartInputStream"]},{"father":"NSObject","childList":["SLSafeLocationManagerDelegate"]},{"father":"NSObject","childList":["SLService"]},{"father":"NSObject","childList":["SLServiceListener"]},{"father":"NSObject","childList":["SLSheetAction"]},{"father":"SLSheetImagePreviewView","childList":["SLSheetAppIconImageView"]},{"father":"SLSheetImagePreviewView","childList":["SLSheetBevelledImageView"]},{"father":"UIViewController","childList":["SLSheetContainerViewController"]},{"father":"UIView","childList":["SLSheetContentView"]},{"father":"UIView","childList":["SLSheetImagePreviewView"]},{"father":"CALayer","childList":["SLSheetMasklayer"]},{"father":"SLSheetImagePreviewView","childList":["SLSheetMusicAlbumImageView"]},{"father":"UINavigationController","childList":["SLSheetNavigationController"]},{"father":"SLSheetImagePreviewView","childList":["SLSheetPhotoAlbumImageView"]},{"father":"NSObject","childList":["SLSheetPlaceSearchController"]},{"father":"UIViewController","childList":["SLSheetPlaceViewController"]},{"father":"SLSheetImagePreviewView","childList":["SLSheetPreComposedAppIconImageView"]},{"father":"NSObject","childList":["SLSheetPreviewImageSource"]},{"father":"UIViewController","childList":["SLSheetRootViewController"]},{"father":"UIView","childList":["SLSheetTextComposeView"]},{"father":"UIView","childList":["SLSheetTitleView"]},{"father":"SLSheetImagePreviewView","childList":["SLSheetURLPreviewView"]},{"father":"SLSheetImagePreviewView","childList":["SLSheetVideoPreviewView"]},{"father":"NSObject","childList":["SLSystemConfigManager"]},{"father":"SLMicroBlogComposeViewController","childList":["SLTencentWeiboComposeViewController"]},{"father":"NSObject","childList":["SLTencentWeiboServerInterface"]},{"father":"NSObject","childList":["SLTencentWeiboSession"]},{"father":"SLMicroBlogUserRecord","childList":["SLTencentWeiboUserRecord"]},{"father":"SLService","childList":["SLTudouService"]},{"father":"UIView","childList":["SLTwitterBevelledImageView"]},{"father":"SLMicroBlogComposeViewController","childList":["SLTwitterComposeViewController"]},{"father":"UIButton","childList":["SLTwitterExpandedHitTestButton"]},{"father":"UIImageView","childList":["SLTwitterExpandedHitTestImageView"]},{"father":"UIView","childList":["SLTwitterExpandedHitTestView"]},{"father":"UIView","childList":["SLTwitterMentionImageView"]},{"father":"NSObject","childList":["SLTwitterRequest"]},{"father":"NSObject","childList":["SLTwitterRequestMultiPart"]},{"father":"NSObject","childList":["SLTwitterReverseAuthRequest"]},{"father":"UISearchBar","childList":["SLTwitterSearchBar"]},{"father":"NSObject","childList":["SLTwitterSession"]},{"father":"SLMicroBlogUserRecord","childList":["SLTwitterUserRecord"]},{"father":"SLAttachment","childList":["SLURLAttachment"]},{"father":"NSObject","childList":["SLURLPreviewGenerator"]},{"father":"SLAttachment","childList":["SLVideoAttachment"]},{"father":"NSObject","childList":["SLVideoQualityOption"]},{"father":"SLService","childList":["SLVimeoService"]},{"father":"UIView","childList":["SLWeiboBeveledImageView"]},{"father":"SLMicroBlogComposeViewController","childList":["SLWeiboComposeViewController"]},{"father":"NSObject","childList":["SLWeiboServerInterface"]},{"father":"NSObject","childList":["SLWeiboSession"]},{"father":"SLMicroBlogUserRecord","childList":["SLWeiboUserRecord"]},{"father":"SLService","childList":["SLYoukuService"]},{"father":"NSObject","childList":["WECoreSig1Signer"]},{"father":"CALayer","childList":["_SLSheetMaskLayer"]}]}
+{
+  "name": "Social.framework",
+  "list": [
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SLSheetMaskLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WECoreSig1Signer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLService",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLYoukuService",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLMicroBlogUserRecord",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLWeiboUserRecord",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLMicroBlogComposeViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLWeiboComposeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLWeiboBeveledImageView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLAttachment",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLURLAttachment",
+          "children": []
+        },
+        {
+          "name": "SLVideoAttachment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISearchBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLTwitterSearchBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLTwitterExpandedHitTestImageView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLTwitterExpandedHitTestButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLSheetImagePreviewView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLSheetURLPreviewView",
+          "children": []
+        },
+        {
+          "name": "SLSheetVideoPreviewView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLSheetPlaceViewController",
+          "children": []
+        },
+        {
+          "name": "SLSheetRootViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLSheetNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSInputStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLRequestBodyInputStream",
+          "children": []
+        },
+        {
+          "name": "SLRequestMultiPartInputStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLRemoteComposeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLComposeServiceViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLMicroBlogComposeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLMicroBlogAccountsTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLManagedObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLFacebookRequest",
+          "children": []
+        },
+        {
+          "name": "SLInternalTencentWeiboRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLFacebookRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLFacebookRegistrationRequest",
+          "children": []
+        },
+        {
+          "name": "SLFacebookRenewTokenRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLPlace",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLFacebookPlace",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLFacebookLoginInfoCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLFacebookResponse",
+      "parent": null,
+      "children": [
+        {
+          "name": "SLFacebookBatchResponse",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

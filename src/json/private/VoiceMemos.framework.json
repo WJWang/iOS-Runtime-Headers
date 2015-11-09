@@ -1,1 +1,195 @@
-{"name":"VoiceMemos.framework","list":[{"father":"AVController","childList":["RCAVController"]},{"father":"AVItem","childList":["RCAVItem"]},{"father":"NSObject","childList":["RCAVPreviewController"]},{"father":"UIView","childList":["RCAcousticAnnotationView"]},{"father":"NSObject","childList":["RCActionSheetPresentationController"]},{"father":"NSObject","childList":["RCAudioFileWaveformDataSource"]},{"father":"NSObject","childList":["RCAudioInputDevice"]},{"father":"NSObject","childList":["RCAudioInputWaveformDataSource"]},{"father":"UIBarButtonItem","childList":["RCAudioRouteBarButtonItem"]},{"father":"NSObject","childList":["RCAudioRouteController"]},{"father":"NSObject","childList":["RCCaptureAudioFileOutput"]},{"father":"UIView","childList":["RCChronologicalAnnotationView"]},{"father":"UIView","childList":["RCControlsView"]},{"father":"_UIRemoteViewController","childList":["RCCurrentRecordingRemoteViewController"]},{"father":"UIViewController","childList":["RCCurrentRecordingServiceViewController"]},{"father":"UIViewController","childList":["RCCurrentRecordingViewController"]},{"father":"UIViewController","childList":["RCGLWaveformRenderer"]},{"father":"UIViewController","childList":["RCGLWaveformViewController"]},{"father":"RCMemoPlaybackViewController","childList":["RCLockScreenViewController"]},{"father":"UIViewController","childList":["RCMemoPlaybackViewController"]},{"father":"RCWaveform","childList":["RCMutableWaveform"]},{"father":"CALayer","childList":["RCOverlayBarLayer"]},{"father":"RCMemoPlaybackViewController","childList":["RCPlayMemoViewController"]},{"father":"RCMemoPlaybackViewController","childList":["RCRecordMemoViewController"]},{"father":"UIButton","childList":["RCRecorderStateButton"]},{"father":"NSManagedObject","childList":["RCSavedRecording"]},{"father":"NSObject","childList":["RCSavedRecordingAssetRemaker"]},{"father":"RCAVPreviewController","childList":["RCSavedRecordingPreviewController"]},{"father":"NSOperation","childList":["RCSavedRecordingTrimOperation"]},{"father":"NSObject","childList":["RCSavedRecordingsModel"]},{"father":"NSObject","childList":["RCSelectionTouchTrackingInfo"]},{"father":"UIActivityViewController","childList":["RCShareMemoViewController"]},{"father":"NSObject","childList":["RCTelephonyController"]},{"father":"CALayer","childList":["RCTextLayer"]},{"father":"UIView","childList":["RCTrimBezel"]},{"father":"UIControl","childList":["RCTrimControl"]},{"father":"NSObject","childList":["RCTrimController"]},{"father":"UIView","childList":["RCTrimHUD"]},{"father":"NSObject","childList":["RCWaveform"]},{"father":"NSObject","childList":["RCWaveformGenerator"]},{"father":"NSOperation","childList":["RCWaveformRasterizationOperation"]},{"father":"NSObject","childList":["RCWaveformSegment"]},{"father":"UIView","childList":["RCWaveformSelectionOverlay"]},{"father":"RCWeakRef","childList":["RCWeakProxyRef"]},{"father":"NSObject","childList":["RCWeakRef"]}]}
+{
+  "name": "VoiceMemos.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCWeakRef",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RCWeakRef",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCWeakProxyRef",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCWaveformSelectionOverlay",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCWaveformRasterizationOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCTrimControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCTextLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCShareMemoViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RCAVPreviewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCSavedRecordingPreviewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCSavedRecording",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCRecorderStateButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RCMemoPlaybackViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCPlayMemoViewController",
+          "children": []
+        },
+        {
+          "name": "RCRecordMemoViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RCWaveform",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCMutableWaveform",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCCurrentRecordingServiceViewController",
+          "children": []
+        },
+        {
+          "name": "RCCurrentRecordingViewController",
+          "children": []
+        },
+        {
+          "name": "RCGLWaveformRenderer",
+          "children": []
+        },
+        {
+          "name": "RCGLWaveformViewController",
+          "children": []
+        },
+        {
+          "name": "RCMemoPlaybackViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCCurrentRecordingRemoteViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIBarButtonItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCAudioRouteBarButtonItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCAVItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RCAVController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

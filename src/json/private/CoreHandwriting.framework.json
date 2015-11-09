@@ -1,1 +1,33 @@
-{"name":"CoreHandwriting.framework","list":[{"father":"NSObject","childList":["CHDrawing"]},{"father":"NSObject","childList":["CHRecognitionResult"]},{"father":"NSObject","childList":["CHRecognizer"]},{"father":"CHRecognitionResult","childList":["CHTextRecognitionResult"]}]}
+{
+  "name": "CoreHandwriting.framework",
+  "list": [
+    {
+      "name": "CHRecognitionResult",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHTextRecognitionResult",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDrawing",
+          "children": []
+        },
+        {
+          "name": "CHRecognitionResult",
+          "children": []
+        },
+        {
+          "name": "CHRecognizer",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

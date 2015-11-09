@@ -1,1 +1,903 @@
-{"name":"VectorKit.framework","list":[{"father":"VGLGroundCoverProgram","childList":["VGLAnimatableGroundCoverProgram"]},{"father":"VGLPolygonProgram","childList":["VGLAnimatablePolygonProgram"]},{"father":"VGLStrokePolygonProgram","childList":["VGLAnimatableStrokePolygonProgram"]},{"father":"VGLTextureProgram","childList":["VGLAnimatableTextureProgram"]},{"father":"VGLSingleTexturedCullableMesh","childList":["VGLAnimatableTexturedCullableMesh"]},{"father":"VGLProgram","childList":["VGLBasicProgram"]},{"father":"VGLFogProgram","childList":["VGLBuildingProgram"]},{"father":"VGLProgram","childList":["VGLBuildingShadowProgram"]},{"father":"VGLTexture","childList":["VGLBytesTexture"]},{"father":"VGLRealisticProgram","childList":["VGLCasingFacadeProgram"]},{"father":"VGLRealisticProgram","childList":["VGLCasingShadowProgram"]},{"father":"VGLRealisticProgram","childList":["VGLCasingTopProgram"]},{"father":"VGLCullableMesh","childList":["VGLCenterLineMesh"]},{"father":"VGLMeshVendor","childList":["VGLCenterLineMeshVendor"]},{"father":"VGLTrafficNoFattenProgram","childList":["VGLCheapTrafficNoFattenProgram"]},{"father":"VGLProgram","childList":["VGLCircleStrokeProgram"]},{"father":"VGLTextureProgram","childList":["VGLClutTextureProgram"]},{"father":"VGLTexture","childList":["VGLCompressedTexture"]},{"father":"NSObject","childList":["VGLContext"]},{"father":"VGLMesh","childList":["VGLCullableMesh"]},{"father":"VGLRoadNoFattenProgram","childList":["VGLDashedLineNoFattenProgram"]},{"father":"VGLBuildingProgram","childList":["VGLDebugBuildingProgram"]},{"father":"VGLBuildingProgram","childList":["VGLDepthDependentBuildingProgram"]},{"father":"NSObject","childList":["VGLDisplayLink"]},{"father":"VGLProgram","childList":["VGLFlatBuildingProgram"]},{"father":"VGLStrokePolygonProgram","childList":["VGLFlatBuildingStrokeProgram"]},{"father":"VGLLookupTexture","childList":["VGLFogExpTexture"]},{"father":"VGLProgram","childList":["VGLFogProgram"]},{"father":"VGLTexture","childList":["VGLFontTexture"]},{"father":"VGLShader","childList":["VGLFragmentShader"]},{"father":"NSObject","childList":["VGLFramebuffer"]},{"father":"NSObject","childList":["VGLGPU"]},{"father":"VGLProgram","childList":["VGLGlyphProgram"]},{"father":"VGLProgram","childList":["VGLGridProgram"]},{"father":"VGLProgram","childList":["VGLGroundCoverProgram"]},{"father":"VGLMesh","childList":["VGLGroupCullableMesh"]},{"father":"NSObject","childList":["VGLIcon"]},{"father":"NSObject","childList":["VGLImageCanvas"]},{"father":"CAEAGLLayer","childList":["VGLLayer"]},{"father":"VGLTexture","childList":["VGLLayeredTexture"]},{"father":"NSObject","childList":["VGLLayeredTextureInputManager"]},{"father":"NSObject","childList":["VGLLayeredTextureOutputManager"]},{"father":"VGLTexture","childList":["VGLLookupTexture"]},{"father":"VGLVertexArrayObject","childList":["VGLMesh"]},{"father":"NSObject","childList":["VGLMeshVendor"]},{"father":"VGLMesh","childList":["VGLMultiTexturedMesh"]},{"father":"VGLFogProgram","childList":["VGLPointyBuildingProgram"]},{"father":"VGLProgram","childList":["VGLPolygonProgram"]},{"father":"VGLTexture","childList":["VGLPooledTexture"]},{"father":"VGLProgram","childList":["VGLPrefilteredLineProgram"]},{"father":"NSObject","childList":["VGLProgram"]},{"father":"NSObject","childList":["VGLProgramFactory"]},{"father":"NSObject","childList":["VGLQuadMesh"]},{"father":"VGLRoadNoFattenProgram","childList":["VGLRailRoadProgram"]},{"father":"VGLUncompressedTexture","childList":["VGLRasterTexture"]},{"father":"VGLRealisticRoadProgram","childList":["VGLRealisticAnimatableRoadProgram"]},{"father":"VGLRealisticTextureProgram","childList":["VGLRealisticAnimatableTextureProgram"]},{"father":"VGLBuildingProgram","childList":["VGLRealisticBuildingProgram"]},{"father":"VGLRealisticProgram","childList":["VGLRealisticFadeProgram"]},{"father":"VGLFogProgram","childList":["VGLRealisticProgram"]},{"father":"VGLRealisticProgram","childList":["VGLRealisticRoadProgram"]},{"father":"VGLRouteLineProgram","childList":["VGLRealisticRouteLineProgram"]},{"father":"VGLRealisticProgram","childList":["VGLRealisticTextureProgram"]},{"father":"NSObject","childList":["VGLRenderState"]},{"father":"NSObject","childList":["VGLResource"]},{"father":"NSObject","childList":["VGLResourceFactory"]},{"father":"NSObject","childList":["VGLResourceImpl"]},{"father":"VGLProgram","childList":["VGLRoadAntialiasedProgram"]},{"father":"NSObject","childList":["VGLRoadAtlas"]},{"father":"VGLRoadAntialiasedProgram","childList":["VGLRoadFalloffProgram"]},{"father":"VGLSimpleRoadProgram","childList":["VGLRoadNoFattenProgram"]},{"father":"VGLProgram","childList":["VGLRoadStencilProgram"]},{"father":"VGLProgram","childList":["VGLRoadWithLineProgram"]},{"father":"VGLMesh","childList":["VGLRouteLineArrowMesh"]},{"father":"VGLProgram","childList":["VGLRouteLineArrowProgram"]},{"father":"VGLMesh","childList":["VGLRouteLineMesh"]},{"father":"VGLFogProgram","childList":["VGLRouteLineProgram"]},{"father":"CALayer","childList":["VGLScreenCanvas"]},{"father":"NSObject","childList":["VGLShader"]},{"father":"VGLProgram","childList":["VGLShadowPathProgram"]},{"father":"VGLRealisticFadeProgram","childList":["VGLShadowProgram"]},{"father":"NSObject","childList":["VGLSharegroup"]},{"father":"VGLProgram","childList":["VGLShieldProgram"]},{"father":"VGLProgram","childList":["VGLSimpleGridProgram"]},{"father":"VGLProgram","childList":["VGLSimpleRoadProgram"]},{"father":"VGLMesh","childList":["VGLSingleTexturedAndLitMesh"]},{"father":"VGLCullableMesh","childList":["VGLSingleTexturedCullableMesh"]},{"father":"VGLGroupCullableMesh","childList":["VGLSingleTexturedGroupCullableMesh"]},{"father":"VGLMesh","childList":["VGLSingleTexturedMesh"]},{"father":"VGLProgram","childList":["VGLSkyProgram"]},{"father":"VGLProgram","childList":["VGLSolidColorGroundCoverProgram"]},{"father":"VGLSimpleRoadProgram","childList":["VGLStrokePolygonProgram"]},{"father":"VGLTexture","childList":["VGLSurfaceTexture"]},{"father":"NSObject","childList":["VGLTexture"]},{"father":"VGLTextureProgram","childList":["VGLTextureAlphaMaskProgram"]},{"father":"NSObject","childList":["VGLTextureCanvas"]},{"father":"VGLFramebuffer","childList":["VGLTextureFramebuffer"]},{"father":"NSObject","childList":["VGLTextureManager"]},{"father":"NSObject","childList":["VGLTexturePool"]},{"father":"VGLProgram","childList":["VGLTextureProgram"]},{"father":"VGLTextureWithAlphaProgram","childList":["VGLTextureWithAlphaBrightnessProgram"]},{"father":"VGLTextureProgram","childList":["VGLTextureWithAlphaProgram"]},{"father":"VGLTextureProgram","childList":["VGLTextureWithBrightnessProgram"]},{"father":"VGLTextureWithAlphaProgram","childList":["VGLTextureWithRGBColorMasksProgram"]},{"father":"VGLSimpleRoadProgram","childList":["VGLTrafficNoFattenProgram"]},{"father":"VGLProgram","childList":["VGLTrafficOcclusionProgram"]},{"father":"VGLTexture","childList":["VGLUncompressedTexture"]},{"father":"NSObject","childList":["VGLVertexArrayObject"]},{"father":"VGLShader","childList":["VGLVertexShader"]},{"father":"NSObject","childList":["VKAnchor"]},{"father":"NSObject","childList":["VKAnchorContext"]},{"father":"NSObject","childList":["VKAnchorWrapper"]},{"father":"NSObject","childList":["VKAnimation"]},{"father":"VKAnnotationMarkerLayer","childList":["VKAnnotationMarker"]},{"father":"NSObject","childList":["VKAnnotationMarkerLayer"]},{"father":"VKModelObject","childList":["VKAnnotationModel"]},{"father":"VKCameraController","childList":["VKAnnotationTrackingCameraController"]},{"father":"VKPolylineOverlay","childList":["VKAttributedRoute"]},{"father":"VKAttributedRouteMapMatcher","childList":["VKAttributedRouteDriveMapMatcher"]},{"father":"NSObject","childList":["VKAttributedRouteMapMatcher"]},{"father":"NSObject","childList":["VKAttributedRouteMatch"]},{"father":"NSObject","childList":["VKAttributedRouteTrackedLocation"]},{"father":"VKAttributedRouteMapMatcher","childList":["VKAttributedRouteWalkMapMatcher"]},{"father":"VKRasterTileSource","childList":["VKBackgroundRasterTileSource"]},{"father":"VKDrawStyle","childList":["VKBuildingDrawStyle"]},{"father":"NSObject","childList":["VKBuildingFootprintMaker"]},{"father":"VKVectorMapModel","childList":["VKBuildingFootprintMapModel"]},{"father":"VKVectorTileSource","childList":["VKBuildingFootprintTileSource"]},{"father":"VKVectorTile","childList":["VKBuildingTile"]},{"father":"NSObject","childList":["VKCacheNode"]},{"father":"NSObject","childList":["VKCamera"]},{"father":"NSObject","childList":["VKCameraContext"]},{"father":"NSObject","childList":["VKCameraController"]},{"father":"VKAnnotationMarker","childList":["VKCircleAnnotationMarker"]},{"father":"VKAnnotationMarkerLayer","childList":["VKCircleAnnotationMarkerLayer"]},{"father":"NSObject","childList":["VKCircleOverlay"]},{"father":"VKScreenCanvas","childList":["VKClassicGlobeCanvas"]},{"father":"NSObject","childList":["VKCoastlineGroup"]},{"father":"VKImageAnnotationMarkerLayer","childList":["VKCourseAnnotationMarkerLayer"]},{"father":"VKModelObject","childList":["VKDebugModel"]},{"father":"NSObject","childList":["VKDebugSettings"]},{"father":"VKDrawStyle","childList":["VKDimmableDrawStyle"]},{"father":"NSObject","childList":["VKDispatch"]},{"father":"VGLContext","childList":["VKDrawContext"]},{"father":"NSObject","childList":["VKDrawStyle"]},{"father":"NSObject","childList":["VKFootprint"]},{"father":"VKDrawStyle","childList":["VKGenericShieldDrawStyle"]},{"father":"NSObject","childList":["VKGenericShieldGenerator"]},{"father":"VKAnnotationTrackingCameraController","childList":["VKGlobeAnnotationTrackingCameraController"]},{"father":"VKMapCameraController","childList":["VKGlobeCameraController"]},{"father":"NSObject","childList":["VKGlobeLineContainer"]},{"father":"NSObject","childList":["VKGlobePointCache"]},{"father":"NSObject","childList":["VKGlobeViewWrapper"]},{"father":"VKGlobeViewWrapper","childList":["VKGlobeViewWrapperImp"]},{"father":"VKDrawStyle","childList":["VKGridDrawStyle"]},{"father":"VKModelObject","childList":["VKGridModel"]},{"father":"VKMapTileModel","childList":["VKGroundCoverMapModel"]},{"father":"NSObject","childList":["VKGuidanceStepInfo"]},{"father":"NSObject","childList":["VKHeightfield"]},{"father":"VKRasterTileSource","childList":["VKHybridRasterTileSource"]},{"father":"VKRoadMapModel","childList":["VKHybridRoadMapModel"]},{"father":"NSObject","childList":["VKIconArtwork"]},{"father":"NSObject","childList":["VKIconAtlas"]},{"father":"NSObject","childList":["VKIconManager"]},{"father":"NSObject","childList":["VKImage"]},{"father":"VKAnnotationMarker","childList":["VKImageAnnotationMarker"]},{"father":"VKAnnotationMarkerLayer","childList":["VKImageAnnotationMarkerLayer"]},{"father":"VGLImageCanvas","childList":["VKImageCanvas"]},{"father":"NSObject","childList":["VKIntObjectMap"]},{"father":"VKDispatch","childList":["VKInteractiveDispatch"]},{"father":"NSString","childList":["VKInternedString"]},{"father":"NSObject","childList":["VKLRUCache"]},{"father":"NSObject","childList":["VKLabelAccessibility"]},{"father":"VKDrawStyle","childList":["VKLabelDrawStyle"]},{"father":"NSObject","childList":["VKLabelMarker"]},{"father":"NSObject","childList":["VKLabelMarkerFeatureHandle"]},{"father":"VKModelObject","childList":["VKLabelModel"]},{"father":"NSObject","childList":["VKLabelNavJunction"]},{"father":"NSObject","childList":["VKLabelNavRoad"]},{"father":"NSObject","childList":["VKLabelNavRoadGraph"]},{"father":"NSObject","childList":["VKLabelNavRoadLabel"]},{"father":"NSObject","childList":["VKLabelNavSupport"]},{"father":"NSObject","childList":["VKLabelNavTileData"]},{"father":"VKTile","childList":["VKLabelTile"]},{"father":"VKTileSetBackedTileSource","childList":["VKLabelTileSource"]},{"father":"VKRealisticPolygonMaker","childList":["VKLandPolygonMaker"]},{"father":"NSObject","childList":["VKLandmarkIconGenerator"]},{"father":"NSObject","childList":["VKLayoutContext"]},{"father":"VKDrawStyle","childList":["VKLineDrawStyle"]},{"father":"VKCameraController","childList":["VKMapCameraController"]},{"father":"VKScreenCanvas","childList":["VKMapCanvas"]},{"father":"NSObject","childList":["VKMapMatch"]},{"father":"NSObject","childList":["VKMapMatcher"]},{"father":"VKModelObject","childList":["VKMapModel"]},{"father":"VKModelObject","childList":["VKMapRasterizer"]},{"father":"NSObject","childList":["VKMapSnapshot"]},{"father":"NSObject","childList":["VKMapSnapshotCreator"]},{"father":"VKTile","childList":["VKMapTile"]},{"father":"NSObject","childList":["VKMapTileList"]},{"father":"VKModelObject","childList":["VKMapTileModel"]},{"father":"CALayer","childList":["VKMapView"]},{"father":"NSObject","childList":["VKMemoryObserver"]},{"father":"NSObject","childList":["VKMercatorTerrainHeightCache"]},{"father":"VKAnnotationMarker","childList":["VKMeshAnnotationMarker"]},{"father":"GEOTileRequester","childList":["VKMockRasterTileRequester"]},{"father":"GEOTileRequester","childList":["VKMockVectorTileRequester"]},{"father":"NSObject","childList":["VKModelObject"]},{"father":"NSObject","childList":["VKModelObject_DrawPass"]},{"father":"NSObject","childList":["VKMultiPointOverlay"]},{"father":"VKMeshAnnotationMarker","childList":["VKNavUserLocationAnnotationMarker"]},{"father":"NSObject","childList":["VKObjectPool"]},{"father":"NSObject","childList":["VKOriginalRouteMapMatchingDataSource"]},{"father":"VKMapTileModel","childList":["VKOverlayContainerModel"]},{"father":"NSObject","childList":["VKOverlayPainter"]},{"father":"VKTile","childList":["VKOverlayTile"]},{"father":"VKTileSource","childList":["VKOverlayTileSource"]},{"father":"PBCodable","childList":["VKPGenericShield"]},{"father":"PBCodable","childList":["VKPGenericShieldStyleInfo"]},{"father":"PBCodable","childList":["VKPGenericShieldStylePack"]},{"father":"PBCodable","childList":["VKPGenericShieldVariant"]},{"father":"PBCodable","childList":["VKPGlobalProperties"]},{"father":"PBCodable","childList":["VKPIcon"]},{"father":"PBCodable","childList":["VKPIconPack"]},{"father":"NSObject","childList":["VKPOIIconGenerator"]},{"father":"VKLabelTileSource","childList":["VKPOILabelTileSource"]},{"father":"PBCodable","childList":["VKPSheet"]},{"father":"PBCodable","childList":["VKPShield"]},{"father":"PBCodable","childList":["VKPShieldIndex"]},{"father":"PBCodable","childList":["VKPShieldIndexEntry"]},{"father":"PBCodable","childList":["VKPShieldIndexTextEntry"]},{"father":"PBCodable","childList":["VKPShieldPack"]},{"father":"PBCodable","childList":["VKPShieldVariant"]},{"father":"PBCodable","childList":["VKPStyle"]},{"father":"PBCodable","childList":["VKPStyleAttribute"]},{"father":"PBCodable","childList":["VKPStyleContents"]},{"father":"PBCodable","childList":["VKPStyleProperties"]},{"father":"PBCodable","childList":["VKPTextureAtlas"]},{"father":"PBCodable","childList":["VKPTrafficStyle"]},{"father":"PBCodable","childList":["VKPZoomProperty"]},{"father":"NSObject","childList":["VKPerformanceTest"]},{"father":"VKDimmableDrawStyle","childList":["VKPinDrawStyle"]},{"father":"NSObject","childList":["VKPlatform"]},{"father":"VKLabelTileSource","childList":["VKPointLabelTileSource"]},{"father":"VKDrawStyle","childList":["VKPolygonDrawStyle"]},{"father":"NSObject","childList":["VKPolygonGroup"]},{"father":"VKLabelTileSource","childList":["VKPolygonLabelTileSource"]},{"father":"VKVectorMapModel","childList":["VKPolygonMapModel"]},{"father":"VKMultiPointOverlay","childList":["VKPolygonOverlay"]},{"father":"VKVectorTile","childList":["VKPolygonTile"]},{"father":"VKVectorTileSource","childList":["VKPolygonTileSource"]},{"father":"NSObject","childList":["VKPolylineEdge"]},{"father":"NSObject","childList":["VKPolylineGroupOverlay"]},{"father":"VKOverlayPainter","childList":["VKPolylineGroupOverlayPainter"]},{"father":"GEOAttributedRoute","childList":["VKPolylineOverlay"]},{"father":"VKOverlayPainter","childList":["VKPolylineOverlayPainter"]},{"father":"NSObject","childList":["VKPolylineOverlaySection"]},{"father":"NSObject","childList":["VKPolylinePath"]},{"father":"NSObject","childList":["VKPuckAnimator"]},{"father":"NSObject","childList":["VKPuckAnimatorLocationProjector"]},{"father":"VKDrawStyle","childList":["VKPuckDrawStyle"]},{"father":"NSObject","childList":["VKQuadTrie"]},{"father":"VKImageAnnotationMarkerLayer","childList":["VKRGBMaskingImageAnnotationMarkerLayer"]},{"father":"VKMapTileModel","childList":["VKRasterMapModel"]},{"father":"NSObject","childList":["VKRasterMapTile"]},{"father":"NSObject","childList":["VKRasterMapTileCreator"]},{"father":"NSObject","childList":["VKRasterMapTileRequest"]},{"father":"NSObject","childList":["VKRasterMapTileServer"]},{"father":"NSObject","childList":["VKRasterMapTileServerCallback"]},{"father":"NSObject","childList":["VKRasterOverlay"]},{"father":"VKMapTileModel","childList":["VKRasterOverlayMapModel"]},{"father":"VKScene","childList":["VKRasterOverlayScene"]},{"father":"VKTile","childList":["VKRasterOverlayTile"]},{"father":"VKTileSource","childList":["VKRasterOverlayTileSource"]},{"father":"VKTile","childList":["VKRasterTile"]},{"father":"VKTileSetBackedTileSource","childList":["VKRasterTileSource"]},{"father":"VKRasterTrafficTileSource","childList":["VKRasterTrafficIncidentsTileSource"]},{"father":"VKMapTileModel","childList":["VKRasterTrafficMapModel"]},{"father":"VKTile","childList":["VKRasterTrafficTile"]},{"father":"VKTileSetBackedTileSource","childList":["VKRasterTrafficTileSource"]},{"father":"VKRasterTile","childList":["VKRasterizedMapTile"]},{"father":"VKLabelTileSource","childList":["VKRealisticLabelTileSource"]},{"father":"VKVectorMapModel","childList":["VKRealisticMapModel"]},{"father":"NSObject","childList":["VKRealisticPolygonMaker"]},{"father":"NSObject","childList":["VKRealisticRoadGroup"]},{"father":"VKVectorTile","childList":["VKRealisticTile"]},{"father":"VKTileSetBackedTileSource","childList":["VKRealisticTileSource"]},{"father":"NSObject","childList":["VKResourceManager"]},{"father":"VKTile","childList":["VKResourcesTile"]},{"father":"VKTileSource","childList":["VKResourcesTileSource"]},{"father":"VKDrawStyle","childList":["VKRoadDrawStyle"]},{"father":"NSObject","childList":["VKRoadGroup"]},{"father":"VKLabelTileSource","childList":["VKRoadLabelTileSource"]},{"father":"VKVectorMapModel","childList":["VKRoadMapModel"]},{"father":"NSObject","childList":["VKRoadPainter"]},{"father":"VKRealisticPolygonMaker","childList":["VKRoadPolygonMaker"]},{"father":"NSObject","childList":["VKRoadSignArtwork"]},{"father":"VKVectorTile","childList":["VKRoadTile"]},{"father":"VKVectorTileSource","childList":["VKRoadTileSource"]},{"father":"VKVectorMapModel","childList":["VKRoadTrafficMapModel"]},{"father":"VKDrawStyle","childList":["VKRouteDrawStyle"]},{"father":"NSObject","childList":["VKRouteLine"]},{"father":"VKAnnotationMarker","childList":["VKRouteMatchedAnnotationMarker"]},{"father":"NSObject","childList":["VKRouteRoadInfo"]},{"father":"NSObject","childList":["VKRunningCurve"]},{"father":"VKRasterTileSource","childList":["VKSatelliteRasterTileSource"]},{"father":"NSObject","childList":["VKScene"]},{"father":"VGLScreenCanvas","childList":["VKScreenCanvas"]},{"father":"NSObject","childList":["VKShieldArtwork"]},{"father":"NSObject","childList":["VKShieldAtlas"]},{"father":"VKImage","childList":["VKShieldImage"]},{"father":"NSObject","childList":["VKShieldManager"]},{"father":"VKMapMatcher","childList":["VKSimpleMapMatcher"]},{"father":"VKDrawStyle","childList":["VKSkyDrawStyle"]},{"father":"VKModelObject","childList":["VKSkyModel"]},{"father":"VKPolylinePath","childList":["VKSnappedPolylinePath"]},{"father":"VKRasterTileSource","childList":["VKStandardRasterTileSource"]},{"father":"NSObject","childList":["VKStyle"]},{"father":"NSObject","childList":["VKStyleEditorConnection"]},{"father":"NSObject","childList":["VKStyleResolutionSession"]},{"father":"NSObject","childList":["VKStylesheet"]},{"father":"NSObject","childList":["VKTile"]},{"father":"VKLRUCache","childList":["VKTileCache"]},{"father":"GEOVectorTileDecoder","childList":["VKTileDecoderWrapper"]},{"father":"NSObject","childList":["VKTileKeyList"]},{"father":"NSObject","childList":["VKTileKeyMap"]},{"father":"VKTileKeyMap","childList":["VKTilePool"]},{"father":"NSObject","childList":["VKTileProvider"]},{"father":"NSObject","childList":["VKTileSelection"]},{"father":"VKTileSource","childList":["VKTileSetBackedTileSource"]},{"father":"NSObject","childList":["VKTileSource"]},{"father":"NSObject","childList":["VKTimer"]},{"father":"VKCameraController","childList":["VKTrackingCameraController"]},{"father":"VKDrawStyle","childList":["VKTrafficDrawStyle"]},{"father":"VKTile","childList":["VKTrafficDynamicTile"]},{"father":"VKTileSetBackedTileSource","childList":["VKTrafficDynamicTileSource"]},{"father":"NSObject","childList":["VKTrafficIncident"]},{"father":"NSObject","childList":["VKTrafficIncidentImageManager"]},{"father":"VKRoadPainter","childList":["VKTrafficPainter"]},{"father":"NSObject","childList":["VKTrafficSegmentsAlongRoute"]},{"father":"VKVectorTile","childList":["VKTrafficTile"]},{"father":"VKTileSetBackedTileSource","childList":["VKTrafficTileSource"]},{"father":"NSObject","childList":["VKTriangulator"]},{"father":"VKMapTileModel","childList":["VKVectorMapModel"]},{"father":"VKTile","childList":["VKVectorTile"]},{"father":"VKTileSetBackedTileSource","childList":["VKVectorTileSource"]},{"father":"VKDimmableDrawStyle","childList":["VKVegetationDrawStyle"]},{"father":"VKRasterTile","childList":["VKVegetationRasterTile"]},{"father":"VKRasterTileSource","childList":["VKVegetationRasterTileSource"]},{"father":"NSObject","childList":["VKViewTransform"]},{"father":"NSObject","childList":["VKViewVolume"]},{"father":"NSObject","childList":["VKViewportInfo"]},{"father":"VKRealisticPolygonMaker","childList":["VKWaterPolygonMaker"]},{"father":"NSObject","childList":["VKWorld"]},{"father":"NSObject","childList":["VKXTileConnector"]},{"father":"VKShieldArtwork","childList":["_VKGenericShieldArtwork"]},{"father":"VKIconArtwork","childList":["_VKLandmarkIconArtwork"]},{"father":"NSObject","childList":["_VKLandmarkIconKey"]},{"father":"VKIconAtlas","childList":["_VKLocalIconAtlas"]},{"father":"NSObject","childList":["_VKLocalizationStyleAttributes"]},{"father":"VKIconArtwork","childList":["_VKPOIIconArtwork"]},{"father":"NSObject","childList":["_VKPOIIconKey"]},{"father":"NSObject","childList":["_VKStylesheetClassProxy"]},{"father":"NSObject","childList":["_VKTileProviderTimerTarget"]},{"father":"NSObject","childList":["_VKTileSetBackedTileSourceTimerTarget"]}]}
+{
+  "name": "VectorKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_VKPOIIconKey",
+          "children": []
+        },
+        {
+          "name": "_VKStylesheetClassProxy",
+          "children": []
+        },
+        {
+          "name": "_VKTileProviderTimerTarget",
+          "children": []
+        },
+        {
+          "name": "_VKTileSetBackedTileSourceTimerTarget",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKIconArtwork",
+      "parent": null,
+      "children": [
+        {
+          "name": "_VKPOIIconArtwork",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKIconAtlas",
+      "parent": null,
+      "children": [
+        {
+          "name": "_VKLocalIconAtlas",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKShieldArtwork",
+      "parent": null,
+      "children": [
+        {
+          "name": "_VKGenericShieldArtwork",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKRealisticPolygonMaker",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKWaterPolygonMaker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKRasterTileSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKVegetationRasterTileSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKRasterTile",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKVegetationRasterTile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKDimmableDrawStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKVegetationDrawStyle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKTileSetBackedTileSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKVectorTileSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKTile",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKVectorTile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKMapTileModel",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKVectorMapModel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKVectorTile",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKTrafficTile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKRoadPainter",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKTrafficPainter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKDrawStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKTrafficDrawStyle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKCameraController",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKTrackingCameraController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKTileSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKTileSetBackedTileSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKTileKeyMap",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKTilePool",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GEOVectorTileDecoder",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKTileDecoderWrapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKLRUCache",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKTileCache",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKPolylinePath",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKSnappedPolylinePath",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKModelObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKSkyModel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKMapMatcher",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKSimpleMapMatcher",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKImage",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKShieldImage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLScreenCanvas",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKScreenCanvas",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKAnnotationMarker",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKRouteMatchedAnnotationMarker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKVectorMapModel",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKRoadTrafficMapModel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKVectorTileSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKRoadTileSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKLabelTileSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKRealisticLabelTileSource",
+          "children": []
+        },
+        {
+          "name": "VKRoadLabelTileSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKRasterTrafficTileSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKRasterTrafficIncidentsTileSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKScene",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKRasterOverlayScene",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKImageAnnotationMarkerLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKRGBMaskingImageAnnotationMarkerLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKOverlayPainter",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKPolylineOverlayPainter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GEOAttributedRoute",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKPolylineOverlay",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKMultiPointOverlay",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKPolygonOverlay",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PBCodable",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKPGenericShield",
+          "children": []
+        },
+        {
+          "name": "VKPGenericShieldStyleInfo",
+          "children": []
+        },
+        {
+          "name": "VKPGenericShieldStylePack",
+          "children": []
+        },
+        {
+          "name": "VKPGenericShieldVariant",
+          "children": []
+        },
+        {
+          "name": "VKPGlobalProperties",
+          "children": []
+        },
+        {
+          "name": "VKPIcon",
+          "children": []
+        },
+        {
+          "name": "VKPIconPack",
+          "children": []
+        },
+        {
+          "name": "VKPSheet",
+          "children": []
+        },
+        {
+          "name": "VKPShield",
+          "children": []
+        },
+        {
+          "name": "VKPShieldIndex",
+          "children": []
+        },
+        {
+          "name": "VKPShieldIndexEntry",
+          "children": []
+        },
+        {
+          "name": "VKPShieldIndexTextEntry",
+          "children": []
+        },
+        {
+          "name": "VKPShieldPack",
+          "children": []
+        },
+        {
+          "name": "VKPShieldVariant",
+          "children": []
+        },
+        {
+          "name": "VKPStyle",
+          "children": []
+        },
+        {
+          "name": "VKPStyleAttribute",
+          "children": []
+        },
+        {
+          "name": "VKPStyleContents",
+          "children": []
+        },
+        {
+          "name": "VKPStyleProperties",
+          "children": []
+        },
+        {
+          "name": "VKPTextureAtlas",
+          "children": []
+        },
+        {
+          "name": "VKPTrafficStyle",
+          "children": []
+        },
+        {
+          "name": "VKPZoomProperty",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKMeshAnnotationMarker",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKNavUserLocationAnnotationMarker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GEOTileRequester",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKMockRasterTileRequester",
+          "children": []
+        },
+        {
+          "name": "VKMockVectorTileRequester",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKMapView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKScreenCanvas",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKMapCanvas",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSString",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKInternedString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKDispatch",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKInteractiveDispatch",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLImageCanvas",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKImageCanvas",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKAnnotationMarkerLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKImageAnnotationMarkerLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKRoadMapModel",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKHybridRoadMapModel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKGlobeViewWrapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKGlobeViewWrapperImp",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKMapCameraController",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKGlobeCameraController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKAnnotationTrackingCameraController",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKGlobeAnnotationTrackingCameraController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKDrawContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKAttributedRouteMapMatcher",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKAttributedRouteDriveMapMatcher",
+          "children": []
+        },
+        {
+          "name": "VKAttributedRouteWalkMapMatcher",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKPolylineOverlay",
+      "parent": null,
+      "children": [
+        {
+          "name": "VKAttributedRoute",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLShader",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLVertexShader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLTexture",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLUncompressedTexture",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLTrafficOcclusionProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLSimpleRoadProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLTrafficNoFattenProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLTextureWithAlphaProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLTextureWithRGBColorMasksProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLTextureProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLTextureWithAlphaProgram",
+          "children": []
+        },
+        {
+          "name": "VGLTextureWithBrightnessProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLFramebuffer",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLTextureFramebuffer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLMesh",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLSingleTexturedMesh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLGroupCullableMesh",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLSingleTexturedGroupCullableMesh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLCullableMesh",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLSingleTexturedCullableMesh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLRealisticFadeProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLShadowProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLFogProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRouteLineProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLRoadAntialiasedProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRoadFalloffProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLRealisticProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRealisticTextureProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLRouteLineProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRealisticRouteLineProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLBuildingProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRealisticBuildingProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLRealisticTextureProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRealisticAnimatableTextureProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLRealisticRoadProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRealisticAnimatableRoadProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLUncompressedTexture",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRasterTexture",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLRoadNoFattenProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLRailRoadProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLVertexArrayObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLMesh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAEAGLLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLLookupTexture",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLFogExpTexture",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLStrokePolygonProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLFlatBuildingStrokeProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLTrafficNoFattenProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLCheapTrafficNoFattenProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLMeshVendor",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLCenterLineMeshVendor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLSingleTexturedCullableMesh",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLAnimatableTexturedCullableMesh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLPolygonProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLAnimatablePolygonProgram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VGLGroundCoverProgram",
+      "parent": null,
+      "children": [
+        {
+          "name": "VGLAnimatableGroundCoverProgram",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

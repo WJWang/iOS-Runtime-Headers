@@ -1,1 +1,19 @@
-{"name":"OpenGLES.framework","list":[{"father":"NSObject","childList":["EAGLContext"]},{"father":"NSObject","childList":["EAGLSharegroup"]}]}
+{
+  "name": "OpenGLES.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "EAGLContext",
+          "children": []
+        },
+        {
+          "name": "EAGLSharegroup",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

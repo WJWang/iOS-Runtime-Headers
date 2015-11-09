@@ -1,1 +1,39 @@
-{"name":"FaceCore.framework","list":[{"father":"NSObject","childList":["AEVConversionUtils"]},{"father":"NSObject","childList":["FCRExceptionUtils"]},{"father":"NSObject","childList":["FCRFace"]},{"father":"NSObject","childList":["FCRFaceDetector"]},{"father":"NSObject","childList":["FCRImage"]},{"father":"NSObject","childList":["FCRImageConversionUtils"]},{"father":"NSObject","childList":["FCRLandmark"]}]}
+{
+  "name": "FaceCore.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AEVConversionUtils",
+          "children": []
+        },
+        {
+          "name": "FCRExceptionUtils",
+          "children": []
+        },
+        {
+          "name": "FCRFace",
+          "children": []
+        },
+        {
+          "name": "FCRFaceDetector",
+          "children": []
+        },
+        {
+          "name": "FCRImage",
+          "children": []
+        },
+        {
+          "name": "FCRImageConversionUtils",
+          "children": []
+        },
+        {
+          "name": "FCRLandmark",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

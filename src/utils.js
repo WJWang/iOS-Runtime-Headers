@@ -1,6 +1,6 @@
 var realFs = require('fs');
 var gracefulFs = require('graceful-fs');
-
+var _ = require('lodash');
 
 var REGEX_STR = /\s{1}\w+\s{1}[:]{1}\s{1}\w+\s/g;
 
@@ -23,16 +23,54 @@ Utilities.getFrameworkInherit = function(dirPath, frameWorkName, cb) {
         tmp = tmp.split(":").map(function(str) {
           return str.trim();
         });
-        return ({
-          father : tmp[1],
-          childList : [tmp[0]]
-        });
+
+        if(tmp[0] && tmp[1]) {
+          return ({
+            name : tmp[1],
+            parent : null,
+            children : [{
+              name : tmp[0],
+              children : []
+            }]
+          });
+        }
+      } else {
+        return {
+          parent: null,
+          name: null,
+          children : []
+        };
       }
     });
 
+    var inheritList = [];
+    function recursiveInherit(list) {
+      var reducedObj = list.reduce(function(pre, ele) {
+        if(pre.name === ele.name) {
+          return {
+            name : pre.name,
+            parent: pre.parent || ele.parent,
+            children : pre.children.concat(ele.children),
+          };
+        } else {
+          return ele;
+        }
+      });
+      inheritList.push(reducedObj);
+
+      var newList = _.filter(list, function(ele) {
+        return (ele.name !== reducedObj.name);
+      });
+
+      if(newList.length) {
+        recursiveInherit(newList);
+      }
+      return inheritList;
+    }
+
     cb({
       name : frameWorkName,
-      list : list
+      list :  recursiveInherit(list)
     });
   });
 

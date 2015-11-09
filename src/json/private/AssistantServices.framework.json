@@ -1,1 +1,57 @@
-{"name":"AssistantServices.framework","list":[{"father":"NSObject","childList":["AFAccount"]},{"father":"NSObject","childList":["AFAggregator"]},{"father":"NSObject","childList":["AFBulletin"]},{"father":"NSObject","childList":["AFConnection"]},{"father":"NSObject","childList":["AFConnectionClientServiceDelegate"]},{"father":"NSObject","childList":["AFContextManager"]},{"father":"NSObject","childList":["AFDictationConnection"]},{"father":"NSObject","childList":["AFDictationConnectionServiceDelegate"]},{"father":"NSObject","childList":["AFDictationOptions"]},{"father":"NSObject","childList":["AFError"]},{"father":"NSObject","childList":["AFManagedStorageConnection"]},{"father":"NSObject","childList":["AFPreferences"]},{"father":"AFSpeakableUtteranceParser","childList":["AFSUPFunctionProvider"]},{"father":"NSObject","childList":["AFSettingsConnection"]},{"father":"NSObject","childList":["AFSpeakableUtteranceParser"]},{"father":"NSObject","childList":["AFSpeechCorrectionInfo"]},{"father":"NSObject","childList":["AFSpeechInterpretation"]},{"father":"NSObject","childList":["AFSpeechPhrase"]},{"father":"NSObject","childList":["AFSpeechRequestOptions"]},{"father":"NSObject","childList":["AFSpeechToken"]},{"father":"NSObject","childList":["AFVoiceInfo"]},{"father":"NSObject","childList":["_AFSpeakableUtterancePassThroughProvider"]}]}
+{
+  "name": "AssistantServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AFSettingsConnection",
+          "children": []
+        },
+        {
+          "name": "AFSpeakableUtteranceParser",
+          "children": []
+        },
+        {
+          "name": "AFSpeechCorrectionInfo",
+          "children": []
+        },
+        {
+          "name": "AFSpeechInterpretation",
+          "children": []
+        },
+        {
+          "name": "AFSpeechPhrase",
+          "children": []
+        },
+        {
+          "name": "AFSpeechRequestOptions",
+          "children": []
+        },
+        {
+          "name": "AFSpeechToken",
+          "children": []
+        },
+        {
+          "name": "AFVoiceInfo",
+          "children": []
+        },
+        {
+          "name": "_AFSpeakableUtterancePassThroughProvider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AFSpeakableUtteranceParser",
+      "parent": null,
+      "children": [
+        {
+          "name": "AFSUPFunctionProvider",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

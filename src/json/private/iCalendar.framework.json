@@ -1,1 +1,97 @@
-{"name":"iCalendar.framework","list":[{"father":"ICSPredefinedValue","childList":["ICSActionValue"]},{"father":"ICSComponent","childList":["ICSAlarm"]},{"father":"ICSProperty","childList":["ICSAttachment"]},{"father":"ICSProperty","childList":["ICSAttendeeComment"]},{"father":"ICSComponent","childList":["ICSAvailability"]},{"father":"ICSComponent","childList":["ICSAvailable"]},{"father":"ICSPredefinedValue","childList":["ICSBusyStatusValue"]},{"father":"NSObject","childList":["ICSByDayValue"]},{"father":"ICSComponent","childList":["ICSCalendar"]},{"father":"ICSPredefinedValue","childList":["ICSCalendarServerAccessValue"]},{"father":"ICSPredefinedValue","childList":["ICSCalendarUserParameter"]},{"father":"ICSPredefinedValue","childList":["ICSClassificationValue"]},{"father":"NSObject","childList":["ICSColor"]},{"father":"NSObject","childList":["ICSComponent"]},{"father":"ICSProperty","childList":["ICSConference"]},{"father":"ICSProperty","childList":["ICSDate"]},{"father":"ICSDateTimeValue","childList":["ICSDateTimeUTCValue"]},{"father":"ICSDateValue","childList":["ICSDateTimeValue"]},{"father":"NSObject","childList":["ICSDateValue"]},{"father":"NSObject","childList":["ICSDocument"]},{"father":"NSObject","childList":["ICSDuration"]},{"father":"ICSComponent","childList":["ICSEvent"]},{"father":"ICSComponent","childList":["ICSFreeBusy"]},{"father":"ICSProperty","childList":["ICSFreeBusyTime"]},{"father":"ICSPredefinedValue","childList":["ICSFreeBusyTypeParameter"]},{"father":"ICSComponent","childList":["ICSJournal"]},{"father":"NSObject","childList":["ICSLogger"]},{"father":"ICSPredefinedValue","childList":["ICSMethodValue"]},{"father":"ICSProperty","childList":["ICSMultiValueProperty"]},{"father":"NSObject","childList":["ICSParser"]},{"father":"ICSPredefinedValue","childList":["ICSParticipationStatusParameter"]},{"father":"NSObject","childList":["ICSPeriod"]},{"father":"NSNumber","childList":["ICSPredefinedValue"]},{"father":"NSObject","childList":["ICSProperty"]},{"father":"NSObject","childList":["ICSRecurrenceRule"]},{"father":"ICSPredefinedValue","childList":["ICSRoleParameter"]},{"father":"ICSPredefinedValue","childList":["ICSScheduleAgentParameter"]},{"father":"ICSPredefinedValue","childList":["ICSScheduleForceSendParameter"]},{"father":"ICSPredefinedValue","childList":["ICSScheduleStatusParameter"]},{"father":"ICSPredefinedValue","childList":["ICSStatusValue"]},{"father":"ICSProperty","childList":["ICSStructuredLocation"]},{"father":"ICSComponent","childList":["ICSTimeZone"]},{"father":"ICSComponent","childList":["ICSTimeZoneBlock"]},{"father":"NSObject","childList":["ICSTimeZoneChange"]},{"father":"ICSTimeZoneBlock","childList":["ICSTimeZoneDaylightBlock"]},{"father":"ICSTimeZoneBlock","childList":["ICSTimeZoneStandardBlock"]},{"father":"NSObject","childList":["ICSTimeZoneTranslator"]},{"father":"ICSComponent","childList":["ICSTodo"]},{"father":"NSObject","childList":["ICSTokenizer"]},{"father":"ICSPredefinedValue","childList":["ICSTransparencyValue"]},{"father":"ICSProperty","childList":["ICSTravelDuration"]},{"father":"ICSProperty","childList":["ICSTrigger"]},{"father":"ICSProperty","childList":["ICSUserAddress"]}]}
+{
+  "name": "iCalendar.framework",
+  "list": [
+    {
+      "name": "ICSProperty",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICSTravelDuration",
+          "children": []
+        },
+        {
+          "name": "ICSTrigger",
+          "children": []
+        },
+        {
+          "name": "ICSUserAddress",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICSPredefinedValue",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICSTransparencyValue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICSTokenizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICSComponent",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICSTodo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICSTimeZoneBlock",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICSTimeZoneDaylightBlock",
+          "children": []
+        },
+        {
+          "name": "ICSTimeZoneStandardBlock",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSNumber",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICSPredefinedValue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICSDateValue",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICSDateTimeValue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICSDateTimeValue",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICSDateTimeUTCValue",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

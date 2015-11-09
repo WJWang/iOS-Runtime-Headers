@@ -1,1 +1,37 @@
-{"name":"PersistentConnection.framework","list":[{"father":"NSOperation","childList":["PCCancelAllProcessWakesOperation"]},{"father":"NSObject","childList":["PCConnectionManager"]},{"father":"NSObject","childList":["PCDarwinNotificationRunLoopSource"]},{"father":"NSObject","childList":["PCDispatchTimer"]},{"father":"NSObject","childList":["PCDistributedLock"]},{"father":"NSObject","childList":["PCInterfaceMonitor"]},{"father":"NSObject","childList":["PCInterfaceUsabilityMonitor"]},{"father":"NSObject","childList":["PCLogging"]},{"father":"NSObject","childList":["PCMultiStageGrowthAlgorithm"]},{"father":"NSObject","childList":["PCNonCellularUsabilityMonitor"]},{"father":"NSObject","childList":["PCPersistentIdentifiers"]},{"father":"NSObject","childList":["PCPersistentInterfaceManager"]},{"father":"NSObject","childList":["PCPersistentTimer"]},{"father":"NSOperation","childList":["PCScheduleSystemWakeOperation"]},{"father":"NSObject","childList":["PCSimpleTimer"]},{"father":"NSObject","childList":["PCSystemWakeManager"]},{"father":"NSObject","childList":["PCWWANUsabilityMonitor"]}]}
+{
+  "name": "PersistentConnection.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PCSimpleTimer",
+          "children": []
+        },
+        {
+          "name": "PCSystemWakeManager",
+          "children": []
+        },
+        {
+          "name": "PCWWANUsabilityMonitor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "PCCancelAllProcessWakesOperation",
+          "children": []
+        },
+        {
+          "name": "PCScheduleSystemWakeOperation",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

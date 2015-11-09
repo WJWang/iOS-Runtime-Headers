@@ -1,1 +1,187 @@
-{"name":"QuartzCore.framework","list":[{"father":"NSObject","childList":["CAAnimation"]},{"father":"CALayer","childList":["CABackdropLayer"]},{"father":"CAAnimation","childList":["CAAnimationGroup"]},{"father":"CAPropertyAnimation","childList":["CABasicAnimation"]},{"father":"NSObject","childList":["CABehavior"]},{"father":"CACodingProxy","childList":["CACGPathCodingProxy"]},{"father":"NSObject","childList":["CACGPathCodingSegment"]},{"father":"CACodingProxy","childList":["CACGPatternCodingProxy"]},{"father":"NSObject","childList":["CACodingProxy"]},{"father":"NSObject","childList":["CAContext"]},{"father":"CAContext","childList":["CAContextImpl"]},{"father":"NSObject","childList":["CADebuggingArchiverDelegate"]},{"father":"NSObject","childList":["CADisplay"]},{"father":"NSObject","childList":["CADisplayLink"]},{"father":"NSObject","childList":["CADisplayMode"]},{"father":"CALayer","childList":["CADistanceFieldLayer"]},{"father":"CABehavior","childList":["CADynamicsBehavior"]},{"father":"CALayer","childList":["CAEAGLLayer"]},{"father":"NSObject","childList":["CAEmitterBehavior"]},{"father":"NSObject","childList":["CAEmitterCell"]},{"father":"CALayer","childList":["CAEmitterLayer"]},{"father":"NSObject","childList":["CAFilter"]},{"father":"NSObject","childList":["CAForceField"]},{"father":"CALayer","childList":["CAGradientLayer"]},{"father":"CACodingProxy","childList":["CAIOSurfaceCodingProxy"]},{"father":"CAPropertyAnimation","childList":["CAKeyframeAnimation"]},{"father":"NSObject","childList":["CALayer"]},{"father":"NSArray","childList":["CALayerArray"]},{"father":"CALayer","childList":["CALayerHost"]},{"father":"NSObject","childList":["CALight"]},{"father":"CALayer","childList":["CALinearMaskLayer"]},{"father":"NSObject","childList":["CAMLParser"]},{"father":"NSObject","childList":["CAMLWriter"]},{"father":"CAAnimation","childList":["CAMatchMoveAnimation"]},{"father":"NSObject","childList":["CAMediaTimingFunction"]},{"father":"CAMediaTimingFunction","childList":["CAMediaTimingFunctionBuiltin"]},{"father":"CAMeshTransform","childList":["CAMeshInterpolator"]},{"father":"NSObject","childList":["CAMeshTransform"]},{"father":"CAMeshTransform","childList":["CAMutableMeshTransform"]},{"father":"NSObject","childList":["CAPackage"]},{"father":"CAAnimation","childList":["CAPropertyAnimation"]},{"father":"NSObject","childList":["CARenderer"]},{"father":"CALayer","childList":["CAReplicatorLayer"]},{"father":"CALayer","childList":["CAScrollLayer"]},{"father":"CALayer","childList":["CAShapeLayer"]},{"father":"NSObject","childList":["CASlotProxy"]},{"father":"CATextLayer","childList":["CASmoothedTextLayer"]},{"father":"NSObject","childList":["CASpring"]},{"father":"CABasicAnimation","childList":["CASpringAnimation"]},{"father":"NSObject","childList":["CAState"]},{"father":"CAStateElement","childList":["CAStateAddAnimation"]},{"father":"CAStateElement","childList":["CAStateAddElement"]},{"father":"NSObject","childList":["CAStateController"]},{"father":"NSObject","childList":["CAStateControllerAnimation"]},{"father":"NSObject","childList":["CAStateControllerLayer"]},{"father":"NSObject","childList":["CAStateControllerTransition"]},{"father":"NSObject","childList":["CAStateControllerUndo"]},{"father":"NSObject","childList":["CAStateElement"]},{"father":"CAStateElement","childList":["CAStateRemoveAnimation"]},{"father":"CAStateElement","childList":["CAStateRemoveElement"]},{"father":"CAStateElement","childList":["CAStateSetValue"]},{"father":"NSObject","childList":["CAStateTransition"]},{"father":"NSObject","childList":["CAStateTransitionElement"]},{"father":"NSObject","childList":["CASuspendNotification"]},{"father":"CALayer","childList":["CATextLayer"]},{"father":"CALayer","childList":["CATiledLayer"]},{"father":"NSObject","childList":["CATransaction"]},{"father":"NSObject","childList":["CATransactionCompletionItem"]},{"father":"CALayer","childList":["CATransformLayer"]},{"father":"CAAnimation","childList":["CATransition"]},{"father":"NSObject","childList":["CAValueFunction"]},{"father":"NSObject","childList":["CAWindowServer"]},{"father":"NSObject","childList":["CAWindowServerDisplay"]},{"father":"CACodingProxy","childList":["LKCGColorCodingProxy"]},{"father":"CACodingProxy","childList":["LKCGImageCodingProxy"]},{"father":"CACodingProxy","childList":["LKNSArrayCodingProxy"]},{"father":"CACodingProxy","childList":["LKNSDictionaryCodingProxy"]},{"father":"CACodingProxy","childList":["LKNSValueCodingProxy"]}]}
+{
+  "name": "QuartzCore.framework",
+  "list": [
+    {
+      "name": "CACodingProxy",
+      "parent": null,
+      "children": [
+        {
+          "name": "LKCGColorCodingProxy",
+          "children": []
+        },
+        {
+          "name": "LKCGImageCodingProxy",
+          "children": []
+        },
+        {
+          "name": "LKNSArrayCodingProxy",
+          "children": []
+        },
+        {
+          "name": "LKNSDictionaryCodingProxy",
+          "children": []
+        },
+        {
+          "name": "LKNSValueCodingProxy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CAValueFunction",
+          "children": []
+        },
+        {
+          "name": "CAWindowServer",
+          "children": []
+        },
+        {
+          "name": "CAWindowServerDisplay",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAAnimation",
+      "parent": null,
+      "children": [
+        {
+          "name": "CATransition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "CATextLayer",
+          "children": []
+        },
+        {
+          "name": "CATiledLayer",
+          "children": []
+        },
+        {
+          "name": "CATransformLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAStateElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "CAStateAddAnimation",
+          "children": []
+        },
+        {
+          "name": "CAStateAddElement",
+          "children": []
+        },
+        {
+          "name": "CAStateRemoveAnimation",
+          "children": []
+        },
+        {
+          "name": "CAStateRemoveElement",
+          "children": []
+        },
+        {
+          "name": "CAStateSetValue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CABasicAnimation",
+      "parent": null,
+      "children": [
+        {
+          "name": "CASpringAnimation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CATextLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "CASmoothedTextLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAMeshTransform",
+      "parent": null,
+      "children": [
+        {
+          "name": "CAMeshInterpolator",
+          "children": []
+        },
+        {
+          "name": "CAMutableMeshTransform",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAMediaTimingFunction",
+      "parent": null,
+      "children": [
+        {
+          "name": "CAMediaTimingFunctionBuiltin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "CALayerArray",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAPropertyAnimation",
+      "parent": null,
+      "children": [
+        {
+          "name": "CAKeyframeAnimation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CABehavior",
+      "parent": null,
+      "children": [
+        {
+          "name": "CADynamicsBehavior",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "CAContextImpl",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"WirelessProximity.framework","list":[{"father":"NSObject","childList":["WPAWDL"]},{"father":"NSObject","childList":["WPAdvertising"]},{"father":"NSObject","childList":["WPDeviceScanner"]},{"father":"NSObject","childList":["WPTap"]},{"father":"NSObject","childList":["WPTransfer"]},{"father":"NSObject","childList":["WPZoneTracker"]},{"father":"NSObject","childList":["WirelessProximity"]},{"father":"NSObject","childList":["XPCClient"]}]}
+{
+  "name": "WirelessProximity.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WPAWDL",
+          "children": []
+        },
+        {
+          "name": "WPAdvertising",
+          "children": []
+        },
+        {
+          "name": "WPDeviceScanner",
+          "children": []
+        },
+        {
+          "name": "WPTap",
+          "children": []
+        },
+        {
+          "name": "WPTransfer",
+          "children": []
+        },
+        {
+          "name": "WPZoneTracker",
+          "children": []
+        },
+        {
+          "name": "WirelessProximity",
+          "children": []
+        },
+        {
+          "name": "XPCClient",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

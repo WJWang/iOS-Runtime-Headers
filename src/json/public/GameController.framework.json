@@ -1,1 +1,127 @@
-{"name":"GameController.framework","list":[{"father":"NSObject","childList":["GCController"]},{"father":"GCControllerElement","childList":["GCControllerAxisInput"]},{"father":"GCControllerElement","childList":["GCControllerButtonInput"]},{"father":"NSObject","childList":["GCControllerCBDelegate"]},{"father":"GCControllerElement","childList":["GCControllerDirectionPad"]},{"father":"NSObject","childList":["GCControllerElement"]},{"father":"NSObject","childList":["GCControllerManager"]},{"father":"NSObject","childList":["GCExtendedGamepad"]},{"father":"GCExtendedGamepad","childList":["GCExtendedGamepadSnapshot"]},{"father":"NSObject","childList":["GCGamepad"]},{"father":"GCGamepad","childList":["GCGamepadSnapshot"]},{"father":"_GCControllerButtonInput","childList":["_GCACHomeButton"]},{"father":"GCController","childList":["_GCController"]},{"father":"_GCControllerButtonInput","childList":["_GCControllerAxisButtonInput"]},{"father":"GCControllerAxisInput","childList":["_GCControllerAxisInput"]},{"father":"GCControllerButtonInput","childList":["_GCControllerButtonInput"]},{"father":"GCControllerDirectionPad","childList":["_GCControllerDirectionPad"]},{"father":"_GCGamepad","childList":["_GCDragonflyControllerProfile"]},{"father":"GCExtendedGamepad","childList":["_GCExtendedGamepad"]},{"father":"_GCExtendedGamepad","childList":["_GCExtendedGamepadSnapshot"]},{"father":"GCGamepad","childList":["_GCGamepad"]},{"father":"_GCGamepad","childList":["_GCGamepadSnapshot"]},{"father":"_GCExtendedGamepad","childList":["_GCMFiExtendedGamepadControllerProfile"]},{"father":"_GCGamepad","childList":["_GCMFiGamepadControllerProfile"]},{"father":"_GCGamepad","childList":["_GCRemoteControllerProfile"]},{"father":"NSObject","childList":["_GCUserHIDDevice"]}]}
+{
+  "name": "GameController.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCUserHIDDevice",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_GCGamepad",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCMFiGamepadControllerProfile",
+          "children": []
+        },
+        {
+          "name": "_GCRemoteControllerProfile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_GCExtendedGamepad",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCMFiExtendedGamepadControllerProfile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GCGamepad",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCGamepad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GCExtendedGamepad",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCExtendedGamepad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GCControllerDirectionPad",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCControllerDirectionPad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GCControllerButtonInput",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCControllerButtonInput",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GCControllerAxisInput",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCControllerAxisInput",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_GCControllerButtonInput",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCControllerAxisButtonInput",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GCController",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GCController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GCControllerElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "GCControllerAxisInput",
+          "children": []
+        },
+        {
+          "name": "GCControllerButtonInput",
+          "children": []
+        },
+        {
+          "name": "GCControllerDirectionPad",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

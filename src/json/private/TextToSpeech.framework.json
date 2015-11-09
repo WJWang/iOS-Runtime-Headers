@@ -1,1 +1,51 @@
-{"name":"TextToSpeech.framework","list":[{"father":"NSObject","childList":["TTSAudioSession"]},{"father":"NSObject","childList":["TTSFormatArgument"]},{"father":"NSObject","childList":["TTSSpeechClient"]},{"father":"NSObject","childList":["TTSSpeechConnection"]},{"father":"NSObject","childList":["TTSSpeechConnectionDelegateWrapper"]},{"father":"NSObject","childList":["TTSSpeechRequest"]},{"father":"NSObject","childList":["TTSSpeechServer"]},{"father":"NSObject","childList":["TTSSpeechSynthesizer"]},{"father":"NSObject","childList":["TTSVoiceAsset"]},{"father":"NSObject","childList":["TTSVoiceAssetManager"]}]}
+{
+  "name": "TextToSpeech.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TTSAudioSession",
+          "children": []
+        },
+        {
+          "name": "TTSFormatArgument",
+          "children": []
+        },
+        {
+          "name": "TTSSpeechClient",
+          "children": []
+        },
+        {
+          "name": "TTSSpeechConnection",
+          "children": []
+        },
+        {
+          "name": "TTSSpeechConnectionDelegateWrapper",
+          "children": []
+        },
+        {
+          "name": "TTSSpeechRequest",
+          "children": []
+        },
+        {
+          "name": "TTSSpeechServer",
+          "children": []
+        },
+        {
+          "name": "TTSSpeechSynthesizer",
+          "children": []
+        },
+        {
+          "name": "TTSVoiceAsset",
+          "children": []
+        },
+        {
+          "name": "TTSVoiceAssetManager",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

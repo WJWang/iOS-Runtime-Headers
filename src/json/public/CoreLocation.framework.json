@@ -1,1 +1,85 @@
-{"name":"CoreLocation.framework","list":[{"father":"NSObject","childList":["CLBeacon"]},{"father":"CLRegion","childList":["CLBeaconRegion"]},{"father":"CLRegion","childList":["CLCircularRegion"]},{"father":"NSObject","childList":["CLGeocoder"]},{"father":"NSObject","childList":["CLGeocoderInternal"]},{"father":"NSObject","childList":["CLHeading"]},{"father":"NSObject","childList":["CLHeadingInternal"]},{"father":"NSObject","childList":["CLLocation"]},{"father":"NSObject","childList":["CLLocationInternal"]},{"father":"NSObject","childList":["CLLocationManager"]},{"father":"NSObject","childList":["CLLocationManagerInternal"]},{"father":"NSObject","childList":["CLLocationManagerRoutine"]},{"father":"NSObject","childList":["CLPlacemark"]},{"father":"NSObject","childList":["CLPlacemarkInternal"]},{"father":"NSObject","childList":["CLRegion"]},{"father":"NSObject","childList":["CLSimulationManager"]},{"father":"NSObject","childList":["CLTilesManagerClient"]},{"father":"NSObject","childList":["_CLLocationManagerRoutineProxy"]}]}
+{
+  "name": "CoreLocation.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CLGeocoder",
+          "children": []
+        },
+        {
+          "name": "CLGeocoderInternal",
+          "children": []
+        },
+        {
+          "name": "CLHeading",
+          "children": []
+        },
+        {
+          "name": "CLHeadingInternal",
+          "children": []
+        },
+        {
+          "name": "CLLocation",
+          "children": []
+        },
+        {
+          "name": "CLLocationInternal",
+          "children": []
+        },
+        {
+          "name": "CLLocationManager",
+          "children": []
+        },
+        {
+          "name": "CLLocationManagerInternal",
+          "children": []
+        },
+        {
+          "name": "CLLocationManagerRoutine",
+          "children": []
+        },
+        {
+          "name": "CLPlacemark",
+          "children": []
+        },
+        {
+          "name": "CLPlacemarkInternal",
+          "children": []
+        },
+        {
+          "name": "CLRegion",
+          "children": []
+        },
+        {
+          "name": "CLSimulationManager",
+          "children": []
+        },
+        {
+          "name": "CLTilesManagerClient",
+          "children": []
+        },
+        {
+          "name": "_CLLocationManagerRoutineProxy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CLRegion",
+      "parent": null,
+      "children": [
+        {
+          "name": "CLBeaconRegion",
+          "children": []
+        },
+        {
+          "name": "CLCircularRegion",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

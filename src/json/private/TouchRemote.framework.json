@@ -1,1 +1,89 @@
-{"name":"TouchRemote.framework","list":[{"father":"NSObject","childList":["TRAdvertisingInfo"]},{"father":"TRPacketEvent","childList":["TRAuthorizationStatusPacketEvent"]},{"father":"TRPacketEvent","childList":["TRAuthorizePacketEvent"]},{"father":"NSObject","childList":["TRAuthorizedDeviceManager"]},{"father":"NSObject","childList":["TRBrowser"]},{"father":"NSObject","childList":["TRConnection"]},{"father":"NSObject","childList":["TRConnectionManager"]},{"father":"NSObject","childList":["TRDBrowser"]},{"father":"NSObject","childList":["TRDConnectionManager"]},{"father":"TRTCPConnection","childList":["TRDServerConnection"]},{"father":"NSObject","childList":["TRDXPCServer"]},{"father":"NSObject","childList":["TRDeviceSetupBrowser"]},{"father":"NSObject","childList":["TRDeviceSetupPeripheral"]},{"father":"NSObject","childList":["TRDeviceSetupServer"]},{"father":"TRPacketEvent","childList":["TRDirectionalButtonPacketEvent"]},{"father":"TRPacketEvent","childList":["TRDirectionalPanPacketEvent"]},{"father":"TRPacketEvent","childList":["TRKeepAlivePacketEvent"]},{"father":"TRPacketEvent","childList":["TRKeyboardPromptUpdatePacketEvent"]},{"father":"TRPacketEvent","childList":["TRKeyboardUserEntryPacketEvent"]},{"father":"TRAdvertisingInfo","childList":["TRMutableAdvertisingInfo"]},{"father":"TRPacketEvent","childList":["TRNowPlayingArtworkUpdatePacketEvent"]},{"father":"TRPacketEvent","childList":["TRNowPlayingControlPacketEvent"]},{"father":"TRPacketEvent","childList":["TRNowPlayingInfoUpdatePacketEvent"]},{"father":"NSObject","childList":["TRPacketEvent"]},{"father":"TRPacketEvent","childList":["TRResendPacketEvent"]},{"father":"TRTCPConnection","childList":["TRSClientConnection"]},{"father":"NSObject","childList":["TRServer"]},{"father":"NSObject","childList":["TRService"]},{"father":"NSObject","childList":["TRTCPConnection"]},{"father":"NSObject","childList":["TRTCPConnectionStream"]},{"father":"NSObject","childList":["TRTransferBrowser"]},{"father":"NSObject","childList":["TRTransferServer"]},{"father":"NSObject","childList":["TRXPCClient"]},{"father":"NSObject","childList":["_TRConnectionTargetAction"]},{"father":"NSObject","childList":["_TRUserNotfication"]}]}
+{
+  "name": "TouchRemote.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TRServer",
+          "children": []
+        },
+        {
+          "name": "TRService",
+          "children": []
+        },
+        {
+          "name": "TRTCPConnection",
+          "children": []
+        },
+        {
+          "name": "TRTCPConnectionStream",
+          "children": []
+        },
+        {
+          "name": "TRTransferBrowser",
+          "children": []
+        },
+        {
+          "name": "TRTransferServer",
+          "children": []
+        },
+        {
+          "name": "TRXPCClient",
+          "children": []
+        },
+        {
+          "name": "_TRConnectionTargetAction",
+          "children": []
+        },
+        {
+          "name": "_TRUserNotfication",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TRTCPConnection",
+      "parent": null,
+      "children": [
+        {
+          "name": "TRSClientConnection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TRPacketEvent",
+      "parent": null,
+      "children": [
+        {
+          "name": "TRNowPlayingArtworkUpdatePacketEvent",
+          "children": []
+        },
+        {
+          "name": "TRNowPlayingControlPacketEvent",
+          "children": []
+        },
+        {
+          "name": "TRNowPlayingInfoUpdatePacketEvent",
+          "children": []
+        },
+        {
+          "name": "TRResendPacketEvent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TRAdvertisingInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "TRMutableAdvertisingInfo",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

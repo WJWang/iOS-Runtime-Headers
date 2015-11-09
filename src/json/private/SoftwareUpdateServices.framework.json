@@ -1,1 +1,65 @@
-{"name":"SoftwareUpdateServices.framework","list":[{"father":"NSObject","childList":["SUAssetStateMatcher"]},{"father":"NSObject","childList":["SUAssetSupport"]},{"father":"SUDefaultDownloadPolicy","childList":["SUAutoDownloadPolicy"]},{"father":"NSObject","childList":["SUCarrierDownloadPolicyProperties"]},{"father":"NSObject","childList":["SUDefaultDownloadPolicy"]},{"father":"SUDefaultDownloadPolicy","childList":["SUDefaultRoamingRestrictedDownloadPolicy"]},{"father":"SUDefaultDownloadPolicy","childList":["SUDefaultWiFiOnlyDownloadPolicy"]},{"father":"NSObject","childList":["SUDescriptor"]},{"father":"NSObject","childList":["SUDocumentation"]},{"father":"SUAssetStateMatcher","childList":["SUDocumentationAssetMatcher"]},{"father":"NSObject","childList":["SUDownload"]},{"father":"NSObject","childList":["SUDownloadMetadata"]},{"father":"SUDefaultDownloadPolicy","childList":["SUDownloadPolicy"]},{"father":"NSObject","childList":["SUDownloadPolicyFactory"]},{"father":"NSObject","childList":["SUEmptyObject"]},{"father":"NSObject","childList":["SUManagerClient"]},{"father":"SUDefaultDownloadPolicy","childList":["SUManualDownloadPolicy"]},{"father":"SUDownloadMetadata","childList":["SUMutableDownloadMetadata"]},{"father":"NSObject","childList":["SUNetworkMonitor"]},{"father":"NSObject","childList":["SUOperationProgress"]},{"father":"NSObject","childList":["SUPreferences"]},{"father":"NSObject","childList":["SUScanOptions"]},{"father":"SUAssetStateMatcher","childList":["SUSoftwareUpdateAssetMatcher"]},{"father":"NSObject","childList":["SUState"]},{"father":"NSObject","childList":["SUUtility"]}]}
+{
+  "name": "SoftwareUpdateServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUState",
+          "children": []
+        },
+        {
+          "name": "SUUtility",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUAssetStateMatcher",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUSoftwareUpdateAssetMatcher",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUDownloadMetadata",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUMutableDownloadMetadata",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUDefaultDownloadPolicy",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUAutoDownloadPolicy",
+          "children": []
+        },
+        {
+          "name": "SUDefaultRoamingRestrictedDownloadPolicy",
+          "children": []
+        },
+        {
+          "name": "SUDefaultWiFiOnlyDownloadPolicy",
+          "children": []
+        },
+        {
+          "name": "SUDownloadPolicy",
+          "children": []
+        },
+        {
+          "name": "SUManualDownloadPolicy",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"IAP.framework","list":[{"father":"NSObject","childList":["IAPAudioCallbackInfo"]}]}
+{
+  "name": "IAP.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "IAPAudioCallbackInfo",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

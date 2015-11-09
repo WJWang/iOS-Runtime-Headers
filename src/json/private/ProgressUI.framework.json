@@ -1,1 +1,15 @@
-{"name":"ProgressUI.framework","list":[{"father":"NSObject","childList":["PUIProgressWindow"]}]}
+{
+  "name": "ProgressUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUIProgressWindow",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

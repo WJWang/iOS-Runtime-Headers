@@ -1,1 +1,33 @@
-{"name":"AssetsLibrary.framework","list":[{"father":"NSObject","childList":["ALAsset"]},{"father":"NSObject","childList":["ALAssetPrivate"]},{"father":"NSObject","childList":["ALAssetRepresentation"]},{"father":"NSObject","childList":["ALAssetRepresentationPrivate"]},{"father":"NSObject","childList":["ALAssetsFilter"]},{"father":"NSObject","childList":["ALAssetsFilterInternal"]},{"father":"NSObject","childList":["ALAssetsGroup"]},{"father":"ALAssetsGroup","childList":["ALAssetsGroupList"]},{"father":"NSObject","childList":["ALAssetsGroupPrivate"]},{"father":"NSObject","childList":["ALAssetsLibrary"]},{"father":"NSObject","childList":["ALAssetsLibraryPrivate"]}]}
+{
+  "name": "AssetsLibrary.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ALAssetsGroupPrivate",
+          "children": []
+        },
+        {
+          "name": "ALAssetsLibrary",
+          "children": []
+        },
+        {
+          "name": "ALAssetsLibraryPrivate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ALAssetsGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "ALAssetsGroupList",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

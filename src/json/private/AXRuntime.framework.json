@@ -1,1 +1,57 @@
-{"name":"AXRuntime.framework","list":[{"father":"NSString","childList":["AXAttributedString"]},{"father":"NSObject","childList":["AXElement"]},{"father":"NSObject","childList":["AXElementFetcher"]},{"father":"NSArray","childList":["AXElementGroup"]},{"father":"NSObject","childList":["AXElementGroupPruner"]},{"father":"NSObject","childList":["AXElementGrouper"]},{"father":"NSObject","childList":["AXObserverElementPair"]},{"father":"NSObject","childList":["AXUIElement"]},{"father":"AXElementGrouper","childList":["AXVisualElementGrouper"]}]}
+{
+  "name": "AXRuntime.framework",
+  "list": [
+    {
+      "name": "AXElementGrouper",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXVisualElementGrouper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXElementGroupPruner",
+          "children": []
+        },
+        {
+          "name": "AXElementGrouper",
+          "children": []
+        },
+        {
+          "name": "AXObserverElementPair",
+          "children": []
+        },
+        {
+          "name": "AXUIElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXElementGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSString",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXAttributedString",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

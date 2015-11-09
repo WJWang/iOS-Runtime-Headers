@@ -1,1 +1,27 @@
-{"name":"Altitude.framework","list":[{"father":"NSObject","childList":["AltTileFetcher"]},{"father":"NSObject","childList":["AltitudeGEOResourceObserver"]},{"father":"NSObject","childList":["AltitudeNetworkRunLoop"]},{"father":"NSObject","childList":["PipelineJPEGDecoder"]}]}
+{
+  "name": "Altitude.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AltTileFetcher",
+          "children": []
+        },
+        {
+          "name": "AltitudeGEOResourceObserver",
+          "children": []
+        },
+        {
+          "name": "AltitudeNetworkRunLoop",
+          "children": []
+        },
+        {
+          "name": "PipelineJPEGDecoder",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

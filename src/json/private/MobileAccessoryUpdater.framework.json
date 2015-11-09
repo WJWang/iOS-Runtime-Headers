@@ -1,1 +1,27 @@
-{"name":"MobileAccessoryUpdater.framework","list":[{"father":"NSObject","childList":["FudInternalConnection"]},{"father":"NSObject","childList":["FudProgressWeights"]},{"father":"NSObject","childList":["FudXPCConnection"]},{"father":"NSObject","childList":["MobileAccessoryUpdater"]}]}
+{
+  "name": "MobileAccessoryUpdater.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "FudInternalConnection",
+          "children": []
+        },
+        {
+          "name": "FudProgressWeights",
+          "children": []
+        },
+        {
+          "name": "FudXPCConnection",
+          "children": []
+        },
+        {
+          "name": "MobileAccessoryUpdater",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

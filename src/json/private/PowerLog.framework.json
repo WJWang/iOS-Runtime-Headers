@@ -1,1 +1,33 @@
-{"name":"PowerLog.framework","list":[{"father":"PLXPCConnectionClient","childList":["PLBatteryLifeMonitor"]},{"father":"PLXPCConnectionClient","childList":["PLClientLogger"]},{"father":"NSObject","childList":["PLXPCConection"]},{"father":"NSObject","childList":["PLXPCConnectionClient"]}]}
+{
+  "name": "PowerLog.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLXPCConection",
+          "children": []
+        },
+        {
+          "name": "PLXPCConnectionClient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLXPCConnectionClient",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLBatteryLifeMonitor",
+          "children": []
+        },
+        {
+          "name": "PLClientLogger",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

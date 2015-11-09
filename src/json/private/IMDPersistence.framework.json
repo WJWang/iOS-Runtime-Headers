@@ -1,1 +1,15 @@
-{"name":"IMDPersistence.framework","list":[{"father":"NSObject","childList":["IMDPersistentAttachmentController"]}]}
+{
+  "name": "IMDPersistence.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMDPersistentAttachmentController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

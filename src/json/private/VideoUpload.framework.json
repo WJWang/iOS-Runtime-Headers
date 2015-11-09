@@ -1,1 +1,55 @@
-{"name":"VideoUpload.framework","list":[{"father":"NSObject","childList":["JSONHTTPRequest"]},{"father":"NSObject","childList":["VUAuthenticator"]},{"father":"NSObject","childList":["VUCategory"]},{"father":"UITableViewCell","childList":["VUCategoryCell"]},{"father":"NSObject","childList":["VUFileUpload"]},{"father":"UIView","childList":["VUFooterContainerView"]},{"father":"PLPublishingAgent","childList":["VUPublishAgent"]},{"father":"NSObject","childList":["VUPublishPost"]},{"father":"UIViewController","childList":["VUPublishViewController"]}]}
+{
+  "name": "VideoUpload.framework",
+  "list": [
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "VUPublishViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "VUPublishPost",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLPublishingAgent",
+      "parent": null,
+      "children": [
+        {
+          "name": "VUPublishAgent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "VUFooterContainerView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "VUCategoryCell",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

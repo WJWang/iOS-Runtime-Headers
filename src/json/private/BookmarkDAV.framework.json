@@ -1,1 +1,79 @@
-{"name":"BookmarkDAV.framework","list":[{"father":"NSObject","childList":["BookmarkDAVBookmark"]},{"father":"CoreDAVPostTask","childList":["BookmarkDAVBulkPostTask"]},{"father":"CoreDAVContainer","childList":["BookmarkDAVFolder"]},{"father":"CoreDAVFolderContentsMultiGetTask","childList":["BookmarkDAVFolderMultiGetTask"]},{"father":"CoreDAVGetAccountPropertiesTaskGroup","childList":["BookmarkDAVGetAccountPropertiesTaskGroup"]},{"father":"CoreDAVContainerMultiGetTask","childList":["BookmarkDAVMultiGetTask"]},{"father":"CoreDAVRecursiveContainerSyncTaskGroup","childList":["BookmarkDAVRecursiveContainerSyncTaskGroup"]},{"father":"NSObject","childList":["BookmarkDAVSyncData"]},{"father":"NSObject","childList":["BookmarkDAVSyncDriver"]}]}
+{
+  "name": "BookmarkDAV.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "BookmarkDAVSyncData",
+          "children": []
+        },
+        {
+          "name": "BookmarkDAVSyncDriver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVRecursiveContainerSyncTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "BookmarkDAVRecursiveContainerSyncTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerMultiGetTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "BookmarkDAVMultiGetTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVGetAccountPropertiesTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "BookmarkDAVGetAccountPropertiesTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVFolderContentsMultiGetTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "BookmarkDAVFolderMultiGetTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainer",
+      "parent": null,
+      "children": [
+        {
+          "name": "BookmarkDAVFolder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPostTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "BookmarkDAVBulkPostTask",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

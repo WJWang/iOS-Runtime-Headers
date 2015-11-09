@@ -1,1 +1,367 @@
-{"name":"MapKit.framework","list":[{"father":"NSObject","childList":["MKAmbientLightMonitor"]},{"father":"NSObject","childList":["MKAnnotationCalloutController"]},{"father":"UIView","childList":["MKAnnotationContainerView"]},{"father":"NSObject","childList":["MKAnnotationManager"]},{"father":"UIView","childList":["MKAnnotationView"]},{"father":"NSObject","childList":["MKAnnotationViewInternal"]},{"father":"NSObject","childList":["MKAppLaunchController"]},{"father":"UILabel","childList":["MKAttributionLabel"]},{"father":"UIView","childList":["MKBasicMapView"]},{"father":"NSObject","childList":["MKBlockBasedSnapshotRequester"]},{"father":"NSObject","childList":["MKCALayerCompletionDelegate"]},{"father":"UIPopoverBackgroundView","childList":["MKCalloutBackgroundView"]},{"father":"MKAnnotationCalloutController","childList":["MKCalloutBasedAnnotationCalloutController"]},{"father":"NSObject","childList":["MKCanDrawCache"]},{"father":"MKShape","childList":["MKCircle"]},{"father":"MKOverlayPathRenderer","childList":["MKCircleRenderer"]},{"father":"MKOverlayPathView","childList":["MKCircleView"]},{"father":"UIView","childList":["MKCompassView"]},{"father":"NSObject","childList":["MKCoreLocationProvider"]},{"father":"NSDate","childList":["MKDate"]},{"father":"NSObject","childList":["MKDirections"]},{"father":"NSObject","childList":["MKDirectionsRequest"]},{"father":"NSObject","childList":["MKDirectionsResponse"]},{"father":"NSFormatter","childList":["MKDistanceFormatter"]},{"father":"NSObject","childList":["MKETAResponse"]},{"father":"NSObject","childList":["MKETAUpdater"]},{"father":"MKPolyline","childList":["MKGeodesicPolyline"]},{"father":"NSObject","childList":["MKInstructionContents"]},{"father":"MKAnnotationView","childList":["MKLabelMarkerView"]},{"father":"CALayer","childList":["MKLayer"]},{"father":"NSObject","childList":["MKLocalSearch"]},{"father":"MKSearchCompleter","childList":["MKLocalSearchCompleter"]},{"father":"NSObject","childList":["MKLocalSearchRequest"]},{"father":"NSObject","childList":["MKLocalSearchResponse"]},{"father":"NSObject","childList":["MKLocationManager"]},{"father":"NSObject","childList":["MKLocationManagerSingleUpdater"]},{"father":"MKAnnotationManager","childList":["MKMapAnnotationManager"]},{"father":"NSObject","childList":["MKMapAttribution"]},{"father":"NSObject","childList":["MKMapAttributionImage"]},{"father":"NSObject","childList":["MKMapCamera"]},{"father":"NSObject","childList":["MKMapGestureController"]},{"father":"NSObject","childList":["MKMapItem"]},{"father":"NSObject","childList":["MKMapSnapshot"]},{"father":"NSObject","childList":["MKMapSnapshotCreator"]},{"father":"NSObject","childList":["MKMapSnapshotOptions"]},{"father":"NSObject","childList":["MKMapSnapshotRequest"]},{"father":"NSObject","childList":["MKMapSnapshotter"]},{"father":"UIView","childList":["MKMapView"]},{"father":"NSObject","childList":["MKMapViewInternal"]},{"father":"MKUserLocationView","childList":["MKModernUserLocationView"]},{"father":"NSObject","childList":["MKMotionManager"]},{"father":"MKShape","childList":["MKMultiPoint"]},{"father":"MKAnnotationContainerView","childList":["MKNewAnnotationContainerView"]},{"father":"MKAnnotationContainerView","childList":["MKOldAnnotationContainerView"]},{"father":"NSObject","childList":["MKOrientationContext"]},{"father":"UIView","childList":["MKOverlayContainerView"]},{"father":"MKOverlayRenderer","childList":["MKOverlayPathRenderer"]},{"father":"MKOverlayView","childList":["MKOverlayPathView"]},{"father":"NSObject","childList":["MKOverlayRenderer"]},{"father":"UIView","childList":["MKOverlayView"]},{"father":"MKAnnotationView","childList":["MKPinAnnotationView"]},{"father":"NSObject","childList":["MKPinAnnotationViewInternal"]},{"father":"MKSearchCompletion","childList":["MKPlaceResultSearchCompletion"]},{"father":"CLPlacemark","childList":["MKPlacemark"]},{"father":"MKShape","childList":["MKPointAnnotation"]},{"father":"MKMultiPoint","childList":["MKPolygon"]},{"father":"MKOverlayPathRenderer","childList":["MKPolygonRenderer"]},{"father":"MKOverlayPathView","childList":["MKPolygonView"]},{"father":"MKMultiPoint","childList":["MKPolyline"]},{"father":"MKOverlayPathRenderer","childList":["MKPolylineRenderer"]},{"father":"MKOverlayPathView","childList":["MKPolylineView"]},{"father":"MKAnnotationCalloutController","childList":["MKPopoverBasedAnnotationCalloutController"]},{"father":"NSObject","childList":["MKQuadTrie"]},{"father":"NSObject","childList":["MKReverseGeocoder"]},{"father":"NSObject","childList":["MKReverseGeocoderInternal"]},{"father":"NSObject","childList":["MKRisonParser"]},{"father":"NSObject","childList":["MKRoute"]},{"father":"MKPolyline","childList":["MKRoutePolyline"]},{"father":"NSObject","childList":["MKRouteStep"]},{"father":"MKPolyline","childList":["MKRouteStepPolyline"]},{"father":"UIView","childList":["MKScaleView"]},{"father":"UIView","childList":["MKScrollContainerView"]},{"father":"NSObject","childList":["MKSearchCompleter"]},{"father":"NSObject","childList":["MKSearchCompletion"]},{"father":"NSObject","childList":["MKShape"]},{"father":"UIView","childList":["MKSmallCalloutView"]},{"father":"UIViewController","childList":["MKSmallCalloutViewController"]},{"father":"UIView","childList":["MKStarRatingAndLabelView"]},{"father":"UIView","childList":["MKStarRatingView"]},{"father":"MKSearchCompletion","childList":["MKSuggestionEntrySearchCompletion"]},{"father":"NSObject","childList":["MKSystemController"]},{"father":"NSObject","childList":["MKThreadContext"]},{"father":"NSObject","childList":["MKThrottledGate"]},{"father":"NSObject","childList":["MKTileOverlay"]},{"father":"MKOverlayRenderer","childList":["MKTileOverlayRenderer"]},{"father":"GEOTileRequester","childList":["MKTileOverlayRequester"]},{"father":"NSObject","childList":["MKTileOverlayRequesterOp"]},{"father":"NSObject","childList":["MKTileOverlayTile"]},{"father":"UIPanGestureRecognizer","childList":["MKTiltGestureRecognizer"]},{"father":"NSObject","childList":["MKTrafficSupport"]},{"father":"NSObject","childList":["MKURLSerializer"]},{"father":"NSObject","childList":["MKUserLocation"]},{"father":"NSObject","childList":["MKUserLocationAnnotation"]},{"father":"NSObject","childList":["MKUserLocationAnnotationViewProxy"]},{"father":"NSObject","childList":["MKUserLocationInternal"]},{"father":"MKAnnotationView","childList":["MKUserLocationView"]},{"father":"UIBarButtonItem","childList":["MKUserTrackingBarButtonItem"]},{"father":"UITapGestureRecognizer","childList":["MKVariableDelayTapRecognizer"]},{"father":"UIView","childList":["MKWorldView"]},{"father":"VKAnchorWrapper","childList":["_MKAnnotationViewAnchor"]},{"father":"UIView","childList":["_MKCalloutBackgroundMaskView"]},{"father":"MKDirections","childList":["_MKDirections"]},{"father":"NSObject","childList":["_MKDirectionsETAResponse"]},{"father":"MKUserLocationView","childList":["_MKGemUserLocationView"]},{"father":"CALayer","childList":["_MKLegendString"]},{"father":"NSObject","childList":["_MKLocationShifter"]},{"father":"CALayer","childList":["_MKMapLayerHostingLayer"]},{"father":"UIView","childList":["_MKMapLayerHostingView"]},{"father":"UIPopoverController","childList":["_MKPopoverController"]},{"father":"UIView","childList":["_MKPopoverEmbeddingView"]},{"father":"UIView","childList":["_MKScaleUnitsView"]},{"father":"UIView","childList":["_MKSegmentView"]},{"father":"UIView","childList":["_MKSmallCalloutContainerView"]},{"father":"UIControl","childList":["_MKSmallCalloutPassthroughButton"]},{"father":"UIGestureRecognizer","childList":["_MKUserInteractionGestureRecognizer"]},{"father":"UIButton","childList":["_MKUserTrackingButton"]},{"father":"NSObject","childList":["_MKUserTrackingButtonController"]},{"father":"NSObject","childList":["_MKWiFiObserver"]}]}
+{
+  "name": "MapKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKUserTrackingButtonController",
+          "children": []
+        },
+        {
+          "name": "_MKWiFiObserver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKUserTrackingButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKUserInteractionGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKSmallCalloutPassthroughButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKPopoverEmbeddingView",
+          "children": []
+        },
+        {
+          "name": "_MKScaleUnitsView",
+          "children": []
+        },
+        {
+          "name": "_MKSegmentView",
+          "children": []
+        },
+        {
+          "name": "_MKSmallCalloutContainerView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPopoverController",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKPopoverController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKLegendString",
+          "children": []
+        },
+        {
+          "name": "_MKMapLayerHostingLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKUserLocationView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKGemUserLocationView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKDirections",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKDirections",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VKAnchorWrapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MKAnnotationViewAnchor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITapGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKVariableDelayTapRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIBarButtonItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKUserTrackingBarButtonItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKAnnotationView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKUserLocationView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPanGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKTiltGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GEOTileRequester",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKTileOverlayRequester",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKOverlayRenderer",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKTileOverlayRenderer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKSearchCompletion",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKSuggestionEntrySearchCompletion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKSmallCalloutViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKPolyline",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKRoutePolyline",
+          "children": []
+        },
+        {
+          "name": "MKRouteStepPolyline",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKAnnotationCalloutController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKPopoverBasedAnnotationCalloutController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKOverlayPathView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKPolylineView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKOverlayPathRenderer",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKPolylineRenderer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKMultiPoint",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKPolygon",
+          "children": []
+        },
+        {
+          "name": "MKPolyline",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKShape",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKPointAnnotation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CLPlacemark",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKPlacemark",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKOverlayView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKOverlayPathView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKAnnotationContainerView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKNewAnnotationContainerView",
+          "children": []
+        },
+        {
+          "name": "MKOldAnnotationContainerView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKAnnotationManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKMapAnnotationManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MKSearchCompleter",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKLocalSearchCompleter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKDistanceFormatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSDate",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKDate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPopoverBackgroundView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKCalloutBackgroundView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "MKAttributionLabel",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

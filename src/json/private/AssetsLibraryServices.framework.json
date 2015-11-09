@@ -1,1 +1,39 @@
-{"name":"AssetsLibraryServices.framework","list":[{"father":"NSObject","childList":["PLGatekeeperClient"]},{"father":"NSString","childList":["PLUUIDString"]},{"father":"NSData","childList":["PLXPCData"]},{"father":"NSData","childList":["PLXPCShMemData"]},{"father":"NSObject","childList":["PLXPCTransaction"]}]}
+{
+  "name": "AssetsLibraryServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLXPCTransaction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSData",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLXPCData",
+          "children": []
+        },
+        {
+          "name": "PLXPCShMemData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSString",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLUUIDString",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

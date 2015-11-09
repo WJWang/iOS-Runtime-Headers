@@ -1,1 +1,59 @@
-{"name":"Stocks.framework","list":[{"father":"NSObject","childList":["ChartLabelInfo"]},{"father":"NSObject","childList":["ChartLabelInfoManager"]},{"father":"NSObject","childList":["GraphRenderOperation"]},{"father":"NSObject","childList":["GraphRenderer"]},{"father":"UIView","childList":["LineGraphView"]},{"father":"NSObject","childList":["NetPreferences"]},{"father":"NSObject","childList":["NewsParserData"]},{"father":"XMLHTTPRequest","childList":["NewsUpdater"]},{"father":"NSObject","childList":["QuoteParserData"]},{"father":"NSObject","childList":["Stock"]},{"father":"NSObject","childList":["StockChartData"]},{"father":"NSObject","childList":["StockGraphImageSet"]},{"father":"UIView","childList":["StockGraphView"]},{"father":"NSObject","childList":["StockManager"]},{"father":"NSObject","childList":["StockNewsItem"]},{"father":"NSObject","childList":["StockNewsItemCollection"]},{"father":"NSObject","childList":["StockUpdateManager"]},{"father":"XMLHTTPRequest","childList":["StockUpdater"]},{"father":"NSObject","childList":["StocksBundles"]},{"father":"NSObject","childList":["StocksPreferences"]},{"father":"NSObject","childList":["StocksStyle"]},{"father":"NSObject","childList":["SymbolParserData"]},{"father":"XMLHTTPRequest","childList":["SymbolValidator"]},{"father":"UIView","childList":["TintedView"]},{"father":"UIView","childList":["VolumeGraphView"]},{"father":"NSObject","childList":["XMLChartParserData"]},{"father":"XMLHTTPRequest","childList":["XMLChartUpdater"]},{"father":"NSObject","childList":["XMLHTTPRequest"]},{"father":"NSObject","childList":["YQLRequest"]},{"father":"NSObject","childList":["YahooCompensator"]},{"father":"NSObject","childList":["YahooDoppelganger"]}]}
+{
+  "name": "Stocks.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "XMLHTTPRequest",
+          "children": []
+        },
+        {
+          "name": "YQLRequest",
+          "children": []
+        },
+        {
+          "name": "YahooCompensator",
+          "children": []
+        },
+        {
+          "name": "YahooDoppelganger",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "XMLHTTPRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "XMLChartUpdater",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "LineGraphView",
+          "children": []
+        },
+        {
+          "name": "StockGraphView",
+          "children": []
+        },
+        {
+          "name": "TintedView",
+          "children": []
+        },
+        {
+          "name": "VolumeGraphView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"name":"AppLaunchStats.framework","list":[{"father":"NSObject","childList":["AppLaunchStats"]},{"father":"NSObject","childList":["AppLaunchStatsAppWorkSpace"]},{"father":"NSObject","childList":["AppLaunchStatsComputation"]},{"father":"NSObject","childList":["AppLaunchStatsDelayLaunch"]},{"father":"NSObject","childList":["AppLaunchStatsDiag"]},{"father":"NSObject","childList":["AppLaunchStatsLaunchObject"]},{"father":"NSObject","childList":["AppLaunchStatsLaunchQueue"]},{"father":"NSObject","childList":["AppLaunchStatsLogFormater"]},{"father":"NSObject","childList":["AppLaunchStatsREventHandler"]},{"father":"NSObject","childList":["AppLaunchStatsSBMonitor"]},{"father":"NSObject","childList":["AppLaunchStatsSBSettings"]},{"father":"NSObject","childList":["AppLaunchStatsSaveAndRestore"]},{"father":"NSObject","childList":["AppLaunchStatsScheduler"]},{"father":"NSObject","childList":["AppLaunchStatsState"]},{"father":"NSObject","childList":["AppLaunchStatsStateHandler"]},{"father":"NSObject","childList":["AppLaunchStatsStateHandlerQueue"]},{"father":"NSObject","childList":["AppLaunchStatsWhiteListManager"]},{"father":"NSObject","childList":["HistogramElement"]},{"father":"NSObject","childList":["RankElement"]},{"father":"NSObject","childList":["ReservationStationObject"]}]}
+{
+  "name": "AppLaunchStats.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AppLaunchStats",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsAppWorkSpace",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsComputation",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsDelayLaunch",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsDiag",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsLaunchObject",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsLaunchQueue",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsLogFormater",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsREventHandler",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsSBMonitor",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsSBSettings",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsSaveAndRestore",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsScheduler",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsState",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsStateHandler",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsStateHandlerQueue",
+          "children": []
+        },
+        {
+          "name": "AppLaunchStatsWhiteListManager",
+          "children": []
+        },
+        {
+          "name": "HistogramElement",
+          "children": []
+        },
+        {
+          "name": "RankElement",
+          "children": []
+        },
+        {
+          "name": "ReservationStationObject",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"AITTarget.framework","list":[{"father":"NSObject","childList":["AITTarget"]},{"father":"NSObject","childList":["AITTargetObserverRecord"]},{"father":"NSObject","childList":["AITXPCConnection"]}]}
+{
+  "name": "AITTarget.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AITTarget",
+          "children": []
+        },
+        {
+          "name": "AITTargetObserverRecord",
+          "children": []
+        },
+        {
+          "name": "AITXPCConnection",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,231 @@
-{"name":"QuickLook.framework","list":[{"father":"NSObject","childList":["QLAirPlayController"]},{"father":"UIViewController","childList":["QLAirPlayViewController"]},{"father":"UITableViewCell","childList":["QLArchiveTableViewCell"]},{"father":"UITableViewController","childList":["QLArchiveTableViewController"]},{"father":"NSObject","childList":["QLArchiveViewer"]},{"father":"QLPreviewParts","childList":["QLBasePreviewParts"]},{"father":"UIScrollView","childList":["QLDelayedScrollView"]},{"father":"UIViewController","childList":["QLDisplayBundle"]},{"father":"NSObject","childList":["QLDisplayBundleLoader"]},{"father":"QLDisplayBundle","childList":["QLGenericDisplayBundle"]},{"father":"UIView","childList":["QLGenericView"]},{"father":"QLThumbnailOperation","childList":["QLHTMLThumbnailOperation"]},{"father":"QLRemotePrintPageHelper","childList":["QLLayoutedPrintPageRenderer"]},{"father":"NSObject","childList":["QLPDFHanderDelegateForwarder"]},{"father":"QLThumbnailOperation","childList":["QLPDFThumbnailOperation"]},{"father":"UIView","childList":["QLPageNumberView"]},{"father":"NSObject","childList":["QLPreviewArchiveItem"]},{"father":"QLPreviewTransitionAnimator","childList":["QLPreviewBuiltInTransitionAnimator"]},{"father":"UIViewController","childList":["QLPreviewContentController"]},{"father":"UIViewController","childList":["QLPreviewController"]},{"father":"NSObject","childList":["QLPreviewControllerReserved"]},{"father":"NSObject","childList":["QLPreviewConverter"]},{"father":"NSObject","childList":["QLPreviewItemAVState"]},{"father":"NSObject","childList":["QLPreviewItemProxy"]},{"father":"NSObject","childList":["QLPreviewItemsSource"]},{"father":"UIPageViewController","childList":["QLPreviewPageViewController"]},{"father":"NSObject","childList":["QLPreviewParts"]},{"father":"NSObject","childList":["QLPreviewRemoteItem"]},{"father":"NSObject","childList":["QLPreviewThumbnailGenerator"]},{"father":"NSObject","childList":["QLPreviewTransitionAnimator"]},{"father":"NSObject","childList":["QLPreviewTransitionAnimatorManager"]},{"father":"NSObject","childList":["QLPreviewUIItem"]},{"father":"NSURLProtocol","childList":["QLPreviewURLProtocol"]},{"father":"UIView","childList":["QLPreviewViewContainer"]},{"father":"UIViewController","childList":["QLPreviewViewController"]},{"father":"QLPreviewTransitionAnimator","childList":["QLPreviewZoomTransitionAnimator"]},{"father":"UIPrintPageRenderer","childList":["QLPrintPageRenderer"]},{"father":"UIView","childList":["QLProgressView"]},{"father":"_UIRemoteViewController","childList":["QLRemotePreviewContentController"]},{"father":"NSObject","childList":["QLRemotePrintPageHelper"]},{"father":"UIView","childList":["QLScrubView"]},{"father":"UIViewController","childList":["QLServicePreviewContentController"]},{"father":"QLRemotePrintPageHelper","childList":["QLSpreadsheetPrintPageRenderer"]},{"father":"NSObject","childList":["QLThreadInvoker"]},{"father":"NSOperation","childList":["QLThumbnailOperation"]},{"father":"UIView","childList":["QLThumbnailView"]},{"father":"QLDisplayBundle","childList":["QLWebViewDisplayBundle"]},{"father":"QLRemotePrintPageHelper","childList":["QLWordProcessorPrintPageRenderer"]},{"father":"NSObject","childList":["RTFCPZArchive"]},{"father":"NSObject","childList":["RTFCPZArchiveMemoryInputStream"]},{"father":"NSObject","childList":["RTFCPZEntry"]},{"father":"NSObject","childList":["RTFCPZEntryInflateInputStream"]},{"father":"NSObject","childList":["RTFCPZEntryUncompressedInputStream"]},{"father":"NSException","childList":["RTFCPZException"]},{"father":"NSObject","childList":["RTFHTMLWriter"]},{"father":"NSObject","childList":["RTFNSColor"]},{"father":"NSObject","childList":["RTFNSFont"]},{"father":"RTFNSParagraphStyle","childList":["RTFNSMutableParagraphStyle"]},{"father":"NSObject","childList":["RTFNSParagraphStyle"]},{"father":"NSObject","childList":["RTFNSShadow"]},{"father":"NSObject","childList":["RTFNSTextList"]},{"father":"NSObject","childList":["RTFReader"]},{"father":"NSObject","childList":["RTFReaderState"]},{"father":"NSObject","childList":["RTFReaderTableState"]},{"father":"NSObject","childList":["RTFTextBlock"]},{"father":"RTFTextBlock","childList":["RTFTextTable"]},{"father":"RTFTextBlock","childList":["RTFTextTableBlock"]},{"father":"NSObject","childList":["RTF_CMArchiveManager"]},{"father":"RTF_CMArchiveManager","childList":["RTF_CMDictArchiveManager"]},{"father":"RTF_CMArchiveManager","childList":["RTF_CMProgressiveArchiveManager"]},{"father":"RTF_OIXMLNode","childList":["RTF_OIXMLDocument"]},{"father":"RTF_OIXMLNode","childList":["RTF_OIXMLElement"]},{"father":"NSObject","childList":["RTF_OIXMLNode"]}]}
+{
+  "name": "QuickLook.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "RTF_OIXMLNode",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RTF_OIXMLNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "RTF_OIXMLDocument",
+          "children": []
+        },
+        {
+          "name": "RTF_OIXMLElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RTF_CMArchiveManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "RTF_CMDictArchiveManager",
+          "children": []
+        },
+        {
+          "name": "RTF_CMProgressiveArchiveManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RTFTextBlock",
+      "parent": null,
+      "children": [
+        {
+          "name": "RTFTextTable",
+          "children": []
+        },
+        {
+          "name": "RTFTextTableBlock",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RTFNSParagraphStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "RTFNSMutableParagraphStyle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSException",
+      "parent": null,
+      "children": [
+        {
+          "name": "RTFCPZException",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "QLRemotePrintPageHelper",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLWordProcessorPrintPageRenderer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "QLDisplayBundle",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLWebViewDisplayBundle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLThumbnailView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLThumbnailOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLServicePreviewContentController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLRemotePreviewContentController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPrintPageRenderer",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLPrintPageRenderer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "QLPreviewTransitionAnimator",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLPreviewZoomTransitionAnimator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSURLProtocol",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLPreviewURLProtocol",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPageViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLPreviewPageViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "QLThumbnailOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLHTMLThumbnailOperation",
+          "children": []
+        },
+        {
+          "name": "QLPDFThumbnailOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLDelayedScrollView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "QLPreviewParts",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLBasePreviewParts",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLArchiveTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "QLArchiveTableViewCell",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,63 @@
-{"name":"AirTraffic.framework","list":[{"father":"NSObject","childList":["ATAirlock"]},{"father":"NSObject","childList":["ATAsset"]},{"father":"NSObject","childList":["ATAssetManager"]},{"father":"NSObject","childList":["ATClientController"]},{"father":"NSObject","childList":["ATConnection"]},{"father":"NSObject","childList":["ATMessage"]},{"father":"NSObject","childList":["ATRollableLog"]},{"father":"NSObject","childList":["ATStoreInfo"]},{"father":"NSObject","childList":["ATUserDefaults"]},{"father":"NSObject","childList":["ATWakeupCall"]},{"father":"NSObject","childList":["ATXPCConnection"]},{"father":"NSObject","childList":["ATXPCMessage"]},{"father":"NSObject","childList":["ATXPCServer"]}]}
+{
+  "name": "AirTraffic.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ATAirlock",
+          "children": []
+        },
+        {
+          "name": "ATAsset",
+          "children": []
+        },
+        {
+          "name": "ATAssetManager",
+          "children": []
+        },
+        {
+          "name": "ATClientController",
+          "children": []
+        },
+        {
+          "name": "ATConnection",
+          "children": []
+        },
+        {
+          "name": "ATMessage",
+          "children": []
+        },
+        {
+          "name": "ATRollableLog",
+          "children": []
+        },
+        {
+          "name": "ATStoreInfo",
+          "children": []
+        },
+        {
+          "name": "ATUserDefaults",
+          "children": []
+        },
+        {
+          "name": "ATWakeupCall",
+          "children": []
+        },
+        {
+          "name": "ATXPCConnection",
+          "children": []
+        },
+        {
+          "name": "ATXPCMessage",
+          "children": []
+        },
+        {
+          "name": "ATXPCServer",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

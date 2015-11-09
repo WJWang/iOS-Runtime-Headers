@@ -1,1 +1,107 @@
-{"name":"ManagedConfiguration.framework","list":[{"father":"NSObject","childList":["MCAPNConfiguration"]},{"father":"NSObject","childList":["MCAPNInfo"]},{"father":"MCPayload","childList":["MCAPNPayload"]},{"father":"NSObject","childList":["MCARCHacks"]},{"father":"NSObject","childList":["MCAirPlayDestination"]},{"father":"MCPayload","childList":["MCAirPlayPayload"]},{"father":"MCPayload","childList":["MCAirPrintPayload"]},{"father":"MCVPNPayloadBase","childList":["MCAppLayerVPNPayload"]},{"father":"MCPayload","childList":["MCAppWhitelistPayloadBase"]},{"father":"NSObject","childList":["MCBookmark"]},{"father":"NSObject","childList":["MCBookmarkManager"]},{"father":"MCPayload","childList":["MCCalDAVAccountPayload"]},{"father":"MCPayload","childList":["MCCardDAVAccountPayload"]},{"father":"MCPayload","childList":["MCCellularPayload"]},{"father":"MCPayload","childList":["MCCertificatePayload"]},{"father":"MCConfigurationProfile","childList":["MCCertificateWrapperProfile"]},{"father":"MCPayload","childList":["MCChaperonePayload"]},{"father":"NSObject","childList":["MCCloudConfiguration"]},{"father":"MCProfile","childList":["MCConfigurationProfile"]},{"father":"NSObject","childList":["MCCrypto"]},{"father":"MCPayload","childList":["MCDefaultsPayload"]},{"father":"NSObject","childList":["MCDependencyManager"]},{"father":"NSObject","childList":["MCDeviceCapabilities"]},{"father":"MCEmailAccountPayloadBase","childList":["MCEASAccountPayload"]},{"father":"MCEmailAccountPayloadBase","childList":["MCEmailAccountPayload"]},{"father":"MCPayload","childList":["MCEmailAccountPayloadBase"]},{"father":"MCPayload","childList":["MCEncryptedProfileServicePayload"]},{"father":"MCPayload","childList":["MCFontPayload"]},{"father":"NSObject","childList":["MCFormatterVendor"]},{"father":"MCPayload","childList":["MCGlobalHTTPProxyPayload"]},{"father":"NSObject","childList":["MCHTTPRequestor"]},{"father":"NSObject","childList":["MCHTTPTransaction"]},{"father":"NSObject","childList":["MCHacks"]},{"father":"NSObject","childList":["MCInstallerReader"]},{"father":"NSObject","childList":["MCJobQueue"]},{"father":"NSObject","childList":["MCKeychain"]},{"father":"MCPayload","childList":["MCLDAPAccountPayload"]},{"father":"NSObject","childList":["MCLanguageUtilities"]},{"father":"NSObject","childList":["MCLazyInitializationUtilities"]},{"father":"NSObject","childList":["MCMDMClient"]},{"father":"MCPayload","childList":["MCMDMPayload"]},{"father":"NSObject","childList":["MCManagedAppManagerReader"]},{"father":"NSObject","childList":["MCManagedDefaultsManager"]},{"father":"NSObject","childList":["MCManifest"]},{"father":"NSObject","childList":["MCNetrbManager"]},{"father":"NSObject","childList":["MCNumber"]},{"father":"NSObject","childList":["MCPasscodeManager"]},{"father":"MCPayload","childList":["MCPasswordPolicyPayload"]},{"father":"NSObject","childList":["MCPayload"]},{"father":"MCCertificatePayload","childList":["MCPlainCertificatePayload"]},{"father":"NSObject","childList":["MCPowerAssertion"]},{"father":"NSObject","childList":["MCProfile"]},{"father":"NSObject","childList":["MCProfileConnection"]},{"father":"MCProfile","childList":["MCProfileServiceProfile"]},{"father":"NSObject","childList":["MCProfileTrustEvaluator"]},{"father":"NSObject","childList":["MCProfileWarning"]},{"father":"MCPayload","childList":["MCRemovalPasswordPayload"]},{"father":"NSObject","childList":["MCRestrictionManager"]},{"father":"MCPayload","childList":["MCRestrictionsPayload"]},{"father":"MCCertificatePayload","childList":["MCSCEPPayload"]},{"father":"MCAppWhitelistPayloadBase","childList":["MCSingleAppPayload"]},{"father":"MCPayload","childList":["MCSingleSignOnPayload"]},{"father":"NSObject","childList":["MCSingleSignOnPayloadKerberosInfo"]},{"father":"MCPayload","childList":["MCSubCalAccountPayload"]},{"father":"NSObject","childList":["MCTeslaConfiguration"]},{"father":"NSObject","childList":["MCTimerContext"]},{"father":"NSObject","childList":["MCTunnelParser"]},{"father":"MCPayload","childList":["MCUnknownPayload"]},{"father":"NSObject","childList":["MCUserNotificationManager"]},{"father":"NSObject","childList":["MCUserNotificationQueueEntry"]},{"father":"MCVPNPayloadBase","childList":["MCVPNPayload"]},{"father":"MCPayload","childList":["MCVPNPayloadBase"]},{"father":"NSObject","childList":["MCVersioningUtilities"]},{"father":"MCCertificatePayload","childList":["MCWAPIIdentityCertificatePayload"]},{"father":"MCPayload","childList":["MCWebClipPayload"]},{"father":"MCPayload","childList":["MCWebContentFilterPayload"]},{"father":"MCPayload","childList":["MCWiFiPayload"]},{"father":"NSThread","childList":["MCWorkerThread"]}]}
+{
+  "name": "ManagedConfiguration.framework",
+  "list": [
+    {
+      "name": "NSThread",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCWorkerThread",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MCPayload",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCWebClipPayload",
+          "children": []
+        },
+        {
+          "name": "MCWebContentFilterPayload",
+          "children": []
+        },
+        {
+          "name": "MCWiFiPayload",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MCCertificatePayload",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCWAPIIdentityCertificatePayload",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCVersioningUtilities",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MCVPNPayloadBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCVPNPayload",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MCAppWhitelistPayloadBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCSingleAppPayload",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MCProfile",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCProfileServiceProfile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MCEmailAccountPayloadBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCEASAccountPayload",
+          "children": []
+        },
+        {
+          "name": "MCEmailAccountPayload",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MCConfigurationProfile",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCCertificateWrapperProfile",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

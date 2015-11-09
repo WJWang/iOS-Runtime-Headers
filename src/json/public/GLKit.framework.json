@@ -1,1 +1,99 @@
-{"name":"GLKit.framework","list":[{"father":"NSObject","childList":["GLKBaseEffect"]},{"father":"NSObject","childList":["GLKDisplayLinkMessenger"]},{"father":"NSObject","childList":["GLKEffect"]},{"father":"NSObject","childList":["GLKEffectProperty"]},{"father":"GLKEffectProperty","childList":["GLKEffectPropertyConstantColor"]},{"father":"GLKEffectProperty","childList":["GLKEffectPropertyFog"]},{"father":"GLKEffectProperty","childList":["GLKEffectPropertyLight"]},{"father":"GLKEffectProperty","childList":["GLKEffectPropertyMaterial"]},{"father":"GLKEffectProperty","childList":["GLKEffectPropertyTexGen"]},{"father":"GLKEffectProperty","childList":["GLKEffectPropertyTexture"]},{"father":"GLKEffectProperty","childList":["GLKEffectPropertyTransform"]},{"father":"NSObject","childList":["GLKHashableBigInt"]},{"father":"GLKBaseEffect","childList":["GLKReflectionMapEffect"]},{"father":"NSObject","childList":["GLKShaderBlockNode"]},{"father":"NSObject","childList":["GLKShadingHash"]},{"father":"NSObject","childList":["GLKSkyboxEffect"]},{"father":"NSObject","childList":["GLKTexture"]},{"father":"NSObject","childList":["GLKTextureInfo"]},{"father":"NSObject","childList":["GLKTextureLoader"]},{"father":"UIView","childList":["GLKView"]},{"father":"UIViewController","childList":["GLKViewController"]}]}
+{
+  "name": "GLKit.framework",
+  "list": [
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GLKViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GLKView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "GLKShaderBlockNode",
+          "children": []
+        },
+        {
+          "name": "GLKShadingHash",
+          "children": []
+        },
+        {
+          "name": "GLKSkyboxEffect",
+          "children": []
+        },
+        {
+          "name": "GLKTexture",
+          "children": []
+        },
+        {
+          "name": "GLKTextureInfo",
+          "children": []
+        },
+        {
+          "name": "GLKTextureLoader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GLKBaseEffect",
+      "parent": null,
+      "children": [
+        {
+          "name": "GLKReflectionMapEffect",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GLKEffectProperty",
+      "parent": null,
+      "children": [
+        {
+          "name": "GLKEffectPropertyConstantColor",
+          "children": []
+        },
+        {
+          "name": "GLKEffectPropertyFog",
+          "children": []
+        },
+        {
+          "name": "GLKEffectPropertyLight",
+          "children": []
+        },
+        {
+          "name": "GLKEffectPropertyMaterial",
+          "children": []
+        },
+        {
+          "name": "GLKEffectPropertyTexGen",
+          "children": []
+        },
+        {
+          "name": "GLKEffectPropertyTexture",
+          "children": []
+        },
+        {
+          "name": "GLKEffectPropertyTransform",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"name":"CertUI.framework","list":[{"father":"NSObject","childList":["CertUIConnectionDelegate"]},{"father":"NSObject","childList":["CertUIPrompt"]},{"father":"NSObject","childList":["CertUITrustManager"]}]}
+{
+  "name": "CertUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CertUIConnectionDelegate",
+          "children": []
+        },
+        {
+          "name": "CertUIPrompt",
+          "children": []
+        },
+        {
+          "name": "CertUITrustManager",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

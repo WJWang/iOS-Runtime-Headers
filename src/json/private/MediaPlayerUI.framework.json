@@ -1,1 +1,229 @@
-{"name":"MediaPlayerUI.framework","list":[{"father":"NSObject","childList":["MPUAnimationFactory"]},{"father":"UIViewController","childList":["MPUBackdropContentViewController"]},{"father":"UICollectionView","childList":["MPUCZCollectionView"]},{"father":"UIViewController","childList":["MPUCZCollectionViewController"]},{"father":"NSObject","childList":["MPUCellConfiguration"]},{"father":"UIView","childList":["MPUChronologicalProgressView"]},{"father":"NSObject","childList":["MPUCollectionCellConfiguration"]},{"father":"UICollectionViewCell","childList":["MPUCollectionViewCell"]},{"father":"MPUDataSourceViewController","childList":["MPUCollectionViewController"]},{"father":"UITableViewHeaderFooterView","childList":["MPUCompletionFooterView"]},{"father":"MPUQueryDataSource","childList":["MPUCompletionQueryDataSource"]},{"father":"SBUIControlCenterSlider","childList":["MPUControlCenterVolumeSlider"]},{"father":"UIView","childList":["MPUCoverMaskView"]},{"father":"UIViewController","childList":["MPUCoverZoomViewController"]},{"father":"NSObject","childList":["MPUDataSource"]},{"father":"UIViewController","childList":["MPUDataSourceViewController"]},{"father":"NSObject","childList":["MPUFallAnimator"]},{"father":"UIView","childList":["MPUGradientView"]},{"father":"SKUIItemOfferButton","childList":["MPUItemOfferButton"]},{"father":"UIButton","childList":["MPULongPressButton"]},{"father":"UIView","childList":["MPUMarqueeView"]},{"father":"MPUMediaControlsTitlesView","childList":["MPUMediaControlsControlCenterTitlesView"]},{"father":"MPUNowPlayingTitlesView","childList":["MPUMediaControlsTitlesView"]},{"father":"UISlider","childList":["MPUMediaControlsVolumeSlider"]},{"father":"UIView","childList":["MPUMediaControlsVolumeView"]},{"father":"NSObject","childList":["MPUNowPlayingController"]},{"father":"UIControl","childList":["MPUNowPlayingIndicatorView"]},{"father":"UIView","childList":["MPUNowPlayingTitlesView"]},{"father":"NSOperationQueue","childList":["MPUOperationLIFOQueue"]},{"father":"MPUDataSource","childList":["MPUQueryDataSource"]},{"father":"_UIRemoteViewController","childList":["MPURadioStationActionsClientViewController"]},{"father":"UIControl","childList":["MPURatingControl"]},{"father":"MPUQueryDataSource","childList":["MPUSearchDataSource"]},{"father":"UIView","childList":["MPUSeparatorView"]},{"father":"UIView","childList":["MPUShapeView"]},{"father":"MPUAnimationFactory","childList":["MPUSpringAnimationFactory"]},{"father":"UIView","childList":["MPUStackItemView"]},{"father":"UIView","childList":["MPUStackView"]},{"father":"MPUStackItemView","childList":["MPUStandardImageStackItemView"]},{"father":"UIViewController","childList":["MPUSystemMediaControlsViewController"]},{"father":"MPUDataSourceViewController","childList":["MPUTableViewController"]},{"father":"NSObject","childList":["MPUTheme"]},{"father":"UIView","childList":["MPUTintedBackgroundView"]},{"father":"SBUIControlCenterButton","childList":["MPUTransportControlCenterButton"]},{"father":"UIView","childList":["MPUTransportControlsView"]},{"father":"UIView","childList":["MPUVignetteBackgroundView"]},{"father":"UIView","childList":["_MPUBorderView"]},{"father":"SBUIControlCenterSlider","childList":["_MPUControlCenterDetailSlider"]},{"father":"UISlider","childList":["_MPUDetailSlider"]},{"father":"NSObject","childList":["_MPUFallAnimatorDynamicItem"]},{"father":"NSObject","childList":["_MPUFallAnimatorDynamicSystem"]},{"father":"UIView","childList":["_MPUMarqueeContentView"]},{"father":"NSOperation","childList":["_MPUSearchOperation"]},{"father":"NSObject","childList":["_MPUStackItemReuseCache"]},{"father":"UIView","childList":["_MPUSystemMediaControlsView"]},{"father":"NSObject","childList":["_MPUViewControllerCreationInformation"]},{"father":"NSObject","childList":["_MPUViewControllerRestoration"]}]}
+{
+  "name": "MediaPlayerUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MPUViewControllerCreationInformation",
+          "children": []
+        },
+        {
+          "name": "_MPUViewControllerRestoration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MPUSystemMediaControlsView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MPUSearchOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISlider",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MPUDetailSlider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBUIControlCenterSlider",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MPUControlCenterDetailSlider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBUIControlCenterButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUTransportControlCenterButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUDataSourceViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUSystemMediaControlsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUStackItemView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUStandardImageStackItemView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUAnimationFactory",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUSpringAnimationFactory",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUQueryDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUSearchDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPURatingControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPURadioStationActionsClientViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUQueryDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperationQueue",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUOperationLIFOQueue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUNowPlayingTitlesView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUMediaControlsTitlesView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUMediaControlsTitlesView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUMediaControlsControlCenterTitlesView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPULongPressButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIItemOfferButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUItemOfferButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewHeaderFooterView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUCompletionFooterView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPUCZCollectionView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

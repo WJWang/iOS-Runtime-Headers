@@ -1,1 +1,67 @@
-{"name":"WebBookmarks.framework","list":[{"father":"NSObject","childList":["BABookmarkItem"]},{"father":"NSObject","childList":["BAChangeRecord"]},{"father":"NSObject","childList":["CloudTabServices"]},{"father":"NSObject","childList":["SafariFetcherServerProxy"]},{"father":"NSObject","childList":["WBReadingList"]},{"father":"NSObject","childList":["WBReadingListPrivate"]},{"father":"NSObject","childList":["WebBookmark"]},{"father":"NSObject","childList":["WebBookmarkCollection"]},{"father":"NSObject","childList":["WebBookmarkList"]},{"father":"NSObject","childList":["WebBookmarkTitleWordTokenizer"]},{"father":"NSObject","childList":["WebBookmarksSettingsGateway"]},{"father":"NSObject","childList":["WebBookmarksXPCConnection"]},{"father":"NSObject","childList":["WebBookmarksXPCListener"]},{"father":"NSObject","childList":["WebReadingList"]}]}
+{
+  "name": "WebBookmarks.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "BABookmarkItem",
+          "children": []
+        },
+        {
+          "name": "BAChangeRecord",
+          "children": []
+        },
+        {
+          "name": "CloudTabServices",
+          "children": []
+        },
+        {
+          "name": "SafariFetcherServerProxy",
+          "children": []
+        },
+        {
+          "name": "WBReadingList",
+          "children": []
+        },
+        {
+          "name": "WBReadingListPrivate",
+          "children": []
+        },
+        {
+          "name": "WebBookmark",
+          "children": []
+        },
+        {
+          "name": "WebBookmarkCollection",
+          "children": []
+        },
+        {
+          "name": "WebBookmarkList",
+          "children": []
+        },
+        {
+          "name": "WebBookmarkTitleWordTokenizer",
+          "children": []
+        },
+        {
+          "name": "WebBookmarksSettingsGateway",
+          "children": []
+        },
+        {
+          "name": "WebBookmarksXPCConnection",
+          "children": []
+        },
+        {
+          "name": "WebBookmarksXPCListener",
+          "children": []
+        },
+        {
+          "name": "WebReadingList",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

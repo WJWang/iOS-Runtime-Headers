@@ -1,1 +1,97 @@
-{"name":"AccountsUI.framework","list":[{"father":"PSTableCell","childList":["ACUIAccountCollectionLinkCell"]},{"father":"PSListController","childList":["ACUIAccountCollectionViewController"]},{"father":"NSObject","childList":["ACUIAccountOperationsHelper"]},{"father":"PSTableCell","childList":["ACUIAccountSummaryCell"]},{"father":"NSObject","childList":["ACUIAccountViewProvidersManager"]},{"father":"PSListController","childList":["ACUIAddAccountViewController"]},{"father":"ACUIAddAccountViewController","childList":["ACUIAddMailAccountViewController"]},{"father":"PSListController","childList":["ACUIAddOtherAccountsViewController"]},{"father":"NSObject","childList":["ACUIAggregateLogger"]},{"father":"NSObject","childList":["ACUIAppDescription"]},{"father":"PSTableCell","childList":["ACUIAppInstallCell"]},{"father":"NSObject","childList":["ACUIAppInstaller"]},{"father":"NSObject","childList":["ACUIDataclassActionPicker"]},{"father":"ACUIViewController","childList":["ACUIDataclassConfigurationViewController"]},{"father":"PSListController","childList":["ACUIIdentityPickerViewController"]},{"father":"UIButton","childList":["ACUILinkButton"]},{"father":"NSObject","childList":["ACUILocalization"]},{"father":"NSObject","childList":["ACUIPluginLoader"]},{"father":"NSObject","childList":["ACUISettingsPluginManager"]},{"father":"PSSetupController","childList":["ACUISetupViewController"]},{"father":"UIView","childList":["ACUISpinnerTitle"]},{"father":"PSListController","childList":["ACUIViewController"]},{"father":"UIView","childList":["_ACUILinkButtonFooterView"]},{"father":"UIView","childList":["_ACUITextWithLinkButtonFooterView"]}]}
+{
+  "name": "AccountsUI.framework",
+  "list": [
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_ACUILinkButtonFooterView",
+          "children": []
+        },
+        {
+          "name": "_ACUITextWithLinkButtonFooterView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACUIViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSSetupController",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACUISetupViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACUILocalization",
+          "children": []
+        },
+        {
+          "name": "ACUIPluginLoader",
+          "children": []
+        },
+        {
+          "name": "ACUISettingsPluginManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACUILinkButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ACUIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACUIDataclassConfigurationViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACUIAppInstallCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ACUIAddAccountViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACUIAddMailAccountViewController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

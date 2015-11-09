@@ -1,1 +1,75 @@
-{"name":"Accounts.framework","list":[{"father":"NSObject","childList":["ACAccount"]},{"father":"NSObject","childList":["ACAccountCredential"]},{"father":"CPExclusiveLock","childList":["ACAccountMigrationLock"]},{"father":"NSObject","childList":["ACAccountStore"]},{"father":"NSObject","childList":["ACAccountStoreClientSideListener"]},{"father":"NSObject","childList":["ACAccountType"]},{"father":"NSObject","childList":["ACDAccountStoreInterface"]},{"father":"NSManagedObject","childList":["ACDManagedAccessOptionsKey"]},{"father":"NSManagedObject","childList":["ACDManagedAccount"]},{"father":"NSManagedObject","childList":["ACDManagedAccountProperty"]},{"father":"NSManagedObject","childList":["ACDManagedAccountType"]},{"father":"NSManagedObject","childList":["ACDManagedAuthorization"]},{"father":"NSManagedObject","childList":["ACDManagedDataclass"]},{"father":"NSObject","childList":["ACDataclassAction"]},{"father":"NSObject","childList":["ACDispatchCerberus"]},{"father":"NSObject","childList":["ACNotificationRebroadcaster"]},{"father":"NSObject","childList":["ACOAuthSigner"]},{"father":"NSObject","childList":["ACSystemConfigManager"]},{"father":"NSObject","childList":["ACXPCProxyHelper"]}]}
+{
+  "name": "Accounts.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACDataclassAction",
+          "children": []
+        },
+        {
+          "name": "ACDispatchCerberus",
+          "children": []
+        },
+        {
+          "name": "ACNotificationRebroadcaster",
+          "children": []
+        },
+        {
+          "name": "ACOAuthSigner",
+          "children": []
+        },
+        {
+          "name": "ACSystemConfigManager",
+          "children": []
+        },
+        {
+          "name": "ACXPCProxyHelper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACDManagedAccessOptionsKey",
+          "children": []
+        },
+        {
+          "name": "ACDManagedAccount",
+          "children": []
+        },
+        {
+          "name": "ACDManagedAccountProperty",
+          "children": []
+        },
+        {
+          "name": "ACDManagedAccountType",
+          "children": []
+        },
+        {
+          "name": "ACDManagedAuthorization",
+          "children": []
+        },
+        {
+          "name": "ACDManagedDataclass",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPExclusiveLock",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACAccountMigrationLock",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

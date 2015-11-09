@@ -1,1 +1,15 @@
-{"name":"MediaRemote.framework","list":[{"father":"NSObject","childList":["MRMediaRemoteState"]}]}
+{
+  "name": "MediaRemote.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MRMediaRemoteState",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

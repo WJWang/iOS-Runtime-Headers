@@ -1,1 +1,15 @@
-{"name":"WirelessCoexManager.framework","list":[{"father":"NSObject","childList":["WCMSetting"]}]}
+{
+  "name": "WirelessCoexManager.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WCMSetting",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

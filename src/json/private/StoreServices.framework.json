@@ -1,1 +1,319 @@
-{"name":"StoreServices.framework","list":[{"father":"NSObject","childList":["SSAccount"]},{"father":"NSObject","childList":["SSAccountStore"]},{"father":"NSObject","childList":["SSAppIconDatabaseCache"]},{"father":"SSDatabaseCacheEntry","childList":["SSAppImageDatabaseCacheEntry"]},{"father":"NSObject","childList":["SSAppPurchaseHistoryCache"]},{"father":"NSObject","childList":["SSAppPurchaseHistoryDatabase"]},{"father":"NSObject","childList":["SSAppPurchaseHistoryDatabaseSchema"]},{"father":"SSSQLiteEntity","childList":["SSAppPurchaseHistoryEntry"]},{"father":"NSObject","childList":["SSAppPurchaseHistoryTransaction"]},{"father":"SSProtocolCondition","childList":["SSApplicationVersionCondition"]},{"father":"SSRequest","childList":["SSAuthenticateRequest"]},{"father":"NSObject","childList":["SSAuthenticateResponse"]},{"father":"NSObject","childList":["SSAuthenticationContext"]},{"father":"NSObject","childList":["SSAuthenticationResponse"]},{"father":"SSRequest","childList":["SSAuthorizationRequest"]},{"father":"NSObject","childList":["SSBiometrics"]},{"father":"NSObject","childList":["SSCacheObjectStore"]},{"father":"SSProtocolCondition","childList":["SSCapabilityCondition"]},{"father":"SSAccountStore","childList":["SSClientAccountStore"]},{"father":"NSObject","childList":["SSDatabaseCache"]},{"father":"SSSQLiteEntity","childList":["SSDatabaseCacheEntry"]},{"father":"NSObject","childList":["SSDevice"]},{"father":"NSObject","childList":["SSDialog"]},{"father":"NSObject","childList":["SSDialogButton"]},{"father":"NSObject","childList":["SSDictionaryResponse"]},{"father":"NSObject","childList":["SSDistributedNotificationCenter"]},{"father":"NSObject","childList":["SSDistributedNotificationCenterObserver"]},{"father":"SSProtocolCondition","childList":["SSDocumentCondition"]},{"father":"SSEntity","childList":["SSDownload"]},{"father":"SSEntity","childList":["SSDownloadAsset"]},{"father":"NSObject","childList":["SSDownloadAuthenticationChallengeSender"]},{"father":"SSDownloadSession","childList":["SSDownloadAuthenticationSession"]},{"father":"NSObject","childList":["SSDownloadFileManifest"]},{"father":"NSObject","childList":["SSDownloadHandler"]},{"father":"SSDownloadSession","childList":["SSDownloadHandlerSession"]},{"father":"NSObject","childList":["SSDownloadManager"]},{"father":"NSObject","childList":["SSDownloadManagerOptions"]},{"father":"SSRequest","childList":["SSDownloadManifestRequest"]},{"father":"NSObject","childList":["SSDownloadManifestResponse"]},{"father":"NSObject","childList":["SSDownloadMetadata"]},{"father":"NSObject","childList":["SSDownloadMonitor"]},{"father":"NSObject","childList":["SSDownloadMonitorItem"]},{"father":"NSObject","childList":["SSDownloadPhase"]},{"father":"NSObject","childList":["SSDownloadPolicy"]},{"father":"NSObject","childList":["SSDownloadPolicyApplicationState"]},{"father":"NSObject","childList":["SSDownloadPolicyRule"]},{"father":"NSObject","childList":["SSDownloadQueue"]},{"father":"NSObject","childList":["SSDownloadSession"]},{"father":"NSObject","childList":["SSDownloadStatus"]},{"father":"NSObject","childList":["SSEntity"]},{"father":"NSObject","childList":["SSErrorHandler"]},{"father":"NSObject","childList":["SSErrorHandlerSession"]},{"father":"NSObject","childList":["SSEventMonitor"]},{"father":"NSOutputStream","childList":["SSGzipOutputStream"]},{"father":"SSProtocolCondition","childList":["SSHasAccountCondition"]},{"father":"NSObject","childList":["SSItem"]},{"father":"NSObject","childList":["SSItemArtworkImage"]},{"father":"SSProtocolCondition","childList":["SSItemAvailableCondition"]},{"father":"NSObject","childList":["SSItemContentRating"]},{"father":"NSObject","childList":["SSItemImageCollection"]},{"father":"SSRequest","childList":["SSItemLookupRequest"]},{"father":"NSObject","childList":["SSItemMedia"]},{"father":"NSObject","childList":["SSItemOffer"]},{"father":"NSObject","childList":["SSItemOfferDevice"]},{"father":"NSObject","childList":["SSItemOfferDeviceError"]},{"father":"NSObject","childList":["SSKeyValueStore"]},{"father":"NSObject","childList":["SSKeyValueStoreDatabase"]},{"father":"NSObject","childList":["SSKeyValueStoreSchema"]},{"father":"NSObject","childList":["SSKeyValueStoreSession"]},{"father":"SSKeyValueStoreSession","childList":["SSKeyValueStoreTransaction"]},{"father":"SSSQLiteEntity","childList":["SSKeyValueStoreValueEntity"]},{"father":"SSRequest","childList":["SSKeybagRequest"]},{"father":"NSObject","childList":["SSLockdown"]},{"father":"NSObject","childList":["SSLogFileOptions"]},{"father":"NSObject","childList":["SSLookupItem"]},{"father":"NSObject","childList":["SSLookupItemArtwork"]},{"father":"NSObject","childList":["SSLookupItemOffer"]},{"father":"NSObject","childList":["SSLookupProperties"]},{"father":"SSRequest","childList":["SSLookupRequest"]},{"father":"NSObject","childList":["SSLookupResponse"]},{"father":"SSRequest","childList":["SSMachineDataRequest"]},{"father":"NSObject","childList":["SSMemoryEntity"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsAccountEvent"]},{"father":"SSMetricsMutableEvent","childList":["SSMetricsBaseEvent"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsClickEvent"]},{"father":"NSObject","childList":["SSMetricsConfiguration"]},{"father":"NSObject","childList":["SSMetricsController"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsEnterEvent"]},{"father":"NSObject","childList":["SSMetricsEvent"]},{"father":"SSMetricsController","childList":["SSMetricsEventController"]},{"father":"NSObject","childList":["SSMetricsEventLocation"]},{"father":"NSObject","childList":["SSMetricsEventReportingSession"]},{"father":"NSObject","childList":["SSMetricsEventTable"]},{"father":"SSSQLiteEntity","childList":["SSMetricsEventTableEntity"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsExitEvent"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsImpressionsEvent"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsMediaEvent"]},{"father":"SSMetricsEvent","childList":["SSMetricsMutableEvent"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsPageEvent"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsPurchaseEvent"]},{"father":"SSMetricsBaseEvent","childList":["SSMetricsSearchEvent"]},{"father":"SSAuthenticationContext","childList":["SSMutableAuthenticationContext"]},{"father":"SSSoftwareUpdatesContext","childList":["SSMutableSoftwareUpdatesContext"]},{"father":"SSURLRequestProperties","childList":["SSMutableURLRequestProperties"]},{"father":"NSObject","childList":["SSNetworkConstraints"]},{"father":"NSObject","childList":["SSOperationProgress"]},{"father":"NSObject","childList":["SSPersistentCache"]},{"father":"SSRequest","childList":["SSPersonalizeOffersRequest"]},{"father":"NSObject","childList":["SSPersonalizeOffersResponse"]},{"father":"SSProtocolCondition","childList":["SSPlatformCondition"]},{"father":"SSRequest","childList":["SSPlayInfoRequest"]},{"father":"NSObject","childList":["SSPlayInfoRequestContext"]},{"father":"NSObject","childList":["SSPlayInfoResponse"]},{"father":"NSObject","childList":["SSPlistCacheObject"]},{"father":"NSObject","childList":["SSPlistCacheObjectFactory"]},{"father":"NSObject","childList":["SSPreorder"]},{"father":"NSObject","childList":["SSPreorderManager"]},{"father":"NSObject","childList":["SSProtocolCondition"]},{"father":"NSObject","childList":["SSProtocolConditionalContext"]},{"father":"NSObject","childList":["SSProtocolConditionalEvaluator"]},{"father":"SSPurchasableItem","childList":["SSPurchasableAppItem"]},{"father":"NSObject","childList":["SSPurchasableItem"]},{"father":"NSObject","childList":["SSPurchase"]},{"father":"NSObject","childList":["SSPurchaseHistoryItem"]},{"father":"NSObject","childList":["SSPurchaseManager"]},{"father":"SSRequest","childList":["SSPurchaseRequest"]},{"father":"NSObject","childList":["SSPurchaseResponse"]},{"father":"SSRequest","childList":["SSRedeemCodesRequest"]},{"father":"NSObject","childList":["SSRedeemCodesResponse"]},{"father":"NSObject","childList":["SSRemoteNotification"]},{"father":"NSObject","childList":["SSRemoteNotificationClient"]},{"father":"SSRequest","childList":["SSRentalCheckinRequest"]},{"father":"SSRequest","childList":["SSRentalCheckoutRequest"]},{"father":"NSObject","childList":["SSRequest"]},{"father":"NSObject","childList":["SSResponseAction"]},{"father":"NSObject","childList":["SSRestoreContentItem"]},{"father":"SSProtocolCondition","childList":["SSRestrictionCondition"]},{"father":"SSTonePurchase","childList":["SSRingtonePurchase"]},{"father":"NSObject","childList":["SSRollableLog"]},{"father":"SSSQLitePropertyPredicate","childList":["SSSQLiteComparisonPredicate"]},{"father":"SSSQLitePredicate","childList":["SSSQLiteCompoundPredicate"]},{"father":"SSSQLitePropertyPredicate","childList":["SSSQLiteContainsPredicate"]},{"father":"NSObject","childList":["SSSQLiteDatabase"]},{"father":"NSObject","childList":["SSSQLiteEntity"]},{"father":"SSSQLitePropertyPredicate","childList":["SSSQLiteNullPredicate"]},{"father":"NSObject","childList":["SSSQLitePredicate"]},{"father":"SSSQLitePredicate","childList":["SSSQLitePropertyPredicate"]},{"father":"NSObject","childList":["SSSQLiteQuery"]},{"father":"NSObject","childList":["SSSQLiteQueryDescriptor"]},{"father":"NSObject","childList":["SSSoftwareLibrary"]},{"father":"NSObject","childList":["SSSoftwareLibraryItem"]},{"father":"NSObject","childList":["SSSoftwareUpdate"]},{"father":"NSObject","childList":["SSSoftwareUpdatesContext"]},{"father":"SSRequest","childList":["SSSoftwareUpdatesRequest"]},{"father":"NSObject","childList":["SSSoftwareUpdatesResponse"]},{"father":"NSObject","childList":["SSSoftwareUpdatesStore"]},{"father":"SSProtocolCondition","childList":["SSSystemVersionCondition"]},{"father":"NSObject","childList":["SSTermsAndConditions"]},{"father":"SSPurchase","childList":["SSTonePurchase"]},{"father":"NSObject","childList":["SSURLBag"]},{"father":"NSObject","childList":["SSURLBagContext"]},{"father":"SSRequest","childList":["SSURLConnectionRequest"]},{"father":"NSObject","childList":["SSURLConnectionResponse"]},{"father":"NSObject","childList":["SSURLRequestProperties"]},{"father":"SSSQLiteEntity","childList":["SSUpdateEntity"]},{"father":"SSMemoryEntity","childList":["SSUpdateMemoryEntity"]},{"father":"NSObject","childList":["SSUpdatesDatabase"]},{"father":"NSObject","childList":["SSUpdatesDatabaseSchema"]},{"father":"NSObject","childList":["SSUpdatesDatabaseSession"]},{"father":"SSUpdatesDatabaseSession","childList":["SSUpdatesDatabaseTransaction"]},{"father":"NSObject","childList":["SSVCookieStorage"]},{"father":"NSObject","childList":["SSVGratisRequestBody"]},{"father":"NSOperation","childList":["SSVLoadNearbyAppsOperation"]},{"father":"NSOperation","childList":["SSVLoadURLOperation"]},{"father":"NSObject","childList":["SSVPlatformContext"]},{"father":"NSOperation","childList":["SSVPlatformRequestOperation"]},{"father":"NSObject","childList":["SSVPushNotificationParameters"]},{"father":"SSRequest","childList":["SSVPushNotificationRequest"]},{"father":"SSVURLDataConsumer","childList":["SSVURLConnectionConsumer"]},{"father":"NSObject","childList":["SSVURLDataConsumer"]},{"father":"SSVURLDataConsumer","childList":["SSVURLLookupResponseConsumer"]},{"father":"SSVURLDataConsumer","childList":["SSVURLProtocolConsumer"]},{"father":"NSObject","childList":["SSWeakReference"]},{"father":"NSObject","childList":["SSWishlist"]},{"father":"NSObject","childList":["SSWishlistDatabaseSchema"]},{"father":"SSSQLiteEntity","childList":["SSWishlistItemEntity"]},{"father":"NSObject","childList":["SSXPCConnection"]},{"father":"NSData","childList":["SSXPCData"]},{"father":"NSObject","childList":["SSXPCServer"]},{"father":"NSObject","childList":["SSXPCServerObserver"]}]}
+{
+  "name": "StoreServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSXPCServer",
+          "children": []
+        },
+        {
+          "name": "SSXPCServerObserver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSData",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSXPCData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSSQLiteEntity",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSWishlistItemEntity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSVURLDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSVURLConnectionConsumer",
+          "children": []
+        },
+        {
+          "name": "SSVURLLookupResponseConsumer",
+          "children": []
+        },
+        {
+          "name": "SSVURLProtocolConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSVPushNotificationRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSVLoadNearbyAppsOperation",
+          "children": []
+        },
+        {
+          "name": "SSVLoadURLOperation",
+          "children": []
+        },
+        {
+          "name": "SSVPlatformRequestOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSUpdatesDatabaseSession",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSUpdatesDatabaseTransaction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSMemoryEntity",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSUpdateMemoryEntity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSPurchase",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSTonePurchase",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSProtocolCondition",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSSystemVersionCondition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSSQLitePredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSSQLitePropertyPredicate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSSQLitePropertyPredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSSQLiteComparisonPredicate",
+          "children": []
+        },
+        {
+          "name": "SSSQLiteContainsPredicate",
+          "children": []
+        },
+        {
+          "name": "SSSQLiteNullPredicate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSTonePurchase",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSRingtonePurchase",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSPurchasableItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSPurchasableAppItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSURLRequestProperties",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSMutableURLRequestProperties",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSSoftwareUpdatesContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSMutableSoftwareUpdatesContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSAuthenticationContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSMutableAuthenticationContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSMetricsBaseEvent",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSMetricsPageEvent",
+          "children": []
+        },
+        {
+          "name": "SSMetricsPurchaseEvent",
+          "children": []
+        },
+        {
+          "name": "SSMetricsSearchEvent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSMetricsEvent",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSMetricsMutableEvent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSMetricsController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSMetricsEventController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSMetricsMutableEvent",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSMetricsBaseEvent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSKeyValueStoreSession",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSKeyValueStoreTransaction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOutputStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSGzipOutputStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSDownloadSession",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSDownloadAuthenticationSession",
+          "children": []
+        },
+        {
+          "name": "SSDownloadHandlerSession",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSEntity",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSDownload",
+          "children": []
+        },
+        {
+          "name": "SSDownloadAsset",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSAccountStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSClientAccountStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSDatabaseCacheEntry",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSAppImageDatabaseCacheEntry",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

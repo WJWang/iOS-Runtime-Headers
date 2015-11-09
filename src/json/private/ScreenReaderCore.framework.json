@@ -1,1 +1,137 @@
-{"name":"ScreenReaderCore.framework","list":[{"father":"NSObject","childList":["SCRCArgumentHolder"]},{"father":"NSObject","childList":["SCRCArgumentHolderPrivate"]},{"father":"SCRCArgumentSubcommand","childList":["SCRCArgumentParser"]},{"father":"NSObject","childList":["SCRCArgumentSubcommand"]},{"father":"NSObject","childList":["SCRCException"]},{"father":"NSObject","childList":["SCRCGestureEvent"]},{"father":"NSObject","childList":["SCRCGestureFactory"]},{"father":"NSObject","childList":["SCRCGestureFinger"]},{"father":"NSObject","childList":["SCRCIndexMap"]},{"father":"SCRCMathExpression","childList":["SCRCMathArrayExpression"]},{"father":"NSObject","childList":["SCRCMathExpression"]},{"father":"SCRCMathRowExpression","childList":["SCRCMathFencedExpression"]},{"father":"SCRCMathExpression","childList":["SCRCMathFractionExpression"]},{"father":"SCRCMathSimpleExpression","childList":["SCRCMathIdentifierExpression"]},{"father":"SCRCMathArrayExpression","childList":["SCRCMathLongDivisionExpression"]},{"father":"SCRCMathSimpleExpression","childList":["SCRCMathNumberExpression"]},{"father":"SCRCMathSimpleExpression","childList":["SCRCMathOperatorExpression"]},{"father":"SCRCMathExpression","childList":["SCRCMathRadicalExpression"]},{"father":"SCRCMathArrayExpression","childList":["SCRCMathRowExpression"]},{"father":"SCRCMathExpression","childList":["SCRCMathSimpleExpression"]},{"father":"SCRCMathExpression","childList":["SCRCMathSpaceExpression"]},{"father":"SCRCMathExpression","childList":["SCRCMathSubSuperscriptExpression"]},{"father":"SCRCMathRowExpression","childList":["SCRCMathTableCellExpression"]},{"father":"SCRCMathArrayExpression","childList":["SCRCMathTableExpression"]},{"father":"SCRCMathArrayExpression","childList":["SCRCMathTableRowExpression"]},{"father":"SCRCMathSimpleExpression","childList":["SCRCMathTextExpression"]},{"father":"SCRCMathExpression","childList":["SCRCMathUnderOverExpression"]},{"father":"NSObject","childList":["SCRCPhotoEvaluator"]},{"father":"SCRCPhotoEvaluatorMethod","childList":["SCRCPhotoEvaluatorBlur"]},{"father":"SCRCPhotoEvaluatorMethod","childList":["SCRCPhotoEvaluatorColor"]},{"father":"SCRCPhotoEvaluatorMethod","childList":["SCRCPhotoEvaluatorLuminance"]},{"father":"NSObject","childList":["SCRCPhotoEvaluatorMethod"]},{"father":"SCRCPhotoEvaluatorMethod","childList":["SCRCPhotoEvaluatorPeople"]},{"father":"NSObject","childList":["SCRCPhotoEvaluatorPersonFeature"]},{"father":"NSObject","childList":["SCRCPhotoEvaluatorResult"]},{"father":"SCRCPhotoEvaluatorResult","childList":["SCRCPhotoEvaluatorResultBlur"]},{"father":"SCRCPhotoEvaluatorResult","childList":["SCRCPhotoEvaluatorResultColor"]},{"father":"SCRCPhotoEvaluatorResult","childList":["SCRCPhotoEvaluatorResultLuminance"]},{"father":"SCRCPhotoEvaluatorResult","childList":["SCRCPhotoEvaluatorResultPeople"]},{"father":"NSObject","childList":["SCRCPhotoEvaluatorResults"]},{"father":"NSObject","childList":["SCRCRawImage"]},{"father":"NSObject","childList":["SCRCRegularExpression"]},{"father":"NSObject","childList":["SCRCStackQueue"]},{"father":"NSObject","childList":["SCRCTargetSelector"]},{"father":"SCRCTargetSelector","childList":["SCRCTargetSelectorTimer"]},{"father":"NSObject","childList":["SCRCThread"]},{"father":"NSObject","childList":["SCRCThreadedWeakLinkedObject"]},{"father":"NSEnumerator","childList":["_SCRCStackQueueEnumerator"]},{"father":"NSObject","childList":["_SCRCThreadTask"]}]}
+{
+  "name": "ScreenReaderCore.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SCRCThreadTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SCRCStackQueueEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCTargetSelector",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCRCTargetSelectorTimer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCPhotoEvaluatorResult",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCRCPhotoEvaluatorResultBlur",
+          "children": []
+        },
+        {
+          "name": "SCRCPhotoEvaluatorResultColor",
+          "children": []
+        },
+        {
+          "name": "SCRCPhotoEvaluatorResultLuminance",
+          "children": []
+        },
+        {
+          "name": "SCRCPhotoEvaluatorResultPeople",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCPhotoEvaluatorMethod",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCRCPhotoEvaluatorBlur",
+          "children": []
+        },
+        {
+          "name": "SCRCPhotoEvaluatorColor",
+          "children": []
+        },
+        {
+          "name": "SCRCPhotoEvaluatorLuminance",
+          "children": []
+        },
+        {
+          "name": "SCRCPhotoEvaluatorPeople",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCMathExpression",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCRCMathUnderOverExpression",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCMathSimpleExpression",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCRCMathTextExpression",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCMathArrayExpression",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCRCMathTableExpression",
+          "children": []
+        },
+        {
+          "name": "SCRCMathTableRowExpression",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCMathRowExpression",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCRCMathFencedExpression",
+          "children": []
+        },
+        {
+          "name": "SCRCMathTableCellExpression",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCArgumentSubcommand",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCRCArgumentParser",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

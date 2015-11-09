@@ -1,1 +1,159 @@
-{"name":"CoreUI.framework","list":[{"father":"NSObject","childList":["CSIBitmapWrapper"]},{"father":"NSObject","childList":["CSIGenerator"]},{"father":"CUICatalog","childList":["CUIAssetStore"]},{"father":"NSObject","childList":["CUICatalog"]},{"father":"NSObject","childList":["CUIColor"]},{"father":"NSObject","childList":["CUICommonAssetStorage"]},{"father":"NSObject","childList":["CUIImage"]},{"father":"CUICommonAssetStorage","childList":["CUIMutableCommonAssetStorage"]},{"father":"CUIPSDImageRef","childList":["CUIMutablePSDImageRef"]},{"father":"NSObject","childList":["CUINamedImage"]},{"father":"NSObject","childList":["CUIPSDGradient"]},{"father":"CUIPSDGradientStop","childList":["CUIPSDGradientColorStop"]},{"father":"CUIPSDGradientColorStop","childList":["CUIPSDGradientDoubleColorStop"]},{"father":"CUIPSDGradientOpacityStop","childList":["CUIPSDGradientDoubleOpacityStop"]},{"father":"NSObject","childList":["CUIPSDGradientEvaluator"]},{"father":"CUIPSDLayer","childList":["CUIPSDGradientLayer"]},{"father":"CUIPSDGradientStop","childList":["CUIPSDGradientOpacityStop"]},{"father":"NSObject","childList":["CUIPSDGradientStop"]},{"father":"CUIPSDLayer","childList":["CUIPSDImageLayer"]},{"father":"NSObject","childList":["CUIPSDImageRef"]},{"father":"NSObject","childList":["CUIPSDLayer"]},{"father":"NSObject","childList":["CUIPSDLayerBaseRef"]},{"father":"CUIPSDLayer","childList":["CUIPSDLayerGroupEnd"]},{"father":"CUIPSDLayerBaseRef","childList":["CUIPSDLayerGroupRef"]},{"father":"CUIPSDLayer","childList":["CUIPSDLayerGroupStart"]},{"father":"NSObject","childList":["CUIPSDLayerMaskRef"]},{"father":"CUIPSDLayerBaseRef","childList":["CUIPSDLayerRef"]},{"father":"NSObject","childList":["CUIPSDLayoutMetricsChannel"]},{"father":"NSObject","childList":["CUIPattern"]},{"father":"NSObject","childList":["CUIRenditionKey"]},{"father":"NSObject","childList":["CUIRenditionMetrics"]},{"father":"NSObject","childList":["CUIRenditionSliceInformation"]},{"father":"NSObject","childList":["CUIShapeEffectPreset"]},{"father":"NSObject","childList":["CUIShapeEffectStack"]},{"father":"NSObject","childList":["CUIStructuredThemeStore"]},{"father":"NSObject","childList":["CUIStyleEffectConfiguration"]},{"father":"CUICatalog","childList":["CUISystemCatalog"]},{"father":"CUIShapeEffectStack","childList":["CUITextEffectStack"]},{"father":"CUIShapeEffectPreset","childList":["CUIThemeDataEffectPreset"]},{"father":"NSObject","childList":["CUIThemeFacet"]},{"father":"NSObject","childList":["CUIThemeGradient"]},{"father":"NSObject","childList":["CUIThemeRendition"]},{"father":"NSObject","childList":["CUIThemeSchema"]},{"father":"CUIThemeRendition","childList":["CUIThemeSchemaEffectRendition"]},{"father":"NSObject","childList":["CUIThemeSchemaLayer"]},{"father":"CUIThemeRendition","childList":["CUIThemeSchemaRendition"]},{"father":"NSObject","childList":["CUIThemeSchemaRenditionGroup"]},{"father":"NSObject","childList":["CoreUI"]},{"father":"NSObject","childList":["_CSIRenditionBlockData"]},{"father":"NSObject","childList":["_CUIKeyTestOrganizer"]},{"father":"CUIThemeSchema","childList":["_CUIMacOSThemeSchema"]},{"father":"NSObject","childList":["_CUINineImagePieces"]},{"father":"NSObject","childList":["_CUIPSDStopAndMidpointPair"]},{"father":"NSObject","childList":["_CUIPSDSublayerInfo"]},{"father":"CUIThemeRendition","childList":["_CUIThemeEffectRendition"]},{"father":"NSObject","childList":["_CUIThemeFacetCacheKey"]},{"father":"CUIThemeRendition","childList":["_CUIThemeGradientRendition"]},{"father":"CUIThemeRendition","childList":["_CUIThemePixelRendition"]},{"father":"CUIThemeSchema","childList":["_CUIiPhoneOSThemeSchema"]},{"father":"NSObject","childList":["_SchemaRenditionTuple"]}]}
+{
+  "name": "CoreUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SchemaRenditionTuple",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIThemeSchema",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CUIiPhoneOSThemeSchema",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIThemeRendition",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIThemeSchemaEffectRendition",
+          "children": []
+        },
+        {
+          "name": "CUIThemeSchemaRendition",
+          "children": []
+        },
+        {
+          "name": "_CUIThemeEffectRendition",
+          "children": []
+        },
+        {
+          "name": "_CUIThemeGradientRendition",
+          "children": []
+        },
+        {
+          "name": "_CUIThemePixelRendition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIShapeEffectPreset",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIThemeDataEffectPreset",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIShapeEffectStack",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUITextEffectStack",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUICatalog",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUISystemCatalog",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIPSDLayerBaseRef",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIPSDLayerRef",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIPSDLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIPSDImageLayer",
+          "children": []
+        },
+        {
+          "name": "CUIPSDLayerGroupEnd",
+          "children": []
+        },
+        {
+          "name": "CUIPSDLayerGroupStart",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIPSDGradientStop",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIPSDGradientOpacityStop",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIPSDGradientOpacityStop",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIPSDGradientDoubleOpacityStop",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIPSDGradientColorStop",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIPSDGradientDoubleColorStop",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIPSDImageRef",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIMutablePSDImageRef",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUICommonAssetStorage",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIMutableCommonAssetStorage",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

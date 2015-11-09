@@ -1,1 +1,105 @@
-{"name":"UIAccessibility.framework","list":[{"father":"NSBundleAccessibility_super","childList":["NSBundleAccessibility"]},{"father":"UIAccessibilitySafeCategory","childList":["NSBundleAccessibility_super"]},{"father":"NSObjectAccessibility_super","childList":["NSObjectAccessibility"]},{"father":"UIAccessibilitySafeCategory","childList":["NSObjectAccessibility_super"]},{"father":"NSObject","childList":["UIAXDelegateClearer"]},{"father":"UIAXTouchEvent_super","childList":["UIAXTouchEvent"]},{"father":"UIAccessibilitySafeCategory","childList":["UIAXTouchEvent_super"]},{"father":"UIAccessibilityElement","childList":["UIAccessibilityAggregateElement"]},{"father":"NSObject","childList":["UIAccessibilityAutoscrollManager"]},{"father":"UIAccessibilityElementSuperCategory_super","childList":["UIAccessibilityElementSuperCategory"]},{"father":"UIAccessibilitySafeCategory","childList":["UIAccessibilityElementSuperCategory_super"]},{"father":"NSObject","childList":["UIAccessibilityLoader"]},{"father":"UINavigationBar","childList":["UIAccessibilityMathNavigationBar"]},{"father":"UIViewController","childList":["UIAccessibilityMathViewController"]},{"father":"UIWebView","childList":["UIAccessibilityMathWebView"]},{"father":"NSObject","childList":["UIAccessibilityNotification"]},{"father":"UIViewController","childList":["UIAccessibilityPresentingViewController"]},{"father":"NSObject","childList":["UIAccessibilityRemoteElement"]}]}
+{
+  "name": "UIAccessibility.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIAccessibilityRemoteElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIAccessibilityPresentingViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIWebView",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIAccessibilityMathWebView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIAccessibilityMathNavigationBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAccessibilitySafeCategory",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIAccessibilityElementSuperCategory_super",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAccessibilityElementSuperCategory_super",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIAccessibilityElementSuperCategory",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAccessibilityElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIAccessibilityAggregateElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAXTouchEvent_super",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIAXTouchEvent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObjectAccessibility_super",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSObjectAccessibility",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSBundleAccessibility_super",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSBundleAccessibility",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,71 @@
-{"name":"VoiceServices.framework","list":[{"father":"NSObject","childList":["VSAssetUpdateListener"]},{"father":"NSObject","childList":["VSCacheUpdateListener"]},{"father":"NSObject","childList":["VSCacheUpdateRequest"]},{"father":"NSObject","childList":["VSFormatArgument"]},{"father":"NSObject","childList":["VSGenericBlockHolder"]},{"father":"NSObject","childList":["VSGenericUpdateEndpoint"]},{"father":"NSObject","childList":["VSKeepAlive"]},{"father":"NSObject","childList":["VSRecognitionAction"]},{"father":"VSRecognitionRecognizeAction","childList":["VSRecognitionConfirmAction"]},{"father":"VSRecognitionRecognizeAction","childList":["VSRecognitionDisambiguateAction"]},{"father":"VSRecognitionAction","childList":["VSRecognitionRecognizeAction"]},{"father":"NSObject","childList":["VSRecognitionResult"]},{"father":"NSObject","childList":["VSRecognitionResultHandlingRequest"]},{"father":"NSObject","childList":["VSRecognitionResultHandlingThread"]},{"father":"NSObject","childList":["VSRecognitionSession"]},{"father":"VSRecognitionAction","childList":["VSRecognitionSpeakAction"]},{"father":"VSRecognitionAction","childList":["VSRecognitionURLAction"]},{"father":"NSObject","childList":["VSSpeechConnection"]},{"father":"NSObject","childList":["VSSpeechConnectionDelegateWrapper"]},{"father":"NSObject","childList":["VSSpeechRequest"]},{"father":"NSObject","childList":["VSSpeechSynthesizer"]},{"father":"NSObject","childList":["VSTextPreProcessor"]},{"father":"NSObject","childList":["VSTextPreProcessorRule"]},{"father":"NSObject","childList":["VSVoiceAsset"]}]}
+{
+  "name": "VoiceServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "VSSpeechConnection",
+          "children": []
+        },
+        {
+          "name": "VSSpeechConnectionDelegateWrapper",
+          "children": []
+        },
+        {
+          "name": "VSSpeechRequest",
+          "children": []
+        },
+        {
+          "name": "VSSpeechSynthesizer",
+          "children": []
+        },
+        {
+          "name": "VSTextPreProcessor",
+          "children": []
+        },
+        {
+          "name": "VSTextPreProcessorRule",
+          "children": []
+        },
+        {
+          "name": "VSVoiceAsset",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VSRecognitionAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "VSRecognitionRecognizeAction",
+          "children": []
+        },
+        {
+          "name": "VSRecognitionSpeakAction",
+          "children": []
+        },
+        {
+          "name": "VSRecognitionURLAction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VSRecognitionRecognizeAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "VSRecognitionConfirmAction",
+          "children": []
+        },
+        {
+          "name": "VSRecognitionDisambiguateAction",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

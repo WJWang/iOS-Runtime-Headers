@@ -1,1 +1,241 @@
-{"name":"TelephonyUI.framework","list":[{"father":"NSObject","childList":["TPAlertViewHelper"]},{"father":"UIView","childList":["TPAudioDeviceView"]},{"father":"UITableViewCell","childList":["TPAudioRouteCell"]},{"father":"UIButton","childList":["TPAudioSelectionButton"]},{"father":"UIView","childList":["TPBackgroundRoundedRectView"]},{"father":"UIView","childList":["TPBottomBar"]},{"father":"TPBottomSingleButtonBar","childList":["TPBottomDoubleButtonBar"]},{"father":"TPBottomDoubleButtonBar","childList":["TPBottomDoubleButtonGrabberBar"]},{"father":"TPBottomBar","childList":["TPBottomDoubleHeightButtonBar"]},{"father":"TPBottomLockBar","childList":["TPBottomGrabberLockBar"]},{"father":"TPBottomBar","childList":["TPBottomLockBar"]},{"father":"TPBottomBar","childList":["TPBottomSingleButtonBar"]},{"father":"TPBottomSingleButtonBar","childList":["TPBottomSingleButtonGrabberBar"]},{"father":"UIButton","childList":["TPButton"]},{"father":"TPButton","childList":["TPCallWaitingButton"]},{"father":"UIView","childList":["TPCallWaitingContainerView"]},{"father":"TPNumberPad","childList":["TPDialerNumberPad"]},{"father":"NSObject","childList":["TPDialerSoundController"]},{"father":"UIScrollView","childList":["TPIncomingCallOptionsScrollView"]},{"father":"UIView","childList":["TPIncomingCallOptionsView"]},{"father":"UIView","childList":["TPLCDBar"]},{"father":"UIView","childList":["TPLCDSubImageView"]},{"father":"UIView","childList":["TPLCDTextView"]},{"father":"UIView","childList":["TPLCDTextViewScrollingView"]},{"father":"TPLCDBar","childList":["TPLCDView"]},{"father":"UIView","childList":["TPLegacyBottomBar"]},{"father":"TPLegacyBottomSingleButtonBar","childList":["TPLegacyBottomDoubleButtonBar"]},{"father":"TPLegacyBottomBar","childList":["TPLegacyBottomLockBar"]},{"father":"TPLegacyBottomBar","childList":["TPLegacyBottomSingleButtonBar"]},{"father":"UIButton","childList":["TPLegacyButton"]},{"father":"UIImageView","childList":["TPLegacyCallWaitingButton"]},{"father":"UIImageView","childList":["TPLegacyLCDBar"]},{"father":"UIView","childList":["TPLegacyLCDSubImageView"]},{"father":"UIView","childList":["TPLegacyLCDTextView"]},{"father":"UIView","childList":["TPLegacyLCDTextViewScrollingView"]},{"father":"TPLegacyLCDBar","childList":["TPLegacyLCDView"]},{"father":"UIImageView","childList":["TPLegacyLockKnobView"]},{"father":"UIView","childList":["TPLegacyLockTextView"]},{"father":"UIControl","childList":["TPLegacyPhonePad"]},{"father":"UIImageView","childList":["TPLegacyWell"]},{"father":"UIImageView","childList":["TPLockKnobView"]},{"father":"UIView","childList":["TPLockTextView"]},{"father":"UIControl","childList":["TPNumberPad"]},{"father":"UIControl","childList":["TPNumberPadButton"]},{"father":"TPNumberPadButton","childList":["TPNumberPadDarkStyleButton"]},{"father":"TPNumberPadButton","childList":["TPNumberPadLightStyleButton"]},{"father":"UIView","childList":["TPPasscodeView"]},{"father":"UIView","childList":["TPPathView"]},{"father":"UIControl","childList":["TPPhonePad"]},{"father":"UINavigationController","childList":["TPPortraitOnlyNavigationController"]},{"father":"UIView","childList":["TPRevealingRingView"]},{"father":"UIViewController","childList":["TPSetPINViewController"]},{"father":"UILabel","childList":["TPShineLabel"]},{"father":"UIView","childList":["TPShineLabelView"]},{"father":"TPNumberPad","childList":["TPSimpleNumberPad"]},{"father":"TPNumberPadLightStyleButton","childList":["TPSimpleNumberPadButton"]},{"father":"UIView","childList":["TPSlidingButton"]},{"father":"UIView","childList":["TPStarkDividerView"]},{"father":"UIButton","childList":["TPStarkInCallButton"]},{"father":"UIView","childList":["TPStarkInCallButtonsView"]},{"father":"UIViewController","childList":["TPStarkInCallViewController"]},{"father":"UIView","childList":["TPStarkPhoneCallGalleryView"]},{"father":"UIView","childList":["TPStarkPhoneCallView"]},{"father":"NSObject","childList":["TPStarkUtilities"]},{"father":"UIView","childList":["TPSuperBottomBar"]},{"father":"TPBottomLockBar","childList":["TPTopLockBar"]},{"father":"UIView","childList":["TPWallpaperView"]},{"father":"UIImageView","childList":["TPWell"]},{"father":"UIView","childList":["TPWellButtonView"]}]}
+{
+  "name": "TelephonyUI.framework",
+  "list": [
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPWellButtonView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPWell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPBottomLockBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPTopLockBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPStarkUtilities",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPStarkInCallViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPStarkInCallButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPNumberPadLightStyleButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPSimpleNumberPadButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPNumberPad",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPSimpleNumberPad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPShineLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPPortraitOnlyNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPPhonePad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPNumberPadButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPNumberPadDarkStyleButton",
+          "children": []
+        },
+        {
+          "name": "TPNumberPadLightStyleButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPLegacyLCDBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPLegacyLCDView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPLegacyBottomBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPLegacyBottomLockBar",
+          "children": []
+        },
+        {
+          "name": "TPLegacyBottomSingleButtonBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPLegacyBottomSingleButtonBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPLegacyBottomDoubleButtonBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPLCDBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPLCDView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPIncomingCallOptionsScrollView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPCallWaitingButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPBottomSingleButtonBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPBottomSingleButtonGrabberBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPBottomBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPBottomDoubleHeightButtonBar",
+          "children": []
+        },
+        {
+          "name": "TPBottomLockBar",
+          "children": []
+        },
+        {
+          "name": "TPBottomSingleButtonBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPBottomDoubleButtonBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPBottomDoubleButtonGrabberBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "TPAudioRouteCell",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

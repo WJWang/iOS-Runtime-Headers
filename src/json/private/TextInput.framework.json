@@ -1,1 +1,215 @@
-{"name":"TextInput.framework","list":[{"father":"NSObject","childList":["TICharacterSetDescription"]},{"father":"NSObject","childList":["TIChineseShared"]},{"father":"NSObject","childList":["TIDocumentState"]},{"father":"TIKeyboardCandidateSingle","childList":["TIHandwritingCandidate"]},{"father":"TIKeyboardCandidateSingle","childList":["TIHandwritingCompositionCandidate"]},{"father":"NSObject","childList":["TIHandwritingStrokes"]},{"father":"NSObject","childList":["TIInputModeController"]},{"father":"NSObject","childList":["TIKeyEventMap"]},{"father":"TIKeyEventMap","childList":["TIKeyEventMapChinese"]},{"father":"TIKeyEventMapChinese","childList":["TIKeyEventMapChineseMecabra"]},{"father":"TIKeyEventMapChineseMecabra","childList":["TIKeyEventMapTraditionalZhuyin"]},{"father":"TIKeyEventMapChinese","childList":["TIKeyEventMapWubi"]},{"father":"NSObject","childList":["TIKeyboardBehaviorState"]},{"father":"NSObject","childList":["TIKeyboardBehaviors"]},{"father":"TIKeyboardBehaviors","childList":["TIKeyboardBehaviors_Autocorrect"]},{"father":"TIKeyboardBehaviors","childList":["TIKeyboardBehaviors_Japanese"]},{"father":"TIKeyboardBehaviors","childList":["TIKeyboardBehaviors_Pinyin"]},{"father":"TIKeyboardBehaviors","childList":["TIKeyboardBehaviors_ShapeBased"]},{"father":"TIKeyboardBehaviors","childList":["TIKeyboardBehaviors_Simple"]},{"father":"TIKeyboardBehaviors","childList":["TIKeyboardBehaviors_Thai"]},{"father":"TIKeyboardBehaviors","childList":["TIKeyboardBehaviors_WaitingForCandidates"]},{"father":"TIKeyboardBehaviors","childList":["TIKeyboardBehaviors_Zhuyin"]},{"father":"NSObject","childList":["TIKeyboardCandidate"]},{"father":"NSObject","childList":["TIKeyboardCandidateGroup"]},{"father":"NSObject","childList":["TIKeyboardCandidateResultSet"]},{"father":"NSObject","childList":["TIKeyboardCandidateResultSetCoder"]},{"father":"TIKeyboardCandidate","childList":["TIKeyboardCandidateSingle"]},{"father":"NSObject","childList":["TIKeyboardInput"]},{"father":"NSObject","childList":["TIKeyboardInputManagerState"]},{"father":"NSObject","childList":["TIKeyboardInputManagerStub"]},{"father":"NSObject","childList":["TIKeyboardKeyBehaviors"]},{"father":"NSObject","childList":["TIKeyboardLayout"]},{"father":"NSObject","childList":["TIKeyboardLayoutFactory"]},{"father":"NSObject","childList":["TIKeyboardLayoutState"]},{"father":"NSOperation","childList":["TIKeyboardOperation"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationAcceptCandidate"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationClearShiftStatus"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationDeleteBackward"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationDeleteForward"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationHWRDeleteStrokes"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationInsertText"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationInsertTextAfterSelection"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationOverrideLayoutKey"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationSetAutocorrection"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationSetCandidates"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationSetInputManagerState"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationSetLayoutTag"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationSetMarkedText"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationSetTypologyLog"]},{"father":"TIKeyboardOperation","childList":["TIKeyboardOperationUnmarkText"]},{"father":"NSObject","childList":["TIKeyboardState"]},{"father":"NSObject","childList":["TIKeyboardTouchEvent"]},{"father":"TIKeyboardCandidate","childList":["TIMecabraCandidate"]},{"father":"TIMecabraCandidate","childList":["TIMecabraCandidateTruncated"]},{"father":"TICharacterSetDescription","childList":["TIMutableCharacterSetDescription"]},{"father":"TIKeyboardCandidateSingle","childList":["TIPinyinDisambiguationCandidate"]},{"father":"NSObject","childList":["TIPreferencesController"]},{"father":"TIKeyboardCandidateSingle","childList":["TIShortcutConversionCandidate"]},{"father":"NSObject","childList":["TIUserDictionaryEntryValue"]},{"father":"NSObject","childList":["TIUserDictionaryTransaction"]},{"father":"NSObject","childList":["TIUserDictionaryWord"]},{"father":"NSObject","childList":["TIWordTokenizer"]},{"father":"TIKeyboardCandidateSingle","childList":["TIZephyrCandidate"]}]}
+{
+  "name": "TextInput.framework",
+  "list": [
+    {
+      "name": "TIKeyboardCandidateSingle",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIZephyrCandidate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIPreferencesController",
+          "children": []
+        },
+        {
+          "name": "TIUserDictionaryEntryValue",
+          "children": []
+        },
+        {
+          "name": "TIUserDictionaryTransaction",
+          "children": []
+        },
+        {
+          "name": "TIUserDictionaryWord",
+          "children": []
+        },
+        {
+          "name": "TIWordTokenizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TICharacterSetDescription",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIMutableCharacterSetDescription",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIMecabraCandidate",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIMecabraCandidateTruncated",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIKeyboardCandidate",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIMecabraCandidate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIKeyboardOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIKeyboardOperationAcceptCandidate",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationClearShiftStatus",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationDeleteBackward",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationDeleteForward",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationHWRDeleteStrokes",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationInsertText",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationInsertTextAfterSelection",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationOverrideLayoutKey",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationSetAutocorrection",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationSetCandidates",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationSetInputManagerState",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationSetLayoutTag",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationSetMarkedText",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationSetTypologyLog",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardOperationUnmarkText",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIKeyboardOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIKeyboardBehaviors",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIKeyboardBehaviors_Autocorrect",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardBehaviors_Japanese",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardBehaviors_Pinyin",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardBehaviors_ShapeBased",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardBehaviors_Simple",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardBehaviors_Thai",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardBehaviors_WaitingForCandidates",
+          "children": []
+        },
+        {
+          "name": "TIKeyboardBehaviors_Zhuyin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIKeyEventMapChinese",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIKeyEventMapWubi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIKeyEventMapChineseMecabra",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIKeyEventMapTraditionalZhuyin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TIKeyEventMap",
+      "parent": null,
+      "children": [
+        {
+          "name": "TIKeyEventMapChinese",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

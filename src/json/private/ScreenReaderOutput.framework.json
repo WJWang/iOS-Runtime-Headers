@@ -1,1 +1,37 @@
-{"name":"ScreenReaderOutput.framework","list":[{"father":"SCRCThreadedWeakLinkedObject","childList":["SCROBrailleClient"]},{"father":"NSObject","childList":["SCROConnection"]},{"father":"NSObject","childList":["SCROMobileBrailleDisplayInputManager"]},{"father":"NSObject","childList":["SCROMobileBrailleDisplayInputManagerCacheObject"]},{"father":"NSObject","childList":["SCROScriptClient"]}]}
+{
+  "name": "ScreenReaderOutput.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCROConnection",
+          "children": []
+        },
+        {
+          "name": "SCROMobileBrailleDisplayInputManager",
+          "children": []
+        },
+        {
+          "name": "SCROMobileBrailleDisplayInputManagerCacheObject",
+          "children": []
+        },
+        {
+          "name": "SCROScriptClient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCRCThreadedWeakLinkedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCROBrailleClient",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

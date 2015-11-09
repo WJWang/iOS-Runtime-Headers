@@ -1,1 +1,217 @@
-{"name":"CoreThemeDefinition.framework","list":[{"father":"CUIPSDImageRef","childList":["CTDPSDPreviewRef"]},{"father":"NSObject","childList":["CoreThemeConstantEnumerator"]},{"father":"NSObject","childList":["CoreThemeConstantHelper"]},{"father":"NSEntityMigrationPolicy","childList":["CoreThemeConstantMigrationPolicy"]},{"father":"NSObject","childList":["CoreThemeDefinitionMigrator"]},{"father":"TDPersistentDocument","childList":["CoreThemeDocument"]},{"father":"NSEntityMigrationPolicy","childList":["CoreThemeRenditionKeyMigrationPolicy"]},{"father":"NSManagedObject","childList":["TDAsset"]},{"father":"NSManagedObject","childList":["TDColorDefinition"]},{"father":"NSManagedObject","childList":["TDColorName"]},{"father":"TDFacetDefinition","childList":["TDCursorFacetDefinition"]},{"father":"TDPhotoshopElementProduction","childList":["TDCursorPhotoshopProduction"]},{"father":"NSObject","childList":["TDDistillRunner"]},{"father":"NSObject","childList":["TDDistiller"]},{"father":"NSManagedObject","childList":["TDEffectComponent"]},{"father":"TDThemeConstant","childList":["TDEffectParameterType"]},{"father":"NSManagedObject","childList":["TDEffectParameterValue"]},{"father":"TDRenditionSpec","childList":["TDEffectRenditionSpec"]},{"father":"TDElementProduction","childList":["TDEffectStyleProduction"]},{"father":"TDThemeConstant","childList":["TDEffectType"]},{"father":"NSManagedObject","childList":["TDElementProduction"]},{"father":"NSManagedObject","childList":["TDFacetDefinition"]},{"father":"NSManagedObject","childList":["TDFontDefinition"]},{"father":"NSManagedObject","childList":["TDFontSizeDefinition"]},{"father":"NSObject","childList":["TDHistorian"]},{"father":"TDThemeConstant","childList":["TDIterationType"]},{"father":"NSManagedObject","childList":["TDLayerMapping"]},{"father":"NSObject","childList":["TDLogger"]},{"father":"TDThemeConstant","childList":["TDMetafontSelector"]},{"father":"NSManagedObject","childList":["TDMetafontSizeSelector"]},{"father":"TDSimpleArtworkElementProduction","childList":["TDNamedArtworkProduction"]},{"father":"NSObject","childList":["TDNamedAssetImportInfo"]},{"father":"TDEffectStyleProduction","childList":["TDNamedEffectProduction"]},{"father":"NSManagedObject","childList":["TDNamedElement"]},{"father":"TDAsset","childList":["TDPNGAsset"]},{"father":"NSObject","childList":["TDPersistentDocument"]},{"father":"TDAsset","childList":["TDPhotoshopAsset"]},{"father":"TDElementProduction","childList":["TDPhotoshopElementProduction"]},{"father":"TDRenditionSpec","childList":["TDPhotoshopRenditionSpec"]},{"father":"CUIMutableCommonAssetStorage","childList":["TDProMergeableCommonAssetStorage"]},{"father":"NSObject","childList":["TDRenditionEntry"]},{"father":"NSManagedObject","childList":["TDRenditionKeySpec"]},{"father":"NSManagedObject","childList":["TDRenditionSpec"]},{"father":"TDThemeConstant","childList":["TDRenditionSubtype"]},{"father":"TDThemeConstant","childList":["TDRenditionType"]},{"father":"NSObject","childList":["TDRenditionsDistiller"]},{"father":"TDThemeConstant","childList":["TDSchemaCategory"]},{"father":"NSManagedObject","childList":["TDSchemaDefinition"]},{"father":"TDSchemaDefinition","childList":["TDSchemaEffectDefinition"]},{"father":"TDSchemaDefinition","childList":["TDSchemaElementDefinition"]},{"father":"TDSimpleArtworkElementProduction","childList":["TDSchemaElementProduction"]},{"father":"NSManagedObject","childList":["TDSchemaPartDefinition"]},{"father":"TDSimpleArtworkRenditionSpec","childList":["TDSchemaRenditionSpec"]},{"father":"TDElementProduction","childList":["TDSimpleArtworkElementProduction"]},{"father":"TDRenditionSpec","childList":["TDSimpleArtworkRenditionSpec"]},{"father":"NSManagedObject","childList":["TDSlice"]},{"father":"NSManagedObject","childList":["TDThemeBitSource"]},{"father":"NSManagedObject","childList":["TDThemeConstant"]},{"father":"TDThemeConstant","childList":["TDThemeDirection"]},{"father":"TDThemeConstant","childList":["TDThemeDrawingLayer"]},{"father":"TDThemeConstant","childList":["TDThemeElement"]},{"father":"TDThemeConstant","childList":["TDThemeIdiom"]},{"father":"TDThemeConstant","childList":["TDThemeLook"]},{"father":"TDThemeConstant","childList":["TDThemePart"]},{"father":"TDThemeConstant","childList":["TDThemePresentationState"]},{"father":"NSObject","childList":["TDThemeSchema"]},{"father":"TDThemeConstant","childList":["TDThemeSize"]},{"father":"TDThemeConstant","childList":["TDThemeState"]},{"father":"TDThemeConstant","childList":["TDThemeValue"]},{"father":"NSObject","childList":["TDThreadMOCOrganizer"]}]}
+{
+  "name": "CoreThemeDefinition.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDThreadMOCOrganizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDThemeConstant",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDThemeDirection",
+          "children": []
+        },
+        {
+          "name": "TDThemeDrawingLayer",
+          "children": []
+        },
+        {
+          "name": "TDThemeElement",
+          "children": []
+        },
+        {
+          "name": "TDThemeIdiom",
+          "children": []
+        },
+        {
+          "name": "TDThemeLook",
+          "children": []
+        },
+        {
+          "name": "TDThemePart",
+          "children": []
+        },
+        {
+          "name": "TDThemePresentationState",
+          "children": []
+        },
+        {
+          "name": "TDThemeSize",
+          "children": []
+        },
+        {
+          "name": "TDThemeState",
+          "children": []
+        },
+        {
+          "name": "TDThemeValue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDSlice",
+          "children": []
+        },
+        {
+          "name": "TDThemeBitSource",
+          "children": []
+        },
+        {
+          "name": "TDThemeConstant",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDRenditionSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDSimpleArtworkRenditionSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDElementProduction",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDSimpleArtworkElementProduction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDSimpleArtworkRenditionSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDSchemaRenditionSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDSimpleArtworkElementProduction",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDSchemaElementProduction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDSchemaDefinition",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDSchemaEffectDefinition",
+          "children": []
+        },
+        {
+          "name": "TDSchemaElementDefinition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIMutableCommonAssetStorage",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDProMergeableCommonAssetStorage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDAsset",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDPNGAsset",
+          "children": []
+        },
+        {
+          "name": "TDPhotoshopAsset",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDEffectStyleProduction",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDNamedEffectProduction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDPhotoshopElementProduction",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDCursorPhotoshopProduction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDFacetDefinition",
+      "parent": null,
+      "children": [
+        {
+          "name": "TDCursorFacetDefinition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEntityMigrationPolicy",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreThemeRenditionKeyMigrationPolicy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TDPersistentDocument",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreThemeDocument",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CUIPSDImageRef",
+      "parent": null,
+      "children": [
+        {
+          "name": "CTDPSDPreviewRef",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

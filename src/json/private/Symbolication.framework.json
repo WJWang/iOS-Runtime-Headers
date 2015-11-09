@@ -1,1 +1,207 @@
-{"name":"Symbolication.framework","list":[{"father":"NSObject","childList":["VMUAddressRange"]},{"father":"VMUHeader","childList":["VMUArchiveHeader"]},{"father":"NSObject","childList":["VMUArchitecture"]},{"father":"NSObject","childList":["VMUBacktrace"]},{"father":"VMUCallTreeNode","childList":["VMUCallTreeLeafNode"]},{"father":"NSObject","childList":["VMUCallTreeNode"]},{"father":"VMUCallTreeNode","childList":["VMUCallTreePseudoNode"]},{"father":"VMUCallTreeNode","childList":["VMUCallTreeRoot"]},{"father":"NSObject","childList":["VMUClassInfo"]},{"father":"NSObject","childList":["VMUClassInfoMap"]},{"father":"VMUSymbolExtractor","childList":["VMUDebugMapExtractor"]},{"father":"NSObject","childList":["VMUDirectedGraph"]},{"father":"VMUSymbolExtractor","childList":["VMUDsymExtractor"]},{"father":"VMUSymbolExtractor","childList":["VMUDwarfExtractor"]},{"father":"VMULoadCommand","childList":["VMUDyLibLoadCommand"]},{"father":"VMULoadCommand","childList":["VMUDyLinkerLoadCommand"]},{"father":"VMULoadCommand","childList":["VMUDySymTabLoadCommand"]},{"father":"NSObject","childList":["VMUDyld"]},{"father":"NSObject","childList":["VMUFatArch"]},{"father":"VMUHeader","childList":["VMUFatHeader"]},{"father":"NSObject","childList":["VMUFunctionNameDemangler"]},{"father":"NSObject","childList":["VMUHeader"]},{"father":"VMUDyLibLoadCommand","childList":["VMUIDDyLibLoadCommand"]},{"father":"NSObject","childList":["VMULazySymbolOwner"]},{"father":"NSObject","childList":["VMULinkedList"]},{"father":"NSObject","childList":["VMULinkedListEntry"]},{"father":"NSObject","childList":["VMULoadCommand"]},{"father":"VMUMachOHeader","childList":["VMUMachO32Header"]},{"father":"VMUMachOHeader","childList":["VMUMachO64Header"]},{"father":"VMUHeader","childList":["VMUMachOHeader"]},{"father":"NSObject","childList":["VMUMachTaskContainer"]},{"father":"NSObject","childList":["VMUMemoryView_Native"]},{"father":"VMUMemoryView_Native","childList":["VMUMemoryView_Native32"]},{"father":"VMUMemoryView_Native","childList":["VMUMemoryView_Native64"]},{"father":"NSObject","childList":["VMUMemoryView_Swapped"]},{"father":"VMUMemoryView_Swapped","childList":["VMUMemoryView_Swapped32"]},{"father":"VMUMemoryView_Swapped","childList":["VMUMemoryView_Swapped64"]},{"father":"NSObject","childList":["VMUMemory_Base"]},{"father":"VMUMemory_Base","childList":["VMUMemory_File"]},{"father":"VMUMemory_Base","childList":["VMUMemory_Handle"]},{"father":"VMUMemory_Base","childList":["VMUMemory_NonContiguousTask"]},{"father":"VMUMemory_Base","childList":["VMUMemory_Task"]},{"father":"VMURangeArray","childList":["VMUNonOverlappingRangeArray"]},{"father":"VMUDirectedGraph","childList":["VMUObjectGraph"]},{"father":"NSObject","childList":["VMUObjectIdentifier"]},{"father":"NSObject","childList":["VMUObjectLabelHandlerInfo"]},{"father":"NSObject","childList":["VMUProcInfo"]},{"father":"NSObject","childList":["VMUProcList"]},{"father":"NSObject","childList":["VMUProcessDescription"]},{"father":"NSObject","childList":["VMURangeArray"]},{"father":"VMUAddressRange","childList":["VMURangeValue"]},{"father":"VMUAddressRange","childList":["VMURegion"]},{"father":"NSObject","childList":["VMUSampler"]},{"father":"NSObject","childList":["VMUSection"]},{"father":"VMUSection","childList":["VMUSection32"]},{"father":"VMUSection","childList":["VMUSection64"]},{"father":"VMUSegmentLoadCommand","childList":["VMUSegment32LoadCommand"]},{"father":"VMUSegmentLoadCommand","childList":["VMUSegment64LoadCommand"]},{"father":"VMULoadCommand","childList":["VMUSegmentLoadCommand"]},{"father":"VMUAddressRange","childList":["VMUSourceInfo"]},{"father":"VMUSymbolExtractor","childList":["VMUStabsExtractor"]},{"father":"VMULoadCommand","childList":["VMUSymTabLoadCommand"]},{"father":"VMUAddressRange","childList":["VMUSymbol"]},{"father":"NSObject","childList":["VMUSymbolExtractor"]},{"father":"NSObject","childList":["VMUSymbolOwner"]},{"father":"NSObject","childList":["VMUSymbolOwnerCache"]},{"father":"NSObject","childList":["VMUSymbolicator"]},{"father":"NSObject","childList":["VMUTask"]},{"father":"NSObject","childList":["VMUTaskMemoryCache"]},{"father":"NSObject","childList":["VMUTaskMemoryScanner"]},{"father":"NSObject","childList":["VMUTraceData"]},{"father":"NSObject","childList":["VMUTraceRecord"]},{"father":"NSObject","childList":["VMUTraceSymbol"]},{"father":"VMULoadCommand","childList":["VMUUUIDLoadCommand"]},{"father":"NSObject","childList":["VMUVMRegion"]},{"father":"NSObject","childList":["VMUVMRegionIdentifier"]},{"father":"NSObject","childList":["_VMUDWARFAbbrevDecl"]},{"father":"NSObject","childList":["_VMUDWARFAttribute"]}]}
+{
+  "name": "Symbolication.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUVMRegion",
+          "children": []
+        },
+        {
+          "name": "VMUVMRegionIdentifier",
+          "children": []
+        },
+        {
+          "name": "_VMUDWARFAbbrevDecl",
+          "children": []
+        },
+        {
+          "name": "_VMUDWARFAttribute",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMULoadCommand",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUUUIDLoadCommand",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUAddressRange",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUSymbol",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUSymbolExtractor",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUStabsExtractor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUSegmentLoadCommand",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUSegment32LoadCommand",
+          "children": []
+        },
+        {
+          "name": "VMUSegment64LoadCommand",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUSection",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUSection32",
+          "children": []
+        },
+        {
+          "name": "VMUSection64",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUDirectedGraph",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUObjectGraph",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMURangeArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUNonOverlappingRangeArray",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUMemory_Base",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUMemory_File",
+          "children": []
+        },
+        {
+          "name": "VMUMemory_Handle",
+          "children": []
+        },
+        {
+          "name": "VMUMemory_NonContiguousTask",
+          "children": []
+        },
+        {
+          "name": "VMUMemory_Task",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUMemoryView_Swapped",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUMemoryView_Swapped32",
+          "children": []
+        },
+        {
+          "name": "VMUMemoryView_Swapped64",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUMemoryView_Native",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUMemoryView_Native32",
+          "children": []
+        },
+        {
+          "name": "VMUMemoryView_Native64",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUHeader",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUMachOHeader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUMachOHeader",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUMachO32Header",
+          "children": []
+        },
+        {
+          "name": "VMUMachO64Header",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUDyLibLoadCommand",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUIDDyLibLoadCommand",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "VMUCallTreeNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMUCallTreeLeafNode",
+          "children": []
+        },
+        {
+          "name": "VMUCallTreePseudoNode",
+          "children": []
+        },
+        {
+          "name": "VMUCallTreeRoot",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

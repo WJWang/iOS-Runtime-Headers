@@ -1,1 +1,65 @@
-{"name":"CoreBluetooth.framework","list":[{"father":"NSObject","childList":["BTDevicePicker"]},{"father":"NSObject","childList":["CBATTRequest"]},{"father":"NSObject","childList":["CBCentral"]},{"father":"NSObject","childList":["CBCentralManager"]},{"father":"NSObject","childList":["CBCharacteristic"]},{"father":"NSObject","childList":["CBDescriptor"]},{"father":"CBCharacteristic","childList":["CBMutableCharacteristic"]},{"father":"CBDescriptor","childList":["CBMutableDescriptor"]},{"father":"CBService","childList":["CBMutableService"]},{"father":"NSObject","childList":["CBPeripheral"]},{"father":"NSObject","childList":["CBPeripheralManager"]},{"father":"NSObject","childList":["CBService"]},{"father":"NSObject","childList":["CBUUID"]},{"father":"NSObject","childList":["CBXpcConnection"]},{"father":"NSObject","childList":["PSSpecifierStub"]}]}
+{
+  "name": "CoreBluetooth.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CBPeripheral",
+          "children": []
+        },
+        {
+          "name": "CBPeripheralManager",
+          "children": []
+        },
+        {
+          "name": "CBService",
+          "children": []
+        },
+        {
+          "name": "CBUUID",
+          "children": []
+        },
+        {
+          "name": "CBXpcConnection",
+          "children": []
+        },
+        {
+          "name": "PSSpecifierStub",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CBService",
+      "parent": null,
+      "children": [
+        {
+          "name": "CBMutableService",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CBDescriptor",
+      "parent": null,
+      "children": [
+        {
+          "name": "CBMutableDescriptor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CBCharacteristic",
+      "parent": null,
+      "children": [
+        {
+          "name": "CBMutableCharacteristic",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

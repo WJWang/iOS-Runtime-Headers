@@ -1,1 +1,23 @@
-{"name":"SyncedDefaults.framework","list":[{"father":"NSObject","childList":["SYDClient"]},{"father":"NSObject","childList":["SYDJournal"]},{"father":"NSObject","childList":["SYDRemotePreferencesSource"]}]}
+{
+  "name": "SyncedDefaults.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SYDClient",
+          "children": []
+        },
+        {
+          "name": "SYDJournal",
+          "children": []
+        },
+        {
+          "name": "SYDRemotePreferencesSource",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,449 @@
-{"name":"MessageUI.framework","list":[{"father":"NSObject","childList":["MFAddressBookManager"]},{"father":"NSObject","childList":["MFAddressConcatenator"]},{"father":"NSObject","childList":["MFAddressPickerReformatter"]},{"father":"UIImage","childList":["MFAtomIcon"]},{"father":"UIView","childList":["MFAttachmentImageGenerator"]},{"father":"NSObject","childList":["MFAttachmentPasteboardRepresentation"]},{"father":"MFComposeRecipient","childList":["MFCalendarComposeRecipient"]},{"father":"UIView","childList":["MFCaptionLabel"]},{"father":"UIWebDocumentView","childList":["MFComposeBodyField"]},{"father":"MFComposeHeaderView","childList":["MFComposeFromView"]},{"father":"UIView","childList":["MFComposeHeaderView"]},{"father":"MFComposeHeaderView","childList":["MFComposeImageSizeView"]},{"father":"MFComposeHeaderView","childList":["MFComposeMultiView"]},{"father":"NSObject","childList":["MFComposeRecipient"]},{"father":"MFComposeRecipient","childList":["MFComposeRecipientGroup"]},{"father":"NSObject","childList":["MFComposeRecipientOriginContext"]},{"father":"MFComposeHeaderView","childList":["MFComposeRecipientView"]},{"father":"UIScrollView","childList":["MFComposeScrollView"]},{"father":"MFComposeHeaderView","childList":["MFComposeSubjectView"]},{"father":"UITextContentView","childList":["MFComposeTextContentView"]},{"father":"UITextField","childList":["MFComposeTextField"]},{"father":"NSObject","childList":["MFComposeTypeFactory"]},{"father":"NSObject","childList":["MFContactsSearchManager"]},{"father":"NSOperation","childList":["MFContactsSearchOperation"]},{"father":"NSObject","childList":["MFContactsSearchResultsModel"]},{"father":"NSObject","childList":["MFContactsSearchTaskContext"]},{"father":"MFContactsSearchOperation","childList":["MFCorecipientSearchOperation"]},{"father":"MFModernAtomView","childList":["MFCorecipientsIndicatorAtom"]},{"father":"NSObject","childList":["MFDataDetectors"]},{"father":"NSObject","childList":["MFDragManager"]},{"father":"MFContactsSearchOperation","childList":["MFEmailSearchOperation"]},{"father":"MFContactsSearchOperation","childList":["MFFindSearchableStoresOperation"]},{"father":"UITableView","childList":["MFFromAddressTableView"]},{"father":"UIViewController","childList":["MFFromAddressViewController"]},{"father":"MFWebAttachmentSource","childList":["MFGenericAttachmentStore"]},{"father":"UIGestureRecognizer","childList":["MFGobblerGestureRecognizer"]},{"father":"UITableViewController","childList":["MFGroupDetailViewController"]},{"father":"NSObject","childList":["MFHardwareJPEGScaler"]},{"father":"UILabel","childList":["MFHeaderLabelView"]},{"father":"NSObject","childList":["MFMailAccountProxy"]},{"father":"NSObject","childList":["MFMailAccountProxyGenerator"]},{"father":"NSObject","childList":["MFMailComposeContactsSearchController"]},{"father":"UIViewController","childList":["MFMailComposeController"]},{"father":"UIViewController","childList":["MFMailComposeCorecipientViewController"]},{"father":"UIViewController","childList":["MFMailComposeInternalViewController"]},{"father":"UIView","childList":["MFMailComposeNavigationBarTitleView"]},{"father":"UIViewController","childList":["MFMailComposePlaceholderViewController"]},{"father":"MFComposeRecipientView","childList":["MFMailComposeRecipientView"]},{"father":"_UIRemoteViewController","childList":["MFMailComposeRemoteViewController"]},{"father":"UITransitionView","childList":["MFMailComposeView"]},{"father":"UINavigationController","childList":["MFMailComposeViewController"]},{"father":"MFMessageTextAttachment","childList":["MFMailInlineTextAttachment"]},{"father":"NSObject","childList":["MFMailPopoverManager"]},{"father":"NSObject","childList":["MFMailToURLComponents"]},{"father":"MFMessageBodyParser","childList":["MFMessageBodyDOMParser"]},{"father":"MFMessageBodySubparser","childList":["MFMessageBodyDOMQuoteSubparser"]},{"father":"NSObject","childList":["MFMessageBodyElement"]},{"father":"MFMessageBodyParser","childList":["MFMessageBodyHTMLParser"]},{"father":"MFMessageBodySubparser","childList":["MFMessageBodyOriginalTextSubparser"]},{"father":"MFMessageBodyParserObject","childList":["MFMessageBodyParser"]},{"father":"NSObject","childList":["MFMessageBodyParserObject"]},{"father":"NSObject","childList":["MFMessageBodyStringAccumulator"]},{"father":"MFMessageBodyParserObject","childList":["MFMessageBodySubparser"]},{"father":"UINavigationController","childList":["MFMessageComposeViewController"]},{"father":"NSObject","childList":["MFMessageReformattingContext"]},{"father":"NSObject","childList":["MFMessageViewingContext"]},{"father":"UIWebBrowserView","childList":["MFMessageWebLayer"]},{"father":"NSURLProtocol","childList":["MFMessageWebProtocol"]},{"father":"NSObject","childList":["MFMixedMessageFragment"]},{"father":"UIControl","childList":["MFModernAddressAtom"]},{"father":"UIView","childList":["MFModernAtomBackgroundView"]},{"father":"UIView","childList":["MFModernAtomIconView"]},{"father":"UIDefaultKeyboardInput","childList":["MFModernAtomView"]},{"father":"MFModernAtomView","childList":["MFModernComposeRecipientAtom"]},{"father":"UIView","childList":["MFModernLabelledAtomList"]},{"father":"MFContactsSearchOperation","childList":["MFNameSearchOperation"]},{"father":"UIPopoverController","childList":["MFPopoverController"]},{"father":"MFComposeRecipient","childList":["MFRecentComposeRecipient"]},{"father":"MFComposeRecipientGroup","childList":["MFRecentComposeRecipientGroup"]},{"father":"MFContactsSearchOperation","childList":["MFRecentsSearchOperation"]},{"father":"NSObject","childList":["MFRecipientListStringsLocalizationLocator"]},{"father":"UITableViewCell","childList":["MFRecipientTableViewCell"]},{"father":"UIView","childList":["MFRecipientTableViewCellDetailView"]},{"father":"UIView","childList":["MFRecipientTableViewCellTitleView"]},{"father":"NSObject","childList":["MFReformattedAddress"]},{"father":"MFContactsSearchOperation","childList":["MFSearchInAccountWithIDOperation"]},{"father":"UIViewController","childList":["MFSearchResultsViewController"]},{"father":"UIImageView","childList":["MFSearchShadowView"]},{"father":"UIView","childList":["MFSecureMIMEPersonHeaderView"]},{"father":"NSObject","childList":["MFSoundController"]},{"father":"NSObject","childList":["MFVariableLayoutConstraint"]},{"father":"NSObject","childList":["MFWebKitMainThread"]},{"father":"MFCountingDataConsumer","childList":["_MFAttachmentScalingDataConsumer"]},{"father":"NSObject","childList":["_MFCRRecentContactABContext"]},{"father":"NSObject","childList":["_MFCountableMatchesContext"]},{"father":"_MFValueTransformer","childList":["_MFFontToFontDescriptorTransformer"]},{"father":"NSObject","childList":["_MFMailAccountProxySource"]},{"father":"NSObject","childList":["_MFMailComposeAttachmentLoader"]},{"father":"NSObject","childList":["_MFMailComposeAttachmentWrapper"]},{"father":"UIScrollView","childList":["_MFMailComposePlaceholderView"]},{"father":"NSObject","childList":["_MFMailCompositionContext"]},{"father":"MFComposeTextField","childList":["_MFMailRecipientTextField"]},{"father":"NSObject","childList":["_MFMessageBodyConsumableInnerTextString"]},{"father":"MFMessageBodyElement","childList":["_MFMessageBodyDOMElement"]},{"father":"MFMessageBodyElement","childList":["_MFMessageBodyHTMLElement"]},{"father":"UIButton","childList":["_MFModernAddressAtomEffectButton"]},{"father":"NSObject","childList":["_MFParsedHTMLNode"]},{"father":"_MFParsedHTMLNode","childList":["_MFParsedHTMLTag"]},{"father":"_MFParsedHTMLNode","childList":["_MFParsedHTMLText"]},{"father":"MFComposeRecipient","childList":["_MFPlaceholderComposeRecipient"]},{"father":"NSOperation","childList":["_MFSearchAddResultsOperation"]},{"father":"NSOperation","childList":["_MFSearchProcessResultsOperation"]},{"father":"UIView","childList":["_MFSecureMIMEPersonHeaderBackgroundView"]},{"father":"UIView","childList":["_MFSecureMIMEPersonHeaderLabel"]},{"father":"NSObject","childList":["_MFTableCellAttributesCache"]},{"father":"NSObject","childList":["_MFValueTransformer"]}]}
+{
+  "name": "MessageUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFTableCellAttributesCache",
+          "children": []
+        },
+        {
+          "name": "_MFValueTransformer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFSecureMIMEPersonHeaderBackgroundView",
+          "children": []
+        },
+        {
+          "name": "_MFSecureMIMEPersonHeaderLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFSearchAddResultsOperation",
+          "children": []
+        },
+        {
+          "name": "_MFSearchProcessResultsOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFComposeRecipient",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFPlaceholderComposeRecipient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_MFParsedHTMLNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFParsedHTMLTag",
+          "children": []
+        },
+        {
+          "name": "_MFParsedHTMLText",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFModernAddressAtomEffectButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageBodyElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFMessageBodyDOMElement",
+          "children": []
+        },
+        {
+          "name": "_MFMessageBodyHTMLElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFComposeTextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFMailRecipientTextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFMailComposePlaceholderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_MFValueTransformer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFFontToFontDescriptorTransformer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFCountingDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFAttachmentScalingDataConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFSearchShadowView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFSearchResultsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFContactsSearchOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFSearchInAccountWithIDOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFRecipientTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFComposeRecipientGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFRecentComposeRecipientGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPopoverController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPopoverController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFModernAtomView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFModernComposeRecipientAtom",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIDefaultKeyboardInput",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFModernAtomView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFModernAddressAtom",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSURLProtocol",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMessageWebProtocol",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIWebBrowserView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMessageWebLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMessageComposeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageBodyParserObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMessageBodyParser",
+          "children": []
+        },
+        {
+          "name": "MFMessageBodySubparser",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageBodySubparser",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMessageBodyOriginalTextSubparser",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageBodyParser",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMessageBodyDOMParser",
+          "children": []
+        },
+        {
+          "name": "MFMessageBodyHTMLParser",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageTextAttachment",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailInlineTextAttachment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITransitionView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailComposeView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailComposeRemoteViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFComposeRecipientView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailComposeRecipientView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFHeaderLabelView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFGroupDetailViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFGobblerGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFWebAttachmentSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFGenericAttachmentStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFFromAddressTableView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFComposeTextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextContentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFComposeTextContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFComposeHeaderView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFComposeFromView",
+          "children": []
+        },
+        {
+          "name": "MFComposeImageSizeView",
+          "children": []
+        },
+        {
+          "name": "MFComposeMultiView",
+          "children": []
+        },
+        {
+          "name": "MFComposeRecipientView",
+          "children": []
+        },
+        {
+          "name": "MFComposeSubjectView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIWebDocumentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFComposeBodyField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImage",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFAtomIcon",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

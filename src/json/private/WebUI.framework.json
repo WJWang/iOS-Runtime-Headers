@@ -1,1 +1,137 @@
-{"name":"WebUI.framework","list":[{"father":"UIPrintPageRenderer","childList":["BrowserPrintPageRenderer"]},{"father":"NSObject","childList":["CertificateUtilities"]},{"father":"NSObject","childList":["SheetController"]},{"father":"WBSFormAutoFillItem","childList":["WBSAddressBookMatch"]},{"father":"WBSFormAutoFillItem","childList":["WBSAddressBookMatchMarker"]},{"father":"NSObject","childList":["WBSAddressBookValueSpecifier"]},{"father":"NSObject","childList":["WBSAsynchronousRequestHelper"]},{"father":"NSObject","childList":["WBSAutomaticReadingListItem"]},{"father":"NSObject","childList":["WBSAutomaticReadingListRecordRange"]},{"father":"WBSAutomaticReadingListItem","childList":["WBSAutomaticReadingListSinaWeiboItem"]},{"father":"WBSAutomaticReadingListSocialSource","childList":["WBSAutomaticReadingListSinaWeiboSource"]},{"father":"NSObject","childList":["WBSAutomaticReadingListSocialSource"]},{"father":"NSObject","childList":["WBSAutomaticReadingListTrackedRecordsInfo"]},{"father":"WBSAutomaticReadingListItem","childList":["WBSAutomaticReadingListTwitterItem"]},{"father":"WBSAutomaticReadingListSocialSource","childList":["WBSAutomaticReadingListTwitterSource"]},{"father":"WBSURLCompletionMatch","childList":["WBSBookmarkAndHistoryCompletionMatch"]},{"father":"NSObject","childList":["WBSClass"]},{"father":"WBSFormAutoFillItem","childList":["WBSCredentialMatch"]},{"father":"NSObject","childList":["WBSCreditCardData"]},{"father":"NSObject","childList":["WBSCreditCardDataController"]},{"father":"NSFormatter","childList":["WBSCreditCardFormatter"]},{"father":"NSObject","childList":["WBSFluidProgressAnimation"]},{"father":"NSObject","childList":["WBSFluidProgressController"]},{"father":"NSObject","childList":["WBSFluidProgressState"]},{"father":"NSObject","childList":["WBSFormAutoFillItem"]},{"father":"NSObject","childList":["WBSFormDataController"]},{"father":"NSObject","childList":["WBSFormMetadataController"]},{"father":"NSObject","childList":["WBSFormMetadataControllerPrivate"]},{"father":"NSObject","childList":["WBSFormToABBinder"]},{"father":"NSObject","childList":["WBSPasswordGeneration"]},{"father":"NSObject","childList":["WBSURLCompletionDatabase"]},{"father":"NSObject","childList":["WBSURLCompletionMatch"]},{"father":"NSObject","childList":["WBSURLCompletionUserTypedString"]},{"father":"NSObject","childList":["WBSURLSuffixChecker"]},{"father":"NSObject","childList":["WBSURLSuffixCheckerPrivate"]},{"father":"WBSFormAutoFillItem","childList":["WBSUserTypedFormString"]},{"father":"WBSCreditCardDataController","childList":["WBUCreditCardDataController"]},{"father":"NSObject","childList":["WBUFormAutoCompleteState"]},{"father":"NSObject","childList":["WBUFormAutoFillFrame"]},{"father":"NSObject","childList":["WBUFormAutoFillNode"]},{"father":"NSObject","childList":["WBUFormAutoFillPrompt"]},{"father":"WBSFormDataController","childList":["WBUFormDataController"]},{"father":"WBSFormMetadataController","childList":["WBUFormMetadataController"]},{"father":"NSObject","childList":["WBUFormsMetadataProvider"]},{"father":"WebDefaultPolicyDelegate","childList":["WBUPolicyDelegate"]},{"father":"NSObject","childList":["WebUIAlert"]},{"father":"NSObject","childList":["WebUIAuthenticationManager"]},{"father":"NSObject","childList":["WebUIBrowserLoadingController"]},{"father":"NSObject","childList":["WebUICertificateError"]},{"father":"NSObject","childList":["WebUIDelayedSpinner"]},{"father":"NSObject","childList":["WebUIDelegate"]},{"father":"NSObject","childList":["WebUIDownloadManager"]},{"father":"NSObject","childList":["WebUIGeolocationSupport"]},{"father":"UIAlertView","childList":["WebUIModalAlertView"]},{"father":"NSObject","childList":["_WBSFieldLabelPatternMatcherFactory"]},{"father":"NSObject","childList":["_WBUDynamicMeCard"]},{"father":"NSObject","childList":["_WBUPolicyDecisionListener"]}]}
+{
+  "name": "WebUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_WBSFieldLabelPatternMatcherFactory",
+          "children": []
+        },
+        {
+          "name": "_WBUDynamicMeCard",
+          "children": []
+        },
+        {
+          "name": "_WBUPolicyDecisionListener",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAlertView",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebUIModalAlertView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WebDefaultPolicyDelegate",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBUPolicyDelegate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBSFormMetadataController",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBUFormMetadataController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBSFormDataController",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBUFormDataController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBSCreditCardDataController",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBUCreditCardDataController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBSFormAutoFillItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBSUserTypedFormString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBSCreditCardFormatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBSURLCompletionMatch",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBSBookmarkAndHistoryCompletionMatch",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBSAutomaticReadingListSocialSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBSAutomaticReadingListTwitterSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBSAutomaticReadingListItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBSAutomaticReadingListSinaWeiboItem",
+          "children": []
+        },
+        {
+          "name": "WBSAutomaticReadingListTwitterItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPrintPageRenderer",
+      "parent": null,
+      "children": [
+        {
+          "name": "BrowserPrintPageRenderer",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

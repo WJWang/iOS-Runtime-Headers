@@ -1,1 +1,189 @@
-{"name":"SpringBoardUIServices.framework","list":[{"father":"UIView","childList":["SBEmptyButtonView"]},{"father":"TPNumberPad","childList":["SBNumberPadWithDelegate"]},{"father":"UIKeyboard","childList":["SBPasscodeKeyboard"]},{"father":"TPNumberPadDarkStyleButton","childList":["SBPasscodeNumberPadButton"]},{"father":"TPRevealingRingView","childList":["SBSimplePasscodeEntryFieldButton"]},{"father":"SBUIPasscodeEntryField","childList":["SBUIAlphanumericPasscodeEntryField"]},{"father":"NSObject","childList":["SBUIBiometricEventMonitor"]},{"father":"UIButton","childList":["SBUIButton"]},{"father":"_UIRemoteViewController","childList":["SBUIEmergencyCallHostViewController"]},{"father":"UIViewController","childList":["SBUIEmergencyCallServiceViewController"]},{"father":"SBUINumericPasscodeEntryFieldBase","childList":["SBUIFourDigitPasscodeEntryField"]},{"father":"NSObject","childList":["SBUIKeyboardEnablementManager"]},{"father":"SBUINumericPasscodeEntryFieldBase","childList":["SBUILongNumericPasscodeEntryField"]},{"father":"SBUIPasscodeEntryField","childList":["SBUINumericPasscodeEntryFieldBase"]},{"father":"UIView","childList":["SBUIPasscodeEntryField"]},{"father":"UIView","childList":["SBUIPasscodeLockNumberPad"]},{"father":"UIView","childList":["SBUIPasscodeLockViewBase"]},{"father":"NSObject","childList":["SBUIPasscodeLockViewFactory"]},{"father":"SBUIPasscodeLockViewWithKeypad","childList":["SBUIPasscodeLockViewLongNumericKeypad"]},{"father":"SBUIPasscodeLockViewLongNumericKeypad","childList":["SBUIPasscodeLockViewSIMLockKeypad"]},{"father":"SBUIPasscodeLockViewWithKeypad","childList":["SBUIPasscodeLockViewSimple4DigitKeypad"]},{"father":"SBUIPasscodeLockViewBase","childList":["SBUIPasscodeLockViewWithKeyboard"]},{"father":"SBUIPasscodeLockViewBase","childList":["SBUIPasscodeLockViewWithKeypad"]},{"father":"UITextField","childList":["SBUIPasscodeTextField"]},{"father":"UIViewController","childList":["SBUIRemoteAlertServiceViewController"]},{"father":"UIControl","childList":["SBUIRingViewLabelButton"]},{"father":"UIViewController","childList":["SBUIStarkHomeScreenBackgroundProviderViewController"]},{"father":"UIViewController","childList":["_SBUISwitcherPageServiceViewController"]},{"father":"UIViewController","childList":["_SBUIWidgetViewController"]}]}
+{
+  "name": "SpringBoardUIServices.framework",
+  "list": [
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIStarkHomeScreenBackgroundProviderViewController",
+          "children": []
+        },
+        {
+          "name": "_SBUISwitcherPageServiceViewController",
+          "children": []
+        },
+        {
+          "name": "_SBUIWidgetViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIRingViewLabelButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIPasscodeTextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBUIPasscodeLockViewBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIPasscodeLockViewWithKeyboard",
+          "children": []
+        },
+        {
+          "name": "SBUIPasscodeLockViewWithKeypad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBUIPasscodeLockViewWithKeypad",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIPasscodeLockViewSimple4DigitKeypad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBUIPasscodeLockViewLongNumericKeypad",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIPasscodeLockViewSIMLockKeypad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIPasscodeLockViewFactory",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIPasscodeEntryField",
+          "children": []
+        },
+        {
+          "name": "SBUIPasscodeLockNumberPad",
+          "children": []
+        },
+        {
+          "name": "SBUIPasscodeLockViewBase",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBUIPasscodeEntryField",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUINumericPasscodeEntryFieldBase",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBUINumericPasscodeEntryFieldBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIFourDigitPasscodeEntryField",
+          "children": []
+        },
+        {
+          "name": "SBUILongNumericPasscodeEntryField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIEmergencyCallHostViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPRevealingRingView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBSimplePasscodeEntryFieldButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPNumberPadDarkStyleButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBPasscodeNumberPadButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIKeyboard",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBPasscodeKeyboard",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPNumberPad",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBNumberPadWithDelegate",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"name":"DataDetectorsCore.framework","list":[{"father":"DDLocation","childList":["DDCompilationNote"]},{"father":"NSObject","childList":["DDLocation"]},{"father":"NSObject","childList":["DDScannerResult"]},{"father":"NSObject","childList":["DDURLMatch"]},{"father":"NSObject","childList":["DDURLifier"]}]}
+{
+  "name": "DataDetectorsCore.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDLocation",
+          "children": []
+        },
+        {
+          "name": "DDScannerResult",
+          "children": []
+        },
+        {
+          "name": "DDURLMatch",
+          "children": []
+        },
+        {
+          "name": "DDURLifier",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DDLocation",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDCompilationNote",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

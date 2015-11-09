@@ -1,1 +1,243 @@
-{"name":"CommunicationsSetupUI.framework","list":[{"father":"CNFRegListController","childList":["CKSettingsMessagesController"]},{"father":"CNFRegAccountWebViewController","childList":["CNFRegAccountAuthorizationController"]},{"father":"CNFRegServerWebViewController","childList":["CNFRegAccountWebViewController"]},{"father":"PSTableCell","childList":["CNFRegAccountsButtonCell"]},{"father":"PSTableCell","childList":["CNFRegAddAliasTableCell"]},{"father":"NSObject","childList":["CNFRegActionSheetManager"]},{"father":"NSObject","childList":["CNFRegAlias"]},{"father":"CNFRegListController","childList":["CNFRegAliasDetailController"]},{"father":"PSTableCell","childList":["CNFRegAliasTableCell"]},{"father":"NSObject","childList":["CNFRegAppearanceController"]},{"father":"CNFRegAccountWebViewController","childList":["CNFRegAuthorizedAccountWebViewController"]},{"father":"PSListItemsController","childList":["CNFRegCallerIdDetailController"]},{"father":"CNFRegAuthorizedAccountWebViewController","childList":["CNFRegChangeAccountPasswordController"]},{"father":"NSObject","childList":["CNFRegController"]},{"father":"CNFRegAccountWebViewController","childList":["CNFRegCreateAccountController"]},{"father":"CNFRegFirstRunController","childList":["CNFRegDisabledController"]},{"father":"CNFRegEditableTableCell","childList":["CNFRegEditablePhoneTableCell"]},{"father":"PSEditableTableCell","childList":["CNFRegEditableTableCell"]},{"father":"CNFRegFirstRunController","childList":["CNFRegEmailController"]},{"father":"PSTableCell","childList":["CNFRegEmailLinkListCell"]},{"father":"CNFRegListController","childList":["CNFRegFirstRunController"]},{"father":"CNFRegAppearanceController","childList":["CNFRegGradientAppearanceController"]},{"father":"UIButton","childList":["CNFRegLearnMoreButton"]},{"father":"PSListController","childList":["CNFRegListController"]},{"father":"UIView","childList":["CNFRegLoadingView"]},{"father":"CNFRegFirstRunController","childList":["CNFRegLocaleController"]},{"father":"CNFRegAppearanceController","childList":["CNFRegModernAppearanceController"]},{"father":"CNFRegModernAppearanceController","childList":["CNFRegModernTransparentDarkAppearanceController"]},{"father":"CNFRegModernAppearanceController","childList":["CNFRegModernTransparentLightAppearanceController"]},{"father":"UIView","childList":["CNFRegNavigationBarTitleView"]},{"father":"UITableViewController","childList":["CNFRegRegionChooserController"]},{"father":"CNFRegAuthorizedAccountWebViewController","childList":["CNFRegSecureAccountWebViewController"]},{"father":"PSTableCell","childList":["CNFRegSelectableAliasTableCell"]},{"father":"UIViewController","childList":["CNFRegServerWebViewController"]},{"father":"PSTableCell","childList":["CNFRegSettingsCallerIdCell"]},{"father":"PSTableCell","childList":["CNFRegSettingsAccountCell"]},{"father":"CNFRegListController","childList":["CNFRegSettingsController"]},{"father":"UIView","childList":["CNFRegShadowView"]},{"father":"CNFRegFirstRunController","childList":["CNFRegSignInController"]},{"father":"UIView","childList":["CNFRegSigninLearnMoreView"]},{"father":"PSTableCell","childList":["CNFRegSpinnerCell"]},{"father":"PSViewController","childList":["CNFRegSplashScreenController"]},{"father":"CNFRegSignInController","childList":["CNFRegSplashSignInController"]},{"father":"CNFRegAppearanceController","childList":["CNFRegStripedAppearanceController"]},{"father":"CNFRegTableLabel","childList":["CNFRegTableFooterLabel"]},{"father":"CNFRegTableLabel","childList":["CNFRegTableHeaderLabel"]},{"father":"UIView","childList":["CNFRegTableLabel"]},{"father":"CNFRegAppearanceController","childList":["CNFRegTranslucentBlackAppearanceController"]},{"father":"CNFRegSecureAccountWebViewController","childList":["CNFRegViewAccountController"]},{"father":"PSSetupController","childList":["CNFRegWizardController"]},{"father":"NSObject","childList":["CSUIFaceTimeSetupController"]},{"father":"PSBundleController","childList":["CSUISettingsBundleController"]},{"father":"NSObject","childList":["FTRegAccountMonitor"]},{"father":"NSObject","childList":["FTRegAccountServiceDelegate"]},{"father":"NSObject","childList":["FTRegAppleIDSetupManager"]},{"father":"NSObject","childList":["FTRegConnectionHandler"]},{"father":"NSObject","childList":["FTRegUtilities"]},{"father":"UIView","childList":["UserPassBox"]}]}
+{
+  "name": "CommunicationsSetupUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "FTRegUtilities",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "UserPassBox",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSBundleController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CSUISettingsBundleController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSSetupController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegWizardController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegSecureAccountWebViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegViewAccountController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegAppearanceController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegTranslucentBlackAppearanceController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegTableLabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegTableFooterLabel",
+          "children": []
+        },
+        {
+          "name": "CNFRegTableHeaderLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegSignInController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegSplashSignInController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegSplashScreenController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegSpinnerCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegFirstRunController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegSignInController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegSettingsController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegServerWebViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegAuthorizedAccountWebViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegSecureAccountWebViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegRegionChooserController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegModernAppearanceController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegModernTransparentDarkAppearanceController",
+          "children": []
+        },
+        {
+          "name": "CNFRegModernTransparentLightAppearanceController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegListController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegLearnMoreButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSEditableTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegEditableTableCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegEditableTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegEditablePhoneTableCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegAccountWebViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegCreateAccountController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSListItemsController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegCallerIdDetailController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNFRegServerWebViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFRegAccountWebViewController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,43 @@
-{"name":"PrintKit.framework","list":[{"father":"NSObject","childList":["DNSServiceRefWrapper"]},{"father":"NSObject","childList":["PKDefaults"]},{"father":"NSObject","childList":["PKJob"]},{"father":"NSObject","childList":["PKMediaName"]},{"father":"NSObject","childList":["PKPaper"]},{"father":"NSObject","childList":["PKPrintSettings"]},{"father":"NSObject","childList":["PKPrinter"]},{"father":"NSObject","childList":["PKPrinterBrowser"]}]}
+{
+  "name": "PrintKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "DNSServiceRefWrapper",
+          "children": []
+        },
+        {
+          "name": "PKDefaults",
+          "children": []
+        },
+        {
+          "name": "PKJob",
+          "children": []
+        },
+        {
+          "name": "PKMediaName",
+          "children": []
+        },
+        {
+          "name": "PKPaper",
+          "children": []
+        },
+        {
+          "name": "PKPrintSettings",
+          "children": []
+        },
+        {
+          "name": "PKPrinter",
+          "children": []
+        },
+        {
+          "name": "PKPrinterBrowser",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

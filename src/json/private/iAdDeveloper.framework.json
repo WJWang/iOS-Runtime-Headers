@@ -1,1 +1,33 @@
-{"name":"iAdDeveloper.framework","list":[{"father":"NSObject","childList":["ADEmbeddedAdServer"]},{"father":"NSObject","childList":["HTSHTTPMessage"]},{"father":"HTSHTTPMessage","childList":["HTSHTTPMessageRequest"]},{"father":"HTSHTTPMessage","childList":["HTSHTTPMessageResponse"]},{"father":"NSObject","childList":["HTSHTTPServer"]},{"father":"NSObject","childList":["HTSHTTPServerConnection"]}]}
+{
+  "name": "iAdDeveloper.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "HTSHTTPServer",
+          "children": []
+        },
+        {
+          "name": "HTSHTTPServerConnection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "HTSHTTPMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "HTSHTTPMessageRequest",
+          "children": []
+        },
+        {
+          "name": "HTSHTTPMessageResponse",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"EasyConfig.framework","list":[{"father":"NSObject","childList":["EasyConfigDevice"]}]}
+{
+  "name": "EasyConfig.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "EasyConfigDevice",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

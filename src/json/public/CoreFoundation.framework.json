@@ -1,1 +1,354 @@
-{"name":"CoreFoundation.framework","list":[{"father":"CFXPreferencesSource","childList":["CFXPreferencesCompatibilitySource"]},{"father":"CFXPreferencesPropertyListSource","childList":["CFXPreferencesManagedSource"]},{"father":"CFXPreferencesSource","childList":["CFXPreferencesPropertyListSource"]},{"father":"NSObject","childList":["CFXPreferencesPropertyListSourceSynchronizer"]},{"father":"CFXPreferencesSource","childList":["CFXPreferencesSearchListSource"]},{"father":"NSObject","childList":["CFXPreferencesSource"]},{"father":"NSObject","childList":["NSArray"]},{"father":"NSObject","childList":["NSBlock"]},{"father":"NSInvocation","childList":["NSBlockInvocation"]},{"father":"NSObject","childList":["NSCache"]},{"father":"NSObject","childList":["NSCalendar"]},{"father":"NSObject","childList":["NSData"]},{"father":"NSObject","childList":["NSDate"]},{"father":"NSObject","childList":["NSDateComponents"]},{"father":"NSObject","childList":["NSDictionary"]},{"father":"NSObject","childList":["NSEnumerator"]},{"father":"NSObject","childList":["NSException"]},{"father":"NSObject","childList":["NSFileSecurity"]},{"father":"NSStream","childList":["NSInputStream"]},{"father":"NSObject","childList":["NSInvocation"]},{"father":"NSObject","childList":["NSLocale"]},{"father":"NSObject","childList":["NSMethodSignature"]},{"father":"NSArray","childList":["NSMutableArray"]},{"father":"NSData","childList":["NSMutableData"]},{"father":"NSDictionary","childList":["NSMutableDictionary"]},{"father":"NSOrderedSet","childList":["NSMutableOrderedSet"]},{"father":"NSSet","childList":["NSMutableSet"]},{"father":"NSObject","childList":["NSNull"]},{"father":"NSObject","childList":["NSOrderedSet"]},{"father":"NSStream","childList":["NSOutputStream"]},{"father":"NSObject","childList":["NSRunLoop"]},{"father":"NSObject","childList":["NSSet"]},{"father":"NSMutableDictionary","childList":["NSSharedKeyDictionary"]},{"father":"NSObject","childList":["NSSharedKeySet"]},{"father":"NSObject","childList":["NSStream"]},{"father":"NSObject","childList":["NSTimeZone"]},{"father":"NSObject","childList":["NSTimer"]},{"father":"NSObject","childList":["NSURL"]},{"father":"NSObject","childList":["NSUserDefaults"]},{"father":"NSObject","childList":["_CFStreamDelegate"]},{"father":"NSCalendar","childList":["_NSCopyOnWriteCalendarWrapper"]},{"father":"NSLocale","childList":["_NSPlaceholderLocale"]},null,{"father":"NSNotification","childList":["__CFNotification"]},{"father":"NSArray","childList":["__NSArrayI"]},{"father":"NSMutableArray","childList":["__NSArrayM"]},{"father":"NSEnumerator","childList":["__NSArrayReverseEnumerator"]},{"father":"NSArray","childList":["__NSArrayReversed"]},{"father":"NSBlock","childList":["__NSAutoBlock"]},{"father":"NSObject","childList":["__NSBlockVariable"]},{"father":"NSMutableArray","childList":["__NSCFArray"]},{"father":"NSMutableAttributedString","childList":["__NSCFAttributedString"]},{"father":"NSNumber","childList":["__NSCFBoolean"]},{"father":"NSCalendar","childList":["__NSCFCalendar"]},{"father":"NSMutableCharacterSet","childList":["__NSCFCharacterSet"]},{"father":"__NSCFString","childList":["__NSCFConstantString"]},{"father":"NSMutableData","childList":["__NSCFData"]},{"father":"NSMutableDictionary","childList":["__NSCFDictionary"]},{"father":"NSError","childList":["__NSCFError"]},{"father":"NSInputStream","childList":["__NSCFInputStream"]},{"father":"NSLocale","childList":["__NSCFLocale"]},{"father":"NSNumber","childList":["__NSCFNumber"]},{"father":"NSOutputStream","childList":["__NSCFOutputStream"]},{"father":"NSMutableSet","childList":["__NSCFSet"]},{"father":"NSMutableString","childList":["__NSCFString"]},{"father":"NSTimer","childList":["__NSCFTimer"]},{"father":"NSObject","childList":["__NSCFType"]},{"father":"NSDate","childList":["__NSDate"]},{"father":"NSDictionary","childList":["__NSDictionaryI"]},{"father":"NSMutableDictionary","childList":["__NSDictionaryM"]},{"father":"__NSFastEnumerationEnumerator","childList":["__NSDictionaryObjectEnumerator"]},{"father":"NSEnumerator","childList":["__NSFastEnumerationEnumerator"]},{"father":"NSFileSecurity","childList":["__NSFileSecurity"]},{"father":"__NSAutoBlock","childList":["__NSFinalizingBlock"]},null,{"father":"NSBlock","childList":["__NSGlobalBlock"]},{"father":"NSTimeZone","childList":["__NSLocalTimeZone"]},{"father":"NSBlock","childList":["__NSMallocBlock"]},null,{"father":"NSArray","childList":["__NSOrderedSetArrayProxy"]},{"father":"NSOrderedSet","childList":["__NSOrderedSetI"]},{"father":"NSMutableOrderedSet","childList":["__NSOrderedSetM"]},{"father":"NSEnumerator","childList":["__NSOrderedSetReverseEnumerator"]},{"father":"NSOrderedSet","childList":["__NSOrderedSetReversed"]},{"father":"NSSet","childList":["__NSOrderedSetSetProxy"]},{"father":"NSMutableArray","childList":["__NSPlaceholderArray"]},{"father":"NSDate","childList":["__NSPlaceholderDate"]},{"father":"NSMutableDictionary","childList":["__NSPlaceholderDictionary"]},{"father":"NSFileSecurity","childList":["__NSPlaceholderFileSecurity"]},{"father":"NSMutableOrderedSet","childList":["__NSPlaceholderOrderedSet"]},{"father":"NSMutableSet","childList":["__NSPlaceholderSet"]},{"father":"NSTimeZone","childList":["__NSPlaceholderTimeZone"]},{"father":"NSObject","childList":["__NSSKGraph"]},{"father":"NSSet","childList":["__NSSetI"]},{"father":"NSMutableSet","childList":["__NSSetM"]},{"father":"NSBlock","childList":["__NSStackBlock"]},{"father":"NSTimeZone","childList":["__NSTimeZone"]}]}
+{
+  "name": "CoreFoundation.framework",
+  "list": [
+    {
+      "name": "NSTimeZone",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSTimeZone",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSBlock",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSStackBlock",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSSetM",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSSetI",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSSKGraph",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableOrderedSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSPlaceholderOrderedSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSFileSecurity",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSPlaceholderFileSecurity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSPlaceholderDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSDate",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSPlaceholderDate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSPlaceholderArray",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOrderedSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSOrderedSetReversed",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSOrderedSetReverseEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSOrderedSetArrayProxy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": null,
+      "parent": null,
+      "children": []
+    },
+    {
+      "name": "__NSAutoBlock",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSFinalizingBlock",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "__NSFastEnumerationEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSDictionaryObjectEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSDictionaryI",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSTimer",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFTimer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableString",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOutputStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFOutputStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSNumber",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFNumber",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSLocale",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFLocale",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSInputStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFInputStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSError",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFError",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableData",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "__NSCFString",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFConstantString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableCharacterSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFCharacterSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSCalendar",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFCalendar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableAttributedString",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFAttributedString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSNotification",
+      "parent": null,
+      "children": [
+        {
+          "name": "__CFNotification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSOutputStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSData",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSMutableData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSInvocation",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSBlockInvocation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CFXPreferencesSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "CFXPreferencesPropertyListSource",
+          "children": []
+        },
+        {
+          "name": "CFXPreferencesSearchListSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CFXPreferencesPropertyListSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "CFXPreferencesManagedSource",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

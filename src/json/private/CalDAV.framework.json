@@ -1,1 +1,353 @@
-{"name":"CalDAV.framework","list":[{"father":"CalDAVOperation","childList":["CalDAVAccountPropertyRefreshOperation"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVAddDropBoxAttachmentsTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVAddManagedAttachmentsTaskGroup"]},{"father":"CoreDAVBulkUploadTaskGroup","childList":["CalDAVBulkUploadTaskGroup"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarColorItem"]},{"father":"CoreDAVContainerInfoSyncTaskGroup","childList":["CalDAVCalendarInfoSyncTaskGroup"]},{"father":"CoreDAVContainerInfoTaskGroup","childList":["CalDAVCalendarInfoTaskGroup"]},{"father":"CoreDAVLeafDataPayload","childList":["CalDAVCalendarItemData"]},{"father":"CalDAVOperation","childList":["CalDAVCalendarPropertyRefreshOperation"]},{"father":"CoreDAVPropFindTask","childList":["CalDAVCalendarQueryTask"]},{"father":"CoreDAVTask","childList":["CalDAVCalendarSearchTask"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerAccessItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerActionItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerAllowedSharingModesItem"]},{"father":"CalDAVItemWithRecurrenceChildren","childList":["CalDAVCalendarServerCancelItem"]},{"father":"CoreDAVItemWithNoChildren","childList":["CalDAVCalendarServerChangedParameterItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerChangedPropertyItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerChangesItem"]},{"father":"CalDAVCalendarServerResourceChangeElement","childList":["CalDAVCalendarServerCollectionChangesElement"]},{"father":"CalDAVCalendarServerResourceChangeElement","childList":["CalDAVCalendarServerCollectionUpdatesElement"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerDeletedDetailsItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerInviteItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerInviteNotificationItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerInviteReplyItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerNotificationItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerNotificationTypeItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerOrganizerItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerRecurrenceItem"]},{"father":"CalDAVItemWithRecurrenceChildren","childList":["CalDAVCalendarServerReplyItem"]},{"father":"CalDAVCalendarServerResourceChangeElement","childList":["CalDAVCalendarServerResourceChangeDeletedElement"]},{"father":"CoreDAVItemWithHrefChildItem","childList":["CalDAVCalendarServerResourceChangeElement"]},{"father":"CalDAVCalendarServerResourceChangeElement","childList":["CalDAVCalendarServerResourceChangeUpdatedElement"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerResourceChangedItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerScheduleChangesItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerSetItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerShareItem"]},{"father":"CalDAVItemWithRecurrenceChildren","childList":["CalDAVCalendarServerUpdateItem"]},{"father":"CoreDAVItem","childList":["CalDAVCalendarServerUserItem"]},{"father":"CalDAVOperation","childList":["CalDAVCalendarSyncOperation"]},{"father":"CoreDAVPropertyFindBaseTask","childList":["CalDAVCalendarUserSearchTask"]},{"father":"CoreDAVItem","childList":["CalDAVChecksumVersionsItem"]},{"father":"CoreDAVItem","childList":["CalDAVCompItem"]},{"father":"CalDAVServerVersion","childList":["CalDAVConcreteServerVersion"]},{"father":"CoreDAVContainer","childList":["CalDAVContainer"]},{"father":"CalDAVContainerSyncTaskGroup","childList":["CalDAVContainerChecksumSyncTaskGroup"]},{"father":"CoreDAVContainerMultiGetTask","childList":["CalDAVContainerMultiGetTask"]},{"father":"CoreDAVContainerSyncTaskGroup","childList":["CalDAVContainerSyncTaskGroup"]},{"father":"CoreDAVDeleteTask","childList":["CalDAVDeleteCalendarItemTask"]},{"father":"CalDAVScheduleTask","childList":["CalDAVFreeBusyLookupTask"]},{"father":"CoreDAVGetAccountPropertiesTaskGroup","childList":["CalDAVGetAccountPropertiesTaskGroup"]},{"father":"CoreDAVGetTask","childList":["CalDAVGetCalendarItemTask"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVGetDelegatesBaseTaskGroup"]},{"father":"CalDAVGetDelegatesBaseTaskGroup","childList":["CalDAVGetDelegatesTaskGroup"]},{"father":"CalDAVGetDelegatesBaseTaskGroup","childList":["CalDAVGetGrantedDelegatesTaskGroup"]},{"father":"CoreDAVGetTask","childList":["CalDAVGetNotificationItemTask"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVGetOfficeHoursTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVGetPrincipalEmailDetailsTaskGroup"]},{"father":"CoreDAVItem","childList":["CalDAVItemWithRecurrenceChildren"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVMergeUploadTaskGroup"]},{"father":"CoreDAVItem","childList":["CalDAVMkcalendarResponseItem"]},{"father":"CoreDAVTask","childList":["CalDAVMkcalendarTask"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVMkcalendarWithFallbackTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVModifyCalendarSharingLevelTaskGroup"]},{"father":"CoreDAVPostTask","childList":["CalDAVModifySharedCalendarShareeListPostTask"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVModifySharedCalendarShareeListTaskGroup"]},{"father":"CoreDAVMultiMoveWithFallbackTaskGroup","childList":["CalDAVMultiMoveWithFallbackTaskGroup"]},{"father":"CoreDAVMultiPutTask","childList":["CalDAVMultiPutTask"]},{"father":"CoreDAVContainerSyncTaskGroup","childList":["CalDAVNotificationContainerSyncTaskGroup"]},{"father":"CoreDAVLeafDataPayload","childList":["CalDAVNotificationItemData"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVOperation"]},{"father":"CoreDAVPostTask","childList":["CalDAVPostCalendarItemTask"]},{"father":"CoreDAVPostTask","childList":["CalDAVPostStreamTask"]},{"father":"CoreDAVPostTask","childList":["CalDAVPostWithSharedAsResponse"]},{"father":"NSObject","childList":["CalDAVPrincipalEmailDetailsResult"]},{"father":"CoreDAVPrincipalPropertySearchTask","childList":["CalDAVPrincipalPropertySearchTask"]},{"father":"NSObject","childList":["CalDAVPrincipalSearchPropertySet"]},{"father":"NSObject","childList":["CalDAVPrincipalSearchSupport"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVPropPatchWithFallbackTaskGroup"]},{"father":"CoreDAVPutTask","childList":["CalDAVPutCalendarItemTask"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVReplyToSharedCalendarInvitationTaskGroup"]},{"father":"CoreDAVResourceTypeItem","childList":["CalDAVResourceTypeItem"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVRetrieveSharedCalendarShareesTaskGroup"]},{"father":"CoreDAVItem","childList":["CalDAVScheduleCalendarTranspItem"]},{"father":"CoreDAVItem","childList":["CalDAVScheduleResponseDetailsItem"]},{"father":"CoreDAVItem","childList":["CalDAVScheduleResponseItem"]},{"father":"CoreDAVPostTask","childList":["CalDAVScheduleTask"]},{"father":"NSObject","childList":["CalDAVServerVersion"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVSetOfficeHoursTaskGroup"]},{"father":"CoreDAVItem","childList":["CalDAVSupportedCalendarComponentSet"]},{"father":"CoreDAVItem","childList":["CalDAVSupportedCalendarComponentSets"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVUpdateFreeBusySetTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CalDAVUpdateGrantedDelegatesTaskGroup"]},{"father":"CoreDAVItem","childList":["CalDAVUpdateOwnerItem"]},{"father":"NSObject","childList":["CalDAVUtils"]},{"father":"CalDAVConcreteServerVersion","childList":["CalendarServerVersion"]},{"father":"CalDAVConcreteServerVersion","childList":["GoogleCalDAVServerVersion"]},{"father":"CalDAVConcreteServerVersion","childList":["MobileMeCalDAVServerVersion"]},{"father":"CalDAVConcreteServerVersion","childList":["YahooCalDAVServerVersion"]},{"father":"CalDAVConcreteServerVersion","childList":["iCloudCalDAVServerVersion"]}]}
+{
+  "name": "CalDAV.framework",
+  "list": [
+    {
+      "name": "CalDAVConcreteServerVersion",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalendarServerVersion",
+          "children": []
+        },
+        {
+          "name": "GoogleCalDAVServerVersion",
+          "children": []
+        },
+        {
+          "name": "MobileMeCalDAVServerVersion",
+          "children": []
+        },
+        {
+          "name": "YahooCalDAVServerVersion",
+          "children": []
+        },
+        {
+          "name": "iCloudCalDAVServerVersion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVUtils",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVUpdateOwnerItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVSetOfficeHoursTaskGroup",
+          "children": []
+        },
+        {
+          "name": "CalDAVUpdateFreeBusySetTaskGroup",
+          "children": []
+        },
+        {
+          "name": "CalDAVUpdateGrantedDelegatesTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPostTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVScheduleTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVResourceTypeItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVResourceTypeItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPutTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVPutCalendarItemTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPrincipalPropertySearchTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVPrincipalPropertySearchTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVLeafDataPayload",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVNotificationItemData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerSyncTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVNotificationContainerSyncTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVMultiPutTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVMultiPutTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVMultiMoveWithFallbackTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVMultiMoveWithFallbackTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVMkcalendarTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVGetTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVGetNotificationItemTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CalDAVGetDelegatesBaseTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVGetDelegatesTaskGroup",
+          "children": []
+        },
+        {
+          "name": "CalDAVGetGrantedDelegatesTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVGetAccountPropertiesTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVGetAccountPropertiesTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CalDAVScheduleTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVFreeBusyLookupTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVDeleteTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVDeleteCalendarItemTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerMultiGetTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVContainerMultiGetTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CalDAVContainerSyncTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVContainerChecksumSyncTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainer",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVContainer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CalDAVServerVersion",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVConcreteServerVersion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPropertyFindBaseTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarUserSearchTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CalDAVOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarSyncOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CalDAVItemWithRecurrenceChildren",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarServerUpdateItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CalDAVCalendarServerResourceChangeElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarServerResourceChangeUpdatedElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVItemWithHrefChildItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarServerResourceChangeElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVItemWithNoChildren",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarServerChangedParameterItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPropFindTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarQueryTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerInfoTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarInfoTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerInfoSyncTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVCalendarInfoSyncTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVBulkUploadTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalDAVBulkUploadTaskGroup",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

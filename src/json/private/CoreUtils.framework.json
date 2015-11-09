@@ -1,1 +1,15 @@
-{"name":"CoreUtils.framework","list":[{"father":"NSObject","childList":["CAAnimationDelegateBlockHelper"]}]}
+{
+  "name": "CoreUtils.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CAAnimationDelegateBlockHelper",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

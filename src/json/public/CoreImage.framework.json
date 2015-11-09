@@ -1,1 +1,231 @@
-{"name":"CoreImage.framework","list":[{"father":"_CICompositeFilter","childList":["CIAdditionCompositing"]},{"father":"CIFilter","childList":["CIAffineClamp"]},{"father":"CIFilter","childList":["CIAffineTile"]},{"father":"CIFilter","childList":["CIAffineTransform"]},{"father":"NSObject","childList":["CIAutoEnhanceFace"]},{"father":"CICodeGenerator","childList":["CIAztecCodeGenerator"]},{"father":"CIFilter","childList":["CIBarsSwipeTransition"]},{"father":"CIFilter","childList":["CIBlendModeFilter"]},{"father":"CIFilter","childList":["CIBlendWithAlphaMask"]},{"father":"CIFilter","childList":["CIBlendWithMask"]},{"father":"CIFilter","childList":["CIBloom"]},{"father":"CIFilter","childList":["CIBumpDistortion"]},{"father":"CIFilter","childList":["CIBumpDistortionLinear"]},{"father":"NSObject","childList":["CIBurstActionClassifier"]},{"father":"NSObject","childList":["CIBurstClusterDivider"]},{"father":"NSObject","childList":["CIBurstFaceConfigEntry"]},{"father":"NSObject","childList":["CIBurstFaceScoreEntry"]},{"father":"NSObject","childList":["CIBurstFaceStat"]},{"father":"NSObject","childList":["CIBurstImageFaceAnalysisContext"]},{"father":"NSObject","childList":["CIBurstImageSet"]},{"father":"NSObject","childList":["CIBurstImageSetInternal"]},{"father":"NSObject","childList":["CIBurstImageStat"]},{"father":"NSObject","childList":["CIBurstThumbnailCluster"]},{"father":"NSObject","childList":["CIBurstYUVImage"]},{"father":"CIFilter","childList":["CICheckerboardGenerator"]},{"father":"CIFilter","childList":["CICircleSplashDistortion"]},{"father":"CIFilter","childList":["CICircularScreen"]},{"father":"CIFilter","childList":["CICodeGenerator"]},{"father":"NSObject","childList":["CIColor"]},{"father":"CIFilter","childList":["CIColorBalance"]},{"father":"CIBlendModeFilter","childList":["CIColorBlendMode"]},{"father":"CIBlendModeFilter","childList":["CIColorBurnBlendMode"]},{"father":"CIFilter","childList":["CIColorClamp"]},{"father":"CIFilter","childList":["CIColorControls"]},{"father":"CIFilter","childList":["CIColorCrossPolynomial"]},{"father":"CIFilter","childList":["CIColorCube"]},{"father":"CIColorCube","childList":["CIColorCubeWithColorSpace"]},{"father":"CIBlendModeFilter","childList":["CIColorDodgeBlendMode"]},{"father":"CIFilter","childList":["CIColorInvert"]},{"father":"CIKernel","childList":["CIColorKernel"]},{"father":"CIFilter","childList":["CIColorMap"]},{"father":"CIFilter","childList":["CIColorMatrix"]},{"father":"CIFilter","childList":["CIColorMonochrome"]},{"father":"CIFilter","childList":["CIColorPolynomial"]},{"father":"CIFilter","childList":["CIColorPosterize"]},{"father":"CIFilter","childList":["CIConstantColorGenerator"]},{"father":"NSObject","childList":["CIContext"]},{"father":"CIFilter","childList":["CIConvolution3X3"]},{"father":"CIFilter","childList":["CIConvolution5X5"]},{"father":"CIFilter","childList":["CIConvolution9Horizontal"]},{"father":"CIFilter","childList":["CIConvolution9Vertical"]},{"father":"CIFilter","childList":["CICopyMachineTransition"]},{"father":"CIFilter","childList":["CICrop"]},{"father":"CIBlendModeFilter","childList":["CIDarkenBlendMode"]},{"father":"NSObject","childList":["CIDetector"]},{"father":"CIBlendModeFilter","childList":["CIDifferenceBlendMode"]},{"father":"CIFilter","childList":["CIDisintegrateWithMaskTransition"]},{"father":"CIFilter","childList":["CIDissolveTransition"]},{"father":"_CIScreenFilter","childList":["CIDotScreen"]},{"father":"CITileFilter","childList":["CIEightfoldReflectedTile"]},{"father":"NSObject","childList":["CIEnhancementCalculation"]},{"father":"CIEnhancementCalculation","childList":["CIEnhancementCalculator"]},{"father":"NSObject","childList":["CIEnhancementHistogram"]},{"father":"CIBlendModeFilter","childList":["CIExclusionBlendMode"]},{"father":"CIFilter","childList":["CIExposureAdjust"]},{"father":"CIFilter","childList":["CIFaceBalance"]},{"father":"CIDetector","childList":["CIFaceCoreDetector"]},{"father":"CIFeature","childList":["CIFaceFeature"]},{"father":"CIFilter","childList":["CIFalseColor"]},{"father":"NSObject","childList":["CIFeature"]},{"father":"NSObject","childList":["CIFilter"]},{"father":"NSObject","childList":["CIFilterClassDescription"]},{"father":"CIFilter","childList":["CIFlashTransition"]},{"father":"CITile2Filter","childList":["CIFourfoldReflectedTile"]},{"father":"CITileFilter","childList":["CIFourfoldRotatedTile"]},{"father":"CITile2Filter","childList":["CIFourfoldTranslatedTile"]},{"father":"CIFilter","childList":["CIGammaAdjust"]},{"father":"CIFilter","childList":["CIGaussianBlur"]},{"father":"CIFilter","childList":["CIGaussianGradient"]},{"father":"CITileFilter","childList":["CIGlideReflectedTile"]},{"father":"CIFilter","childList":["CIGloom"]},{"father":"CIBlendModeFilter","childList":["CIHardLightBlendMode"]},{"father":"_CIScreenFilter","childList":["CIHatchedScreen"]},{"father":"CIFilter","childList":["CIHighlightShadowAdjust"]},{"father":"CIFilter","childList":["CIHoleDistortion"]},{"father":"CIFilter","childList":["CIHueAdjust"]},{"father":"CIBlendModeFilter","childList":["CIHueBlendMode"]},{"father":"NSObject","childList":["CIImage"]},{"father":"NSObject","childList":["CIImageRowReader"]},{"father":"NSObject","childList":["CIKernel"]},{"father":"CIFilter","childList":["CILanczosScaleTransform"]},{"father":"CIFilter","childList":["CILightTunnel"]},{"father":"CIBlendModeFilter","childList":["CILightenBlendMode"]},{"father":"_CIScreenFilter","childList":["CILineScreen"]},{"father":"CIFilter","childList":["CILinearGradient"]},{"father":"CIFilter","childList":["CILinearToSRGBToneCurve"]},{"father":"CIFilter","childList":["CILumaMap"]},{"father":"CIBlendModeFilter","childList":["CILuminosityBlendMode"]},{"father":"CIFilter","childList":["CIMaskToAlpha"]},{"father":"CIFilter","childList":["CIMaximumComponent"]},{"father":"_CICompositeFilter","childList":["CIMaximumCompositing"]},{"father":"CIFilter","childList":["CIMinimumComponent"]},{"father":"_CICompositeFilter","childList":["CIMinimumCompositing"]},{"father":"CIFilter","childList":["CIMirror"]},{"father":"CIFilter","childList":["CIModTransition"]},{"father":"CIBlendModeFilter","childList":["CIMultiplyBlendMode"]},{"father":"_CICompositeFilter","childList":["CIMultiplyCompositing"]},{"father":"CIBlendModeFilter","childList":["CIOverlayBlendMode"]},{"father":"CICodeGenerator","childList":["CIPDF417BarcodeGenerator"]},{"father":"CIFilter","childList":["CIPerspectiveTile"]},{"father":"CIFilter","childList":["CIPerspectiveTransform"]},{"father":"CIFilter","childList":["CIPerspectiveTransformWithExtent"]},{"father":"CIFilter","childList":["CIPhotoEffect"]},{"father":"CIPhotoEffect","childList":["CIPhotoEffectChrome"]},{"father":"CIPhotoEffect","childList":["CIPhotoEffectFade"]},{"father":"CIPhotoEffect","childList":["CIPhotoEffectInstant"]},{"father":"CIPhotoEffect","childList":["CIPhotoEffectMono"]},{"father":"CIPhotoEffect","childList":["CIPhotoEffectNoir"]},{"father":"CIPhotoEffect","childList":["CIPhotoEffectProcess"]},{"father":"CIPhotoEffect","childList":["CIPhotoEffectTonal"]},{"father":"CIPhotoEffect","childList":["CIPhotoEffectTransfer"]},{"father":"CIFilter","childList":["CIPinchDistortion"]},{"father":"CIFilter","childList":["CIPixellate"]},{"father":"CIFilter","childList":["CIPremultiply"]},{"father":"CICodeGenerator","childList":["CIQRCodeGenerator"]},{"father":"CIFilter","childList":["CIRadialGradient"]},{"father":"CIFilter","childList":["CIRandomGenerator"]},{"father":"CIFilter","childList":["CIRedEyeCorrections"]},{"father":"NSObject","childList":["CIRedEyeRepair"]},{"father":"NSObject","childList":["CIReedSolomon"]},{"father":"CIFilter","childList":["CISRGBToneCurveToLinear"]},{"father":"CIBlendModeFilter","childList":["CISaturationBlendMode"]},{"father":"CIBlendModeFilter","childList":["CIScreenBlendMode"]},{"father":"CIFilter","childList":["CISepiaTone"]},{"father":"CIFilter","childList":["CISharpenLuminance"]},{"father":"CIFilter","childList":["CISimpleTile"]},{"father":"CITileFilter","childList":["CISixfoldReflectedTile"]},{"father":"CITileFilter","childList":["CISixfoldRotatedTile"]},{"father":"CIFilter","childList":["CISkyAndGrassAdjust"]},{"father":"CIFilter","childList":["CISmoothLinearGradient"]},{"father":"CIBlendModeFilter","childList":["CISoftLightBlendMode"]},{"father":"_CICompositeFilter","childList":["CISourceAtopCompositing"]},{"father":"_CICompositeFilter","childList":["CISourceInCompositing"]},{"father":"_CICompositeFilter","childList":["CISourceOutCompositing"]},{"father":"_CICompositeFilter","childList":["CISourceOverCompositing"]},{"father":"CIFilter","childList":["CIStarShineGenerator"]},{"father":"CIFilter","childList":["CIStraightenFilter"]},{"father":"CIFilter","childList":["CIStretch"]},{"father":"CIFilter","childList":["CIStripesGenerator"]},{"father":"CIFilter","childList":["CISwipeTransition"]},{"father":"CIFilter","childList":["CITemperatureAndTint"]},{"father":"CILumaMap","childList":["CIThermal"]},{"father":"CITileFilter","childList":["CITile2Filter"]},{"father":"CIFilter","childList":["CITileFilter"]},{"father":"CIFilter","childList":["CIToneCurve"]},{"father":"CIKernel","childList":["CITransformKernel"]},{"father":"CIFilter","childList":["CITriangleKaleidoscope"]},{"father":"CITileFilter","childList":["CITwelvefoldReflectedTile"]},{"father":"CIFilter","childList":["CITwirlDistortion"]},{"father":"CIFilter","childList":["CIUnpremultiply"]},{"father":"CIFilter","childList":["CIUnsharpMask"]},{"father":"NSObject","childList":["CIVector"]},{"father":"CIFilter","childList":["CIVibrance"]},{"father":"CIFilter","childList":["CIVignette"]},{"father":"CIFilter","childList":["CIVignetteEffect"]},{"father":"CIFilter","childList":["CIVortexDistortion"]},{"father":"CIFilter","childList":["CIWhitePointAdjust"]},{"father":"CIFilter","childList":["CIWrapMirror"]},{"father":"CILumaMap","childList":["CIXRay"]},{"father":"CIFilter","childList":["CUIInnerGlowOrShadowFilter"]},{"father":"CIFilter","childList":["CUIOuterBevelEmbossFilter"]},{"father":"CIFilter","childList":["CUIOuterGlowOrShadowFilter"]},{"father":"CIFilter","childList":["CUIShapeEffectBlur1"]},{"father":"CIFilter","childList":["_CICompositeFilter"]},{"father":"CIFilter","childList":["_CIScreenFilter"]}]}
+{
+  "name": "CoreImage.framework",
+  "list": [
+    {
+      "name": "CIFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUIInnerGlowOrShadowFilter",
+          "children": []
+        },
+        {
+          "name": "CUIOuterBevelEmbossFilter",
+          "children": []
+        },
+        {
+          "name": "CUIOuterGlowOrShadowFilter",
+          "children": []
+        },
+        {
+          "name": "CUIShapeEffectBlur1",
+          "children": []
+        },
+        {
+          "name": "_CICompositeFilter",
+          "children": []
+        },
+        {
+          "name": "_CIScreenFilter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CILumaMap",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIXRay",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIVector",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CITileFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CITwelvefoldReflectedTile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CIKernel",
+      "parent": null,
+      "children": [
+        {
+          "name": "CITransformKernel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_CICompositeFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CISourceAtopCompositing",
+          "children": []
+        },
+        {
+          "name": "CISourceInCompositing",
+          "children": []
+        },
+        {
+          "name": "CISourceOutCompositing",
+          "children": []
+        },
+        {
+          "name": "CISourceOverCompositing",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CIBlendModeFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CISaturationBlendMode",
+          "children": []
+        },
+        {
+          "name": "CIScreenBlendMode",
+          "children": []
+        },
+        {
+          "name": "CISoftLightBlendMode",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CICodeGenerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIQRCodeGenerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CIPhotoEffect",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIPhotoEffectChrome",
+          "children": []
+        },
+        {
+          "name": "CIPhotoEffectFade",
+          "children": []
+        },
+        {
+          "name": "CIPhotoEffectInstant",
+          "children": []
+        },
+        {
+          "name": "CIPhotoEffectMono",
+          "children": []
+        },
+        {
+          "name": "CIPhotoEffectNoir",
+          "children": []
+        },
+        {
+          "name": "CIPhotoEffectProcess",
+          "children": []
+        },
+        {
+          "name": "CIPhotoEffectTonal",
+          "children": []
+        },
+        {
+          "name": "CIPhotoEffectTransfer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_CIScreenFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIHatchedScreen",
+          "children": []
+        },
+        {
+          "name": "CILineScreen",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CITile2Filter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIFourfoldReflectedTile",
+          "children": []
+        },
+        {
+          "name": "CIFourfoldTranslatedTile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CIFeature",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIFaceFeature",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CIDetector",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIFaceCoreDetector",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CIEnhancementCalculation",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIEnhancementCalculator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CIColorCube",
+      "parent": null,
+      "children": [
+        {
+          "name": "CIColorCubeWithColorSpace",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

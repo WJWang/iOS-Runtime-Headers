@@ -1,1 +1,267 @@
-{"name":"RadioUI.framework","list":[{"father":"UIActivityViewController","childList":["RUActivityViewController"]},{"father":"UIViewController","childList":["RUAddSeedViewController"]},{"father":"UIView","childList":["RUAudioPreviewView"]},{"father":"NSObject","childList":["RUBrowseGenresDataSource"]},{"father":"UIButton","childList":["RUConfirmButton"]},{"father":"CALayer","childList":["RUCountdownFillLayer"]},{"father":"UIView","childList":["RUCountdownFillView"]},{"father":"UIView","childList":["RUCountdownView"]},{"father":"UIViewController","childList":["RUCreateStationViewController"]},{"father":"UIViewController","childList":["RUEditStationsViewController"]},{"father":"UIGestureRecognizer","childList":["RUFocusedTouchGestureRecognizer"]},{"father":"UIViewController","childList":["RUGenreListViewController"]},{"father":"UILabel","childList":["RUGradientLabel"]},{"father":"UIViewController","childList":["RUHistoryViewController"]},{"father":"UILabel","childList":["RULabel"]},{"father":"SKUIMetricsController","childList":["RUMetricsController"]},{"father":"NSObject","childList":["RUMetricsDictionaryEventFieldProvider"]},{"father":"NSObject","childList":["RUNetworkObserver"]},{"father":"UIScrollView","childList":["RUParallelScrollView"]},{"father":"UIView","childList":["RUPlaceholderView"]},{"father":"NSObject","childList":["RUPreviewSession"]},{"father":"UITableView","childList":["RUProxyTableView"]},{"father":"NSObject","childList":["RURadioDataSource"]},{"father":"UIViewController","childList":["RUReportIssueViewController"]},{"father":"NSObject","childList":["RUSearchDataSource"]},{"father":"UIViewController","childList":["RUSearchViewController"]},{"father":"UIViewController","childList":["RUSignInViewController"]},{"father":"UITableViewCell","childList":["RUStationActionTableViewCell"]},{"father":"UIViewController","childList":["RUStationActionsViewController"]},{"father":"NSObject","childList":["RUStationActivityItemsProvider"]},{"father":"UIImageView","childList":["RUStationOverlayView"]},{"father":"UIViewController","childList":["RUStationSettingsViewController"]},{"father":"UISlider","childList":["RUStationTuningSlider"]},{"father":"UIView","childList":["RUStationTuningView"]},{"father":"UITableViewHeaderFooterView","childList":["RUTableSectionHeaderView"]},{"father":"UITableViewCell","childList":["RUTableViewCell"]},{"father":"UIViewController","childList":["RUTermsViewController"]},{"father":"UIActionSheet","childList":["RUTrackActionSheet"]},{"father":"_UIModalItem","childList":["RUTrackActionsModalItem"]},{"father":"UIView","childList":["RUTrackActionsView"]},{"father":"UIViewController","childList":["RUTrackActionsViewController"]},{"father":"UIView","childList":["RUTrackDownloadView"]},{"father":"NSObject","childList":["RUTrackHistoryDataSource"]},{"father":"NSObject","childList":["RUTrackHistorySession"]},{"father":"UICollectionViewCell","childList":["RUWelcomeCollectionViewCell"]},{"father":"UICollectionViewFlowLayout","childList":["RUWelcomeCollectionViewLayout"]},{"father":"UIViewController","childList":["RUWelcomeViewController"]},{"father":"NSObject","childList":["RUWishlistDataSource"]},{"father":"UIButton","childList":["_RUAddGenreButton"]},{"father":"UITableViewCell","childList":["_RUEditNewStationTableViewCell"]},{"father":"UITableViewCell","childList":["_RUEditStationTableViewCell"]},{"father":"_RUGenreListTableViewCell","childList":["_RUGenreChildListTableViewCell"]},{"father":"UITableViewCell","childList":["_RUGenreListTableViewCell"]},{"father":"_RUGenreListTableViewCell","childList":["_RUGenreRootListTableViewCell"]},{"father":"UITableViewCell","childList":["_RUHistoryTableViewCell"]},{"father":"NSObject","childList":["_RULikeBanItem"]},{"father":"UITableViewCell","childList":["_RUSearchStationTableViewCell"]},{"father":"UIView","childList":["_RUSelectedBackgroundView"]},{"father":"UITableViewCell","childList":["_RUStationSettingsDeleteTableViewCell"]},{"father":"UITableViewCell","childList":["_RUStationSettingsLikeBanTableViewCell"]},{"father":"RUProxyTableView","childList":["_RUStationSettingsTableView"]},{"father":"UITextField","childList":["_RUStationSettingsTextField"]},{"father":"UIView","childList":["_RUStationTrackInfoView"]},{"father":"UITextView","childList":["_RUTermsTextView"]},{"father":"UIView","childList":["_RUTrackActionsHeaderView"]},{"father":"_UIModalItemContentView","childList":["_RUTrackActionsModalItemContentView"]},{"father":"UITableViewCell","childList":["_RUTrackActionsTableViewCell"]},{"father":"UITableViewCell","childList":["_RUTrackCancelTableViewCell"]},{"father":"UINavigationController","childList":["_RUWelcomeNavigationController"]},{"father":"NSObject","childList":["_RUWelcomeTicker"]}]}
+{
+  "name": "RadioUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUWelcomeTicker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUWelcomeNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUTrackActionsTableViewCell",
+          "children": []
+        },
+        {
+          "name": "_RUTrackCancelTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIModalItemContentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUTrackActionsModalItemContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUTrackActionsHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUTermsTextView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUStationSettingsTextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RUProxyTableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUStationSettingsTableView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_RUGenreListTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUGenreChildListTableViewCell",
+          "children": []
+        },
+        {
+          "name": "_RUGenreRootListTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "_RUAddGenreButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUWelcomeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewFlowLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUWelcomeCollectionViewLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUWelcomeCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIModalItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUTrackActionsModalItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActionSheet",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUTrackActionSheet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewHeaderFooterView",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUTableSectionHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISlider",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUStationTuningSlider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUStationOverlayView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUProxyTableView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUParallelScrollView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIMetricsController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUMetricsController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUGradientLabel",
+          "children": []
+        },
+        {
+          "name": "RULabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUFocusedTouchGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUCountdownFillLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUActivityViewController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"name":"Contacts.framework","list":[{"father":"NSObject","childList":["CNContactIdentifier"]},{"father":"NSObject","childList":["CNContactStore"]},{"father":"CNPhoneNumber","childList":["CNMutablePhoneNumber"]},{"father":"NSObject","childList":["CNUuidIdentifierProvider"]}]}
+{
+  "name": "Contacts.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNUuidIdentifierProvider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CNPhoneNumber",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNMutablePhoneNumber",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

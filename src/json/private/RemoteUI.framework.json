@@ -1,1 +1,117 @@
-{"name":"RemoteUI.framework","list":[{"father":"UIBarButtonItem","childList":["RUIBarButtonSpinnerView"]},{"father":"NSObject","childList":["RUIElement"]},{"father":"NSObject","childList":["RUIHTTPRequest"]},{"father":"NSObject","childList":["RUIImageLoad"]},{"father":"NSObject","childList":["RUIImageLoader"]},{"father":"RUIHTTPRequest","childList":["RUILoader"]},{"father":"NSObject","childList":["RUINavBarSpinnerManager"]},{"father":"NSObject","childList":["RUIObjectModel"]},{"father":"UIViewController","childList":["RUIPage"]},{"father":"NSObject","childList":["RUIParser"]},{"father":"RUIElement","childList":["RUIPasscodeView"]},{"father":"NSObject","childList":["RUISelectOption"]},{"father":"RUIElement","childList":["RUISpinnerView"]},{"father":"UIView","childList":["RUITableHeaderView"]},{"father":"RUIElement","childList":["RUITableView"]},{"father":"RUIElement","childList":["RUITableViewRow"]},{"father":"RUIElement","childList":["RUITableViewSection"]},{"father":"RUITableViewRow","childList":["RUITableViewShowAllRow"]},{"father":"RemoteUITableViewCell","childList":["RUIVariableHeightCell"]},{"father":"RUIElement","childList":["RUIWebView"]},{"father":"UIView","childList":["RemoteUIDetailHeader"]},{"father":"UIView","childList":["RemoteUIIconHeader"]},{"father":"UIView","childList":["RemoteUILinkFooter"]},{"father":"UIView","childList":["RemoteUISubHeader"]},{"father":"UITableViewCell","childList":["RemoteUITableViewCell"]},{"father":"RemoteUITableViewCell","childList":["RemoteUITableViewSubtitleAndValueCell"]},{"father":"UITableViewCellLayoutManager","childList":["RemoteUITableViewSubtitleAndValueLayoutManager"]},{"father":"UIViewController","childList":["RemoteUIWebViewController"]},{"father":"UIView","childList":["WebContainerView"]}]}
+{
+  "name": "RemoteUI.framework",
+  "list": [
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebContainerView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "RemoteUIWebViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCellLayoutManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "RemoteUITableViewSubtitleAndValueLayoutManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RemoteUITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "RemoteUITableViewSubtitleAndValueCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "RemoteUITableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RUIElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUIWebView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RUITableViewRow",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUITableViewShowAllRow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUINavBarSpinnerManager",
+          "children": []
+        },
+        {
+          "name": "RUIObjectModel",
+          "children": []
+        },
+        {
+          "name": "RUIParser",
+          "children": []
+        },
+        {
+          "name": "RUISelectOption",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RUIHTTPRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUILoader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIBarButtonItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "RUIBarButtonSpinnerView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

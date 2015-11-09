@@ -1,1 +1,547 @@
-{"name":"ChatKit.framework","list":[{"father":"CKMediaObject","childList":["CKAVMediaObject"]},{"father":"NSObject","childList":["CKActionSheetManager"]},{"father":"NSObject","childList":["CKAddressBook"]},{"father":"CKMessagePart","childList":["CKAggregateMessagePart"]},{"father":"NSObject","childList":["CKAnimatedImage"]},{"father":"CKImageMediaObject","childList":["CKAnimatedImageMediaObject"]},{"father":"CKColoredBalloonView","childList":["CKAttachmentBalloonView"]},{"father":"UIView","childList":["CKAttachmentView"]},{"father":"CKAVMediaObject","childList":["CKAudioMediaObject"]},{"father":"UIViewController","childList":["CKAudioTrimViewController"]},{"father":"NSDateFormatter","childList":["CKAutoupdatingDateFormatter"]},{"father":"CKAutoupdatingDateFormatter","childList":["CKAutoupdatingRelativeDateFormatter"]},{"father":"UIControl","childList":["CKBalloonControl"]},{"father":"UIImageView","childList":["CKBalloonImageView"]},{"father":"UITextView","childList":["CKBalloonTextView"]},{"father":"CKBalloonImageView","childList":["CKBalloonView"]},{"father":"NSObject","childList":["CKCache"]},{"father":"CKCardMediaObject","childList":["CKCalendarMediaObject"]},{"father":"CKMediaObject","childList":["CKCardMediaObject"]},{"father":"NSObject","childList":["CKClientComposeFileTransfer"]},{"father":"CKBalloonView","childList":["CKColoredBalloonView"]},{"father":"MFComposeRecipientView","childList":["CKComposeRecipientView"]},{"father":"NSObject","childList":["CKComposition"]},{"father":"CKColoredBalloonView","childList":["CKContactBalloonView"]},{"father":"CKCardMediaObject","childList":["CKContactMediaObject"]},{"father":"NSObject","childList":["CKConversation"]},{"father":"NSObject","childList":["CKConversationList"]},{"father":"UITableViewCell","childList":["CKConversationListCell"]},{"father":"NSObject","childList":["CKConversationListCellLayout"]},{"father":"UIViewController","childList":["CKConversationListController"]},{"father":"UITableViewCell","childList":["CKConversationListNewMessageCell"]},{"father":"NSObject","childList":["CKConversationSearcher"]},{"father":"NSObject","childList":["CKDBFileTransfer"]},{"father":"NSObject","childList":["CKDBMessage"]},{"father":"CKPreferredServiceManager","childList":["CKDefaultPreferredServiceManager"]},{"father":"NSObject","childList":["CKDispatchCache"]},{"father":"NSObject","childList":["CKDispatchQueue"]},{"father":"NSObject","childList":["CKDraftManager"]},{"father":"UICollectionView","childList":["CKEditableCollectionView"]},{"father":"UICollectionViewCell","childList":["CKEditableCollectionViewCell"]},{"father":"NSObject","childList":["CKEntity"]},{"father":"UIView","childList":["CKGradientReferenceView"]},{"father":"UIView","childList":["CKGradientView"]},{"father":"MFComposeRecipientView","childList":["CKGroupHeaderListView"]},{"father":"MFComposeRecipient","childList":["CKIMComposeRecipient"]},{"father":"CKDBMessage","childList":["CKIMDBMessage"]},{"father":"NSObject","childList":["CKIMFileTransfer"]},{"father":"CKIMComposeRecipient","childList":["CKIMGroupHeaderRecipient"]},{"father":"NSObject","childList":["CKIMMessage"]},{"father":"NSObject","childList":["CKImageAnimationTimer"]},{"father":"CKBalloonView","childList":["CKImageBalloonView"]},{"father":"NSObject","childList":["CKImageData"]},{"father":"CKMediaObject","childList":["CKImageMediaObject"]},{"father":"CPLRUDictionary","childList":["CKLRUCache"]},{"father":"CKContactMediaObject","childList":["CKLocationMediaObject"]},{"father":"NSObject","childList":["CKManualUpdater"]},{"father":"UIViewController","childList":["CKMapViewController"]},{"father":"NSObject","childList":["CKMediaObject"]},{"father":"NSObject","childList":["CKMediaObjectManager"]},{"father":"CKMessagePart","childList":["CKMediaObjectMessagePart"]},{"father":"UIScrollView","childList":["CKMessageEntryContentView"]},{"father":"CKMessageEntryTextView","childList":["CKMessageEntryRichTextView"]},{"father":"UITextView","childList":["CKMessageEntryTextView"]},{"father":"UIView","childList":["CKMessageEntryView"]},{"father":"NSObject","childList":["CKMessagePart"]},{"father":"NSObject","childList":["CKMessageStatus"]},{"father":"CKPreferredServiceManager","childList":["CKMessagesAppPreferredServiceManager"]},{"father":"CKTranscriptController","childList":["CKModalTranscriptController"]},{"father":"CKAVMediaObject","childList":["CKMovieMediaObject"]},{"father":"CKMultiDict","childList":["CKMultiCache"]},{"father":"NSObject","childList":["CKMultiDict"]},{"father":"UITableViewCell","childList":["CKMultipleRecipientCollapsedTableViewCell"]},{"father":"CKTranscriptHeaderController","childList":["CKMultipleRecipientHeaderController"]},{"father":"CKSingleRecipientTableViewCell","childList":["CKMultipleRecipientTableViewCell"]},{"father":"UINavigationBar","childList":["CKNavigationBar"]},{"father":"UINavigationItem","childList":["CKNavigationItem"]},{"father":"CKMediaObject","childList":["CKPassbookMediaObject"]},{"father":"CKConversation","childList":["CKPendingConversation"]},{"father":"NSObject","childList":["CKPopoverManager"]},{"father":"NSObject","childList":["CKPreferredServiceManager"]},{"father":"NSObject","childList":["CKPreviewDispatchCache"]},{"father":"QLPreviewController","childList":["CKQLPreviewController"]},{"father":"UIViewController","childList":["CKReaderViewController"]},{"father":"NSObject","childList":["CKRecipientGenerator"]},{"father":"UITableViewController","childList":["CKRecipientSearchListController"]},{"father":"UIViewController","childList":["CKRecipientSelectionController"]},{"father":"UIView","childList":["CKRecipientSelectionView"]},{"father":"UITableView","childList":["CKRecipientTableView"]},{"father":"MFRecipientTableViewCell","childList":["CKRecipientTableViewCell"]},{"father":"UIViewController","childList":["CKSMSComposeController"]},{"father":"NSObject","childList":["CKSMSComposeQueuingRemoteViewControllerProxy"]},{"father":"_UIRemoteViewController","childList":["CKSMSComposeRemoteViewController"]},{"father":"UINavigationController","childList":["CKSMSComposeViewServiceController"]},{"father":"CKManualUpdater","childList":["CKScheduledUpdater"]},{"father":"CKTranscriptHeaderController","childList":["CKSingleRecipientHeaderController"]},{"father":"UITableViewCell","childList":["CKSingleRecipientTableViewCell"]},{"father":"NSObject","childList":["CKSpotlightQuery"]},{"father":"NSObject","childList":["CKSpotlightSearchResult"]},{"father":"NSObject","childList":["CKSyncController"]},{"father":"CKColoredBalloonView","childList":["CKTextBalloonView"]},{"father":"CKMessagePart","childList":["CKTextMessagePart"]},{"father":"NSObject","childList":["CKTimestamp"]},{"father":"CKImageBalloonView","childList":["CKTitledImageBalloonView"]},{"father":"CKTranscriptMessageCell","childList":["CKTranscriptBalloonCell"]},{"father":"CKEditableCollectionViewCell","childList":["CKTranscriptCell"]},{"father":"CKEditableCollectionView","childList":["CKTranscriptCollectionView"]},{"father":"CKViewController","childList":["CKTranscriptCollectionViewController"]},{"father":"UICollectionViewLayout","childList":["CKTranscriptCollectionViewLayout"]},{"father":"UICollectionViewLayoutAttributes","childList":["CKTranscriptCollectionViewLayoutAttributes"]},{"father":"UIViewController","childList":["CKTranscriptController"]},{"father":"NSObject","childList":["CKTranscriptData"]},{"father":"NSObject","childList":["CKTranscriptDataRow"]},{"father":"NSObject","childList":["CKTranscriptDataRowSize"]},{"father":"NSObject","childList":["CKTranscriptHeader"]},{"father":"CKTranscriptCell","childList":["CKTranscriptHeaderCell"]},{"father":"UITableViewController","childList":["CKTranscriptHeaderController"]},{"father":"CKTranscriptCell","childList":["CKTranscriptLabelCell"]},{"father":"CKTranscriptCell","childList":["CKTranscriptMessageCell"]},{"father":"CKTranscriptCell","childList":["CKTranscriptServiceCell"]},{"father":"NSObject","childList":["CKTranscriptStatusController"]},{"father":"UIView","childList":["CKTranscriptToolbarView"]},{"father":"CKTranscriptMessageCell","childList":["CKTranscriptTypingIndicatorCell"]},{"father":"CKTextBalloonView","childList":["CKTruncatedTextBalloonView"]},{"father":"NSObject","childList":["CKTypingIndicator"]},{"father":"CALayer","childList":["CKTypingIndicatorLayer"]},{"father":"NSObject","childList":["CKUIBehavior"]},{"father":"NSObject","childList":["CKVideoTrimController"]},{"father":"UIViewController","childList":["CKViewController"]},{"father":"CKImageData","childList":["CKWBMPImageData"]},{"father":"CKImageMediaObject","childList":["CKWBMPImageMediaObject"]},{"father":"NSObject","childList":["_CKDispatchQueueBlock"]}]}
+{
+  "name": "ChatKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CKDispatchQueueBlock",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKImageMediaObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKWBMPImageMediaObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKImageData",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKWBMPImageData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTypingIndicatorLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKTextBalloonView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTruncatedTextBalloonView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKTranscriptMessageCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptTypingIndicatorCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptToolbarView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKTranscriptCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptLabelCell",
+          "children": []
+        },
+        {
+          "name": "CKTranscriptMessageCell",
+          "children": []
+        },
+        {
+          "name": "CKTranscriptServiceCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptHeaderController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayoutAttributes",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptCollectionViewLayoutAttributes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptCollectionViewLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptCollectionViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKEditableCollectionView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptCollectionView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKEditableCollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTranscriptCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKImageBalloonView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTitledImageBalloonView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKMessagePart",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTextMessagePart",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKColoredBalloonView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKTextBalloonView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKSingleRecipientTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKTranscriptHeaderController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKSingleRecipientHeaderController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKManualUpdater",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKScheduledUpdater",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKSMSComposeViewServiceController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKSMSComposeRemoteViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFRecipientTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKRecipientTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKRecipientTableView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "QLPreviewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKQLPreviewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKConversation",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKPendingConversation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKMediaObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKPassbookMediaObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKNavigationItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKNavigationBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKSingleRecipientTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKMultipleRecipientTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKMultiDict",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKMultiCache",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKAVMediaObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKMovieMediaObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKTranscriptController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKModalTranscriptController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKPreferredServiceManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKMessagesAppPreferredServiceManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKMessageEntryTextView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKMessageEntryTextView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKMessageEntryRichTextView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKMessageEntryContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKContactMediaObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKLocationMediaObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPLRUDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKLRUCache",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKBalloonView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKImageBalloonView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKIMComposeRecipient",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKIMGroupHeaderRecipient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKDBMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKIMDBMessage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFComposeRecipient",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKIMComposeRecipient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFComposeRecipientView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKGroupHeaderListView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKEditableCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKEditableCollectionView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKCardMediaObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKCalendarMediaObject",
+          "children": []
+        },
+        {
+          "name": "CKContactMediaObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKBalloonImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKBalloonView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKBalloonImageView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKBalloonControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CKAutoupdatingDateFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKAutoupdatingRelativeDateFormatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSDateFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CKAutoupdatingDateFormatter",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

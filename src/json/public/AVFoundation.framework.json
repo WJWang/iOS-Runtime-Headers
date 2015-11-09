@@ -1,1 +1,537 @@
-{"name":"AVFoundation.framework","list":[{"father":"AVMediaFileOutputSettingsValidator","childList":["AVAIFCOutputSettingsValidator"]},{"father":"AVMediaFileOutputSettingsValidator","childList":["AVAIFFOutputSettingsValidator"]},{"father":"AVAudioOutputSettings","childList":["AVAVAudioSettingsAudioOutputSettings"]},{"father":"AVVideoOutputSettings","childList":["AVAVVideoSettingsVideoOutputSettings"]},{"father":"NSObject","childList":["AVAsset"]},{"father":"NSObject","childList":["AVAssetCache"]},{"father":"NSObject","childList":["AVAssetCacheInternal"]},{"father":"NSObject","childList":["AVAssetDownloadSession"]},{"father":"NSObject","childList":["AVAssetDownloadSessionInternal"]},{"father":"NSObject","childList":["AVAssetExportSession"]},{"father":"NSObject","childList":["AVAssetExportSessionInternal"]},{"father":"NSObject","childList":["AVAssetImageGenerator"]},{"father":"NSObject","childList":["AVAssetImageGeneratorInternal"]},{"father":"AVFigObjectInspector","childList":["AVAssetInspector"]},{"father":"NSObject","childList":["AVAssetInspectorLoader"]},{"father":"NSObject","childList":["AVAssetInternal"]},{"father":"AVAssetInspectorLoader","childList":["AVAssetMakeReadyForInspectionLoader"]},{"father":"NSObject","childList":["AVAssetReader"]},{"father":"AVAssetReaderOutput","childList":["AVAssetReaderAudioMixOutput"]},{"father":"NSObject","childList":["AVAssetReaderAudioMixOutputInternal"]},{"father":"NSObject","childList":["AVAssetReaderInternal"]},{"father":"NSObject","childList":["AVAssetReaderOutput"]},{"father":"NSObject","childList":["AVAssetReaderOutputInternal"]},{"father":"AVAssetReaderOutput","childList":["AVAssetReaderTrackOutput"]},{"father":"NSObject","childList":["AVAssetReaderTrackOutputInternal"]},{"father":"AVAssetReaderOutput","childList":["AVAssetReaderVideoCompositionOutput"]},{"father":"NSObject","childList":["AVAssetReaderVideoCompositionOutputInternal"]},{"father":"NSObject","childList":["AVAssetResourceLoader"]},{"father":"NSObject","childList":["AVAssetResourceLoaderInternal"]},{"father":"NSObject","childList":["AVAssetResourceLoadingContentInformationRequest"]},{"father":"NSObject","childList":["AVAssetResourceLoadingContentInformationRequestInternal"]},{"father":"NSObject","childList":["AVAssetResourceLoadingDataRequest"]},{"father":"NSObject","childList":["AVAssetResourceLoadingDataRequestInternal"]},{"father":"NSObject","childList":["AVAssetResourceLoadingRequest"]},{"father":"NSObject","childList":["AVAssetResourceLoadingRequestInternal"]},{"father":"NSObject","childList":["AVAssetTrack"]},{"father":"NSEnumerator","childList":["AVAssetTrackEnumerator"]},{"father":"NSObject","childList":["AVAssetTrackGroup"]},{"father":"NSObject","childList":["AVAssetTrackGroupInternal"]},{"father":"AVFigObjectInspector","childList":["AVAssetTrackInspector"]},{"father":"NSObject","childList":["AVAssetTrackInternal"]},{"father":"NSObject","childList":["AVAssetTrackSegment"]},{"father":"NSObject","childList":["AVAssetWriter"]},{"father":"NSObject","childList":["AVAssetWriterAsynchronousFinishWritingDelegate"]},{"father":"AVAssetWriterTerminalHelper","childList":["AVAssetWriterClientInitiatedTerminalHelper"]},{"father":"NSObject","childList":["AVAssetWriterConfigurationState"]},{"father":"NSObject","childList":["AVAssetWriterDoNothingFinishWritingDelegate"]},{"father":"AVAssetWriterTerminalHelper","childList":["AVAssetWriterFailedTerminalHelper"]},{"father":"NSObject","childList":["AVAssetWriterFigAssetWriterNotificationHandler"]},{"father":"AVAssetWriterHelper","childList":["AVAssetWriterFinishWritingHelper"]},{"father":"NSObject","childList":["AVAssetWriterHelper"]},{"father":"NSObject","childList":["AVAssetWriterInput"]},{"father":"NSObject","childList":["AVAssetWriterInputConfigurationState"]},{"father":"AVMediaSelectionGroup","childList":["AVAssetWriterInputGroup"]},{"father":"NSObject","childList":["AVAssetWriterInputGroupInternal"]},{"father":"NSObject","childList":["AVAssetWriterInputHelper"]},{"father":"NSObject","childList":["AVAssetWriterInputInternal"]},{"father":"NSObject","childList":["AVAssetWriterInputMediaDataRequester"]},{"father":"NSObject","childList":["AVAssetWriterInputPixelBufferAdaptor"]},{"father":"NSObject","childList":["AVAssetWriterInputPixelBufferAdaptorInternal"]},{"father":"AVMediaSelectionOption","childList":["AVAssetWriterInputSelectionOption"]},{"father":"AVAssetWriterInputHelper","childList":["AVAssetWriterInputTerminalHelper"]},{"father":"AVAssetWriterInputHelper","childList":["AVAssetWriterInputUnknownHelper"]},{"father":"AVAssetWriterInputHelper","childList":["AVAssetWriterInputWritingHelper"]},{"father":"NSObject","childList":["AVAssetWriterInternal"]},{"father":"NSObject","childList":["AVAssetWriterSynchronousMainThreadFinishWritingDelegate"]},{"father":"NSObject","childList":["AVAssetWriterSynchronousNonMainThreadFinishWritingDelegate"]},{"father":"AVAssetWriterHelper","childList":["AVAssetWriterTerminalHelper"]},{"father":"AVAssetWriterHelper","childList":["AVAssetWriterUnknownHelper"]},{"father":"AVAssetWriterHelper","childList":["AVAssetWriterWritingHelper"]},{"father":"NSObject","childList":["AVAsynchronousVideoCompositionRequest"]},{"father":"NSObject","childList":["AVAsynchronousVideoCompositionRequestInternal"]},{"father":"NSObject","childList":["AVAudioMix"]},{"father":"NSObject","childList":["AVAudioMixInputParameters"]},{"father":"NSObject","childList":["AVAudioMixInputParametersInternal"]},{"father":"NSObject","childList":["AVAudioMixInternal"]},{"father":"AVOutputSettings","childList":["AVAudioOutputSettings"]},{"father":"NSObject","childList":["AVAudioPlayer"]},{"father":"NSObject","childList":["AVAudioRecorder"]},{"father":"NSObject","childList":["AVAudioSession"]},{"father":"NSObject","childList":["AVAudioSessionChannelDescription"]},{"father":"NSObject","childList":["AVAudioSessionDataSourceDescription"]},{"father":"NSObject","childList":["AVAudioSessionMediaPlayerOnly"]},{"father":"NSObject","childList":["AVAudioSessionMediaPlayerOnlyInternal"]},{"father":"NSObject","childList":["AVAudioSessionPortDescription"]},{"father":"NSObject","childList":["AVAudioSessionRouteDescription"]},{"father":"NSObject","childList":["AVAudioSettingsValueConstrainer"]},{"father":"NSObject","childList":["AVCMNotificationDispatcher"]},{"father":"NSObject","childList":["AVCMNotificationDispatcherListenerAndCallback"]},{"father":"NSObject","childList":["AVCMNotificationDispatcherListenerKey"]},{"father":"NSObject","childList":["AVCallbackRegistry"]},{"father":"NSObject","childList":["AVCaptureAudioChannel"]},{"father":"NSObject","childList":["AVCaptureAudioChannelInternal"]},{"father":"AVCaptureOutput","childList":["AVCaptureAudioDataOutput"]},{"father":"NSObject","childList":["AVCaptureAudioDataOutputInternal"]},{"father":"NSObject","childList":["AVCaptureConnection"]},{"father":"NSObject","childList":["AVCaptureConnectionInternal"]},{"father":"NSObject","childList":["AVCaptureDevice"]},{"father":"NSObject","childList":["AVCaptureDeviceFormat"]},{"father":"NSObject","childList":["AVCaptureDeviceFormatInternal"]},{"father":"AVCaptureInput","childList":["AVCaptureDeviceInput"]},{"father":"NSObject","childList":["AVCaptureDeviceInputInternal"]},{"father":"NSObject","childList":["AVCaptureDeviceInternal"]},{"father":"AVCaptureDevice","childList":["AVCaptureFigAudioDevice"]},{"father":"AVCaptureDevice","childList":["AVCaptureFigVideoDevice"]},{"father":"AVCaptureOutput","childList":["AVCaptureFileOutput"]},{"father":"NSObject","childList":["AVCaptureFileOutputDelegateWrapper"]},{"father":"NSObject","childList":["AVCaptureFileOutputInternal"]},{"father":"NSObject","childList":["AVCaptureInput"]},{"father":"NSObject","childList":["AVCaptureInputInternal"]},{"father":"NSObject","childList":["AVCaptureInputPort"]},{"father":"NSObject","childList":["AVCaptureInputPortInternal"]},{"father":"AVCaptureOutput","childList":["AVCaptureMetadataOutput"]},{"father":"NSObject","childList":["AVCaptureMetadataOutputInternal"]},{"father":"AVCaptureFileOutput","childList":["AVCaptureMovieFileOutput"]},{"father":"NSObject","childList":["AVCaptureMovieFileOutputInternal"]},{"father":"NSObject","childList":["AVCaptureOutput"]},{"father":"NSObject","childList":["AVCaptureOutputInternal"]},{"father":"NSObject","childList":["AVCapturePrewarmer"]},{"father":"NSObject","childList":["AVCaptureSession"]},{"father":"NSObject","childList":["AVCaptureSessionInternal"]},{"father":"AVCaptureOutput","childList":["AVCaptureStillImageOutput"]},{"father":"NSObject","childList":["AVCaptureStillImageOutputInternal"]},{"father":"NSObject","childList":["AVCaptureStillImageRequest"]},{"father":"AVCaptureOutput","childList":["AVCaptureVideoDataOutput"]},{"father":"NSObject","childList":["AVCaptureVideoDataOutputInternal"]},{"father":"CALayer","childList":["AVCaptureVideoPreviewLayer"]},{"father":"NSObject","childList":["AVCaptureVideoPreviewLayerInternal"]},{"father":"AVMetadataItem","childList":["AVChapterMetadataItem"]},{"father":"NSObject","childList":["AVChapterMetadataItemInternal"]},{"father":"AVAsset","childList":["AVComposition"]},{"father":"NSObject","childList":["AVCompositionInternal"]},{"father":"AVAssetTrack","childList":["AVCompositionTrack"]},{"father":"NSObject","childList":["AVCompositionTrackInternal"]},{"father":"AVTrackReaderInspector","childList":["AVCompositionTrackReaderInspector"]},{"father":"AVAssetTrackSegment","childList":["AVCompositionTrackSegment"]},{"father":"NSObject","childList":["AVCompositionTrackSegmentInternal"]},{"father":"NSObject","childList":["AVCustomVideoCompositorSession"]},{"father":"NSObject","childList":["AVExportSettingsOutputSettingsAssistantBaseSettings"]},{"father":"NSObject","childList":["AVExportSettingsOutputSettingsAssistantVideoSettingsAdjuster"]},{"father":"NSObject","childList":["AVExternalDevice"]},{"father":"NSObject","childList":["AVExternalDeviceInternal"]},{"father":"NSObject","childList":["AVExternalDeviceScreenBorrowToken"]},{"father":"AVAssetInspector","childList":["AVFigAssetInspector"]},{"father":"AVAssetInspectorLoader","childList":["AVFigAssetInspectorLoader"]},{"father":"AVAssetTrackInspector","childList":["AVFigAssetTrackInspector"]},{"father":"AVFigAssetWriterTrack","childList":["AVFigAssetWriterAudioTrack"]},{"father":"AVFigAssetWriterTrack","childList":["AVFigAssetWriterGenericTrack"]},{"father":"NSObject","childList":["AVFigAssetWriterTrack"]},{"father":"AVFigAssetWriterTrack","childList":["AVFigAssetWriterVideoTrack"]},{"father":"NSObject","childList":["AVFigObjectInspector"]},{"father":"NSObject","childList":["AVFigPlaybackItemNotificationLegibleOutputDataSource"]},{"father":"NSObject","childList":["AVFlashlight"]},{"father":"NSObject","childList":["AVFlashlightInternal"]},{"father":"NSObject","childList":["AVFloat64Range"]},{"father":"AVAssetInspector","childList":["AVFormatReaderInspector"]},{"father":"NSObject","childList":["AVFormatSpecification"]},{"father":"NSObject","childList":["AVFrameRateRange"]},{"father":"NSObject","childList":["AVFrameRateRangeInternal"]},{"father":"AVWeakReference","childList":["AVGarbageCollectedWeakReference"]},{"father":"AVMediaFileOutputSettingsValidator","childList":["AVGenericMediaFileOutputSettingsValidator"]},{"father":"NSObject","childList":["AVIOKitOutputSettingsAssistantVideoEncoderCapabilities"]},{"father":"AVMediaFileOutputSettingsValidator","childList":["AVISOOutputSettingsValidator"]},{"father":"NSObject","childList":["AVMediaDataRequester"]},{"father":"NSObject","childList":["AVMediaFileOutputSettingsValidator"]},{"father":"NSObject","childList":["AVMediaFileType"]},{"father":"NSObject","childList":["AVMediaSelectionGroup"]},{"father":"NSObject","childList":["AVMediaSelectionGroupInternal"]},{"father":"AVMediaSelectionGroup","childList":["AVMediaSelectionKeyValueGroup"]},{"father":"AVMediaSelectionOption","childList":["AVMediaSelectionKeyValueOption"]},{"father":"NSObject","childList":["AVMediaSelectionOption"]},{"father":"NSObject","childList":["AVMediaSelectionOptionInternal"]},{"father":"AVMediaSelectionGroup","childList":["AVMediaSelectionTrackGroup"]},{"father":"AVMediaSelectionOption","childList":["AVMediaSelectionTrackOption"]},{"father":"NSEnumerator","childList":["AVMetadataEnumerator"]},{"father":"AVMetadataObject","childList":["AVMetadataFaceObject"]},{"father":"NSObject","childList":["AVMetadataFaceObjectInternal"]},{"father":"NSObject","childList":["AVMetadataItem"]},{"father":"NSObject","childList":["AVMetadataItemFilter"]},{"father":"AVMetadataItemFilter","childList":["AVMetadataItemFilterForSharing"]},{"father":"NSObject","childList":["AVMetadataItemFilterInternal"]},{"father":"NSObject","childList":["AVMetadataItemInternal"]},{"father":"AVMetadataObject","childList":["AVMetadataMachineReadableCodeObject"]},{"father":"NSObject","childList":["AVMetadataMachineReadableCodeObjectInternal"]},{"father":"NSObject","childList":["AVMetadataObject"]},{"father":"NSObject","childList":["AVMetadataObjectInternal"]},{"father":"AVAudioMix","childList":["AVMutableAudioMix"]},{"father":"AVAudioMixInputParameters","childList":["AVMutableAudioMixInputParameters"]},{"father":"AVComposition","childList":["AVMutableComposition"]},{"father":"NSObject","childList":["AVMutableCompositionInternal"]},{"father":"AVCompositionTrack","childList":["AVMutableCompositionTrack"]},{"father":"NSObject","childList":["AVMutableCompositionTrackInternal"]},{"father":"AVMetadataItem","childList":["AVMutableMetadataItem"]},{"father":"AVTimedMetadataGroup","childList":["AVMutableTimedMetadataGroup"]},{"father":"AVVideoComposition","childList":["AVMutableVideoComposition"]},{"father":"AVVideoCompositionInstruction","childList":["AVMutableVideoCompositionInstruction"]},{"father":"AVVideoCompositionLayerInstruction","childList":["AVMutableVideoCompositionLayerInstruction"]},{"father":"NSObject","childList":["AVOutputSettings"]},{"father":"NSObject","childList":["AVOutputSettingsAssistant"]},{"father":"NSObject","childList":["AVOutputSettingsAssistantInternal"]},{"father":"NSObject","childList":["AVPixelBufferAttributeMediator"]},{"father":"AVVideoOutputSettings","childList":["AVPixelBufferAttributesVideoOutputSettings"]},{"father":"AVAssetInspector","childList":["AVPlaybackItemInspector"]},{"father":"AVAssetMakeReadyForInspectionLoader","childList":["AVPlaybackItemInspectorLoader"]},{"father":"AVAssetTrackInspector","childList":["AVPlaybackItemTrackInspector"]},{"father":"NSObject","childList":["AVPlayer"]},{"father":"NSObject","childList":["AVPlayerConnection"]},{"father":"NSObject","childList":["AVPlayerInternal"]},{"father":"NSObject","childList":["AVPlayerItem"]},{"father":"NSObject","childList":["AVPlayerItemAccessLog"]},{"father":"NSObject","childList":["AVPlayerItemAccessLogEvent"]},{"father":"NSObject","childList":["AVPlayerItemAccessLogEventInternal"]},{"father":"NSObject","childList":["AVPlayerItemAccessLogInternal"]},{"father":"NSObject","childList":["AVPlayerItemErrorLog"]},{"father":"NSObject","childList":["AVPlayerItemErrorLogEvent"]},{"father":"NSObject","childList":["AVPlayerItemErrorLogEventInternal"]},{"father":"NSObject","childList":["AVPlayerItemErrorLogInternal"]},{"father":"NSObject","childList":["AVPlayerItemInternal"]},{"father":"AVPlayerItemOutput","childList":["AVPlayerItemLegibleOutput"]},{"father":"NSObject","childList":["AVPlayerItemLegibleOutputInternal"]},{"father":"NSObject","childList":["AVPlayerItemLegibleOutputRealDependencyFactory"]},{"father":"NSObject","childList":["AVPlayerItemOutput"]},{"father":"NSObject","childList":["AVPlayerItemOutputInternal"]},{"father":"NSObject","childList":["AVPlayerItemTrack"]},{"father":"NSObject","childList":["AVPlayerItemTrackInternal"]},{"father":"AVPlayerItemOutput","childList":["AVPlayerItemVideoOutput"]},{"father":"NSObject","childList":["AVPlayerItemVideoOutputInternal"]},{"father":"CALayer","childList":["AVPlayerLayer"]},{"father":"CALayer","childList":["AVPlayerLayerIntermediateLayer"]},{"father":"NSObject","childList":["AVPlayerLayerInternal"]},{"father":"AVSubtitleLayer","childList":["AVPlayerLayerSubtitleLayer"]},{"father":"NSObject","childList":["AVPlayerMediaSelectionCriteria"]},{"father":"NSObject","childList":["AVPlayerMediaSelectionCriteriaInternal"]},{"father":"AVPlayerTimelyCaller","childList":["AVPlayerOccasionalCaller"]},{"father":"AVPlayerTimelyCaller","childList":["AVPlayerPeriodicCaller"]},{"father":"NSObject","childList":["AVPlayerTimelyCaller"]},{"father":"NSObject","childList":["AVPropertyStorage"]},{"father":"AVPlayer","childList":["AVQueuePlayer"]},{"father":"NSObject","childList":["AVQueuePlayerInternal"]},{"father":"NSObject","childList":["AVRawImageReprocessor"]},{"father":"NSObject","childList":["AVRawImageReprocessorInternal"]},{"father":"NSObject","childList":["AVResolvedCaptureOptions"]},{"father":"AVWeakReference","childList":["AVRetainReleaseWeakReference"]},{"father":"NSCondition","childList":["AVRunLoopCondition"]},{"father":"NSObject","childList":["AVRunLoopConditionRunLoopState"]},{"father":"CALayer","childList":["AVSampleBufferDisplayLayer"]},{"father":"CALayer","childList":["AVSampleBufferDisplayLayerContentLayer"]},{"father":"NSObject","childList":["AVSampleBufferDisplayLayerInternal"]},{"father":"NSObject","childList":["AVSpeechSynthesisVoice"]},{"father":"NSObject","childList":["AVSpeechSynthesizer"]},{"father":"NSObject","childList":["AVSpeechUtterance"]},{"father":"AVAssetInspector","childList":["AVStreamingResourceInspector"]},{"father":"CALayer","childList":["AVSubtitleLayer"]},{"father":"NSObject","childList":["AVSubtitleLayerInternal"]},{"father":"CALayer","childList":["AVSynchronizedLayer"]},{"father":"NSObject","childList":["AVSynchronizedLayerInternal"]},{"father":"NSObject","childList":["AVTextStyleRule"]},{"father":"NSObject","childList":["AVTextStyleRuleInternal"]},{"father":"NSObject","childList":["AVTimedMetadataGroup"]},{"father":"NSObject","childList":["AVTimedMetadataGroupInternal"]},{"father":"AVAssetTrackGroup","childList":["AVTrackGroup"]},{"father":"AVAssetTrackInspector","childList":["AVTrackReaderInspector"]},{"father":"AVAsset","childList":["AVURLAsset"]},{"father":"NSObject","childList":["AVURLAssetInternal"]},{"father":"AVAssetInspectorLoader","childList":["AVUnreachableAssetInspectorLoader"]},{"father":"NSObject","childList":["AVVCAudioBuffer"]},{"father":"NSObject","childList":["AVVideoComposition"]},{"father":"NSObject","childList":["AVVideoCompositionCoreAnimationTool"]},{"father":"NSObject","childList":["AVVideoCompositionCoreAnimationToolInternal"]},{"father":"NSObject","childList":["AVVideoCompositionInstruction"]},{"father":"NSObject","childList":["AVVideoCompositionInstructionInternal"]},{"father":"NSObject","childList":["AVVideoCompositionInternal"]},{"father":"NSObject","childList":["AVVideoCompositionLayerInstruction"]},{"father":"NSObject","childList":["AVVideoCompositionLayerInstructionInternal"]},{"father":"NSObject","childList":["AVVideoCompositionRenderContext"]},{"father":"NSObject","childList":["AVVideoCompositionRenderContextInternal"]},{"father":"AVOutputSettings","childList":["AVVideoOutputSettings"]},{"father":"NSObject","childList":["AVVoiceController"]},{"father":"AVMediaFileOutputSettingsValidator","childList":["AVWAVEOutputSettingsValidator"]},{"father":"NSObject","childList":["AVWeakKeyValueObserverProxy"]},{"father":"NSObject","childList":["AVWeakReference"]},{"father":"NSObject","childList":["AVWeakReferencingDelegateStorage"]},{"father":"NSObject","childList":["AudioPlayerImpl"]},{"father":"NSValue","childList":["CMTimeAsValue"]},{"father":"NSValue","childList":["CMTimeMappingAsValue"]},{"father":"NSValue","childList":["CMTimeRangeAsValue"]},{"father":"NSObject","childList":["SpeexEndpointer"]},{"father":"NSObject","childList":["VoiceVerificationEndpointer"]}]}
+{
+  "name": "AVFoundation.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SpeexEndpointer",
+          "children": []
+        },
+        {
+          "name": "VoiceVerificationEndpointer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSValue",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMTimeAsValue",
+          "children": []
+        },
+        {
+          "name": "CMTimeMappingAsValue",
+          "children": []
+        },
+        {
+          "name": "CMTimeRangeAsValue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVMediaFileOutputSettingsValidator",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVWAVEOutputSettingsValidator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVOutputSettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVVideoOutputSettings",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetInspectorLoader",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVUnreachableAssetInspectorLoader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAsset",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVURLAsset",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetTrackInspector",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVTrackReaderInspector",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetTrackGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVTrackGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVSubtitleLayer",
+          "children": []
+        },
+        {
+          "name": "AVSynchronizedLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetInspector",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVStreamingResourceInspector",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSCondition",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVRunLoopCondition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVWeakReference",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVRetainReleaseWeakReference",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVPlayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVQueuePlayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVPlayerTimelyCaller",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVPlayerOccasionalCaller",
+          "children": []
+        },
+        {
+          "name": "AVPlayerPeriodicCaller",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVSubtitleLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVPlayerLayerSubtitleLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVPlayerItemOutput",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVPlayerItemLegibleOutput",
+          "children": []
+        },
+        {
+          "name": "AVPlayerItemVideoOutput",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetMakeReadyForInspectionLoader",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVPlaybackItemInspectorLoader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVVideoOutputSettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVPixelBufferAttributesVideoOutputSettings",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVVideoCompositionLayerInstruction",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableVideoCompositionLayerInstruction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVVideoCompositionInstruction",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableVideoCompositionInstruction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVVideoComposition",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableVideoComposition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVTimedMetadataGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableTimedMetadataGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVMetadataItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableMetadataItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVCompositionTrack",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableCompositionTrack",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVComposition",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableComposition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAudioMixInputParameters",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableAudioMixInputParameters",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAudioMix",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMutableAudioMix",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVMetadataObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMetadataMachineReadableCodeObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVMetadataItemFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMetadataItemFilterForSharing",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMetadataEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVMediaSelectionOption",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMediaSelectionTrackOption",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVMediaSelectionGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVMediaSelectionKeyValueGroup",
+          "children": []
+        },
+        {
+          "name": "AVMediaSelectionTrackGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVFigAssetWriterTrack",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVFigAssetWriterAudioTrack",
+          "children": []
+        },
+        {
+          "name": "AVFigAssetWriterGenericTrack",
+          "children": []
+        },
+        {
+          "name": "AVFigAssetWriterVideoTrack",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetTrackSegment",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVCompositionTrackSegment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVTrackReaderInspector",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVCompositionTrackReaderInspector",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetTrack",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVCompositionTrack",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVCaptureOutput",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVCaptureStillImageOutput",
+          "children": []
+        },
+        {
+          "name": "AVCaptureVideoDataOutput",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVCaptureFileOutput",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVCaptureMovieFileOutput",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVCaptureDevice",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVCaptureFigAudioDevice",
+          "children": []
+        },
+        {
+          "name": "AVCaptureFigVideoDevice",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVCaptureInput",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVCaptureDeviceInput",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetWriterHelper",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVAssetWriterTerminalHelper",
+          "children": []
+        },
+        {
+          "name": "AVAssetWriterUnknownHelper",
+          "children": []
+        },
+        {
+          "name": "AVAssetWriterWritingHelper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetWriterInputHelper",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVAssetWriterInputTerminalHelper",
+          "children": []
+        },
+        {
+          "name": "AVAssetWriterInputUnknownHelper",
+          "children": []
+        },
+        {
+          "name": "AVAssetWriterInputWritingHelper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetWriterTerminalHelper",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVAssetWriterClientInitiatedTerminalHelper",
+          "children": []
+        },
+        {
+          "name": "AVAssetWriterFailedTerminalHelper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVFigObjectInspector",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVAssetTrackInspector",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAssetReaderOutput",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVAssetReaderAudioMixOutput",
+          "children": []
+        },
+        {
+          "name": "AVAssetReaderTrackOutput",
+          "children": []
+        },
+        {
+          "name": "AVAssetReaderVideoCompositionOutput",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AVAudioOutputSettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "AVAVAudioSettingsAudioOutputSettings",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

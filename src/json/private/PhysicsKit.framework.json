@@ -1,1 +1,41 @@
-{"name":"PhysicsKit.framework","list":[{"father":"NSObject","childList":["PKPhysicsBody"]},{"father":"NSObject","childList":["PKPhysicsContact"]},{"father":"NSObject","childList":["PKPhysicsJoint"]},{"father":"PKPhysicsJoint","childList":["PKPhysicsJointDistance"]},{"father":"PKPhysicsJoint","childList":["PKPhysicsJointPrismatic"]},{"father":"PKPhysicsJoint","childList":["PKPhysicsJointRevolute"]},{"father":"PKPhysicsJoint","childList":["PKPhysicsJointRope"]},{"father":"PKPhysicsJoint","childList":["PKPhysicsJointWeld"]},{"father":"NSObject","childList":["PKPhysicsWorld"]}]}
+{
+  "name": "PhysicsKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKPhysicsWorld",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PKPhysicsJoint",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKPhysicsJointDistance",
+          "children": []
+        },
+        {
+          "name": "PKPhysicsJointPrismatic",
+          "children": []
+        },
+        {
+          "name": "PKPhysicsJointRevolute",
+          "children": []
+        },
+        {
+          "name": "PKPhysicsJointRope",
+          "children": []
+        },
+        {
+          "name": "PKPhysicsJointWeld",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

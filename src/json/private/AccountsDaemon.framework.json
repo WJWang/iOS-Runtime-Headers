@@ -1,1 +1,131 @@
-{"name":"AccountsDaemon.framework","list":[{"father":"NSObject","childList":["ACDAccessPluginManager"]},{"father":"NSObject","childList":["ACDAccountChange"]},{"father":"NSObject","childList":["ACDAccountNotifier"]},{"father":"ACAccountStore","childList":["ACDAccountStore"]},{"father":"NSObject","childList":["ACDAccountStoreFilter"]},{"father":"NSObject","childList":["ACDAuthenticationDialogManager"]},{"father":"NSObject","childList":["ACDAuthenticationDialogRequest"]},{"father":"NSObject","childList":["ACDAuthenticationHandlerQueueManager"]},{"father":"NSObject","childList":["ACDAuthenticationPluginManager"]},{"father":"NSObject","childList":["ACDClient"]},{"father":"NSObject","childList":["ACDClientAuthorization"]},{"father":"NSObject","childList":["ACDClientAuthorizationManager"]},{"father":"NSObject","childList":["ACDDatabase"]},{"father":"NSObject","childList":["ACDDatabaseInitializer"]},{"father":"NSObject","childList":["ACDDatabaseMigrator"]},{"father":"NSObject","childList":["ACDDataclassOwnersManager"]},{"father":"NSObject","childList":["ACDDataclassOwnersManagerInterface"]},{"father":"NSObject","childList":["ACDKeychain"]},{"father":"NSObject","childList":["ACDKeychainManager"]},{"father":"NSObject","childList":["ACDOAuthSigner"]},{"father":"NSObject","childList":["ACDPluginLoader"]},{"father":"NSObject","childList":["ACDPreferences"]},{"father":"NSObject","childList":["ACDQueueDictionary"]},{"father":"NSObject","childList":["ACDServer"]},{"father":"NSObject","childList":["ACDTCCUtilities"]},{"father":"NSObject","childList":["ACDTelemetryData"]},{"father":"NSObject","childList":["ACDTelemetryWatchdog"]},{"father":"NSObject","childList":["ACDTestManager"]},{"father":"NSObject","childList":["ACDUserNotification"]},{"father":"ACDServer","childList":["_ACDTestServer"]}]}
+{
+  "name": "AccountsDaemon.framework",
+  "list": [
+    {
+      "name": "ACDServer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_ACDTestServer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACDAccountStoreFilter",
+          "children": []
+        },
+        {
+          "name": "ACDAuthenticationDialogManager",
+          "children": []
+        },
+        {
+          "name": "ACDAuthenticationDialogRequest",
+          "children": []
+        },
+        {
+          "name": "ACDAuthenticationHandlerQueueManager",
+          "children": []
+        },
+        {
+          "name": "ACDAuthenticationPluginManager",
+          "children": []
+        },
+        {
+          "name": "ACDClient",
+          "children": []
+        },
+        {
+          "name": "ACDClientAuthorization",
+          "children": []
+        },
+        {
+          "name": "ACDClientAuthorizationManager",
+          "children": []
+        },
+        {
+          "name": "ACDDatabase",
+          "children": []
+        },
+        {
+          "name": "ACDDatabaseInitializer",
+          "children": []
+        },
+        {
+          "name": "ACDDatabaseMigrator",
+          "children": []
+        },
+        {
+          "name": "ACDDataclassOwnersManager",
+          "children": []
+        },
+        {
+          "name": "ACDDataclassOwnersManagerInterface",
+          "children": []
+        },
+        {
+          "name": "ACDKeychain",
+          "children": []
+        },
+        {
+          "name": "ACDKeychainManager",
+          "children": []
+        },
+        {
+          "name": "ACDOAuthSigner",
+          "children": []
+        },
+        {
+          "name": "ACDPluginLoader",
+          "children": []
+        },
+        {
+          "name": "ACDPreferences",
+          "children": []
+        },
+        {
+          "name": "ACDQueueDictionary",
+          "children": []
+        },
+        {
+          "name": "ACDServer",
+          "children": []
+        },
+        {
+          "name": "ACDTCCUtilities",
+          "children": []
+        },
+        {
+          "name": "ACDTelemetryData",
+          "children": []
+        },
+        {
+          "name": "ACDTelemetryWatchdog",
+          "children": []
+        },
+        {
+          "name": "ACDTestManager",
+          "children": []
+        },
+        {
+          "name": "ACDUserNotification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ACAccountStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "ACDAccountStore",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

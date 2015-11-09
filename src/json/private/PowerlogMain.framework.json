@@ -1,1 +1,19 @@
-{"name":"PowerlogMain.framework","list":[{"father":"NSObject","childList":["PLBasebandPostProcessing"]},{"father":"NSObject","childList":["PowerlogMain"]}]}
+{
+  "name": "PowerlogMain.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLBasebandPostProcessing",
+          "children": []
+        },
+        {
+          "name": "PowerlogMain",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

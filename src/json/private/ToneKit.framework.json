@@ -1,1 +1,105 @@
-{"name":"ToneKit.framework","list":[{"father":"NSObject","childList":["TKCapabilitiesManager"]},{"father":"NSObject","childList":["TKDisplayLinkManager"]},{"father":"NSObject","childList":["TKDisplayLinkManagerTargetAction"]},{"father":"UIView","childList":["TKLabelContainerView"]},{"father":"UITableViewCell","childList":["TKPickerTableViewCell"]},{"father":"NSObject","childList":["TKStyleProvider"]},{"father":"UITableViewController","childList":["TKToneClassicsTableViewController"]},{"father":"UIView","childList":["TKTonePicker"]},{"father":"NSObject","childList":["TKToneTableController"]},{"father":"NSObject","childList":["TKVibrationInterfaceUtilities"]},{"father":"TKPickerTableViewCell","childList":["TKVibrationPickerTableViewCell"]},{"father":"UITableViewController","childList":["TKVibrationPickerViewController"]},{"father":"UIViewController","childList":["TKVibrationRecorderContentViewController"]},{"father":"UIImageView","childList":["TKVibrationRecorderProgressDotImageView"]},{"father":"UIView","childList":["TKVibrationRecorderProgressView"]},{"father":"CAShapeLayer","childList":["TKVibrationRecorderRippleRingLayer"]},{"father":"NSObject","childList":["TKVibrationRecorderRippleTouchContext"]},{"father":"UIView","childList":["TKVibrationRecorderRippleView"]},{"father":"TKVibrationRecorderRippleView","childList":["TKVibrationRecorderTouchSurface"]},{"father":"NSObject","childList":["TKVibrationRecorderTouchSurfaceRecordedDataWrapper"]},{"father":"UIView","childList":["TKVibrationRecorderView"]},{"father":"UINavigationController","childList":["TKVibrationRecorderViewController"]},{"father":"NSObject","childList":["TKVibratorController"]},{"father":"UITableViewCell","childList":["TLDividerTableViewCell"]},{"father":"UIView","childList":["TLDividerView"]}]}
+{
+  "name": "ToneKit.framework",
+  "list": [
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "TLDividerView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "TLDividerTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TKVibratorController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "TKVibrationRecorderViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TKVibrationRecorderRippleView",
+      "parent": null,
+      "children": [
+        {
+          "name": "TKVibrationRecorderTouchSurface",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAShapeLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "TKVibrationRecorderRippleRingLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "TKVibrationRecorderProgressDotImageView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "TKVibrationRecorderContentViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "TKVibrationPickerViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TKPickerTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "TKVibrationPickerTableViewCell",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

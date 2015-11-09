@@ -1,1 +1,65 @@
-{"name":"IMDaemonCore.framework","list":[{"father":"NSObject","childList":["IMDAccount"]},{"father":"NSObject","childList":["IMDAccountController"]},{"father":"IMDServiceSession","childList":["IMDAppleServiceSession"]},{"father":"NSObject","childList":["IMDAttachmentStore"]},{"father":"NSObject","childList":["IMDChat"]},{"father":"NSObject","childList":["IMDChatRegistry"]},{"father":"NSObject","childList":["IMDChatStore"]},{"father":"NSObject","childList":["IMDFileTransferCenter"]},{"father":"NSObject","childList":["IMDHandle"]},{"father":"IMDAccount","childList":["IMDIDSAccount"]},{"father":"IMDService","childList":["IMDIDSService"]},{"father":"NSObject","childList":["IMDInvocationForwarder"]},{"father":"NSObject","childList":["IMDMessageStore"]},{"father":"NSObject","childList":["IMDService"]},{"father":"NSObject","childList":["IMDServiceController"]},{"father":"NSObject","childList":["IMDServiceSession"]},{"father":"NSObject","childList":["IMTunesController"]}]}
+{
+  "name": "IMDaemonCore.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMDInvocationForwarder",
+          "children": []
+        },
+        {
+          "name": "IMDMessageStore",
+          "children": []
+        },
+        {
+          "name": "IMDService",
+          "children": []
+        },
+        {
+          "name": "IMDServiceController",
+          "children": []
+        },
+        {
+          "name": "IMDServiceSession",
+          "children": []
+        },
+        {
+          "name": "IMTunesController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMDService",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMDIDSService",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMDAccount",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMDIDSAccount",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMDServiceSession",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMDAppleServiceSession",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

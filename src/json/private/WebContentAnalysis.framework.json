@@ -1,1 +1,105 @@
-{"name":"WebContentAnalysis.framework","list":[{"father":"NSObject","childList":["WFBlockPage"]},{"father":"NSObject","childList":["WFCategoryJudgement"]},{"father":"NSObject","childList":["WFContentSniffer"]},{"father":"WFTagFlyweight","childList":["WFDocumentStructureTag"]},{"father":"XMLNode","childList":["WFImg"]},{"father":"NSObject","childList":["WFImgArrayCache"]},{"father":"NSObject","childList":["WFJavascriptStripper"]},{"father":"NSObject","childList":["WFJudge"]},{"father":"NSObject","childList":["WFLSMMap"]},{"father":"NSObject","childList":["WFLSMResult"]},{"father":"WFLSMMap","childList":["WFLSMScoreNormalizedMap"]},{"father":"XMLNode","childList":["WFLink"]},{"father":"NSObject","childList":["WFNodeWrapper"]},{"father":"UIViewController","childList":["WFPINEntryViewController"]},{"father":"NSObject","childList":["WFPostprocessor"]},{"father":"_UIRemoteViewController","childList":["WFRemotePINEntryViewController"]},{"father":"WFTagFlyweight","childList":["WFSlangTag"]},{"father":"NSObject","childList":["WFTagFactory"]},{"father":"NSObject","childList":["WFTagFlyweight"]},{"father":"WFTreeXMLDocumentStripper","childList":["WFTreeHTMLStripper"]},{"father":"NSObject","childList":["WFTreeXMLDocumentStripper"]},{"father":"WFTagFlyweight","childList":["WFUSC2257Tag"]},{"father":"NSObject","childList":["WFUserSettings"]},{"father":"NSObject","childList":["WFVerdict"]},{"father":"NSObject","childList":["WFWebPageDecorator"]},{"father":"WFWebPageDecorator","childList":["WFWebPageToFilterText"]},{"father":"WFWebPageDecorator","childList":["WFWebPageToTrainingText"]},{"father":"NSObject","childList":["WFWhitelistSite"]},{"father":"NSObject","childList":["WFWhitelistSiteBuffer"]},{"father":"NSObject","childList":["WFWhitelistUserPreferences"]},{"father":"NSObject","childList":["WebFilterEvaluator"]},{"father":"NSObject","childList":["XMLNode"]}]}
+{
+  "name": "WebContentAnalysis.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WFWhitelistSite",
+          "children": []
+        },
+        {
+          "name": "WFWhitelistSiteBuffer",
+          "children": []
+        },
+        {
+          "name": "WFWhitelistUserPreferences",
+          "children": []
+        },
+        {
+          "name": "WebFilterEvaluator",
+          "children": []
+        },
+        {
+          "name": "XMLNode",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WFWebPageDecorator",
+      "parent": null,
+      "children": [
+        {
+          "name": "WFWebPageToFilterText",
+          "children": []
+        },
+        {
+          "name": "WFWebPageToTrainingText",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WFTagFlyweight",
+      "parent": null,
+      "children": [
+        {
+          "name": "WFUSC2257Tag",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WFTreeXMLDocumentStripper",
+      "parent": null,
+      "children": [
+        {
+          "name": "WFTreeHTMLStripper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "WFRemotePINEntryViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "WFPINEntryViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "XMLNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "WFLink",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WFLSMMap",
+      "parent": null,
+      "children": [
+        {
+          "name": "WFLSMScoreNormalizedMap",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

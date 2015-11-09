@@ -1,1 +1,31 @@
-{"name":"CoreRecents.framework","list":[{"father":"NSObject","childList":["CRRecentContact"]},{"father":"NSObject","childList":["CRRecentContactsLibrary"]},{"father":"NSObject","childList":["CRXPCReplyAnalyzer"]},{"father":"NSObject","childList":["CRXPCServiceAdapter"]},{"father":"NSObject","childList":["CRXPCServiceMethod"]}]}
+{
+  "name": "CoreRecents.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CRRecentContact",
+          "children": []
+        },
+        {
+          "name": "CRRecentContactsLibrary",
+          "children": []
+        },
+        {
+          "name": "CRXPCReplyAnalyzer",
+          "children": []
+        },
+        {
+          "name": "CRXPCServiceAdapter",
+          "children": []
+        },
+        {
+          "name": "CRXPCServiceMethod",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

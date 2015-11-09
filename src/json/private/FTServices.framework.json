@@ -1,1 +1,67 @@
-{"name":"FTServices.framework","list":[{"father":"NSObject","childList":["FTDeviceSupport"]},{"father":"NSObject","childList":["FTEmbeddedReachability"]},{"father":"NSObject","childList":["FTEntitlementSupport"]},{"father":"IDSBaseMessage","childList":["FTGetRegionMetadataMessage"]},{"father":"IDSBaseMessage","childList":["FTIDSMessage"]},{"father":"NSObject","childList":["FTMessageDelivery"]},{"father":"FTMessageDelivery","childList":["FTMessageDelivery_APS"]},{"father":"FTMessageDelivery","childList":["FTMessageDelivery_HTTP"]},{"father":"NSObject","childList":["FTMessageQueue"]},{"father":"NSObject","childList":["FTNetworkSupport"]},{"father":"NSObject","childList":["FTPasswordManager"]},{"father":"NSObject","childList":["FTRegion"]},{"father":"NSObject","childList":["FTRegionSupport"]},{"father":"NSObject","childList":["FTServerBag"]},{"father":"NSObject","childList":["FTUserConfiguration"]}]}
+{
+  "name": "FTServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "FTMessageQueue",
+          "children": []
+        },
+        {
+          "name": "FTNetworkSupport",
+          "children": []
+        },
+        {
+          "name": "FTPasswordManager",
+          "children": []
+        },
+        {
+          "name": "FTRegion",
+          "children": []
+        },
+        {
+          "name": "FTRegionSupport",
+          "children": []
+        },
+        {
+          "name": "FTServerBag",
+          "children": []
+        },
+        {
+          "name": "FTUserConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "FTMessageDelivery",
+      "parent": null,
+      "children": [
+        {
+          "name": "FTMessageDelivery_APS",
+          "children": []
+        },
+        {
+          "name": "FTMessageDelivery_HTTP",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IDSBaseMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "FTGetRegionMetadataMessage",
+          "children": []
+        },
+        {
+          "name": "FTIDSMessage",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

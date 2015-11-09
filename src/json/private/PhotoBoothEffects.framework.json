@@ -1,1 +1,71 @@
-{"name":"PhotoBoothEffects.framework","list":[{"father":"NSObject","childList":["PBContext"]},{"father":"PBContext","childList":["PBCoreImageContext"]},{"father":"NSObject","childList":["PBFilter"]},{"father":"NSObject","childList":["PBFilterClassDescription"]},{"father":"PBFilter","childList":["PBKaleidoscopeFilter"]},{"father":"PBFilter","childList":["PBLightTunnelFilter"]},{"father":"PBFilter","childList":["PBMirrorFilter"]},{"father":"PBFilter","childList":["PBNormalFilter"]},{"father":"PBFilter","childList":["PBSqueezeFilter"]},{"father":"PBFilter","childList":["PBStretchFilter"]},{"father":"PBFilter","childList":["PBThermalFilter"]},{"father":"PBFilter","childList":["PBTwirlFilter"]},{"father":"PBFilter","childList":["PBXRayFilter"]}]}
+{
+  "name": "PhotoBoothEffects.framework",
+  "list": [
+    {
+      "name": "PBFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "PBKaleidoscopeFilter",
+          "children": []
+        },
+        {
+          "name": "PBLightTunnelFilter",
+          "children": []
+        },
+        {
+          "name": "PBMirrorFilter",
+          "children": []
+        },
+        {
+          "name": "PBNormalFilter",
+          "children": []
+        },
+        {
+          "name": "PBSqueezeFilter",
+          "children": []
+        },
+        {
+          "name": "PBStretchFilter",
+          "children": []
+        },
+        {
+          "name": "PBThermalFilter",
+          "children": []
+        },
+        {
+          "name": "PBTwirlFilter",
+          "children": []
+        },
+        {
+          "name": "PBXRayFilter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PBFilter",
+          "children": []
+        },
+        {
+          "name": "PBFilterClassDescription",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PBContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "PBCoreImageContext",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

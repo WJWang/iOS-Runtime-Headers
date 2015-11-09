@@ -1,1 +1,45 @@
-{"name":"ExFAT.framework","list":[{"father":"ExFATItem","childList":["ExFATFile"]},{"father":"ExFATItem","childList":["ExFATFolder"]},{"father":"NSObject","childList":["ExFATItem"]},{"father":"NSObject","childList":["ExFATStream"]},{"father":"NSObject","childList":["ExFATVolume"]},{"father":"NSObject","childList":["UserFSBuffer"]},{"father":"NSObject","childList":["UserFSBufferCache"]}]}
+{
+  "name": "ExFAT.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ExFATItem",
+          "children": []
+        },
+        {
+          "name": "ExFATStream",
+          "children": []
+        },
+        {
+          "name": "ExFATVolume",
+          "children": []
+        },
+        {
+          "name": "UserFSBuffer",
+          "children": []
+        },
+        {
+          "name": "UserFSBufferCache",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ExFATItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "ExFATFile",
+          "children": []
+        },
+        {
+          "name": "ExFATFolder",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

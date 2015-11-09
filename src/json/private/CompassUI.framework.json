@@ -1,1 +1,55 @@
-{"name":"CompassUI.framework","list":[{"father":"NSObject","childList":["CUICalibration"]},{"father":"_UIRemoteViewController","childList":["CUICalibrationRemoteViewController"]},{"father":"UIView","childList":["CalibrationBallView"]},{"father":"UIViewController","childList":["CalibrationViewController"]},{"father":"NSObject","childList":["CompassAtlas"]},{"father":"NSObject","childList":["CompassAtlasManifest"]},{"father":"CompassRotatingView","childList":["CompassBackgroundView"]},{"father":"NSObject","childList":["CompassImageNode"]},{"father":"UIView","childList":["CompassRotatingView"]},{"father":"NSObject","childList":["CompassShader"]}]}
+{
+  "name": "CompassUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CompassShader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CompassRotatingView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CompassRotatingView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CompassBackgroundView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalibrationViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUICalibrationRemoteViewController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

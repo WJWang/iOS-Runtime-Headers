@@ -1,1 +1,87 @@
-{"name":"Search.framework","list":[{"father":"NSObject","childList":["SPApplication"]},{"father":"NSObject","childList":["SPBundleManager"]},{"father":"NSObject","childList":["SPContentIndexer"]},{"father":"SPSearchResult","childList":["SPContentResult"]},{"father":"NSObject","childList":["SPDaemonConnection"]},{"father":"NSObject","childList":["SPDaemonQueryToken"]},{"father":"NSObject","childList":["SPDomainManager"]},{"father":"NSObject","childList":["SPIndex"]},{"father":"NSObject","childList":["SPPhoneticEncoder"]},{"father":"NSManagedObject","childList":["SPRecord"]},{"father":"NSObject","childList":["SPSearchAgent"]},{"father":"NSObject","childList":["SPSearchQuery"]},{"father":"PBCodable","childList":["SPSearchResult"]},{"father":"PBDataReader","childList":["SPSearchResultDeserializer"]},{"father":"PBCodable","childList":["SPSearchResultSection"]},{"father":"PBDataWriter","childList":["SPSearchResultSerializer"]},{"father":"NSManagedObject","childList":["SPTopHit"]},{"father":"SPContentIndexer","childList":["SPTopHitIndexer"]},{"father":"NSObject","childList":["SPTopHitsCompoundResult"]},{"father":"NSObject","childList":["SPXPCConnection"]},{"father":"NSObject","childList":["SPXPCMessage"]},{"father":"NSObject","childList":["SPXPCServer"]}]}
+{
+  "name": "Search.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SPTopHitsCompoundResult",
+          "children": []
+        },
+        {
+          "name": "SPXPCConnection",
+          "children": []
+        },
+        {
+          "name": "SPXPCMessage",
+          "children": []
+        },
+        {
+          "name": "SPXPCServer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SPContentIndexer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SPTopHitIndexer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SPTopHit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PBDataWriter",
+      "parent": null,
+      "children": [
+        {
+          "name": "SPSearchResultSerializer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PBCodable",
+      "parent": null,
+      "children": [
+        {
+          "name": "SPSearchResultSection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PBDataReader",
+      "parent": null,
+      "children": [
+        {
+          "name": "SPSearchResultDeserializer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SPSearchResult",
+      "parent": null,
+      "children": [
+        {
+          "name": "SPContentResult",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

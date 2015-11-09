@@ -1,1 +1,101 @@
-{"name":"TelephonyUtilities.framework","list":[{"father":"NSObject","childList":["TUAudioController"]},{"father":"NSObject","childList":["TUAudioPlayer"]},{"father":"NSObject","childList":["TUBasicLogger"]},{"father":"NSObject","childList":["TUCall"]},{"father":"NSObject","childList":["TUCallCenter"]},{"father":"NSObject","childList":["TUCallModel"]},{"father":"TUCall","childList":["TUFaceTimeAudioCall"]},{"father":"TUCallModel","childList":["TUFaceTimeAudioCallModel"]},{"father":"NSObject","childList":["TUInMemoryAppender"]},{"father":"NSObject","childList":["TUPhoneLogger"]},{"father":"NSObject","childList":["TUPhoneNumber"]},{"father":"NSObject","childList":["TUPrivacyManager"]},{"father":"NSObject","childList":["TUPrivacyRule"]},{"father":"NSObject","childList":["TURemoteAppender"]},{"father":"NSObject","childList":["TUReplyWithMessageStore"]},{"father":"NSObject","childList":["TURollingFileAppender"]},{"father":"NSObject","childList":["TUSimpleBacktrace"]},{"father":"TUAudioController","childList":["TUTelephonyAudioController"]},{"father":"TUCall","childList":["TUTelephonyCall"]},{"father":"TUCallModel","childList":["TUTelephonyCallModel"]}]}
+{
+  "name": "TelephonyUtilities.framework",
+  "list": [
+    {
+      "name": "TUCallModel",
+      "parent": null,
+      "children": [
+        {
+          "name": "TUTelephonyCallModel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TUCall",
+      "parent": null,
+      "children": [
+        {
+          "name": "TUTelephonyCall",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TUAudioController",
+      "parent": null,
+      "children": [
+        {
+          "name": "TUTelephonyAudioController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TUAudioController",
+          "children": []
+        },
+        {
+          "name": "TUAudioPlayer",
+          "children": []
+        },
+        {
+          "name": "TUBasicLogger",
+          "children": []
+        },
+        {
+          "name": "TUCall",
+          "children": []
+        },
+        {
+          "name": "TUCallCenter",
+          "children": []
+        },
+        {
+          "name": "TUCallModel",
+          "children": []
+        },
+        {
+          "name": "TUInMemoryAppender",
+          "children": []
+        },
+        {
+          "name": "TUPhoneLogger",
+          "children": []
+        },
+        {
+          "name": "TUPhoneNumber",
+          "children": []
+        },
+        {
+          "name": "TUPrivacyManager",
+          "children": []
+        },
+        {
+          "name": "TUPrivacyRule",
+          "children": []
+        },
+        {
+          "name": "TURemoteAppender",
+          "children": []
+        },
+        {
+          "name": "TUReplyWithMessageStore",
+          "children": []
+        },
+        {
+          "name": "TURollingFileAppender",
+          "children": []
+        },
+        {
+          "name": "TUSimpleBacktrace",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,25 @@
-{"name":"AppleAccountUI.framework","list":[{"father":"NSObject","childList":["AAHighSecurityAccountAlert"]},{"father":"NSObject","childList":["AAUIAccountCreationRemoteUI"]},{"father":"UIAlertView","childList":["AAUIAlertView"]},{"father":"NSObject","childList":["AAUICredentialRecoveryController"]}]}
+{
+  "name": "AppleAccountUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AAUICredentialRecoveryController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAlertView",
+      "parent": null,
+      "children": [
+        {
+          "name": "AAUIAlertView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

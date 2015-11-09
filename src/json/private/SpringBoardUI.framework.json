@@ -1,1 +1,201 @@
-{"name":"SpringBoardUI.framework","list":[{"father":"NSObject","childList":["SBAlertItem"]},{"father":"NSObject","childList":["SBAwayViewPluginController"]},{"father":"NSObject","childList":["SBBulletinEvent"]},{"father":"UIView","childList":["SBDeviceLockEntryField"]},{"father":"UIKeyboard","childList":["SBDeviceLockKeyboard"]},{"father":"TPLegacyPhonePad","childList":["SBDeviceLockKeypad"]},{"father":"SBDeviceLockKeypad","childList":["SBDeviceLockKeypadPhone"]},{"father":"SBDeviceLockKeypadPhone","childList":["SBDeviceLockKeypadSiri"]},{"father":"SBDeviceLockKeypad","childList":["SBDeviceLockKeypadWildcat"]},{"father":"UIView","childList":["SBDeviceLockTitle"]},{"father":"SBDeviceLockTitle","childList":["SBDeviceLockTitlePhone"]},{"father":"SBDeviceLockTitle","childList":["SBDeviceLockTitleWildcatKeyboard"]},{"father":"SBDeviceLockTitle","childList":["SBDeviceLockTitleWildcatKeypad"]},{"father":"UIView","childList":["SBDeviceLockView"]},{"father":"SBDeviceLockView","childList":["SBDeviceLockViewWithKeyboard"]},{"father":"SBDeviceLockViewWithKeyboard","childList":["SBDeviceLockViewWithKeyboardPhone"]},{"father":"SBDeviceLockViewWithKeyboard","childList":["SBDeviceLockViewWithKeyboardWildcat"]},{"father":"SBDeviceLockView","childList":["SBDeviceLockViewWithKeypad"]},{"father":"SBDeviceLockViewWithKeypad","childList":["SBDeviceLockViewWithKeypadPhone"]},{"father":"SBDeviceLockViewWithKeypad","childList":["SBDeviceLockViewWithKeypadWildcat"]},{"father":"UIView","childList":["SBLockScreenTimerDialView"]},{"father":"UIPasscodeField","childList":["SBPasscodeField"]},{"father":"UITextField","childList":["SBPasscodeTextField"]},{"father":"NSObject","childList":["SBUIBannerContext"]},{"father":"NSObject","childList":["SBUIBannerItem"]},{"father":"NSObject","childList":["SBUIBannerTargetManager"]},{"father":"UIButton","childList":["SBUIControlCenterButton"]},{"father":"UILabel","childList":["SBUIControlCenterLabel"]},{"father":"UIProgressView","childList":["SBUIControlCenterProgressView"]},{"father":"UISlider","childList":["SBUIControlCenterSlider"]},{"father":"UIViewController","childList":["SBUIFullscreenAlertController"]},{"father":"NSObject","childList":["SBUILockScreenDisableAssertion"]},{"father":"NSObject","childList":["SBUIPluginActivationContext"]},{"father":"NSObject","childList":["SBUIPluginAppearanceContext"]},{"father":"NSObject","childList":["SBUIPluginController"]},{"father":"SBUIFullscreenAlertController","childList":["SBUISlidingFullscreenAlertController"]},{"father":"NSObject","childList":["SBUISound"]}]}
+{
+  "name": "SpringBoardUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUISound",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBUIFullscreenAlertController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUISlidingFullscreenAlertController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIFullscreenAlertController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISlider",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIControlCenterSlider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIProgressView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIControlCenterProgressView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIControlCenterLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBUIControlCenterButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBPasscodeTextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPasscodeField",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBPasscodeField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBLockScreenTimerDialView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBDeviceLockViewWithKeypad",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBDeviceLockViewWithKeypadPhone",
+          "children": []
+        },
+        {
+          "name": "SBDeviceLockViewWithKeypadWildcat",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBDeviceLockView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBDeviceLockViewWithKeypad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBDeviceLockViewWithKeyboard",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBDeviceLockViewWithKeyboardPhone",
+          "children": []
+        },
+        {
+          "name": "SBDeviceLockViewWithKeyboardWildcat",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBDeviceLockTitle",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBDeviceLockTitlePhone",
+          "children": []
+        },
+        {
+          "name": "SBDeviceLockTitleWildcatKeyboard",
+          "children": []
+        },
+        {
+          "name": "SBDeviceLockTitleWildcatKeypad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBDeviceLockKeypad",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBDeviceLockKeypadWildcat",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBDeviceLockKeypadPhone",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBDeviceLockKeypadSiri",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TPLegacyPhonePad",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBDeviceLockKeypad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIKeyboard",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBDeviceLockKeyboard",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

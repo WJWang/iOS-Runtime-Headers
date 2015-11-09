@@ -1,1 +1,73 @@
-{"name":"AXHearingAidSupport.framework","list":[{"father":"UIView","childList":["AXGradientLabel"]},{"father":"PSTableCell","childList":["AXHearingAidConnectingCell"]},{"father":"PSTableCell","childList":["AXHearingAidDetailCell"]},{"father":"NSObject","childList":["AXHearingAidDevice"]},{"father":"NSObject","childList":["AXHearingAidDeviceController"]},{"father":"AXHearingAidDevice","childList":["AXHearingAidFakeDevice"]},{"father":"NSObject","childList":["AXHearingAidMode"]},{"father":"PSListController","childList":["AXHearingDetailViewController"]},{"father":"PSTableCell","childList":["AXHearingLiveListenMeterCell"]},{"father":"PSTableCell","childList":["AXHearingProgramCell"]},{"father":"PSTableCell","childList":["AXHearingSliderValueCell"]},{"father":"AXServer","childList":["AXHearingSpringBoardServer"]},{"father":"NSObject","childList":["AXRemoteHearingAidDevice"]}]}
+{
+  "name": "AXHearingAidSupport.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXRemoteHearingAidDevice",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXServer",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXHearingSpringBoardServer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXHearingLiveListenMeterCell",
+          "children": []
+        },
+        {
+          "name": "AXHearingProgramCell",
+          "children": []
+        },
+        {
+          "name": "AXHearingSliderValueCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXHearingDetailViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXHearingAidDevice",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXHearingAidFakeDevice",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXGradientLabel",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

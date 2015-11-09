@@ -1,1 +1,43 @@
-{"name":"SpringBoardServices.framework","list":[{"father":"NSObject","childList":["SBAppLaunchUtilities"]},{"father":"NSObject","childList":["SBLaunchAppListener"]},{"father":"NSObject","childList":["SBSAccelerometer"]},{"father":"NSObject","childList":["SBSCardItem"]},{"father":"NSObject","childList":["SBSCardItemsController"]},{"father":"NSObject","childList":["SBSLocalNotificationClient"]},{"father":"NSObject","childList":["SBSRemoteNotificationClient"]},{"father":"NSObject","childList":["_SBSDisplayIdentifiersCache"]}]}
+{
+  "name": "SpringBoardServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBAppLaunchUtilities",
+          "children": []
+        },
+        {
+          "name": "SBLaunchAppListener",
+          "children": []
+        },
+        {
+          "name": "SBSAccelerometer",
+          "children": []
+        },
+        {
+          "name": "SBSCardItem",
+          "children": []
+        },
+        {
+          "name": "SBSCardItemsController",
+          "children": []
+        },
+        {
+          "name": "SBSLocalNotificationClient",
+          "children": []
+        },
+        {
+          "name": "SBSRemoteNotificationClient",
+          "children": []
+        },
+        {
+          "name": "_SBSDisplayIdentifiersCache",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

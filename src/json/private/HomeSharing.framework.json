@@ -1,1 +1,91 @@
-{"name":"HomeSharing.framework","list":[{"father":"NSObject","childList":["HSAccountStore"]},{"father":"HSRequest","childList":["HSActivityRequest"]},{"father":"HSRequest","childList":["HSArtworkRequest"]},{"father":"HSRequest","childList":["HSAuthorizedDSIDsUpdateRequest"]},{"father":"HSResponse","childList":["HSAuthorizedDSIDsUpdateResponse"]},{"father":"HSRequest","childList":["HSAuthorizedDSIDsUpdatesRequest"]},{"father":"HSResponse","childList":["HSAuthorizedDSIDsUpdatesResponse"]},{"father":"HSRequest","childList":["HSBrowseRequest"]},{"father":"HSResponse","childList":["HSBrowseResponse"]},{"father":"NSObject","childList":["HSBrowser"]},{"father":"HSRequest","childList":["HSBulkAddPlaylistRequest"]},{"father":"HSResponse","childList":["HSBulkAddPlaylistResponse"]},{"father":"HSRequest","childList":["HSBulkCloudArtworkInfoRequest"]},{"father":"HSResponse","childList":["HSBulkCloudArtworkInfoResponse"]},{"father":"HSRequest","childList":["HSBulkRemovePlaylistRequest"]},{"father":"HSRequest","childList":["HSBulkSetContainersRequest"]},{"father":"HSRequest","childList":["HSBulkSetItemPropertiesRequest"]},{"father":"HSRequest","childList":["HSCheckInRentalAssetRequest"]},{"father":"HSRequest","childList":["HSCheckOutRentalAssetRequest"]},{"father":"HSRequest","childList":["HSCloudArtworkInfoRequest"]},{"father":"HSResponse","childList":["HSCloudArtworkInfoResponse"]},{"father":"NSObject","childList":["HSCloudAvailabilityController"]},{"father":"NSObject","childList":["HSCloudClient"]},{"father":"HSRequest","childList":["HSCloudLyricsRequest"]},{"father":"HSResponse","childList":["HSCloudLyricsResponse"]},{"father":"NSObject","childList":["HSConnection"]},{"father":"NSObject","childList":["HSConnectionConfiguration"]},{"father":"NSObject","childList":["HSConnectionStream"]},{"father":"HSRequest","childList":["HSContainersRequest"]},{"father":"HSResponse","childList":["HSContainersResponse"]},{"father":"NSObject","childList":["HSControlConnection"]},{"father":"HSRequest","childList":["HSControlInterfaceRequest"]},{"father":"HSResponse","childList":["HSControlInterfaceResponse"]},{"father":"NSObject","childList":["HSControlPrompt"]},{"father":"HSRequest","childList":["HSControlPromptEntryRequest"]},{"father":"HSRequest","childList":["HSControlPromptUpdateRequest"]},{"father":"HSResponse","childList":["HSControlPromptUpdateResponse"]},{"father":"ML3ImportItem","childList":["HSDAAPML3ImportItem"]},{"father":"NSObject","childList":["HSDAAPML3TrackDataSource"]},{"father":"HSRequest","childList":["HSDatabasesRequest"]},{"father":"HSResponse","childList":["HSDatabasesResponse"]},{"father":"NSObject","childList":["HSFairPlayInfo"]},{"father":"HSRequest","childList":["HSFairPlaySetupRequest"]},{"father":"HSRequest","childList":["HSGetAuthorizedAccountsInfoRequest"]},{"father":"HSRequest","childList":["HSGetAuthorizedAccountsTokenRequest"]},{"father":"HSResponse","childList":["HSGetAuthorizedAccountsTokenResponse"]},{"father":"HSRequest","childList":["HSGetGeniusItemsRequest"]},{"father":"HSResponse","childList":["HSGetGeniusItemsResponse"]},{"father":"HSDAAPML3ImportItem","childList":["HSHomeSharingDAAPML3ImportItem"]},{"father":"HSDAAPML3TrackDataSource","childList":["HSHomeSharingML3TrackDataSource"]},{"father":"HSRequest","childList":["HSHomeSharingVerifyRequest"]},{"father":"HSRequest","childList":["HSIncrementRequest"]},{"father":"HSRequest","childList":["HSItemDataRequest"]},{"father":"HSRequest","childList":["HSItemsRequest"]},{"father":"HSResponse","childList":["HSItemsResponse"]},{"father":"HSDAAPML3ImportItem","childList":["HSJaliscoML3ImportItem"]},{"father":"HSDAAPML3TrackDataSource","childList":["HSJaliscoML3TrackDataSource"]},{"father":"NSObject","childList":["HSLibrary"]},{"father":"HSRequest","childList":["HSLoginRequest"]},{"father":"HSResponse","childList":["HSLoginResponse"]},{"father":"HSRequest","childList":["HSLogoutRequest"]},{"father":"NSObject","childList":["HSMediaLibraryImportObserver"]},{"father":"HSConnectionConfiguration","childList":["HSMutableConnectionConfiguration"]},{"father":"HSRequest","childList":["HSNowPlayingArtworkRequest"]},{"father":"HSResponse","childList":["HSNowPlayingArtworkResponse"]},{"father":"HSRequest","childList":["HSPlayStatusUpdateRequest"]},{"father":"HSResponse","childList":["HSPlayStatusUpdateResponse"]},{"father":"HSRequest","childList":["HSPlaybackControlRequest"]},{"father":"HSRequest","childList":["HSRemovePlaylistRequest"]},{"father":"NSObject","childList":["HSRequest"]},{"father":"NSObject","childList":["HSResponse"]},{"father":"NSObject","childList":["HSResponseDataParser"]},{"father":"HSDAAPML3ImportItem","childList":["HSSagaML3ImportItem"]},{"father":"HSDAAPML3TrackDataSource","childList":["HSSagaML3TrackDataSource"]},{"father":"HSRequest","childList":["HSServerInfoRequest"]},{"father":"HSRequest","childList":["HSSetPropertyRequest"]},{"father":"HSRequest","childList":["HSSetRentalPlaybackStartDateRequest"]},{"father":"NSObject","childList":["HSTemporaryFile"]},{"father":"HSRequest","childList":["HSUpdateRequest"]},{"father":"HSResponse","childList":["HSUpdateResponse"]},{"father":"NSObject","childList":["SagaPlaylistImporter"]},{"father":"NSObject","childList":["_HSUnresolvedLibrary"]}]}
+{
+  "name": "HomeSharing.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SagaPlaylistImporter",
+          "children": []
+        },
+        {
+          "name": "_HSUnresolvedLibrary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "HSResponse",
+      "parent": null,
+      "children": [
+        {
+          "name": "HSUpdateResponse",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "HSRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "HSServerInfoRequest",
+          "children": []
+        },
+        {
+          "name": "HSSetPropertyRequest",
+          "children": []
+        },
+        {
+          "name": "HSSetRentalPlaybackStartDateRequest",
+          "children": []
+        },
+        {
+          "name": "HSUpdateRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "HSDAAPML3TrackDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "HSSagaML3TrackDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "HSDAAPML3ImportItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "HSSagaML3ImportItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "HSConnectionConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "HSMutableConnectionConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3ImportItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "HSDAAPML3ImportItem",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

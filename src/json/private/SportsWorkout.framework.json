@@ -1,1 +1,137 @@
-{"name":"SportsWorkout.framework","list":[{"father":"ObservationTarget","childList":["DataObservationTarget"]},{"father":"NSObject","childList":["NikePromptExpander"]},{"father":"NSObject","childList":["ObservationTarget"]},{"father":"NSObject","childList":["SWAccessory"]},{"father":"NSManagedObject","childList":["SWAchievement"]},{"father":"NSObject","childList":["SWBasicFakeRunSensorDelegate"]},{"father":"NSObject","childList":["SWBluetoothMessageHandler"]},{"father":"SWRemote","childList":["SWBluetoothRemote"]},{"father":"SWRunSensor","childList":["SWBluetoothRunSensor"]},{"father":"NSObject","childList":["SWDataController"]},{"father":"NSObject","childList":["SWDataControllerSnapshotObserver"]},{"father":"SWRunSensor","childList":["SWFakeRunSensor"]},{"father":"NSObject","childList":["SWFastestDistanceWindowObserver"]},{"father":"SWSyncServiceConnection","childList":["SWGeneratePINConnection"]},{"father":"SWSyncServiceConnection","childList":["SWGenerateTokenConnection"]},{"father":"NSObject","childList":["SWIntervalSnapshotObserver"]},{"father":"SWRunWorkoutProxy","childList":["SWLocalRunWorkoutProxy"]},{"father":"NSObject","childList":["SWMusicRemoteController"]},{"father":"SWSyncServiceConnection","childList":["SWPINStatusConnection"]},{"father":"NSObject","childList":["SWPaceModel"]},{"father":"NSObject","childList":["SWPacketUnscrambler"]},{"father":"SWAccessory","childList":["SWRemote"]},{"father":"SWRunWorkoutProxy","childList":["SWRemoteRunWorkoutProxyClient"]},{"father":"NSObject","childList":["SWRemoteRunWorkoutProxyServer"]},{"father":"SWAccessory","childList":["SWRunSensor"]},{"father":"SWWorkout","childList":["SWRunWorkout"]},{"father":"NSObject","childList":["SWRunWorkoutController"]},{"father":"NSObject","childList":["SWRunWorkoutPreset"]},{"father":"SWRunWorkoutPreset","childList":["SWRunWorkoutPresetCalorieGoal"]},{"father":"SWRunWorkoutPreset","childList":["SWRunWorkoutPresetDistanceGoal"]},{"father":"SWRunWorkoutPreset","childList":["SWRunWorkoutPresetNoGoal"]},{"father":"SWRunWorkoutPreset","childList":["SWRunWorkoutPresetTimeGoal"]},{"father":"NSObject","childList":["SWRunWorkoutProxy"]},{"father":"NSManagedObject","childList":["SWRunWorkoutRecord"]},{"father":"NSObject","childList":["SWRunWorkoutXMLSerializer"]},{"father":"NSObject","childList":["SWSDAFakeRunSensorDelegate"]},{"father":"NSManagedObject","childList":["SWSnapshot"]},{"father":"SWSyncServiceConnection","childList":["SWSyncCompleteConnection"]},{"father":"NSObject","childList":["SWSyncController"]},{"father":"NSObject","childList":["SWSyncHost"]},{"father":"NSObject","childList":["SWSyncServiceConnection"]},{"father":"NSObject","childList":["SWSyncServiceResponse"]},{"father":"SWSyncServiceConnection","childList":["SWSyncWorkoutConnection"]},{"father":"NSObject","childList":["SWTotalsFileSerializer"]},{"father":"NSObject","childList":["SWUserInteractionSnapshotObserver"]},{"father":"NSObject","childList":["SWVicFileLogger"]},{"father":"NSObject","childList":["SWVoicePromptController"]},{"father":"NSObject","childList":["SWWorkout"]},{"father":"NSObject","childList":["Settings"]},{"father":"ObservationTarget","childList":["StateObservationTarget"]},{"father":"ObservationTarget","childList":["UserEventObservationTarget"]},{"father":"NSObject","childList":["WordsSpeaker"]}]}
+{
+  "name": "SportsWorkout.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WordsSpeaker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ObservationTarget",
+      "parent": null,
+      "children": [
+        {
+          "name": "StateObservationTarget",
+          "children": []
+        },
+        {
+          "name": "UserEventObservationTarget",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SWSyncServiceConnection",
+      "parent": null,
+      "children": [
+        {
+          "name": "SWSyncCompleteConnection",
+          "children": []
+        },
+        {
+          "name": "SWSyncWorkoutConnection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SWRunWorkoutRecord",
+          "children": []
+        },
+        {
+          "name": "SWSnapshot",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SWRunWorkoutPreset",
+      "parent": null,
+      "children": [
+        {
+          "name": "SWRunWorkoutPresetCalorieGoal",
+          "children": []
+        },
+        {
+          "name": "SWRunWorkoutPresetDistanceGoal",
+          "children": []
+        },
+        {
+          "name": "SWRunWorkoutPresetNoGoal",
+          "children": []
+        },
+        {
+          "name": "SWRunWorkoutPresetTimeGoal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SWWorkout",
+      "parent": null,
+      "children": [
+        {
+          "name": "SWRunWorkout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SWAccessory",
+      "parent": null,
+      "children": [
+        {
+          "name": "SWRunSensor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SWRunWorkoutProxy",
+      "parent": null,
+      "children": [
+        {
+          "name": "SWLocalRunWorkoutProxy",
+          "children": []
+        },
+        {
+          "name": "SWRemoteRunWorkoutProxyClient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SWRunSensor",
+      "parent": null,
+      "children": [
+        {
+          "name": "SWBluetoothRunSensor",
+          "children": []
+        },
+        {
+          "name": "SWFakeRunSensor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SWRemote",
+      "parent": null,
+      "children": [
+        {
+          "name": "SWBluetoothRemote",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

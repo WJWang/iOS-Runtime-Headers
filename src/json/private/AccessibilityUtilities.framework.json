@@ -1,1 +1,85 @@
-{"name":"AccessibilityUtilities.framework","list":[{"father":"NSObject","childList":["AXAccessQueue"]},{"father":"AXServer","childList":["AXBackBoardServer"]},{"father":"NSObject","childList":["AXBinaryMonitor"]},{"father":"NSObject","childList":["AXDialectMap"]},{"father":"NSObject","childList":["AXDispatchTimer"]},{"father":"NSObject","childList":["AXDisplayLinkManager"]},{"father":"NSObject","childList":["AXDisplayLinkManagerTargetAction"]},{"father":"NSObject","childList":["AXEmojiUtilities"]},{"father":"NSObject","childList":["AXEventHandInfoRepresentation"]},{"father":"NSObject","childList":["AXEventKeyInfoRepresentation"]},{"father":"NSObject","childList":["AXEventListenerContainer"]},{"father":"NSObject","childList":["AXEventPathInfoRepresentation"]},{"father":"NSObject","childList":["AXEventRepresentation"]},{"father":"NSObject","childList":["AXEventTapManager"]},{"father":"NSObject","childList":["AXEventTapPair"]},{"father":"NSObject","childList":["AXFileLogger"]},{"father":"NSObject","childList":["AXGestureOverrideHandler"]},{"father":"NSObject","childList":["AXIPCClient"]},{"father":"NSObject","childList":["AXIPCMessage"]},{"father":"NSObject","childList":["AXIPCServer"]},{"father":"NSObject","childList":["AXIPCServerClientRegistration"]},{"father":"NSObject","childList":["AXIPCServerMessageHandlerContext"]},{"father":"NSObject","childList":["AXLangMap"]},{"father":"NSObject","childList":["AXLanguageManager"]},{"father":"NSObject","childList":["AXLanguageTag"]},{"father":"NSObject","childList":["AXLanguageTaggedContent"]},{"father":"NSObject","childList":["AXLogColorizer"]},{"father":"NSObject","childList":["AXPostConnectionTask"]},{"father":"NSObject","childList":["AXReport"]},{"father":"NSObject","childList":["AXReportSender"]},{"father":"NSObject","childList":["AXServer"]},{"father":"NSObject","childList":["AXSettings"]},{"father":"NSObject","childList":["AXSettingsObjectDestructionHelper"]},{"father":"NSObject","childList":["AXSpringBoardActionHandlerHolder"]},{"father":"AXServer","childList":["AXSpringBoardServer"]},{"father":"NSObject","childList":["AXSubsystem"]},{"father":"AXSubsystem","childList":["AXSubsystemAXCompareGeometry"]},{"father":"AXSubsystem","childList":["AXSubsystemAXIPC"]},{"father":"AXSubsystem","childList":["AXSubsystemBBServer"]},{"father":"AXSubsystem","childList":["AXSubsystemGAX"]},{"father":"AXSubsystem","childList":["AXSubsystemGAXAppLaunching"]},{"father":"AXSubsystem","childList":["AXSubsystemGAXIntegrity"]},{"father":"AXSubsystem","childList":["AXSubsystemSBServer"]},{"father":"AXSubsystem","childList":["AXSubsystemUnitTesting"]},{"father":"AXSubsystem","childList":["AXSubsystemVOTHandwriting"]},{"father":"AXSubsystem","childList":["AXSubsystemValidations"]},{"father":"NSObject","childList":["AXSwitch"]},{"father":"NSObject","childList":["AXTestRunner"]},{"father":"NSObject","childList":["AXTestSuite"]},{"father":"NSObject","childList":["AXThreadTimer"]},{"father":"NSObject","childList":["AXThreadTimerTask"]},{"father":"NSObject","childList":["AXTimer"]},{"father":"NSObject","childList":["AXTrampoline"]},{"father":"NSObject","childList":["AXValidationManager"]},{"father":"AXServer","childList":["AXVoiceOverServer"]},{"father":"NSObject","childList":["AXWordDescriptionManager"]},{"father":"AXWordDescriptionManager","childList":["AXWordDescriptionManager_ja"]},{"father":"AXWordDescriptionManager","childList":["AXWordDescriptionManager_zh"]},{"father":"NSObject","childList":["AXZoomListenerContainer"]}]}
+{
+  "name": "AccessibilityUtilities.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXZoomListenerContainer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXWordDescriptionManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXWordDescriptionManager_ja",
+          "children": []
+        },
+        {
+          "name": "AXWordDescriptionManager_zh",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXServer",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXVoiceOverServer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXSubsystem",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXSubsystemAXCompareGeometry",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemAXIPC",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemBBServer",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemGAX",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemGAXAppLaunching",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemGAXIntegrity",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemSBServer",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemUnitTesting",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemVOTHandwriting",
+          "children": []
+        },
+        {
+          "name": "AXSubsystemValidations",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

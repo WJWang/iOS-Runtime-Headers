@@ -1,1 +1,101 @@
-{"name":"DataAccess.framework","list":[{"father":"DADisableableObject","childList":["ASAccountActor"]},{"father":"NSObject","childList":["ASTrafficLogger"]},{"father":"NSObject","childList":["DAAccount"]},{"father":"NSObject","childList":["DAAccountClassNames"]},{"father":"NSObject","childList":["DAAccountLoader"]},{"father":"NSObject","childList":["DAAccountMonitor"]},{"father":"NSObject","childList":["DAAction"]},{"father":"NSObject","childList":["DABabysitter"]},{"father":"DALocalDBGateKeeper","childList":["DAConcreteLocalDBGateKeeper"]},{"father":"NSInputStream","childList":["DAConvertCRtoCRLFStream"]},{"father":"NSObject","childList":["DADataHandler"]},{"father":"NSObject","childList":["DAFolder"]},{"father":"NSObject","childList":["DAKeychain"]},{"father":"NSObject","childList":["DALocalDBGateKeeper"]},{"father":"NSObject","childList":["DALocalDBHelper"]},{"father":"NSObject","childList":["DALocalDBWatcher"]},{"father":"NSObject","childList":["DAMailMessage"]},{"father":"DAMailboxRequest","childList":["DAMailboxDeleteMessageRequest"]},{"father":"DAMailboxRequest","childList":["DAMailboxFetchMessageRequest"]},{"father":"NSObject","childList":["DAMailboxFetchSearchResultRequest"]},{"father":"DAMailboxRequest","childList":["DAMailboxGetUpdatesRequest"]},{"father":"NSObject","childList":["DAMailboxRequest"]},{"father":"DAMailboxRequest","childList":["DAMailboxSetFlagsRequest"]},{"father":"NSObject","childList":["DAMessageFetchAttachmentRequest"]},{"father":"NSObject","childList":["DAMessageMoveRequest"]},{"father":"DAAction","childList":["DAMoveAction"]},{"father":"NSObject","childList":["DAMoveResponse"]},{"father":"NSObject","childList":["DAPowerAssertionManager"]},{"father":"NSObject","childList":["DAPriorityManager"]},{"father":"NSObject","childList":["DAPriorityRequest"]},{"father":"NSObject","childList":["DAResolveRecipientsRequest"]},{"father":"NSObject","childList":["DAResolvedRecipient"]},{"father":"DAAction","childList":["DAResponse"]},{"father":"NSObject","childList":["DATaskManager"]},{"father":"NSObject","childList":["DATrafficLogger"]},{"father":"NSObject","childList":["DAUserNotificationInfo"]},{"father":"NSObject","childList":["DAUserNotificationUtilities"]},{"father":"NSObject","childList":["DAWaiterWrapper"]},{"father":"NSObject","childList":["DAiCalendarLogger"]}]}
+{
+  "name": "DataAccess.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "DATaskManager",
+          "children": []
+        },
+        {
+          "name": "DATrafficLogger",
+          "children": []
+        },
+        {
+          "name": "DAUserNotificationInfo",
+          "children": []
+        },
+        {
+          "name": "DAUserNotificationUtilities",
+          "children": []
+        },
+        {
+          "name": "DAWaiterWrapper",
+          "children": []
+        },
+        {
+          "name": "DAiCalendarLogger",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DAAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "DAMoveAction",
+          "children": []
+        },
+        {
+          "name": "DAResponse",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DAMailboxRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "DAMailboxDeleteMessageRequest",
+          "children": []
+        },
+        {
+          "name": "DAMailboxFetchMessageRequest",
+          "children": []
+        },
+        {
+          "name": "DAMailboxGetUpdatesRequest",
+          "children": []
+        },
+        {
+          "name": "DAMailboxSetFlagsRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSInputStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "DAConvertCRtoCRLFStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DALocalDBGateKeeper",
+      "parent": null,
+      "children": [
+        {
+          "name": "DAConcreteLocalDBGateKeeper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DADisableableObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ASAccountActor",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

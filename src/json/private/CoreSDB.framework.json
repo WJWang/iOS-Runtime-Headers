@@ -1,1 +1,19 @@
-{"name":"CoreSDB.framework","list":[{"father":"NSObject","childList":["CSDBThreadedRecordStore"]},{"father":"NSObject","childList":["_CSDBThreadObject"]}]}
+{
+  "name": "CoreSDB.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CSDBThreadedRecordStore",
+          "children": []
+        },
+        {
+          "name": "_CSDBThreadObject",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

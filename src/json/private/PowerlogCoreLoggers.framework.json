@@ -1,1 +1,137 @@
-{"name":"PowerlogCoreLoggers.framework","list":[{"father":"PLLogger","childList":["PLApplicationLogger"]},{"father":"PLLogger","childList":["PLAudioLogger"]},{"father":"PLBasebandMessage","childList":["PLBasebandEurekaLogMessage"]},{"father":"PLBasebandMessage","childList":["PLBasebandEurekaMessage"]},{"father":"PLBasebandMessage","childList":["PLBasebandHardwareMessage"]},{"father":"PLLogger","childList":["PLBasebandLogChannel"]},{"father":"PLTelephonyConnectedLogger","childList":["PLBasebandLogger"]},{"father":"PLBasebandMessage","childList":["PLBasebandMavLogMessage"]},{"father":"NSObject","childList":["PLBasebandMessage"]},{"father":"PLLogger","childList":["PLBatteryLifeMonitorLogger"]},{"father":"PLLogger","childList":["PLBatteryLogger"]},{"father":"PLLogger","childList":["PLConfigLogger"]},{"father":"PLLogger","childList":["PLCoreLocationLogger"]},{"father":"PLLogger","childList":["PLDisplayLogger"]},{"father":"NSObject","childList":["PLDuetEvent"]},{"father":"NSObject","childList":["PLDuetSnapshot"]},{"father":"NSObject","childList":["PLDuetSnapshotList"]},{"father":"PLBasebandLogger","childList":["PLEurekaBasebandLogger"]},{"father":"PLBasebandLogger","childList":["PLICEBasebandLogger"]},{"father":"PLLogger","childList":["PLLocaleLogger"]},{"father":"PLBasebandHardwareMessage","childList":["PLMav2BasebandHardwareMessage"]},{"father":"PLBasebandHardwareMessage","childList":["PLMav4BasebandHardwareMessage"]},{"father":"PLMav4BasebandHardwareMessage","childList":["PLMav5BasebandHardwareMessage"]},{"father":"PLMav5BasebandHardwareMessage","childList":["PLMav7BasebandHardwareMessage"]},{"father":"PLLogger","childList":["PLNetworkLogger"]},{"father":"NSObject","childList":["PLPacketDecoder"]},{"father":"NSObject","childList":["PLPerAppDataUsageSnapshot"]},{"father":"NSObject","childList":["PLPowerSnapshot"]},{"father":"NSObject","childList":["PLPowerSnapshotList"]},{"father":"PLLogger","childList":["PLProcessMonitorLogger"]},{"father":"NSObject","childList":["PLProcessNetworkInfo"]},{"father":"PLLogger","childList":["PLProcessNetworkLogger"]},{"father":"NSObject","childList":["PLProcessNetworkStat"]},{"father":"NSObject","childList":["PLProcessPortMap"]},{"father":"PLLogger","childList":["PLSettingsLogger"]},{"father":"PLTelephonyConnectedLogger","childList":["PLSleepWakeLogger"]},{"father":"PLLogger","childList":["PLSpringBoardLogger"]},{"father":"PLTelephonyConnectedLogger","childList":["PLTelephonyLogger"]},{"father":"PLLogger","childList":["PLWiFiLogger"]},{"father":"PLLogger","childList":["PLXPCLogger"]}]}
+{
+  "name": "PowerlogCoreLoggers.framework",
+  "list": [
+    {
+      "name": "PLLogger",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLWiFiLogger",
+          "children": []
+        },
+        {
+          "name": "PLXPCLogger",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLTelephonyConnectedLogger",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLSleepWakeLogger",
+          "children": []
+        },
+        {
+          "name": "PLTelephonyLogger",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLPacketDecoder",
+          "children": []
+        },
+        {
+          "name": "PLPerAppDataUsageSnapshot",
+          "children": []
+        },
+        {
+          "name": "PLPowerSnapshot",
+          "children": []
+        },
+        {
+          "name": "PLPowerSnapshotList",
+          "children": []
+        },
+        {
+          "name": "PLProcessNetworkInfo",
+          "children": []
+        },
+        {
+          "name": "PLProcessNetworkStat",
+          "children": []
+        },
+        {
+          "name": "PLProcessPortMap",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLMav5BasebandHardwareMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLMav7BasebandHardwareMessage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLMav4BasebandHardwareMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLMav5BasebandHardwareMessage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLBasebandHardwareMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLMav2BasebandHardwareMessage",
+          "children": []
+        },
+        {
+          "name": "PLMav4BasebandHardwareMessage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLBasebandLogger",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLEurekaBasebandLogger",
+          "children": []
+        },
+        {
+          "name": "PLICEBasebandLogger",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLBasebandMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLBasebandEurekaLogMessage",
+          "children": []
+        },
+        {
+          "name": "PLBasebandEurekaMessage",
+          "children": []
+        },
+        {
+          "name": "PLBasebandHardwareMessage",
+          "children": []
+        },
+        {
+          "name": "PLBasebandMavLogMessage",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

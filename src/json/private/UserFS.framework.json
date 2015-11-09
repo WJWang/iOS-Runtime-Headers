@@ -1,1 +1,37 @@
-{"name":"UserFS.framework","list":[{"father":"UserFSItem","childList":["UserFSFile"]},{"father":"UserFSItem","childList":["UserFSFolder"]},{"father":"NSObject","childList":["UserFSItem"]},{"father":"NSObject","childList":["UserFSStream"]},{"father":"NSObject","childList":["UserFSVolume"]}]}
+{
+  "name": "UserFS.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "UserFSItem",
+          "children": []
+        },
+        {
+          "name": "UserFSStream",
+          "children": []
+        },
+        {
+          "name": "UserFSVolume",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UserFSItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "UserFSFile",
+          "children": []
+        },
+        {
+          "name": "UserFSFolder",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

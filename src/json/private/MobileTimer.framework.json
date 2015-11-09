@@ -1,1 +1,87 @@
-{"name":"MobileTimer.framework","list":[{"father":"NSObject","childList":["Alarm"]},{"father":"NSObject","childList":["AlarmManager"]},{"father":"UIView","childList":["AlarmView"]},{"father":"UIView","childList":["AnalogClockView"]},{"father":"UIView","childList":["BitmapHandView"]},{"father":"NSObject","childList":["ClockManager"]},{"father":"CollectionCellAnalogClockView","childList":["CollectionCellAnalogClockLandscapeView"]},{"father":"AnalogClockView","childList":["CollectionCellAnalogClockView"]},{"father":"ShrinkableDateLabel","childList":["DigitalClockLabel"]},{"father":"AnalogClockView","childList":["FullscreenLandscapeAnalogClockView"]},{"father":"FullscreenLandscapeAnalogClockView","childList":["FullscreenPortraitAnalogClockView"]},{"father":"NSObject","childList":["ObjectUpdates"]},{"father":"NSObject","childList":["RenderedHandViewFactory"]},{"father":"UIDateLabel","childList":["ShrinkableDateLabel"]},{"father":"AnalogClockView","childList":["TableCellAnalogClockView"]},{"father":"UIView","childList":["TimerDialView"]},{"father":"NSObject","childList":["TimerManager"]},{"father":"UIView","childList":["VectorHandView"]},{"father":"UIView","childList":["WorldClockCellView"]},{"father":"NSObject","childList":["WorldClockCity"]},{"father":"NSObject","childList":["WorldClockManager"]}]}
+{
+  "name": "MobileTimer.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WorldClockCity",
+          "children": []
+        },
+        {
+          "name": "WorldClockManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "TimerDialView",
+          "children": []
+        },
+        {
+          "name": "VectorHandView",
+          "children": []
+        },
+        {
+          "name": "WorldClockCellView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AnalogClockView",
+      "parent": null,
+      "children": [
+        {
+          "name": "TableCellAnalogClockView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIDateLabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "ShrinkableDateLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "FullscreenLandscapeAnalogClockView",
+      "parent": null,
+      "children": [
+        {
+          "name": "FullscreenPortraitAnalogClockView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ShrinkableDateLabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "DigitalClockLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CollectionCellAnalogClockView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CollectionCellAnalogClockLandscapeView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

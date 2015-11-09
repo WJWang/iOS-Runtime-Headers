@@ -1,1 +1,97 @@
-{"name":"CFNetwork.framework","list":[{"father":"NSObject","childList":["NSURLProtocolCFNetwork"]},{"father":"NSObject","childList":["XNSHTTPCookieStorage"]},{"father":"NSObject","childList":["XNSHTTPCookieStorageInternal"]},{"father":"NSObject","childList":["XNSURLCacheThing"]},{"father":"NSObject","childList":["XNSURLCredentialStorage"]},{"father":"__NSCFBackgroundSessionTask","childList":["__NSCFBackgroundDataTask"]},{"father":"__NSCFBackgroundSessionTask","childList":["__NSCFBackgroundDownloadTask"]},{"father":"__NSCFSessionBridge","childList":["__NSCFBackgroundSessionBridge"]},{"father":"__NSCFURLSessionTask","childList":["__NSCFBackgroundSessionTask"]},{"father":"__NSCFBackgroundDataTask","childList":["__NSCFBackgroundUploadTask"]},{"father":"__NSCFLocalSessionTask","childList":["__NSCFLocalDataTask"]},{"father":"NSObject","childList":["__NSCFLocalDownloadFile"]},{"father":"__NSCFLocalSessionTask","childList":["__NSCFLocalDownloadTask"]},{"father":"__NSCFSessionBridge","childList":["__NSCFLocalSessionBridge"]},{"father":"__NSCFURLSessionTask","childList":["__NSCFLocalSessionTask"]},{"father":"__NSCFLocalDataTask","childList":["__NSCFLocalUploadTask"]},{"father":"NSObject","childList":["__NSCFMemoryHTTPCookieStorage"]},{"father":"NSObject","childList":["__NSCFMemoryURLCache"]},{"father":"NSObject","childList":["__NSCFMemoryURLCredentialStorage"]},{"father":"NSObject","childList":["__NSCFSessionBridge"]},{"father":"NSObject","childList":["__NSCFURLSession"]},{"father":"NSObject","childList":["__NSCFURLSessionConfiguration"]},{"father":"__NSCFURLSessionTask","childList":["__NSCFURLSessionDataTask"]},{"father":"__NSCFURLSessionTask","childList":["__NSCFURLSessionDownloadTask"]},{"father":"NSObject","childList":["__NSCFURLSessionTask"]},{"father":"__NSCFURLSessionDataTask","childList":["__NSCFURLSessionUploadTask"]}]}
+{
+  "name": "CFNetwork.framework",
+  "list": [
+    {
+      "name": "__NSCFURLSessionDataTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFURLSessionUploadTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFURLSessionTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "__NSCFURLSessionTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFURLSessionDataTask",
+          "children": []
+        },
+        {
+          "name": "__NSCFURLSessionDownloadTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "__NSCFLocalDataTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFLocalUploadTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "__NSCFSessionBridge",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFLocalSessionBridge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "__NSCFLocalSessionTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFLocalDataTask",
+          "children": []
+        },
+        {
+          "name": "__NSCFLocalDownloadTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "__NSCFBackgroundDataTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFBackgroundUploadTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "__NSCFBackgroundSessionTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSCFBackgroundDataTask",
+          "children": []
+        },
+        {
+          "name": "__NSCFBackgroundDownloadTask",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

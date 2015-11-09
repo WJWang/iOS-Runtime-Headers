@@ -1,1 +1,357 @@
-{"name":"Preferences.framework","list":[{"father":"UITableViewCell","childList":["AlphanumericPINTableViewCell"]},{"father":"UITextField","childList":["AlphanumericPINTextField"]},{"father":"PINView","childList":["AlphanumericPINView"]},{"father":"PSDetailController","childList":["DevicePINController"]},{"father":"UIKeyboard","childList":["DevicePINKeypad"]},{"father":"PSEditingPane","childList":["DevicePINPane"]},{"father":"PSSetupController","childList":["DevicePINSetupController"]},{"father":"PSListController","childList":["DiagnosticDataController"]},{"father":"UIImageView","childList":["FailureBarView"]},{"father":"PSSliderTableCell","childList":["FontSizeSliderCell"]},{"father":"PSKeychainSyncViewController","childList":["KeychainSyncAdvancedSecurityCodeController"]},{"father":"NSObject","childList":["KeychainSyncCountryInfo"]},{"father":"KeychainSyncTextEntryController","childList":["KeychainSyncDevicePINController"]},{"father":"UIView","childList":["KeychainSyncHeaderView"]},{"father":"PSKeychainSyncViewController","childList":["KeychainSyncPhoneNumberController"]},{"father":"NSObject","childList":["KeychainSyncPhoneSettingsFragment"]},{"father":"KeychainSyncTextEntryController","childList":["KeychainSyncSMSVerificationController"]},{"father":"PSEditableTableCell","childList":["KeychainSyncSecurityCodeCell"]},{"father":"KeychainSyncTextEntryController","childList":["KeychainSyncSecurityCodeController"]},{"father":"PSSetupController","childList":["KeychainSyncSetupController"]},{"father":"PSKeychainSyncViewController","childList":["KeychainSyncTextEntryController"]},{"father":"PINView","childList":["NumericPINView"]},{"father":"UIView","childList":["PINView"]},{"father":"UIViewController","childList":["PSAboutHTMLSheetViewController"]},{"father":"UIViewController","childList":["PSAboutTextSheetViewController"]},{"father":"NSObject","childList":["PSAccessibilitySettingsDetail"]},{"father":"PSListController","childList":["PSAccountSecurityController"]},{"father":"NSObject","childList":["PSAirplaneModeSettingsDetail"]},{"father":"PSListController","childList":["PSAppListController"]},{"father":"NSObject","childList":["PSAssistiveTouchSettingsDetail"]},{"father":"NSObject","childList":["PSAutoLockSettingsDetail"]},{"father":"UIBarButtonItem","childList":["PSBarButtonSpinnerView"]},{"father":"NSObject","childList":["PSBiometricIdentity"]},{"father":"NSObject","childList":["PSBluetoothSettingsDetail"]},{"father":"NSObject","childList":["PSBrightnessController"]},{"father":"NSObject","childList":["PSBrightnessSettingsDetail"]},{"father":"NSObject","childList":["PSBundleController"]},{"father":"NSObject","childList":["PSCastleSettingsDetail"]},{"father":"NSObject","childList":["PSCellularDataSettingsDetail"]},{"father":"PSTableCell","childList":["PSClearBackgroundCell"]},{"father":"NSObject","childList":["PSCompassSettingsDetail"]},{"father":"PSSpecifier","childList":["PSConfirmationSpecifier"]},{"father":"NSObject","childList":["PSControlCenterSettingsDetail"]},{"father":"PSTableCell","childList":["PSControlTableCell"]},{"father":"NSObject","childList":["PSDNDSettingsDetail"]},{"father":"NSObject","childList":["PSDUETSettingsDetail"]},{"father":"PSViewController","childList":["PSDetailController"]},{"father":"UISlider","childList":["PSDiscreteSlider"]},{"father":"PSListController","childList":["PSEditableListController"]},{"father":"PSTableCell","childList":["PSEditableTableCell"]},{"father":"UIView","childList":["PSEditingPane"]},{"father":"PSExpandableListGroupController","childList":["PSExpandableAppListGroupController"]},{"father":"NSObject","childList":["PSExpandableListGroupController"]},{"father":"NSObject","childList":["PSFaceTimeSettingsDetail"]},{"father":"NSObject","childList":["PSFacebookSettingsDetail"]},{"father":"NSObject","childList":["PSFlickrSettingsDetail"]},{"father":"UIView","childList":["PSFooterHyperlinkView"]},{"father":"NSObject","childList":["PSGameCenterSettingsDetail"]},{"father":"NSObject","childList":["PSGuidedAccessSettingsDetail"]},{"father":"PSTableCell","childList":["PSIconMarginTableCell"]},{"father":"PSListController","childList":["PSInternationalController"]},{"father":"PSListItemsController","childList":["PSInternationalLanguageController"]},{"father":"PSSetupController","childList":["PSInternationalLanguageSetupController"]},{"father":"NSObject","childList":["PSInvertColorsSettingsDetail"]},{"father":"NSObject","childList":["PSKeyboardSettingsDetail"]},{"father":"NSObject","childList":["PSKeychainSyncManager"]},{"father":"PSListController","childList":["PSKeychainSyncViewController"]},{"father":"NSObject","childList":["PSLanguageSelector"]},{"father":"PSListController","childList":["PSLargeTextController"]},{"father":"PSViewController","childList":["PSListController"]},{"father":"PSListController","childList":["PSListItemsController"]},{"father":"PSListController","childList":["PSLocaleController"]},{"father":"NSObject","childList":["PSLocationServicesSettingsDetail"]},{"father":"NSObject","childList":["PSMCCSettingsDetail"]},{"father":"NSObject","childList":["PSMapsSettingsDetail"]},{"father":"NSObject","childList":["PSMessagesSettingsDetail"]},{"father":"NSObject","childList":["PSMusicSettingsDetail"]},{"father":"NSObject","childList":["PSNavBarSpinnerManager"]},{"father":"UITapGestureRecognizer","childList":["PSNonMovableTapGestureRecognizer"]},{"father":"NSObject","childList":["PSNotesSettingsDetail"]},{"father":"NSObject","childList":["PSNotificationSettingsDetail"]},{"father":"UIView","childList":["PSPasscodeField"]},{"father":"NSObject","childList":["PSPasscodeSettingsDetail"]},{"father":"PSTextFieldSpecifier","childList":["PSPhoneNumberSpecifier"]},{"father":"PSEditableTableCell","childList":["PSPhoneNumberTableCell"]},{"father":"NSObject","childList":["PSPhoneSettingsDetail"]},{"father":"NSObject","childList":["PSPhotosAndCameraSettingsDetail"]},{"father":"NSObject","childList":["PSPrivacySettingsDetail"]},{"father":"NSObject","childList":["PSRemindersSettingsDetail"]},{"father":"NSObject","childList":["PSRestrictionsPasscodeController"]},{"father":"UINavigationController","childList":["PSRootController"]},{"father":"NSObject","childList":["PSSafariSettingsDetail"]},{"father":"PSControlTableCell","childList":["PSSegmentTableCell"]},{"father":"NSObject","childList":["PSSettingsFunctions"]},{"father":"PSRootController","childList":["PSSetupController"]},{"father":"NSObject","childList":["PSSinaWeiboSettingsDetail"]},{"father":"NSObject","childList":["PSSiriSettingsDetail"]},{"father":"PSControlTableCell","childList":["PSSliderTableCell"]},{"father":"NSObject","childList":["PSSoundsSettingsDetail"]},{"father":"NSObject","childList":["PSSpecifier"]},{"father":"PSTableCell","childList":["PSSpinnerTableCell"]},{"father":"UISplitViewController","childList":["PSSplitViewController"]},{"father":"NSObject","childList":["PSStoreSettingsDetail"]},{"father":"PSSwitchTableCell","childList":["PSSubtitleSwitchTableCell"]},{"father":"NSObject","childList":["PSSupplementalLocaleInformation"]},{"father":"PSControlTableCell","childList":["PSSwitchTableCell"]},{"father":"NSObject","childList":["PSSystemConfiguration"]},{"father":"NSObject","childList":["PSSystemConfigurationDynamicStoreMISWatcher"]},{"father":"NSObject","childList":["PSSystemConfigurationDynamicStoreWifiWatcher"]},{"father":"UITableViewCell","childList":["PSTableCell"]},{"father":"NSObject","childList":["PSTencentWeiboSettingsDetail"]},{"father":"UITableViewCell","childList":["PSTextEditingCell"]},{"father":"PSEditingPane","childList":["PSTextEditingPane"]},{"father":"PSSpecifier","childList":["PSTextFieldSpecifier"]},{"father":"NSObject","childList":["PSTextSizeSettingsDetail"]},{"father":"UITextContentView","childList":["PSTextView"]},{"father":"PSTableCell","childList":["PSTextViewTableCell"]},{"father":"NSObject","childList":["PSThirdPartySettingsDetail"]},{"father":"NSObject","childList":["PSTorchSettingsDetail"]},{"father":"NSObject","childList":["PSTwitterSettingsDetail"]},{"father":"NSObject","childList":["PSUsageBundleApp"]},{"father":"NSObject","childList":["PSUsageBundleCategory"]},{"father":"PSTableCell","childList":["PSUsageBundleCell"]},{"father":"PSEditableListController","childList":["PSUsageBundleDetailController"]},{"father":"NSObject","childList":["PSUsageBundleManager"]},{"father":"NSObject","childList":["PSVideosSettingsDetail"]},{"father":"UIViewController","childList":["PSViewController"]},{"father":"NSObject","childList":["PSVimeoSettingsDetail"]},{"father":"NSObject","childList":["PSVoiceOverSettingsDetail"]},{"father":"NSObject","childList":["PSWiFiSettingsDetail"]},{"father":"PSTableCell","childList":["PasscodeFieldCell"]},{"father":"PSListItemsController","childList":["PopBackListItemsController"]},{"father":"UILabel","childList":["PrefsUILinkLabel"]},{"father":"UIViewController","childList":["ProblemReportingAboutDiagnosticsController"]},{"father":"PSListController","childList":["ProblemReportingController"]},{"father":"UITableView","childList":["ProblemReportingTableView"]},{"father":"NSObject","childList":["QuietHoursStateController"]},{"father":"UIView","childList":["RegionFormatSampleView"]},{"father":"PSEditingPane","childList":["TextFilePane"]},{"father":"PSTableCell","childList":["_PSDeleteButtonCell"]}]}
+{
+  "name": "Preferences.framework",
+  "list": [
+    {
+      "name": "PSTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PSDeleteButtonCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSEditingPane",
+      "parent": null,
+      "children": [
+        {
+          "name": "TextFilePane",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "RegionFormatSampleView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "QuietHoursStateController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "ProblemReportingTableView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "ProblemReportingController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "ProblemReportingAboutDiagnosticsController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "PrefsUILinkLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSListItemsController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PopBackListItemsController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSEditableListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSUsageBundleDetailController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextContentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSTextView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSSpecifier",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSTextFieldSpecifier",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSTableCell",
+          "children": []
+        },
+        {
+          "name": "PSTextEditingCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSControlTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSSwitchTableCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSSwitchTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSSubtitleSwitchTableCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISplitViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSSplitViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSRootController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSSetupController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSRootController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSEditableTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSPhoneNumberTableCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSTextFieldSpecifier",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSPhoneNumberSpecifier",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITapGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSNonMovableTapGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSListController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSSetupController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSInternationalLanguageSetupController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSExpandableListGroupController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSExpandableAppListGroupController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISlider",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSDiscreteSlider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIBarButtonItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "PSBarButtonSpinnerView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PINView",
+      "parent": null,
+      "children": [
+        {
+          "name": "NumericPINView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSKeychainSyncViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "KeychainSyncTextEntryController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "KeychainSyncTextEntryController",
+      "parent": null,
+      "children": [
+        {
+          "name": "KeychainSyncDevicePINController",
+          "children": []
+        },
+        {
+          "name": "KeychainSyncSMSVerificationController",
+          "children": []
+        },
+        {
+          "name": "KeychainSyncSecurityCodeController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSSliderTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "FontSizeSliderCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "FailureBarView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIKeyboard",
+      "parent": null,
+      "children": [
+        {
+          "name": "DevicePINKeypad",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSDetailController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DevicePINController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "AlphanumericPINTextField",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

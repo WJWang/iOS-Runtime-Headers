@@ -1,1 +1,53 @@
-{"name":"ProofReader.framework","list":[{"father":"NSObject","childList":["AppleSpell"]},{"father":"NSObject","childList":["PRAutocorrectionContext"]},{"father":"NSObject","childList":["PRModification"]},{"father":"PRAutocorrectionContext","childList":["PRPinyinContext"]},{"father":"PRModification","childList":["PRPinyinModification"]},{"father":"NSPinyinString","childList":["PRPinyinString"]},{"father":"PRAutocorrectionContext","childList":["PRZhuyinContext"]},{"father":"PRModification","childList":["PRZhuyinModification"]}]}
+{
+  "name": "ProofReader.framework",
+  "list": [
+    {
+      "name": "PRModification",
+      "parent": null,
+      "children": [
+        {
+          "name": "PRZhuyinModification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PRAutocorrectionContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "PRZhuyinContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPinyinString",
+      "parent": null,
+      "children": [
+        {
+          "name": "PRPinyinString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AppleSpell",
+          "children": []
+        },
+        {
+          "name": "PRAutocorrectionContext",
+          "children": []
+        },
+        {
+          "name": "PRModification",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

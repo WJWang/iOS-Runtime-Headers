@@ -1,1 +1,51 @@
-{"name":"ToneLibrary.framework","list":[{"father":"NSObject","childList":["TLAccessQueue"]},{"father":"NSObject","childList":["TLAlert"]},{"father":"NSObject","childList":["TLAlertController"]},{"father":"NSObject","childList":["TLITunesTone"]},{"father":"NSObject","childList":["TLTextToneInfo"]},{"father":"NSObject","childList":["TLToneManager"]},{"father":"NSObject","childList":["TLVibrationManager"]},{"father":"NSObject","childList":["TLVibrationManagerServiceClient"]},{"father":"NSObject","childList":["TLVibrationManagerServiceUtilities"]},{"father":"NSObject","childList":["TLVibrationPattern"]}]}
+{
+  "name": "ToneLibrary.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TLAccessQueue",
+          "children": []
+        },
+        {
+          "name": "TLAlert",
+          "children": []
+        },
+        {
+          "name": "TLAlertController",
+          "children": []
+        },
+        {
+          "name": "TLITunesTone",
+          "children": []
+        },
+        {
+          "name": "TLTextToneInfo",
+          "children": []
+        },
+        {
+          "name": "TLToneManager",
+          "children": []
+        },
+        {
+          "name": "TLVibrationManager",
+          "children": []
+        },
+        {
+          "name": "TLVibrationManagerServiceClient",
+          "children": []
+        },
+        {
+          "name": "TLVibrationManagerServiceUtilities",
+          "children": []
+        },
+        {
+          "name": "TLVibrationPattern",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

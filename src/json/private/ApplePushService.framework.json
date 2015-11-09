@@ -1,1 +1,29 @@
-{"name":"ApplePushService.framework","list":[{"father":"NSObject","childList":["APSConnection"]},{"father":"NSObject","childList":["APSFileLogging"]},{"father":"APSMessage","childList":["APSIncomingMessage"]},{"father":"NSObject","childList":["APSMessage"]},{"father":"APSMessage","childList":["APSOutgoingMessage"]},{"father":"NSObject","childList":["_APSLogFileCompressor"]}]}
+{
+  "name": "ApplePushService.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_APSLogFileCompressor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "APSMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "APSIncomingMessage",
+          "children": []
+        },
+        {
+          "name": "APSOutgoingMessage",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

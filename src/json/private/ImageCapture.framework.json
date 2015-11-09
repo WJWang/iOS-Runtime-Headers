@@ -1,1 +1,121 @@
-{"name":"ImageCapture.framework","list":[{"father":"NSObject","childList":["DeviceManager"]},{"father":"NSThread","childList":["DeviceManagerThread"]},{"father":"ICCameraDevice","childList":["ExFATCameraDevice"]},{"father":"DeviceManager","childList":["ExFATCameraDeviceManager"]},{"father":"ICCameraFile","childList":["ExFATCameraFile"]},{"father":"ICCameraFolder","childList":["ExFATCameraFolder"]},{"father":"ICDevice","childList":["ICCameraDevice"]},{"father":"ICCameraItem","childList":["ICCameraFile"]},{"father":"NSObject","childList":["ICCameraFileProperties"]},{"father":"ICCameraItem","childList":["ICCameraFolder"]},{"father":"NSObject","childList":["ICCameraFolderProperties"]},{"father":"NSObject","childList":["ICCameraItem"]},{"father":"NSObject","childList":["ICCameraItemProperties"]},{"father":"NSObject","childList":["ICCameraProperties"]},{"father":"NSObject","childList":["ICDevice"]},{"father":"NSObject","childList":["ICDeviceBrowser"]},{"father":"NSObject","childList":["ICDeviceBrowserPrivateData"]},{"father":"NSObject","childList":["ICDeviceProperties"]},{"father":"NSObject","childList":["ICMasterDeviceBrowser"]},{"father":"NSObject","childList":["ICPTPIPBonjourService"]},{"father":"NSObject","childList":["ICPTPIPBonjourServiceProperties"]},{"father":"NSObject","childList":["ICPTPIPClient"]},{"father":"NSObject","childList":["ICPTPIPClientProperties"]},{"father":"ICCameraDevice","childList":["MSCameraDevice"]},{"father":"DeviceManager","childList":["MSCameraDeviceManager"]},{"father":"ICCameraFile","childList":["MSCameraFile"]},{"father":"ICCameraFolder","childList":["MSCameraFolder"]},{"father":"ICCameraDevice","childList":["PTPCameraDevice"]},{"father":"DeviceManager","childList":["PTPCameraDeviceManager"]},{"father":"ICCameraFile","childList":["PTPCameraFile"]},{"father":"ICCameraFolder","childList":["PTPCameraFolder"]},{"father":"PTPCameraFolder","childList":["PTPCameraStorage"]},{"father":"NSObject","childList":["PTPCancelPacket"]},{"father":"NSObject","childList":["PTPDataPacket"]},{"father":"NSObject","childList":["PTPDeviceInfoDataset"]},{"father":"NSObject","childList":["PTPDevicePropDescDataset"]},{"father":"NSObject","childList":["PTPEndDataPacket"]},{"father":"NSObject","childList":["PTPEventPacket"]},{"father":"PTPTransport","childList":["PTPHostUSBTransport"]},{"father":"NSObject","childList":["PTPInitCommandACKPacket"]},{"father":"NSObject","childList":["PTPInitCommandRequestPacket"]},{"father":"NSObject","childList":["PTPInitEventACKPacket"]},{"father":"NSObject","childList":["PTPInitEventRequestPacket"]},{"father":"NSObject","childList":["PTPInitFailPacket"]},{"father":"NSObject","childList":["PTPInitiator"]},{"father":"NSObject","childList":["PTPObjectInfoDataset"]},{"father":"NSObject","childList":["PTPOperationRequestPacket"]},{"father":"NSObject","childList":["PTPOperationResponsePacket"]},{"father":"NSObject","childList":["PTPProbeRequestPacket"]},{"father":"NSObject","childList":["PTPProbeResponsePacket"]},{"father":"NSObject","childList":["PTPStartDataPacket"]},{"father":"NSObject","childList":["PTPStorageInfoDataset"]},{"father":"NSObject","childList":["PTPTCPIPConnection"]},{"father":"PTPTransport","childList":["PTPTCPIPTransport"]},{"father":"NSObject","childList":["PTPTransport"]},{"father":"NSObject","childList":["PTPWrappedBytes"]}]}
+{
+  "name": "ImageCapture.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTPTransport",
+          "children": []
+        },
+        {
+          "name": "PTPWrappedBytes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTPTransport",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTPHostUSBTransport",
+          "children": []
+        },
+        {
+          "name": "PTPTCPIPTransport",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTPCameraFolder",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTPCameraStorage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICCameraFolder",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTPCameraFolder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICCameraFile",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTPCameraFile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DeviceManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTPCameraDeviceManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICCameraDevice",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSCameraDevice",
+          "children": []
+        },
+        {
+          "name": "PTPCameraDevice",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICCameraItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICCameraFile",
+          "children": []
+        },
+        {
+          "name": "ICCameraFolder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ICDevice",
+      "parent": null,
+      "children": [
+        {
+          "name": "ICCameraDevice",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSThread",
+      "parent": null,
+      "children": [
+        {
+          "name": "DeviceManagerThread",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

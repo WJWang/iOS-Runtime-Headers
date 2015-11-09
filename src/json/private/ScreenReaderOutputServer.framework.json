@@ -1,1 +1,69 @@
-{"name":"ScreenReaderOutputServer.framework","list":[{"father":"NSObject","childList":["SCROBrailleChunk"]},{"father":"NSObject","childList":["SCROBrailleDisplay"]},{"father":"NSObject","childList":["SCROBrailleDisplayAutoDetector"]},{"father":"NSObject","childList":["SCROBrailleDisplayHistory"]},{"father":"NSObject","childList":["SCROBrailleDisplayManagedQueue"]},{"father":"NSObject","childList":["SCROBrailleDisplayManager"]},{"father":"NSObject","childList":["SCROBrailleEvent"]},{"father":"NSObject","childList":["SCROBrailleEventDispatcher"]},{"father":"NSObject","childList":["SCROBrailleFormatter"]},{"father":"SCROHandler","childList":["SCROBrailleHandler"]},{"father":"NSObject","childList":["SCROBrailleKey"]},{"father":"SCROBrailleKey","childList":["SCROBrailleKeyboardKey"]},{"father":"NSObject","childList":["SCROBrailleLine"]},{"father":"NSObject","childList":["SCROBrailleStealthDriver"]},{"father":"NSObject","childList":["SCROBrailleTranslationManager"]},{"father":"NSObject","childList":["SCROCallback"]},{"father":"NSObject","childList":["SCROClient"]},{"father":"NSObject","childList":["SCROEvent"]},{"father":"NSObject","childList":["SCROHandler"]},{"father":"NSObject","childList":["SCROIOElement"]},{"father":"SCROIOElement","childList":["SCROIOHIDElement"]},{"father":"SCROIOElement","childList":["SCROIOUSBElement"]},{"father":"SCROIOHIDElement","childList":["SCROIOUSBHIDElement"]},{"father":"NSObject","childList":["SCROServer"]},{"father":"SCROBrailleDisplay","childList":["SCROStealthBrailleDisplay"]}]}
+{
+  "name": "ScreenReaderOutputServer.framework",
+  "list": [
+    {
+      "name": "SCROBrailleDisplay",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCROStealthBrailleDisplay",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCROServer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCROIOHIDElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCROIOUSBHIDElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCROIOElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCROIOHIDElement",
+          "children": []
+        },
+        {
+          "name": "SCROIOUSBElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCROBrailleKey",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCROBrailleKeyboardKey",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SCROHandler",
+      "parent": null,
+      "children": [
+        {
+          "name": "SCROBrailleHandler",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,29 @@
-{"name":"MMCSServices.framework","list":[{"father":"NSObject","childList":["MMCSController"]},{"father":"MMCSSimpleFile","childList":["MMCSGetFile"]},{"father":"MMCSSimpleFile","childList":["MMCSPutFile"]},{"father":"NSObject","childList":["MMCSSimpleFile"]}]}
+{
+  "name": "MMCSServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MMCSSimpleFile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MMCSSimpleFile",
+      "parent": null,
+      "children": [
+        {
+          "name": "MMCSGetFile",
+          "children": []
+        },
+        {
+          "name": "MMCSPutFile",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,231 @@
-{"name":"PrototypeTools.framework","list":[{"father":"NSObject","childList":["PT2DGraphAxisStyle"]},{"father":"NSObject","childList":["PT2DGraphDatum"]},{"father":"UIView","childList":["PT2DGraphDotView"]},{"father":"UIView","childList":["PT2DGraphView"]},{"father":"UIView","childList":["PTIcon"]},{"father":"_UISettings","childList":["PTIconSettings"]},{"father":"NSObject","childList":["PTLegibleTextAssistant"]},{"father":"_UISettings","childList":["PTLegibleTextAssistantSettings"]},{"father":"PTLegibleTextAssistantSettings","childList":["PTLegibleTextAssistantSettingsForDarkText"]},{"father":"PTLegibleTextAssistantSettings","childList":["PTLegibleTextAssistantSettingsForLightText"]},{"father":"PTSRowAction","childList":["PTSAddGroupSettingsRowAction"]},{"father":"UIButton","childList":["PTSButton"]},{"father":"UITableViewCell","childList":["PTSButtonCell"]},{"father":"PTSRow","childList":["PTSButtonRow"]},{"father":"PTSRowTableViewCell","childList":["PTSButtonRowTableViewCell"]},{"father":"UITableViewCell","childList":["PTSChoiceCell"]},{"father":"PTSRow","childList":["PTSChoiceRow"]},{"father":"PTSRowTableViewCell","childList":["PTSChoiceRowTableViewCell"]},{"father":"UITableViewController","childList":["PTSChoiceViewController"]},{"father":"PTSRow","childList":["PTSDrillDownRow"]},{"father":"PTSPushViewControllerRowAction","childList":["PTSDrillDownRowAction"]},{"father":"PTSRowTableViewCell","childList":["PTSDrillDownRowTableViewCell"]},{"father":"UICopyToPasteboardActivity","childList":["PTSDuplicateRowsActivity"]},{"father":"PTSRow","childList":["PTSEditFloatRow"]},{"father":"PTSEditRowTableViewCell","childList":["PTSEditFloatRowTableViewCell"]},{"father":"PTSRowTableViewCell","childList":["PTSEditRowTableViewCell"]},{"father":"PTSRow","childList":["PTSEditStringRow"]},{"father":"PTSEditRowTableViewCell","childList":["PTSEditStringRowTableViewCell"]},{"father":"PT2DGraphView","childList":["PTSGraphView"]},{"father":"UIView","childList":["PTSHUD"]},{"father":"NSObject","childList":["PTSHUDRow"]},{"father":"UIViewController","childList":["PTSHUDSettingsDetailViewController"]},{"father":"UITableViewController","childList":["PTSHUDSettingsGroupEditor"]},{"father":"NSObject","childList":["PTSImageLoader"]},{"father":"UITableViewController","childList":["PTSImagePickerViewController"]},{"father":"UITableViewCell","childList":["PTSImagePreviewCell"]},{"father":"PTSRow","childList":["PTSImagePreviewRow"]},{"father":"PTSRowTableViewCell","childList":["PTSImagePreviewRowTableViewCell"]},{"father":"_UISettings","childList":["PTSImageSettings"]},{"father":"UILabel","childList":["PTSInfoLabel"]},{"father":"UITableViewCell","childList":["PTSLoadingCell"]},{"father":"NSObject","childList":["PTSModule"]},{"father":"UITableViewController","childList":["PTSModuleController"]},{"father":"UIView","childList":["PTSPicker"]},{"father":"PTSRowAction","childList":["PTSPresentViewControllerRowAction"]},{"father":"PTSPushViewControllerRowAction","childList":["PTSPushImagePickerRowAction"]},{"father":"PTSRowAction","childList":["PTSPushViewControllerRowAction"]},{"father":"PTSRowAction","childList":["PTSRestoreDefaultSettingsRowAction"]},{"father":"NSObject","childList":["PTSRow"]},{"father":"NSObject","childList":["PTSRowAction"]},{"father":"UITableViewCell","childList":["PTSRowTableViewCell"]},{"father":"NSObject","childList":["PTSSection"]},{"father":"UIView","childList":["PTSSlider"]},{"father":"PTSRow","childList":["PTSSliderRow"]},{"father":"PTSRowTableViewCell","childList":["PTSSliderRowTableViewCell"]},{"father":"UIView","childList":["PTSSwitch"]},{"father":"PTSRow","childList":["PTSSwitchRow"]},{"father":"PTSRowTableViewCell","childList":["PTSSwitchRowTableViewCell"]},{"father":"PTSButton","childList":["PTSToggleButton"]},{"father":"UINavigationController","childList":["PTSettingsController"]},{"father":"UISlider","childList":["PTSlider"]},{"father":"UIButton","childList":["PTSliderIncrementButton"]},{"father":"UISwitch","childList":["PTSwitch"]},{"father":"NSObject","childList":["PTVolumeChangeNotifier"]},{"father":"UIView","childList":["PTXLiveView"]},{"father":"NSObject","childList":["PTXMotionWindow"]},{"father":"NSObject","childList":["PTXParallaxController"]},{"father":"_UISettings","childList":["PTXParallaxEngineSettings"]},{"father":"PTXParallaxView","childList":["PTXParallaxImageView"]},{"father":"NSObject","childList":["PTXParallaxReferenceFrame"]},{"father":"_UISettings","childList":["PTXParallaxSettings"]},{"father":"UIView","childList":["PTXParallaxView"]},{"father":"NSObject","childList":["_PTSAppearanceCondition"]}]}
+{
+  "name": "PrototypeTools.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PTSAppearanceCondition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTXParallaxView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UISettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTXParallaxSettings",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTXParallaxView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTXParallaxImageView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISwitch",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSwitch",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSliderIncrementButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISlider",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSlider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSettingsController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTSButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSToggleButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTSRowTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSSwitchRowTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTSRow",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSSliderRow",
+          "children": []
+        },
+        {
+          "name": "PTSSwitchRow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSRowTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTSRowAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSPushViewControllerRowAction",
+          "children": []
+        },
+        {
+          "name": "PTSRestoreDefaultSettingsRowAction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTSPushViewControllerRowAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSPushImagePickerRowAction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSModuleController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSInfoLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSHUDSettingsDetailViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PT2DGraphView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSGraphView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTSEditRowTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSEditFloatRowTableViewCell",
+          "children": []
+        },
+        {
+          "name": "PTSEditStringRowTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICopyToPasteboardActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTSDuplicateRowsActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTLegibleTextAssistantSettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "PTLegibleTextAssistantSettingsForDarkText",
+          "children": []
+        },
+        {
+          "name": "PTLegibleTextAssistantSettingsForLightText",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

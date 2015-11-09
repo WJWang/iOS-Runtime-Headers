@@ -1,1 +1,43 @@
-{"name":"IDSFoundation.framework","list":[{"father":"NSObject","childList":["IDSAppleRegistrationKeychainReader"]},{"father":"NSObject","childList":["IDSBaseMessage"]},{"father":"NSObject","childList":["IDSDelegateInfo"]},{"father":"NSObject","childList":["IDSDeviceSupport"]},{"father":"IDSServerBag","childList":["IDSFaceTimeServerBag"]},{"father":"IDSBaseMessage","childList":["IDSMessage"]},{"father":"NSObject","childList":["IDSPushHandler"]},{"father":"NSObject","childList":["IDSPushHandlerContext"]},{"father":"NSObject","childList":["IDSServerBag"]},{"father":"IDSServerBag","childList":["IDSiMessageServerBag"]}]}
+{
+  "name": "IDSFoundation.framework",
+  "list": [
+    {
+      "name": "IDSServerBag",
+      "parent": null,
+      "children": [
+        {
+          "name": "IDSiMessageServerBag",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "IDSPushHandler",
+          "children": []
+        },
+        {
+          "name": "IDSPushHandlerContext",
+          "children": []
+        },
+        {
+          "name": "IDSServerBag",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IDSBaseMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "IDSMessage",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

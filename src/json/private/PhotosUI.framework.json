@@ -1,1 +1,875 @@
-{"name":"PhotosUI.framework","list":[{"father":"CAMCameraRollSpec","childList":["CAMPadCameraRollSpec"]},{"father":"CAMCameraRollSpec","childList":["CAMPhoneCameraRollSpec"]},{"father":"UIViewController","childList":["PUAbstractAlbumListViewController"]},{"father":"NSObject","childList":["PUAbstractNavigationBanner"]},{"father":"NSObject","childList":["PUAbstractTransition"]},{"father":"UICollectionViewLayoutAttributes","childList":["PUAbstractTransitionLayoutAttributes"]},{"father":"UIActionSheet","childList":["PUActionSheet"]},{"father":"UIActivity","childList":["PUActivity"]},{"father":"NSObject","childList":["PUActivityItemSource"]},{"father":"NSObject","childList":["PUActivityItemSourceController"]},{"father":"NSOperation","childList":["PUActivityItemSourceOperation"]},{"father":"UIActivityViewController","childList":["PUActivityViewController"]},{"father":"UIViewController","childList":["PUAddSubscribersViewController"]},{"father":"PUActivity","childList":["PUAirPlayActivity"]},{"father":"UICollectionViewCell","childList":["PUAlbumListCell"]},{"father":"UIView","childList":["PUAlbumListCellContentView"]},{"father":"PUAbstractAlbumListViewController","childList":["PUAlbumListGridViewController"]},{"father":"UIView","childList":["PUAlbumListSeparatorView"]},{"father":"UITableViewCell","childList":["PUAlbumListTableViewCell"]},{"father":"PUAbstractAlbumListViewController","childList":["PUAlbumListTableViewController"]},{"father":"NSObject","childList":["PUAlbumListTransitionContext"]},{"father":"PUAlbumListViewControllerPhoneSpec","childList":["PUAlbumListViewControllerPadImagePickerSpec"]},{"father":"PUAlbumListViewControllerSpec","childList":["PUAlbumListViewControllerPadSpec"]},{"father":"PUAlbumListViewControllerPhoneSpec","childList":["PUAlbumListViewControllerPhoneImagePickerSpec"]},{"father":"PUAlbumListViewControllerSpec","childList":["PUAlbumListViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUAlbumListViewControllerSpec"]},{"father":"PUSessionInfo","childList":["PUAlbumPickerSessionInfo"]},{"father":"UIViewController","childList":["PUAlbumPickerViewController"]},{"father":"PUAlbumPickerViewControllerSpec","childList":["PUAlbumPickerViewControllerPadSpec"]},{"father":"PUAlbumPickerViewControllerSpec","childList":["PUAlbumPickerViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUAlbumPickerViewControllerSpec"]},{"father":"PUActivity","childList":["PUAlbumStreamActivity"]},{"father":"UIAlertView","childList":["PUAlertView"]},{"father":"PUValueFilter","childList":["PUAngleValueFilter"]},{"father":"UIAssignToContactActivity","childList":["PUAssignToContactActivity"]},{"father":"NSObject","childList":["PUAutoScroller"]},{"father":"NSObject","childList":["PUAvalancheReporter"]},{"father":"PUPhotosSharingGridCell","childList":["PUAvalancheReviewCell"]},{"father":"PUHorizontalCollectionViewLayout","childList":["PUAvalancheReviewCollectionViewLayout"]},{"father":"UIViewController","childList":["PUAvalancheReviewController"]},{"father":"PUAvalancheReviewControllerSpec","childList":["PUAvalancheReviewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUAvalancheReviewControllerSpec"]},{"father":"UIView","childList":["PUBackgroundColorView"]},{"father":"UICollectionViewCell","childList":["PUCameraImportItemCell"]},{"father":"PUValueFilter","childList":["PUChangeDirectionValueFilter"]},{"father":"PUValueFilter","childList":["PUClampValueFilter"]},{"father":"PUPhotosAlbumViewController","childList":["PUCloudSharedAlbumViewController"]},{"father":"UIView","childList":["PUCloudSharedBackdropView"]},{"father":"UIViewController","childList":["PUCloudSharedCreateAlbumViewController"]},{"father":"UIViewController","childList":["PUCloudSharedPostCommentViewController"]},{"father":"UIView","childList":["PUCollageView"]},{"father":"UICollectionView","childList":["PUCollectionView"]},{"father":"NSObject","childList":["PUCollectionViewData"]},{"father":"UICollectionViewFlowLayout","childList":["PUCollectionViewFlowLayout"]},{"father":"NSObject","childList":["PUCollectionViewIntermediateDataSource"]},{"father":"UICollectionViewLayout","childList":["PUCollectionViewLayoutCache"]},{"father":"PUAbstractTransition","childList":["PUCollectionViewTransition"]},{"father":"UICollectionViewLayout","childList":["PUCollectionViewTransitionLayout"]},{"father":"PUGridZoomLevelInfo","childList":["PUCollectionsZoomLevelInfo"]},{"father":"UIView","childList":["PUCroppingImageView"]},{"father":"NSObject","childList":["PUDynamicAnimationBridge"]},{"father":"PUValueFilter","childList":["PUDynamicValueFilter"]},{"father":"PUAbstractTransitionLayoutAttributes","childList":["PUExtrapolatingLayoutAttributes"]},{"father":"PUFeedSectionInfo","childList":["PUFeedAlbumCreatedSectionInfo"]},{"father":"NSObject","childList":["PUFeedAssetContainerList"]},{"father":"PUFeedSectionInfo","childList":["PUFeedAssetsSectionInfo"]},{"father":"UICollectionViewCell","childList":["PUFeedCell"]},{"father":"UICollectionViewLayout","childList":["PUFeedCollectionViewLayout"]},{"father":"NSObject","childList":["PUFeedCollectionViewSectionLayoutInfo"]},{"father":"PUFeedSectionInfo","childList":["PUFeedCommentsSectionInfo"]},{"father":"PUFeedCell","childList":["PUFeedImageCell"]},{"father":"PUFeedCell","childList":["PUFeedInvitationCell"]},{"father":"PUFeedSectionInfo","childList":["PUFeedInvitationResponseSectionInfo"]},{"father":"PUFeedSectionInfo","childList":["PUFeedInvitationSectionInfo"]},{"father":"NSObject","childList":["PUFeedRecentsManager"]},{"father":"NSObject","childList":["PUFeedSectionInfo"]},{"father":"NSObject","childList":["PUFeedSectionInfosChange"]},{"father":"NSObject","childList":["PUFeedSectionInfosManager"]},{"father":"PUFeedCell","childList":["PUFeedStackCell"]},{"father":"PUFeedAssetsSectionInfo","childList":["PUFeedSubscriptionSectionInfo"]},{"father":"PUFeedCell","childList":["PUFeedTextCell"]},{"father":"UIViewController","childList":["PUFeedViewController"]},{"father":"PUFeedViewControllerSpec","childList":["PUFeedViewControllerPadSpec"]},{"father":"PUFeedViewControllerSpec","childList":["PUFeedViewControllerPhoneSpec"]},{"father":"PUFeedViewControllerPhoneSpec","childList":["PUFeedViewControllerPopoverSpec"]},{"father":"NSObject","childList":["PUFeedViewControllerRestorableState"]},{"father":"NSObject","childList":["PUFeedViewControllerSpec"]},{"father":"NSObject","childList":["PUFlatWhiteInterfaceTheme"]},{"father":"PUGridZoomLevelInfo","childList":["PUFullMomentsZoomLevelInfo"]},{"father":"UIViewController","childList":["PUGridMagnifiedImageViewController"]},{"father":"UIView","childList":["PUGridMagnifiedView"]},{"father":"UIPinchGestureRecognizer","childList":["PUGridPinchGestureRecognizer"]},{"father":"UICollectionReusableView","childList":["PUGridRenderedStrip"]},{"father":"NSObject","childList":["PUGridZoomLevelInfo"]},{"father":"_UICollectionViewControllerLayoutToLayoutTransition","childList":["PUGridZoomTransitionAnimationController"]},{"father":"PUValueFilter","childList":["PUGroupValueFilter"]},{"father":"UICollectionViewLayout","childList":["PUHorizontalCollectionViewLayout"]},{"father":"UICollectionViewLayoutInvalidationContext","childList":["PUHorizontalCollectionViewLayoutInvalidationContext"]},{"father":"UICollectionViewLayout","childList":["PUHorizontalTiledCollectionViewLayout"]},{"father":"UICollectionViewLayoutInvalidationContext","childList":["PUHorizontalTiledCollectionViewLayoutInvalidationContext"]},{"father":"PUTiledLayoutGenerator","childList":["PUHorizontalTiledLayoutGenerator"]},{"father":"NSObject","childList":["PUImageManager"]},{"father":"NSObject","childList":["PUImageViewExtraction"]},{"father":"PUValueFilter","childList":["PUInitialHysteresisValueFilter"]},{"father":"NSObject","childList":["PUInterfaceManager"]},{"father":"PUAbstractTransitionLayoutAttributes","childList":["PUInterpolatingLayoutAttributes"]},{"father":"NSObject","childList":["PULayoutAnimationsHelper"]},{"father":"PULayoutSectioning","childList":["PULayoutSampledSectioning"]},{"father":"PULayoutSectionSampler","childList":["PULayoutSectionListSampler"]},{"father":"NSObject","childList":["PULayoutSectionSampler"]},{"father":"PULayoutSectionSampler","childList":["PULayoutSectionSimpleSampler"]},{"father":"NSObject","childList":["PULayoutSectioning"]},{"father":"NSObject","childList":["PULocalization"]},{"father":"UIMailActivity","childList":["PUMailActivity"]},{"father":"NSObject","childList":["PUMapAggregateAnnotation"]},{"father":"NSObject","childList":["PUMapAlbum"]},{"father":"NSObject","childList":["PUMapAnnotation"]},{"father":"NSObject","childList":["PUMapAnnotationAnimationInfo"]},{"father":"NSObject","childList":["PUMapAnnotationManager"]},{"father":"NSObject","childList":["PUMapAnnotationQuadtree"]},{"father":"NSObject","childList":["PUMapAnnotationQuadtreeAddress"]},{"father":"PUMapAnnotationQuadtreeAddress","childList":["PUMapAnnotationQuadtreeMultiAddress"]},{"father":"UIView","childList":["PUMapAnnotationView"]},{"father":"PUMapItem","childList":["PUMapAssetItem"]},{"father":"NSObject","childList":["PUMapItem"]},{"father":"PUPhotosAlbumViewController","childList":["PUMapPhotosAlbumViewController"]},{"father":"NSObject","childList":["PUMapUtils"]},{"father":"UIViewController","childList":["PUMapViewController"]},{"father":"PUMapViewControllerSpec","childList":["PUMapViewControllerPadSpec"]},{"father":"PUMapViewControllerSpec","childList":["PUMapViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUMapViewControllerSpec"]},{"father":"PUDynamicValueFilter","childList":["PUMaximumChangeRateValueFilter"]},{"father":"UIMessageActivity","childList":["PUMessageActivity"]},{"father":"PUViewControllerTransition","childList":["PUModalTransition"]},{"father":"NSObject","childList":["PUMomentsZoomLevelManager"]},{"father":"UIView","childList":["PUMultiOrientationImageView"]},{"father":"UINavigationController","childList":["PUNavigationController"]},{"father":"PUViewControllerTransition","childList":["PUNavigationTransition"]},{"father":"UITextField","childList":["PUOffsetTextField"]},{"father":"UIViewController","childList":["PUPhotoBrowserController"]},{"father":"PUPhotoBrowserControllerPadSpec","childList":["PUPhotoBrowserControllerPadCameraSpec"]},{"father":"PUPhotoBrowserControllerSpec","childList":["PUPhotoBrowserControllerPadSpec"]},{"father":"PUPhotoBrowserControllerPhoneSpec","childList":["PUPhotoBrowserControllerPhoneCameraSpec"]},{"father":"PUPhotoBrowserControllerSpec","childList":["PUPhotoBrowserControllerPhoneSpec"]},{"father":"NSObject","childList":["PUPhotoBrowserControllerSpec"]},{"father":"PUNavigationTransition","childList":["PUPhotoBrowserZoomTransition"]},{"father":"UIToolbar","childList":["PUPhotoCollectionToolbar"]},{"father":"NSObject","childList":["PUPhotoDecoration"]},{"father":"NSObject","childList":["PUPhotoDiagnosticsHelper"]},{"father":"UIPinchGestureRecognizer","childList":["PUPhotoPinchGestureRecognizer"]},{"father":"NSObject","childList":["PUPhotoSelectionEntry"]},{"father":"NSObject","childList":["PUPhotoSelectionManager"]},{"father":"NSObject","childList":["PUPhotoSharingManager"]},{"father":"NSObject","childList":["PUPhotoStreamActivityAction"]},{"father":"UITableViewCell","childList":["PUPhotoStreamAlbumTableViewCell"]},{"father":"UITableViewController","childList":["PUPhotoStreamAlbumsTableViewController"]},{"father":"SLComposeServiceViewController","childList":["PUPhotoStreamComposeServiceViewController"]},{"father":"UIViewController","childList":["PUPhotoStreamCreateTitleViewController"]},{"father":"UIView","childList":["PUPhotoStreamDimmingClipView"]},{"father":"UIViewController","childList":["PUPhotoStreamRecipientViewController"]},{"father":"UIView","childList":["PUPhotoView"]},{"father":"PUPhotosGridViewController","childList":["PUPhotosAlbumViewController"]},{"father":"UICollectionReusableView","childList":["PUPhotosGlobalFooterView"]},{"father":"UICollectionViewCell","childList":["PUPhotosGridCell"]},{"father":"NSObject","childList":["PUPhotosGridLayoutHelper"]},{"father":"UICollectionViewController","childList":["PUPhotosGridViewController"]},{"father":"PUPhotosGridViewControllerPadSpec","childList":["PUPhotosGridViewControllerPadCameraSpec"]},{"father":"PUPhotosGridViewControllerPhoneSpec","childList":["PUPhotosGridViewControllerPadImagePickerSpec"]},{"father":"PUPhotosGridViewControllerSpec","childList":["PUPhotosGridViewControllerPadSpec"]},{"father":"PUPhotosGridViewControllerPhoneSpec","childList":["PUPhotosGridViewControllerPhoneCameraSpec"]},{"father":"PUPhotosGridViewControllerPhoneSpec","childList":["PUPhotosGridViewControllerPhoneImagePickerSpec"]},{"father":"PUPhotosGridViewControllerSpec","childList":["PUPhotosGridViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUPhotosGridViewControllerSpec"]},{"father":"PUPhotosGridViewControllerPadSpec","childList":["PUPhotosMapGridViewControllerPadSpec"]},{"father":"PUPhotosGridViewControllerPhoneSpec","childList":["PUPhotosMapGridViewControllerPhoneSpec"]},{"father":"PUPhotosGridViewController","childList":["PUPhotosPanoramaViewController"]},{"father":"PUPhotosPanoramaViewControllerSpec","childList":["PUPhotosPanoramaViewControllerPadSpec"]},{"father":"PUPhotosPanoramaViewControllerSpec","childList":["PUPhotosPanoramaViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUPhotosPanoramaViewControllerSpec"]},{"father":"PUSessionInfo","childList":["PUPhotosPickerSessionInfo"]},{"father":"UIViewController","childList":["PUPhotosPickerViewController"]},{"father":"PUPhotosPickerViewControllerSpec","childList":["PUPhotosPickerViewControllerPadSpec"]},{"father":"PUPhotosPickerViewControllerSpec","childList":["PUPhotosPickerViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUPhotosPickerViewControllerSpec"]},{"father":"UICollectionReusableView","childList":["PUPhotosSectionHeaderView"]},{"father":"PUHorizontalTiledCollectionViewLayout","childList":["PUPhotosSharingCollectionViewLayout"]},{"father":"UICollectionViewCell","childList":["PUPhotosSharingGridCell"]},{"father":"UIView","childList":["PUPhotosSharingProgressOverlay"]},{"father":"UICollectionReusableView","childList":["PUPhotosSharingSelectionView"]},{"father":"PUModalTransition","childList":["PUPhotosSharingTransition"]},{"father":"NSObject","childList":["PUPhotosSharingTransitionContext"]},{"father":"UIViewController","childList":["PUPhotosSharingViewController"]},{"father":"PUPhotosSharingViewControllerSpec","childList":["PUPhotosSharingViewControllerPadSpec"]},{"father":"PUPhotosSharingViewControllerSpec","childList":["PUPhotosSharingViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUPhotosSharingViewControllerSpec"]},{"father":"PUPhotosGridViewController","childList":["PUPhotosSinglePickerViewController"]},{"father":"NSObject","childList":["PUPhotosSyncHelper"]},{"father":"PUPhotosSharingGridCell","childList":["PUPhotosZoomingSharingGridCell"]},{"father":"PUAbstractNavigationBanner","childList":["PUPickerBanner"]},{"father":"UIView","childList":["PUPickerBannerView"]},{"father":"UIViewController","childList":["PUPlacesViewController"]},{"father":"UIPopoverController","childList":["PUPopoverController"]},{"father":"UIView","childList":["PUPostCommentContainerView"]},{"father":"NSObject","childList":["PUPreheatManager"]},{"father":"PUNavigationController","childList":["PUPresentationContextNavigationController"]},{"father":"NSObject","childList":["PUProtoSetting"]},{"father":"UITableViewController","childList":["PUProtoSettingsDetailViewController"]},{"father":"UITableViewController","childList":["PUProtoSettingsViewController"]},{"father":"PUActivity","childList":["PUPublishingActivity"]},{"father":"UIView","childList":["PUReviewInstructionalView"]},{"father":"UIToolbar","childList":["PUReviewScrubber"]},{"father":"UICollectionViewCell","childList":["PUReviewScrubberCell"]},{"father":"UISaveToCameraRollActivity","childList":["PUSaveToCameraRollActivity"]},{"father":"UICollectionViewLayout","childList":["PUSectionedGridLayout"]},{"father":"UICollectionViewLayoutAttributes","childList":["PUSectionedGridLayoutAttributes"]},{"father":"UICollectionViewLayoutInvalidationContext","childList":["PUSectionedGridLayoutInvalidationContext"]},{"father":"NSObject","childList":["PUSessionInfo"]},{"father":"PUActivity","childList":["PUSlideShowActivity"]},{"father":"UIView","childList":["PUStackView"]},{"father":"UICollectionViewLayout","childList":["PUStackedAlbumLayout"]},{"father":"PUNavigationTransition","childList":["PUStackedAlbumTransition"]},{"father":"UICollectionViewTransitionLayout","childList":["PUStackedAlbumTransitionLayout"]},{"father":"PUAbstractNavigationBanner","childList":["PUSwitcherBanner"]},{"father":"PLTabbedLibraryViewController","childList":["PUTabbedLibraryViewController"]},{"father":"PUTabbedLibraryViewControllerSpec","childList":["PUTabbedLibraryViewControllerPadSpec"]},{"father":"PUTabbedLibraryViewControllerSpec","childList":["PUTabbedLibraryViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUTabbedLibraryViewControllerSpec"]},{"father":"PUValueFilter","childList":["PUThresholdCrossingCountValueFilter"]},{"father":"NSObject","childList":["PUTiledLayoutGenerator"]},{"father":"NSObject","childList":["PUTiledLayoutGeneratorScanState"]},{"father":"UINavigationBar","childList":["PUTopLevelNavigationBar"]},{"father":"NSObject","childList":["PUTransitionSectionInfo"]},{"father":"NSObject","childList":["PUTransitionViewAnimator"]},{"father":"PUPublishingActivity","childList":["PUTudouActivity"]},{"father":"PUAlbumListTableViewController","childList":["PUUIAlbumListViewController"]},{"father":"NSObject","childList":["PUUIImagePickerControllerHelper"]},{"father":"PUPhotosAlbumViewController","childList":["PUUIPhotosAlbumViewController"]},{"father":"NSObject","childList":["PUValueAnimation"]},{"father":"NSObject","childList":["PUValueFilter"]},{"father":"PUTiledLayoutGenerator","childList":["PUVerticalTiledLayoutGenerator"]},{"father":"NSObject","childList":["PUVideoTrimQueueController"]},{"father":"NSObject","childList":["PUViewControllerTransition"]},{"father":"NSObject","childList":["PUViewDecoration"]},{"father":"PUActivity","childList":["PUWallpaperActivity"]},{"father":"UINavigationController","childList":["PUWallpaperNavigationController"]},{"father":"PUGridZoomLevelInfo","childList":["PUYearsZoomLevelInfo"]},{"father":"PUPublishingActivity","childList":["PUYouTubeActivity"]},{"father":"PUPublishingActivity","childList":["PUYoukuActivity"]},{"father":"UICollectionViewTransitionLayout","childList":["PUZoomTransitionLayout"]},{"father":"NSObject","childList":["PUZoomableGridTransition"]},{"father":"PUPhotosGridViewController","childList":["PUZoomableGridViewController"]},{"father":"PUZoomableGridViewControllerSpec","childList":["PUZoomableGridViewControllerPadSpec"]},{"father":"PUZoomableGridViewControllerSpec","childList":["PUZoomableGridViewControllerPhoneSpec"]},{"father":"NSObject","childList":["PUZoomableGridViewControllerSpec"]},{"father":"NSObject","childList":["_PUDisabledUserInteractionToken"]},{"father":"UIPinchGestureRecognizer","childList":["_PUZoomRotateGestureRecognizer"]},{"father":"NSObject","childList":["__PUObject"]}]}
+{
+  "name": "PhotosUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "__PUObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPinchGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PUZoomRotateGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUZoomableGridViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUZoomableGridViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUZoomableGridViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosGridViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUZoomableGridViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewTransitionLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUZoomTransitionLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPublishingActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUYouTubeActivity",
+          "children": []
+        },
+        {
+          "name": "PUYoukuActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUGridZoomLevelInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUYearsZoomLevelInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUWallpaperNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUWallpaperActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUTiledLayoutGenerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUVerticalTiledLayoutGenerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosAlbumViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUUIPhotosAlbumViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAlbumListTableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUUIAlbumListViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUTopLevelNavigationBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUValueFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUThresholdCrossingCountValueFilter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUTabbedLibraryViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUTabbedLibraryViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUTabbedLibraryViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLTabbedLibraryViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUTabbedLibraryViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAbstractNavigationBanner",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUSwitcherBanner",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUNavigationTransition",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUStackedAlbumTransition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUStackedAlbumLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUStackView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayoutInvalidationContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUSectionedGridLayoutInvalidationContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayoutAttributes",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUSectionedGridLayoutAttributes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISaveToCameraRollActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUSaveToCameraRollActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUReviewScrubberCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIToolbar",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUReviewScrubber",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUProtoSettingsDetailViewController",
+          "children": []
+        },
+        {
+          "name": "PUProtoSettingsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUNavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPresentationContextNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPopoverController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPopoverController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPlacesViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosSharingGridCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosZoomingSharingGridCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosSharingViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosSharingViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUPhotosSharingViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUModalTransition",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosSharingTransition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionReusableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosSharingSelectionView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUHorizontalTiledCollectionViewLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosSharingCollectionViewLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosPickerViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosPickerViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUPhotosPickerViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUSessionInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosPickerSessionInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosPanoramaViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosPanoramaViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUPhotosPanoramaViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosGridViewControllerPhoneSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosMapGridViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosGridViewControllerPadSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosMapGridViewControllerPadSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotosGridViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosGridViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUPhotosGridViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotosGridViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLComposeServiceViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotoStreamComposeServiceViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotoStreamAlbumTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotoBrowserControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotoBrowserControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotoBrowserControllerPhoneSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotoBrowserControllerPhoneCameraSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUPhotoBrowserControllerPadSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUPhotoBrowserControllerPadCameraSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUOffsetTextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUViewControllerTransition",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUModalTransition",
+          "children": []
+        },
+        {
+          "name": "PUNavigationTransition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIMessageActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUMessageActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUDynamicValueFilter",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUMaximumChangeRateValueFilter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUMapViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUMapViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUMapViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUMapItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUMapAssetItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUMapAnnotationQuadtreeAddress",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUMapAnnotationQuadtreeMultiAddress",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIMailActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUMailActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PULayoutSectionSampler",
+      "parent": null,
+      "children": [
+        {
+          "name": "PULayoutSectionListSampler",
+          "children": []
+        },
+        {
+          "name": "PULayoutSectionSimpleSampler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PULayoutSectioning",
+      "parent": null,
+      "children": [
+        {
+          "name": "PULayoutSampledSectioning",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAbstractTransitionLayoutAttributes",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUInterpolatingLayoutAttributes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UICollectionViewControllerLayoutToLayoutTransition",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUGridZoomTransitionAnimationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUFeedViewControllerPhoneSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUFeedViewControllerPopoverSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUFeedViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUFeedViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUFeedViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUFeedCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUFeedTextCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUFeedAssetsSectionInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUFeedSubscriptionSectionInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUFeedSectionInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUFeedAlbumCreatedSectionInfo",
+          "children": []
+        },
+        {
+          "name": "PUFeedAssetsSectionInfo",
+          "children": []
+        },
+        {
+          "name": "PUFeedCommentsSectionInfo",
+          "children": []
+        },
+        {
+          "name": "PUFeedInvitationResponseSectionInfo",
+          "children": []
+        },
+        {
+          "name": "PUFeedInvitationSectionInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAbstractTransition",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUCollectionViewTransition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewFlowLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUCollectionViewFlowLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUCollectionView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAvalancheReviewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUAvalancheReviewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUHorizontalCollectionViewLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUAvalancheReviewCollectionViewLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAssignToContactActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUAssignToContactActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAlertView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUAlertView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAlbumPickerViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUAlbumPickerViewControllerPadSpec",
+          "children": []
+        },
+        {
+          "name": "PUAlbumPickerViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAlbumListViewControllerSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUAlbumListViewControllerPhoneSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAlbumListViewControllerPhoneSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUAlbumListViewControllerPadImagePickerSpec",
+          "children": []
+        },
+        {
+          "name": "PUAlbumListViewControllerPhoneImagePickerSpec",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PUAbstractAlbumListViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUAlbumListGridViewController",
+          "children": []
+        },
+        {
+          "name": "PUAlbumListTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUActivityViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUActivityItemSourceOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActionSheet",
+      "parent": null,
+      "children": [
+        {
+          "name": "PUActionSheet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAMCameraRollSpec",
+      "parent": null,
+      "children": [
+        {
+          "name": "CAMPadCameraRollSpec",
+          "children": []
+        },
+        {
+          "name": "CAMPhoneCameraRollSpec",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

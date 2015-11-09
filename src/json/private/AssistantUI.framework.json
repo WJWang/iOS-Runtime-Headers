@@ -1,1 +1,67 @@
-{"name":"AssistantUI.framework","list":[{"father":"AFUIPhraseInterpretation","childList":["AFUIConstantInterpretation"]},{"father":"NSObject","childList":["AFUIDialogPhase"]},{"father":"NSObject","childList":["AFUIImageResource"]},{"father":"NSObject","childList":["AFUIPhraseInterpretation"]},{"father":"NSObject","childList":["AFUIPreferences"]},{"father":"NSObject","childList":["AFUIQueue"]},{"father":"NSObject","childList":["AFUIRequestOptions"]},{"father":"NSObject","childList":["AFUISiriLanguage"]},{"father":"_UIRemoteViewController","childList":["AFUISiriRemoteViewController"]},{"father":"NSObject","childList":["AFUISiriSession"]},{"father":"UIView","childList":["AFUISiriView"]},{"father":"UIViewController","childList":["AFUISiriViewController"]},{"father":"UIView","childList":["AFUISnippetPaperView"]},{"father":"AFUIPhraseInterpretation","childList":["AFUISpeechTokenInterpretation"]},{"father":"NSObject","childList":["AFUIStateMachine"]},{"father":"NSObject","childList":["AFUIUserUtterance"]},{"father":"NSObject","childList":["AFUIUtterancePhrase"]},{"father":"NSObject","childList":["AFUIVoicemailPlayer"]}]}
+{
+  "name": "AssistantUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AFUIStateMachine",
+          "children": []
+        },
+        {
+          "name": "AFUIUserUtterance",
+          "children": []
+        },
+        {
+          "name": "AFUIUtterancePhrase",
+          "children": []
+        },
+        {
+          "name": "AFUIVoicemailPlayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AFUIPhraseInterpretation",
+      "parent": null,
+      "children": [
+        {
+          "name": "AFUISpeechTokenInterpretation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "AFUISnippetPaperView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "AFUISiriViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "AFUISiriRemoteViewController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

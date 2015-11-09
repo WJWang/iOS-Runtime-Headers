@@ -1,1 +1,31 @@
-{"name":"CommonUtilities.framework","list":[{"father":"NSObject","childList":["CUTFileCopier"]},{"father":"NSObject","childList":["CUTPowerAssertion"]},{"father":"NSObject","childList":["CUTPowerMonitor"]},{"father":"NSObject","childList":["CUTWeakReference"]},{"father":"NSObject","childList":["CUTWiFiManager"]}]}
+{
+  "name": "CommonUtilities.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CUTFileCopier",
+          "children": []
+        },
+        {
+          "name": "CUTPowerAssertion",
+          "children": []
+        },
+        {
+          "name": "CUTPowerMonitor",
+          "children": []
+        },
+        {
+          "name": "CUTWeakReference",
+          "children": []
+        },
+        {
+          "name": "CUTWiFiManager",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,77 @@
-{"name":"SportsVoices.framework","list":[{"father":"NSObject","childList":["AttributeKey"]},{"father":"NSObject","childList":["Cell"]},{"father":"Slot","childList":["CompoundSlot"]},{"father":"GenericProduction","childList":["ConditionalProduction"]},{"father":"NSObject","childList":["Decomposer"]},{"father":"NSObject","childList":["DecomposerDelegate"]},{"father":"GrammarPart","childList":["Directory"]},{"father":"CompoundSlot","childList":["DisjunctionSlot"]},{"father":"NSObject","childList":["GenericProduction"]},{"father":"NSObject","childList":["GrammarPart"]},{"father":"CompoundSlot","childList":["KleeneSlot"]},{"father":"CompoundSlot","childList":["NegationSlot"]},{"father":"GenericProduction","childList":["NewProduction"]},{"father":"NSObject","childList":["Parser"]},{"father":"NSObject","childList":["Player"]},{"father":"GrammarPart","childList":["Rule"]},{"father":"NSObject","childList":["SWUtils"]},{"father":"Slot","childList":["SimpleSlot"]},{"father":"SlotSequence","childList":["SimpleSlotSequence"]},{"father":"NSObject","childList":["Slot"]},{"father":"Slot","childList":["SlotSequence"]},{"father":"NSObject","childList":["SlotsInContext"]},{"father":"NSObject","childList":["SpecialCharacters"]}]}
+{
+  "name": "SportsVoices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SlotsInContext",
+          "children": []
+        },
+        {
+          "name": "SpecialCharacters",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Slot",
+      "parent": null,
+      "children": [
+        {
+          "name": "SlotSequence",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SlotSequence",
+      "parent": null,
+      "children": [
+        {
+          "name": "SimpleSlotSequence",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GrammarPart",
+      "parent": null,
+      "children": [
+        {
+          "name": "Rule",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GenericProduction",
+      "parent": null,
+      "children": [
+        {
+          "name": "NewProduction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CompoundSlot",
+      "parent": null,
+      "children": [
+        {
+          "name": "DisjunctionSlot",
+          "children": []
+        },
+        {
+          "name": "KleeneSlot",
+          "children": []
+        },
+        {
+          "name": "NegationSlot",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,53 @@
-{"name":"Weather.framework","list":[{"father":"NSObject","childList":["City"]},{"father":"NSObject","childList":["DayForecast"]},{"father":"NSObject","childList":["HourlyForecast"]},{"father":"WeatherUpdater","childList":["LocationUpdater"]},{"father":"NSObject","childList":["ProgressController"]},{"father":"WeatherUpdater","childList":["WeatherIdentifierUpdater"]},{"father":"NSObject","childList":["WeatherImageLoader"]},{"father":"NSObject","childList":["WeatherLocationManager"]},{"father":"NSObject","childList":["WeatherPreferences"]},{"father":"NSObject","childList":["WeatherUpdateController"]},{"father":"WeatherXMLHTTPRequest","childList":["WeatherUpdater"]},{"father":"WeatherXMLHTTPRequest","childList":["WeatherValidator"]},{"father":"UIView","childList":["WeatherView"]},{"father":"NSObject","childList":["WeatherXMLHTTPRequest"]}]}
+{
+  "name": "Weather.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WeatherXMLHTTPRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "WeatherView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WeatherXMLHTTPRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "WeatherUpdater",
+          "children": []
+        },
+        {
+          "name": "WeatherValidator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WeatherUpdater",
+      "parent": null,
+      "children": [
+        {
+          "name": "LocationUpdater",
+          "children": []
+        },
+        {
+          "name": "WeatherIdentifierUpdater",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

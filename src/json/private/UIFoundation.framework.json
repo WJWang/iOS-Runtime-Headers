@@ -1,1 +1,231 @@
-{"name":"UIFoundation.framework","list":[{"father":"CTGlyphStorageInterface","childList":["NSATSGlyphStorage"]},{"father":"NSObject","childList":["NSATSLineFragment"]},{"father":"NSTypesetter","childList":["NSATSTypesetter"]},{"father":"NSDictionary","childList":["NSAttributeDictionary"]},{"father":"NSEnumerator","childList":["NSAttributeDictionaryEnumerator"]},{"father":"NSGlyphInfo","childList":["NSCIDGlyphInfo"]},{"father":"NSGlyphInfo","childList":["NSCTGlyphInfo"]},{"father":"NSGlyphGenerator","childList":["NSConcreteGlyphGenerator"]},{"father":"NSConcreteMutableAttributedString","childList":["NSConcreteNotifyingMutableAttributedString"]},{"father":"NSTextStorage","childList":["NSConcreteTextStorage"]},{"father":"NSObject","childList":["NSExtraLMData"]},{"father":"UIFont","childList":["NSFont"]},{"father":"NSObject","childList":["NSGlyphGenerator"]},{"father":"NSObject","childList":["NSGlyphInfo"]},{"father":"NSIdentityGlyphInfo","childList":["NSGlyphNameGlyphInfo"]},{"father":"NSObject","childList":["NSHTMLReader"]},{"father":"NSObject","childList":["NSHTMLWebDelegate"]},{"father":"NSObject","childList":["NSHTMLWriter"]},{"father":"NSRunStorage","childList":["NSIdRunStorage"]},{"father":"NSGlyphInfo","childList":["NSIdentityGlyphInfo"]},{"father":"NSObject","childList":["NSInsertionPointHelper"]},{"father":"NSObject","childList":["NSLayoutManager"]},{"father":"NSObject","childList":["NSLayoutManagerTextBlockHelper"]},{"father":"NSObject","childList":["NSLayoutManagerTextBlockRowArrayCache"]},{"father":"NSObject","childList":["NSLineFragmentRenderingContext"]},{"father":"NSParagraphStyle","childList":["NSMutableParagraphStyle"]},{"father":"NSObject","childList":["NSParagraphStyle"]},{"father":"NSObject","childList":["NSParagraphStyleExtraData"]},{"father":"NSObject","childList":["NSRTFReader"]},{"father":"NSObject","childList":["NSRTFReaderTableState"]},{"father":"NSObject","childList":["NSRTFWriter"]},{"father":"NSObject","childList":["NSRunStorage"]},{"father":"NSObject","childList":["NSShadow"]},{"father":"NSATSTypesetter","childList":["NSSingleLineTypesetter"]},{"father":"NSMutableArray","childList":["NSSortedArray"]},{"father":"NSObject","childList":["NSStorage"]},{"father":"NSObject","childList":["NSStringDrawingContext"]},{"father":"NSTextStorage","childList":["NSStringDrawingTextStorage"]},{"father":"NSObject","childList":["NSStringDrawingTextStorageSettings"]},{"father":"NSObject","childList":["NSSubstituteWebResource"]},{"father":"NSAttributeDictionary","childList":["NSTempAttributeDictionary"]},{"father":"NSObject","childList":["NSTextAlternatives"]},{"father":"NSObject","childList":["NSTextAttachment"]},{"father":"NSObject","childList":["NSTextBlock"]},{"father":"NSObject","childList":["NSTextBlockLayoutHelper"]},{"father":"NSObject","childList":["NSTextContainer"]},{"father":"NSObject","childList":["NSTextList"]},{"father":"NSMutableAttributedString","childList":["NSTextStorage"]},{"father":"NSObject","childList":["NSTextTab"]},{"father":"NSTextBlock","childList":["NSTextTable"]},{"father":"NSTextBlock","childList":["NSTextTableBlock"]},{"father":"NSObject","childList":["NSTypesetter"]},{"father":"UIFont","childList":["UICTFont"]},{"father":"UIFontDescriptor","childList":["UICTFontDescriptor"]},{"father":"NSObject","childList":["UIFont"]},{"father":"NSObject","childList":["UIFontDescriptor"]},{"father":"NSObject","childList":["_NSATSTypesetterGuts"]},{"father":"NSObject","childList":["_NSAttributeRun"]},{"father":"NSObject","childList":["_NSAttributes"]},{"father":"NSMutableAttributedString","childList":["_NSCachedAttributedString"]},{"father":"NSObject","childList":["_NSTextStorageSideData"]},{"father":"NSObject","childList":["_UICache"]},{"father":"NSObject","childList":["_UIFontCacheKey"]},{"father":"CALayer","childList":["_UITextTiledLayer"]},{"father":"CALayer","childList":["_UITileLayer"]},{"father":"NSString","childList":["__NSATSStringSegment"]}]}
+{
+  "name": "UIFoundation.framework",
+  "list": [
+    {
+      "name": "NSString",
+      "parent": null,
+      "children": [
+        {
+          "name": "__NSATSStringSegment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_UITextTiledLayer",
+          "children": []
+        },
+        {
+          "name": "_UITileLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSTextStorageSideData",
+          "children": []
+        },
+        {
+          "name": "_UICache",
+          "children": []
+        },
+        {
+          "name": "_UIFontCacheKey",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableAttributedString",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSCachedAttributedString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIFontDescriptor",
+      "parent": null,
+      "children": [
+        {
+          "name": "UICTFontDescriptor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIFont",
+      "parent": null,
+      "children": [
+        {
+          "name": "UICTFont",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSTextBlock",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSTextTable",
+          "children": []
+        },
+        {
+          "name": "NSTextTableBlock",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSAttributeDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSTempAttributeDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSTextStorage",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSStringDrawingTextStorage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSortedArray",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSATSTypesetter",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSingleLineTypesetter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSParagraphStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSMutableParagraphStyle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSGlyphInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSIdentityGlyphInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSRunStorage",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSIdRunStorage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSIdentityGlyphInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSGlyphNameGlyphInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSConcreteMutableAttributedString",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSConcreteNotifyingMutableAttributedString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSGlyphGenerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSConcreteGlyphGenerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSAttributeDictionaryEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSAttributeDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSTypesetter",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSATSTypesetter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CTGlyphStorageInterface",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSATSGlyphStorage",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"name":"AOSNotification.framework","list":[{"father":"CLLocation","childList":["AOSCLLocation"]},{"father":"NSObject","childList":["AOSFMFAccountInfo"]},{"father":"NSObject","childList":["AOSLostModeInfo"]},{"father":"NSObject","childList":["AOSNotifySession"]},{"father":"NSObject","childList":["AOSPreferencesUtil"]}]}
+{
+  "name": "AOSNotification.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AOSFMFAccountInfo",
+          "children": []
+        },
+        {
+          "name": "AOSLostModeInfo",
+          "children": []
+        },
+        {
+          "name": "AOSNotifySession",
+          "children": []
+        },
+        {
+          "name": "AOSPreferencesUtil",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CLLocation",
+      "parent": null,
+      "children": [
+        {
+          "name": "AOSCLLocation",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

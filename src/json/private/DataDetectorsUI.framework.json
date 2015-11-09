@@ -1,1 +1,95 @@
-{"name":"DataDetectorsUI.framework","list":[{"father":"NSObject","childList":["DDAction"]},{"father":"NSObject","childList":["DDActionController"]},{"father":"DDAddressAction","childList":["DDAddToAddressBookAction"]},{"father":"UINavigationController","childList":["DDAddToContactsViewController"]},{"father":"DDAction","childList":["DDAddressAction"]},{"father":"DDTelephoneNumberAction","childList":["DDCallAction"]},{"father":"NSObject","childList":["DDContactUtils"]},{"father":"DDAction","childList":["DDCopyAction"]},{"father":"NSObject","childList":["DDCoreRecents"]},{"father":"DDAction","childList":["DDCreateEventAction"]},{"father":"NSObject","childList":["DDDetectionController"]},{"father":"UIViewController","childList":["DDFallbackController"]},{"father":"DDAction","childList":["DDOpenMapsAction"]},{"father":"DDAction","childList":["DDOpenURLAction"]},{"father":"NSOperation","childList":["DDOperation"]},{"father":"NSObject","childList":["DDRange"]},{"father":"_UIRemoteViewController","childList":["DDRemoteActionViewController"]},{"father":"NSObject","childList":["DDResultTracker"]},{"father":"DDAction","childList":["DDSendMailAction"]},{"father":"DDAction","childList":["DDShowCalendarAction"]},{"father":"DDAction","childList":["DDShowItemAction"]},{"father":"DDAction","childList":["DDTelephoneNumberAction"]},{"father":"DDOperation","childList":["DDTextKitOperation"]},{"father":"DDTelephoneNumberAction","childList":["DDTextMessageAction"]},{"father":"DDAction","childList":["DDTrackShipmentAction"]},{"father":"DDOperation","childList":["DDWebKitOperation"]}]}
+{
+  "name": "DataDetectorsUI.framework",
+  "list": [
+    {
+      "name": "DDOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDWebKitOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DDAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDTrackShipmentAction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DDTelephoneNumberAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDTextMessageAction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDResultTracker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDRemoteActionViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDFallbackController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDAddToContactsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DDAddressAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "DDAddToAddressBookAction",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,649 @@
-{"name":"StoreKitUI.framework","list":[{"father":"UISearchDisplayController","childList":["ASSearchDisplayController"]},{"father":"SUViewController","childList":["SKProductPageViewController"]},{"father":"SUScriptInterface","childList":["SKScriptInterface"]},{"father":"SUScriptObject","childList":["SKScriptStoreSheetRequest"]},{"father":"SKUIPageComponent","childList":["SKUIAccountButtonsComponent"]},{"father":"SKUIStorePageSection","childList":["SKUIAccountButtonsSection"]},{"father":"UIView","childList":["SKUIAccountButtonsView"]},{"father":"UIViewController","childList":["SKUIAccountButtonsViewController"]},{"father":"UIActivity","childList":["SKUIAddToWishlistActivity"]},{"father":"NSObject","childList":["SKUIAddToWishlistAnimation"]},{"father":"NSOperation","childList":["SKUIAddToWishlistOperation"]},{"father":"SSVURLProtocolConsumer","childList":["SKUIApplicationLicenseDataConsumer"]},{"father":"NSObject","childList":["SKUIApplicationLicensePage"]},{"father":"SKUIViewController","childList":["SKUIApplicationLicenseViewController"]},{"father":"NSObject","childList":["SKUIArtwork"]},{"father":"NSObject","childList":["SKUIArtworkList"]},{"father":"SKUIResourceRequest","childList":["SKUIArtworkRequest"]},{"father":"UIViewController","childList":["SKUIBackdropContentViewController"]},{"father":"UIButton","childList":["SKUIBannerCloseButton"]},{"father":"UIView","childList":["SKUIBannerView"]},{"father":"UIViewController","childList":["SKUIBannerViewController"]},{"father":"UIView","childList":["SKUIBorderView"]},{"father":"UICollectionViewCell","childList":["SKUIBrickCollectionViewCell"]},{"father":"UICollectionViewCell","childList":["SKUIBrickGridCollectionViewCell"]},{"father":"SKUIStorePageSection","childList":["SKUIBrickGridPageSection"]},{"father":"NSObject","childList":["SKUIBrickItem"]},{"father":"SKUISwooshArtworkLoader","childList":["SKUIBrickSwooshArtworkLoader"]},{"father":"SKUIStorePageSection","childList":["SKUIBrickSwooshPageSection"]},{"father":"SKUISwooshViewController","childList":["SKUIBrickSwooshViewController"]},{"father":"SKUIItemCellLayout","childList":["SKUICardCellLayout"]},{"father":"NSObject","childList":["SKUICategory"]},{"father":"NSObject","childList":["SKUICategoryArtworkLoader"]},{"father":"NSObject","childList":["SKUICategoryController"]},{"father":"UITableViewCell","childList":["SKUICategoryTableViewCell"]},{"father":"UITableViewController","childList":["SKUICategoryTableViewController"]},{"father":"UIImageView","childList":["SKUICellImageView"]},{"father":"NSObject","childList":["SKUICellLayout"]},{"father":"UIView","childList":["SKUICellLayoutView"]},{"father":"NSObject","childList":["SKUIChart"]},{"father":"SKUIPageComponent","childList":["SKUIChartsComponent"]},{"father":"SKUIStorePageDataConsumer","childList":["SKUIChartsDataConsumer"]},{"father":"SKUIStorePage","childList":["SKUIChartsPage"]},{"father":"SKUIStorePageSection","childList":["SKUIChartsPageSection"]},{"father":"SKUIViewController","childList":["SKUIChartsViewController"]},{"father":"UIView","childList":["SKUICircleProgressIndicator"]},{"father":"NSObject","childList":["SKUIClientContext"]},{"father":"SUViewControllerFactory","childList":["SKUIClientContextViewControllerFactory"]},{"father":"UICollectionViewCell","childList":["SKUICollectionViewCell"]},{"father":"UICollectionViewLayoutAttributes","childList":["SKUICollectionViewLayoutAttributes"]},{"father":"NSObject","childList":["SKUIColorScheme"]},{"father":"NSObject","childList":["SKUICompletion"]},{"father":"SSVURLDataConsumer","childList":["SKUICompletionDataConsumer"]},{"father":"NSObject","childList":["SKUICompletionList"]},{"father":"SUViewController","childList":["SKUIComposeReviewFormViewController"]},{"father":"UIView","childList":["SKUIComposeReviewHeaderView"]},{"father":"UIView","childList":["SKUIComposeReviewView"]},{"father":"SUNavigationController","childList":["SKUIComposeReviewViewController"]},{"father":"UIView","childList":["SKUIComposeTextField"]},{"father":"NSObject","childList":["SKUIComposeTextFieldConfiguration"]},{"father":"UIView","childList":["SKUIComposeTextFieldListView"]},{"father":"NSObject","childList":["SKUICountdown"]},{"father":"SKUIPageComponent","childList":["SKUICountdownComponent"]},{"father":"UIImageView","childList":["SKUICountdownFlapView"]},{"father":"UIView","childList":["SKUICountdownView"]},{"father":"UIViewController","childList":["SKUICountdownViewController"]},{"father":"NSObject","childList":["SKUICountdownViewTimerTarget"]},{"father":"SKStoreProductViewController","childList":["SKUIDismissingProductViewController"]},{"father":"SKUIPageComponent","childList":["SKUIDividerPageComponent"]},{"father":"SKUIStorePageSection","childList":["SKUIDividerPageSection"]},{"father":"UIView","childList":["SKUIDonationAmountView"]},{"father":"SKUIDonationStepViewController","childList":["SKUIDonationAmountViewController"]},{"father":"NSObject","childList":["SKUIDonationConfiguration"]},{"father":"UIView","childList":["SKUIDonationResultView"]},{"father":"SKUIDonationStepViewController","childList":["SKUIDonationResultViewController"]},{"father":"UIViewController","childList":["SKUIDonationStepViewController"]},{"father":"UINavigationController","childList":["SKUIDonationViewController"]},{"father":"SKUICollectionViewCell","childList":["SKUIEditorialCardCell"]},{"father":"SKUICellLayout","childList":["SKUIEditorialCardCellLayout"]},{"father":"SKUICellLayout","childList":["SKUIEditorialCellLayout"]},{"father":"SKUICollectionViewCell","childList":["SKUIEditorialCollectionViewCell"]},{"father":"SKUIPageComponent","childList":["SKUIEditorialComponent"]},{"father":"NSObject","childList":["SKUIEditorialLayout"]},{"father":"NSObject","childList":["SKUIEditorialLinkLayout"]},{"father":"NSObject","childList":["SKUIEditorialLinkLayoutRequest"]},{"father":"UIView","childList":["SKUIEditorialLinkView"]},{"father":"SKUIItemCellLayout","childList":["SKUIEditorialLockupCellLayout"]},{"father":"SKUIItemCollectionViewCell","childList":["SKUIEditorialLockupCollectionViewCell"]},{"father":"SKUIStorePageSection","childList":["SKUIEditorialPageSection"]},{"father":"UIView","childList":["SKUIEmbeddedMediaView"]},{"father":"UIView","childList":["SKUIEmptyContentPlaceholderView"]},{"father":"NSObject","childList":["SKUIFacebookLikeStatus"]},{"father":"NSObject","childList":["SKUIFlowcaseArtworkLoader"]},{"father":"SKUIPageComponent","childList":["SKUIFlowcaseComponent"]},{"father":"SKUIImageDataConsumer","childList":["SKUIFlowcaseImageDataConsumer"]},{"father":"NSObject","childList":["SKUIFlowcaseItem"]},{"father":"SKUIStorePageSection","childList":["SKUIFlowcasePageSection"]},{"father":"UIControl","childList":["SKUIFlowcaseView"]},{"father":"UIViewController","childList":["SKUIFlowcaseViewController"]},{"father":"UIGestureRecognizer","childList":["SKUIFocusedTouchGestureRecognizer"]},{"father":"UIView","childList":["SKUIFullscreenRedeemCameraView"]},{"father":"SKUIPageComponent","childList":["SKUIGalleryPageComponent"]},{"father":"UIViewController","childList":["SKUIGalleryPaneViewController"]},{"father":"UICollectionViewCell","childList":["SKUIGallerySwooshCollectionViewCell"]},{"father":"SKUIStorePageSection","childList":["SKUIGallerySwooshPageSection"]},{"father":"SKUISwooshViewController","childList":["SKUIGallerySwooshViewController"]},{"father":"UIViewController","childList":["SKUIGalleryViewController"]},{"father":"NSObject","childList":["SKUIGift"]},{"father":"UIActivity","childList":["SKUIGiftActivity"]},{"father":"SKUIGiftTableViewSection","childList":["SKUIGiftAddressingSection"]},{"father":"NSObject","childList":["SKUIGiftAmount"]},{"father":"UIButton","childList":["SKUIGiftAmountButton"]},{"father":"UIControl","childList":["SKUIGiftAmountControl"]},{"father":"SKUIGiftTableViewSection","childList":["SKUIGiftAmountSection"]},{"father":"NSObject","childList":["SKUIGiftCharity"]},{"father":"MFComposeRecipientView","childList":["SKUIGiftComposeRecipientView"]},{"father":"SKUIGiftStepViewController","childList":["SKUIGiftComposeViewController"]},{"father":"NSObject","childList":["SKUIGiftConfiguration"]},{"father":"UIView","childList":["SKUIGiftConfirmLabeledValue"]},{"father":"UIView","childList":["SKUIGiftConfirmView"]},{"father":"SKUIGiftStepViewController","childList":["SKUIGiftConfirmViewController"]},{"father":"NSObject","childList":["SKUIGiftContactSearchController"]},{"father":"UIView","childList":["SKUIGiftDashView"]},{"father":"UITableViewCell","childList":["SKUIGiftDateTableViewCell"]},{"father":"UITableViewCell","childList":["SKUIGiftFooterLabelTableViewCell"]},{"father":"UIView","childList":["SKUIGiftItemView"]},{"father":"NSObject","childList":["SKUIGiftPurchaseRequest"]},{"father":"UITableViewCell","childList":["SKUIGiftRecipientTableViewCell"]},{"father":"UIView","childList":["SKUIGiftResultView"]},{"father":"SKUIGiftStepViewController","childList":["SKUIGiftResultViewController"]},{"father":"SKUIGiftTableViewSection","childList":["SKUIGiftSendDateSection"]},{"father":"UIViewController","childList":["SKUIGiftStepViewController"]},{"father":"UIView","childList":["SKUIGiftTableSectionHeaderView"]},{"father":"SKUITableViewSection","childList":["SKUIGiftTableViewSection"]},{"father":"SKUIGiftTableViewSection","childList":["SKUIGiftTermsAndConditionsSection"]},{"father":"UITableViewCell","childList":["SKUIGiftTextFieldTableViewCell"]},{"father":"UITableViewCell","childList":["SKUIGiftTextTableViewCell"]},{"father":"NSObject","childList":["SKUIGiftTheme"]},{"father":"UIView","childList":["SKUIGiftThemeBackgroundView"]},{"father":"UICollectionView","childList":["SKUIGiftThemeCollectionView"]},{"father":"UICollectionViewCell","childList":["SKUIGiftThemeCollectionViewCell"]},{"father":"SKUIGiftStepViewController","childList":["SKUIGiftThemePickerViewController"]},{"father":"NSObject","childList":["SKUIGiftValidationResponse"]},{"father":"NSObject","childList":["SKUIGiftValidator"]},{"father":"UINavigationController","childList":["SKUIGiftViewController"]},{"father":"SKUIPageComponent","childList":["SKUIGridComponent"]},{"father":"SKUIStorePageSection","childList":["SKUIGridPageSection"]},{"father":"UIView","childList":["SKUIIPadChartsColumnView"]},{"father":"UIControl","childList":["SKUIIPadChartsHeaderView"]},{"father":"UIView","childList":["SKUIIPadChartsView"]},{"father":"UIViewController","childList":["SKUIIPadChartsViewController"]},{"father":"UIControl","childList":["SKUIIPadCustomerReviewsHeaderView"]},{"father":"UIViewController","childList":["SKUIIPadProductPageViewController"]},{"father":"UIView","childList":["SKUIIPadRedeemCameraView"]},{"father":"NSObject","childList":["SKUIIPadSearchController"]},{"father":"UIView","childList":["SKUIIPadSearchHeaderView"]},{"father":"UICollectionReusableView","childList":["SKUIIPadSearchSeparatorView"]},{"father":"UIView","childList":["SKUIIPadSearchView"]},{"father":"UIViewController","childList":["SKUIIPadSearchViewController"]},{"father":"UIViewController","childList":["SKUIIPhoneChartsViewController"]},{"father":"UIView","childList":["SKUIIPhoneProductPageView"]},{"father":"SKUIViewController","childList":["SKUIIPhoneProductPageViewController"]},{"father":"SKUIItemGridCollectionViewLayout","childList":["SKUIIPhoneSearchCollectionViewLayout"]},{"father":"UIView","childList":["SKUIIPhoneSearchView"]},{"father":"UIViewController","childList":["SKUIIPhoneSearchViewController"]},{"father":"UICollectionViewCell","childList":["SKUIIPhoneSlideshowCell"]},{"father":"UIViewController","childList":["SKUIIPhoneSlideshowViewController"]},{"father":"SUStorePageViewController","childList":["SKUIITunesStoreUIPageViewController"]},{"father":"SKUIImageDataConsumer","childList":["SKUIIconDataConsumer"]},{"father":"UIActivityItemProvider","childList":["SKUIImageActivityItemProvider"]},{"father":"SSVURLDataConsumer","childList":["SKUIImageDataConsumer"]},{"father":"NSObject","childList":["SKUIInAppPurchase"]},{"father":"UIView","childList":["SKUIIncompatibleAppView"]},{"father":"SKUIViewController","childList":["SKUIIncompatibleAppViewController"]},{"father":"NSObject","childList":["SKUIItem"]},{"father":"NSObject","childList":["SKUIItemArtworkContext"]},{"father":"SKUIItemCellLayout","childList":["SKUIItemBrowseCellLayout"]},{"father":"SKUIItemTableViewCell","childList":["SKUIItemBrowseTableViewCell"]},{"father":"SKUICellLayout","childList":["SKUIItemCellLayout"]},{"father":"NSObject","childList":["SKUIItemCollectionController"]},{"father":"SKUICollectionViewCell","childList":["SKUIItemCollectionViewCell"]},{"father":"UICollectionViewFlowLayout","childList":["SKUIItemGridCollectionViewLayout"]},{"father":"UIViewController","childList":["SKUIItemGridViewController"]},{"father":"NSObject","childList":["SKUIItemList"]},{"father":"UITableViewController","childList":["SKUIItemListTableViewController"]},{"father":"NSObject","childList":["SKUIItemOffer"]},{"father":"UIControl","childList":["SKUIItemOfferButton"]},{"father":"NSObject","childList":["SKUIItemOfferButtonAppearance"]},{"father":"SKUIResourceRequest","childList":["SKUIItemResourceRequest"]},{"father":"SKUIItemTableViewCell","childList":["SKUIItemRoomTableViewCell"]},{"father":"NSObject","childList":["SKUIItemState"]},{"father":"NSObject","childList":["SKUIItemStateCenter"]},{"father":"SKUITableViewCell","childList":["SKUIItemTableViewCell"]},{"father":"SSVURLDataConsumer","childList":["SKUIJSONDataConsumer"]},{"father":"NSObject","childList":["SKUILayoutCache"]},{"father":"NSObject","childList":["SKUILink"]},{"father":"UIButton","childList":["SKUILinkButton"]},{"father":"SKUILoadResourceOperation","childList":["SKUILoadArtworkResourceOperation"]},{"father":"NSOperation","childList":["SKUILoadGratisEligibilityOperation"]},{"father":"SKUILoadResourceOperation","childList":["SKUILoadItemResourceOperation"]},{"father":"SKUITableViewCell","childList":["SKUILoadMoreCell"]},{"father":"SSVURLDataConsumer","childList":["SKUILoadMoreDataConsumer"]},{"father":"NSOperation","childList":["SKUILoadProductPageOperation"]},{"father":"NSOperation","childList":["SKUILoadResourceOperation"]},{"father":"SKUILoadResourceOperation","childList":["SKUILoadSortDataOperation"]},{"father":"UIView","childList":["SKUILoadingView"]},{"father":"SKUIPageComponent","childList":["SKUILockupComponent"]},{"father":"SKUIItemCellLayout","childList":["SKUILockupItemCellLayout"]},{"father":"SKUIItemCollectionViewCell","childList":["SKUILockupItemCollectionViewCell"]},{"father":"UIView","childList":["SKUILockupMetadataView"]},{"father":"SKUISwooshArtworkLoader","childList":["SKUILockupSwooshArtworkLoader"]},{"father":"SKUIStorePageSection","childList":["SKUILockupSwooshPageSection"]},{"father":"SKUISwooshViewController","childList":["SKUILockupSwooshViewController"]},{"father":"SKUICollectionViewCell","childList":["SKUIMediaCollectionViewCell"]},{"father":"SKUIPageComponent","childList":["SKUIMediaComponent"]},{"father":"SKUIStorePageSection","childList":["SKUIMediaPageSection"]},{"father":"SKUIPageComponent","childList":["SKUIMenuPageComponent"]},{"father":"SKUIStorePageSection","childList":["SKUIMenuPageSection"]},{"father":"NSObject","childList":["SKUIMenuPageSectionContext"]},{"father":"UITableViewController","childList":["SKUIMenuViewController"]},{"father":"NSObject","childList":["SKUIMetricsController"]},{"father":"NSObject","childList":["SKUIMetricsFlushTimer"]},{"father":"NSObject","childList":["SKUIMetricsImpressionSession"]},{"father":"NSObject","childList":["SKUIMissingItemLoader"]},{"father":"UIViewController","childList":["SKUINetworkErrorViewController"]},{"father":"SKUIImageDataConsumer","childList":["SKUINewsstandImageDataConsumer"]},{"father":"UIControl","childList":["SKUIOverlayContainerView"]},{"father":"UIViewController","childList":["SKUIOverlayContainerViewController"]},{"father":"NSObject","childList":["SKUIOverlayFlipTransition"]},{"father":"NSObject","childList":["SKUIPageComponent"]},{"father":"NSObject","childList":["SKUIPageComponentContext"]},{"father":"UICollectionViewCell","childList":["SKUIPageDividerCollectionViewCell"]},{"father":"UIView","childList":["SKUIPickerWrapperView"]},{"father":"UIControl","childList":["SKUIPillsControl"]},{"father":"NSObject","childList":["SKUIPopoverObserver"]},{"father":"UIView","childList":["SKUIPopupMenuHeaderView"]},{"father":"ISOperation","childList":["SKUIPostReviewOperation"]},{"father":"SKUIImageDataConsumer","childList":["SKUIProductImageDataConsumer"]},{"father":"UIView","childList":["SKUIProductInformationView"]},{"father":"NSObject","childList":["SKUIProductPage"]},{"father":"NSObject","childList":["SKUIProductPageAction"]},{"father":"UIActivityViewController","childList":["SKUIProductPageActivityViewController"]},{"father":"UIView","childList":["SKUIProductPageCopyrightView"]},{"father":"SSVURLDataConsumer","childList":["SKUIProductPageDataConsumer"]},{"father":"UIViewController","childList":["SKUIProductPageDetailsViewController"]},{"father":"UIView","childList":["SKUIProductPageFeatureView"]},{"father":"UIView","childList":["SKUIProductPageFeaturesView"]},{"father":"UIView","childList":["SKUIProductPageHeaderFloatingView"]},{"father":"UIView","childList":["SKUIProductPageHeaderLabel"]},{"father":"UIView","childList":["SKUIProductPageHeaderView"]},{"father":"UIViewController","childList":["SKUIProductPageHeaderViewController"]},{"father":"SKUITableViewCell","childList":["SKUIProductPageInAppPurchaseTableCell"]},{"father":"UIViewController","childList":["SKUIProductPageInformationViewController"]},{"father":"SKUIItem","childList":["SKUIProductPageItem"]},{"father":"NSObject","childList":["SKUIProductPageOverlayController"]},{"father":"UIScrollView","childList":["SKUIProductPagePlaceholderScrollView"]},{"father":"UIView","childList":["SKUIProductPagePlaceholderView"]},{"father":"UIViewController","childList":["SKUIProductPagePlaceholderViewController"]},{"father":"UIViewController","childList":["SKUIProductPageReviewsViewController"]},{"father":"UISegmentedControl","childList":["SKUIProductPageSegmentedControl"]},{"father":"UIControl","childList":["SKUIProductPageTableExpandableHeaderView"]},{"father":"SKUIProductPageTableSection","childList":["SKUIProductPageTableHeaderOnlySection"]},{"father":"SKUIProductPageTableSection","childList":["SKUIProductPageTableInAppPurchasesSection"]},{"father":"SKUIProductPageTableSection","childList":["SKUIProductPageTableLinksSection"]},{"father":"SKUITableViewSection","childList":["SKUIProductPageTableSection"]},{"father":"SKUIProductPageTableSection","childList":["SKUIProductPageTableTextBoxSection"]},{"father":"SKUIProductPageTableSection","childList":["SKUIProductPageTableUpdateHistorySection"]},{"father":"UITableView","childList":["SKUIProductPageTableView"]},{"father":"UIViewController","childList":["SKUIProductPageTableViewController"]},{"father":"SKUICollectionViewCell","childList":["SKUIQuicklinkCollectionViewCell"]},{"father":"SKUIPageComponent","childList":["SKUIQuicklinksPageComponent"]},{"father":"SKUIStorePageSection","childList":["SKUIQuicklinksPageSection"]},{"father":"UIView","childList":["SKUIQuicklinksView"]},{"father":"UIViewController","childList":["SKUIQuicklinksViewController"]},{"father":"NSObject","childList":["SKUIRatingStarsCache"]},{"father":"NSObject","childList":["SKUIRedeem"]},{"father":"UIView","childList":["SKUIRedeemCameraLandingView"]},{"father":"UIView","childList":["SKUIRedeemCameraView"]},{"father":"SKUIRedeemStepViewController","childList":["SKUIRedeemCameraViewController"]},{"father":"NSObject","childList":["SKUIRedeemConfiguration"]},{"father":"SKUIRedeemStepViewController","childList":["SKUIRedeemInputViewController"]},{"father":"SKUIItem","childList":["SKUIRedeemItem"]},{"father":"NSOperation","childList":["SKUIRedeemOperation"]},{"father":"SKUITableViewSection","childList":["SKUIRedeemResultLinksTableViewSection"]},{"father":"UIView","childList":["SKUIRedeemResultMessageView"]},{"father":"UITableViewCell","childList":["SKUIRedeemResultSimpleTableViewCell"]},{"father":"SKUITableViewSection","childList":["SKUIRedeemResultSimpleTableViewSection"]},{"father":"UITableView","childList":["SKUIRedeemResultsView"]},{"father":"SKUIRedeemStepViewController","childList":["SKUIRedeemResultsViewController"]},{"father":"UIViewController","childList":["SKUIRedeemStepViewController"]},{"father":"UITextField","childList":["SKUIRedeemTextField"]},{"father":"UINavigationController","childList":["SKUIRedeemViewController"]},{"father":"NSObject","childList":["SKUIReleaseNote"]},{"father":"NSOperation","childList":["SKUIReloadConfigurationOperation"]},{"father":"NSOperation","childList":["SKUIRemoveFromWishlistOperation"]},{"father":"NSObject","childList":["SKUIResourceLoader"]},{"father":"NSObject","childList":["SKUIResourceRequest"]},{"father":"NSObject","childList":["SKUIReview"]},{"father":"NSObject","childList":["SKUIReviewConfiguration"]},{"father":"NSObject","childList":["SKUIReviewList"]},{"father":"NSObject","childList":["SKUIReviewMetadata"]},{"father":"UIView","childList":["SKUIReviewsFacebookView"]},{"father":"UIViewController","childList":["SKUIReviewsFacebookViewController"]},{"father":"UIView","childList":["SKUIReviewsHistogramView"]},{"father":"UIViewController","childList":["SKUIReviewsHistogramViewController"]},{"father":"UIButton","childList":["SKUIRoundedRectButton"]},{"father":"SKUIPageComponent","childList":["SKUIRowComponent"]},{"father":"SKUIStorePageSection","childList":["SKUIRowSection"]},{"father":"UIView","childList":["SKUIScalingFlipView"]},{"father":"NSObject","childList":["SKUIScreenshot"]},{"father":"SKUIImageDataConsumer","childList":["SKUIScreenshotDataConsumer"]},{"father":"UIView","childList":["SKUIScreenshotsView"]},{"father":"UIViewController","childList":["SKUIScreenshotsViewController"]},{"father":"UIView","childList":["SKUIScrollForwardingView"]},{"father":"SKUIItemCollectionViewCell","childList":["SKUISearchCollectionViewCell"]},{"father":"SKUIItemGridCollectionViewLayout","childList":["SKUISearchCollectionViewFlowLayout"]},{"father":"NSObject","childList":["SKUISearchEditorialResult"]},{"father":"NSObject","childList":["SKUISearchFacet"]},{"father":"NSObject","childList":["SKUISearchFieldController"]},{"father":"SKUIItem","childList":["SKUISearchItem"]},{"father":"UIView","childList":["SKUISearchNoResultsView"]},{"father":"NSObject","childList":["SKUISearchPage"]},{"father":"SSVURLDataConsumer","childList":["SKUISearchPageDataConsumer"]},{"father":"NSObject","childList":["SKUISearchRelatedQuery"]},{"father":"UIView","childList":["SKUISearchRelatedView"]},{"father":"NSObject","childList":["SKUISearchResultGroup"]},{"father":"NSObject","childList":["SKUISearchResultGroupController"]},{"father":"UICollectionViewCell","childList":["SKUISearchSpellCorrectedCell"]},{"father":"SKUIViewController","childList":["SKUISearchViewController"]},{"father":"UISegmentedControl","childList":["SKUISegmentedControl"]},{"father":"UIView","childList":["SKUISegmentedTableHeaderView"]},{"father":"UIView","childList":["SKUISeparatorView"]},{"father":"UIButton","childList":["SKUIShowcaseButton"]},{"father":"UIView","childList":["SKUIShowcaseItemView"]},{"father":"SKUIPageComponent","childList":["SKUIShowcasePageComponent"]},{"father":"SKUIStorePageSection","childList":["SKUIShowcasePageSection"]},{"father":"UIViewController","childList":["SKUIShowcaseViewController"]},{"father":"UICollectionViewCell","childList":["SKUISimpleCollectionViewCell"]},{"father":"SKUIImageDataConsumer","childList":["SKUISizeToFitImageDataConsumer"]},{"father":"NSObject","childList":["SKUISlideshowAnimator"]},{"father":"NSObject","childList":["SKUISlideshowDismissalAnimator"]},{"father":"UIView","childList":["SKUISlideshowGalleryBarView"]},{"father":"UIScrollView","childList":["SKUISlideshowImageScrollView"]},{"father":"UIViewController","childList":["SKUISlideshowItemViewController"]},{"father":"UIViewController","childList":["SKUISlideshowViewController"]},{"father":"SKUIItemCellLayout","childList":["SKUISoftwareSwooshCellLayout"]},{"father":"SKUIItemCollectionViewCell","childList":["SKUISoftwareSwooshCollectionViewCell"]},{"father":"SKUIResourceRequest","childList":["SKUISortDataRequest"]},{"father":"SKUIPageComponent","childList":["SKUISpacePageComponent"]},{"father":"SKUIStorePageSection","childList":["SKUISpacePageSection"]},{"father":"UIControl","childList":["SKUIStarRatingControl"]},{"father":"NSObject","childList":["SKUIStarRatingQueue"]},{"father":"NSObject","childList":["SKUIStateRestorationContext"]},{"father":"NSObject","childList":["SKUIStoreDialogController"]},{"father":"NSObject","childList":["SKUIStoreNotes"]},{"father":"NSObject","childList":["SKUIStorePage"]},{"father":"UICollectionViewFlowLayout","childList":["SKUIStorePageCollectionViewLayout"]},{"father":"SSVURLDataConsumer","childList":["SKUIStorePageDataConsumer"]},{"father":"NSObject","childList":["SKUIStorePageSection"]},{"father":"NSObject","childList":["SKUIStorePageSectionContext"]},{"father":"UIViewController","childList":["SKUIStorePageViewController"]},{"father":"UIViewController","childList":["SKUISwooshArrayViewController"]},{"father":"NSObject","childList":["SKUISwooshArtworkLoader"]},{"father":"UICollectionViewFlowLayout","childList":["SKUISwooshCollectionViewLayout"]},{"father":"SKUIPageComponent","childList":["SKUISwooshPageComponent"]},{"father":"UIView","childList":["SKUISwooshView"]},{"father":"UIViewController","childList":["SKUISwooshViewController"]},{"father":"NSOperation","childList":["SKUISyncWishlistOperation"]},{"father":"UITableViewCell","childList":["SKUITableViewCell"]},{"father":"NSObject","childList":["SKUITableViewSection"]},{"father":"UIActivityItemProvider","childList":["SKUITextActivityItemProvider"]},{"father":"SKUITableViewCell","childList":["SKUITextBoxTableViewCell"]},{"father":"UIControl","childList":["SKUITextBoxView"]},{"father":"NSObject","childList":["SKUITextLayout"]},{"father":"NSObject","childList":["SKUITextLayoutRequest"]},{"father":"UICollectionViewCell","childList":["SKUITrailersCell"]},{"father":"NSObject","childList":["SKUIURL"]},{"father":"UIActivityItemProvider","childList":["SKUIURLActivityItemProvider"]},{"father":"SSURLConnectionRequest","childList":["SKUIURLConnectionRequest"]},{"father":"NSObject","childList":["SKUIUber"]},{"father":"SKUIImageDataConsumer","childList":["SKUIUberImageDataConsumer"]},{"father":"NSObject","childList":["SKUIVideo"]},{"father":"SKUIImageDataConsumer","childList":["SKUIVideoImageDataConsumer"]},{"father":"UIViewController","childList":["SKUIViewController"]},{"father":"SUViewControllerFactory","childList":["SKUIViewControllerFactory"]},{"father":"NSObject","childList":["SKUIWishlist"]},{"father":"SSVURLDataConsumer","childList":["SKUIWishlistDataConsumer"]},{"father":"SKUIViewController","childList":["SKUIWishlistViewController"]},{"father":"UIView","childList":["_SKUIItemBrowseCellContentView"]}]}
+{
+  "name": "StoreKitUI.framework",
+  "list": [
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SKUIItemBrowseCellContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIWishlistViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSVURLDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIWishlistDataConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIWishlist",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUViewControllerFactory",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIViewControllerFactory",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIImageDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIUberImageDataConsumer",
+          "children": []
+        },
+        {
+          "name": "SKUIVideoImageDataConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSURLConnectionRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIURLConnectionRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityItemProvider",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIURLActivityItemProvider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUITrailersCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUITextBoxView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUITextBoxTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUITableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISyncWishlistOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIPageComponent",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISwooshPageComponent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewFlowLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIStorePageCollectionViewLayout",
+          "children": []
+        },
+        {
+          "name": "SKUISwooshCollectionViewLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIStorePageSection",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISpacePageSection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIResourceRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISortDataRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIItemCollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISoftwareSwooshCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIItemCellLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISoftwareSwooshCellLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISlideshowImageScrollView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIShowcaseButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISegmentedControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISegmentedControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISearchItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIItemGridCollectionViewLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUISearchCollectionViewFlowLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIRedeemViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIRedeemTextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIRedeemStepViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIRedeemResultsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIRedeemResultsView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUITableViewSection",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIRedeemResultLinksTableViewSection",
+          "children": []
+        },
+        {
+          "name": "SKUIRedeemResultSimpleTableViewSection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIQuicklinkCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIProductPageTableSection",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIProductPageTableHeaderOnlySection",
+          "children": []
+        },
+        {
+          "name": "SKUIProductPageTableInAppPurchasesSection",
+          "children": []
+        },
+        {
+          "name": "SKUIProductPageTableLinksSection",
+          "children": []
+        },
+        {
+          "name": "SKUIProductPageTableTextBoxSection",
+          "children": []
+        },
+        {
+          "name": "SKUIProductPageTableUpdateHistorySection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIProductPageActivityViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIPostReviewOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIMenuViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUISwooshViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUILockupSwooshViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUISwooshArtworkLoader",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUILockupSwooshArtworkLoader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUILoadResourceOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUILoadArtworkResourceOperation",
+          "children": []
+        },
+        {
+          "name": "SKUILoadItemResourceOperation",
+          "children": []
+        },
+        {
+          "name": "SKUILoadSortDataOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIItemTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIItemRoomTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUICellLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIItemCellLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUStorePageViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIITunesStoreUIPageViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionReusableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIIPadSearchSeparatorView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIGiftStepViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIGiftThemePickerViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIGiftThemeCollectionView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIGiftTableViewSection",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIGiftSendDateSection",
+          "children": []
+        },
+        {
+          "name": "SKUIGiftTermsAndConditionsSection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFComposeRecipientView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIGiftComposeRecipientView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIGiftActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIFocusedTouchGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIDonationStepViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIDonationAmountViewController",
+          "children": []
+        },
+        {
+          "name": "SKUIDonationResultViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKStoreProductViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIDismissingProductViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUICountdownFlapView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUNavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIComposeReviewViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIComposeReviewFormViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayoutAttributes",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUICollectionViewLayoutAttributes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIStorePage",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIChartsPage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKUIStorePageDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIChartsDataConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSVURLProtocolConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKUIApplicationLicenseDataConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKScriptStoreSheetRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptInterface",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKScriptInterface",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISearchDisplayController",
+      "parent": null,
+      "children": [
+        {
+          "name": "ASSearchDisplayController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

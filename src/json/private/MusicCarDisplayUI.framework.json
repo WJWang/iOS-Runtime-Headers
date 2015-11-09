@@ -1,1 +1,115 @@
-{"name":"MusicCarDisplayUI.framework","list":[{"father":"MSSongsTableViewController","childList":["MSAlbumSongsTableViewController"]},{"father":"MSSectionedTableViewController","childList":["MSAlbumsTableViewController"]},{"father":"UIView","childList":["MSAndOthersLabel"]},{"father":"MSSectionedTableViewController","childList":["MSArtistsTableViewController"]},{"father":"MSTableViewController","childList":["MSAudiobookPartsTableViewController"]},{"father":"MSSectionedTableViewController","childList":["MSAudiobooksTableViewController"]},{"father":"UINavigationController","childList":["MSBrowserViewController"]},{"father":"MSSectionedTableViewController","childList":["MSCompilationsTableViewController"]},{"father":"MSSectionedTableViewController","childList":["MSComposersTableViewController"]},{"father":"UIViewController","childList":["MSErrorViewController"]},{"father":"UIViewController","childList":["MSGeniusMixViewController"]},{"father":"UIPageViewController","childList":["MSGeniusMixesViewController"]},{"father":"MSTableViewController","childList":["MSGenresTableViewController"]},{"father":"UIViewController","childList":["MSKnobNowPlayingOptionsViewController"]},{"father":"UITableViewCell","childList":["MSNowPlayingBackSideTableViewCell"]},{"father":"UIViewController","childList":["MSNowPlayingBackSideViewController"]},{"father":"UIButton","childList":["MSNowPlayingButton"]},{"father":"UIView","childList":["MSNowPlayingView"]},{"father":"UIViewController","childList":["MSNowPlayingViewController"]},{"father":"UIView","childList":["MSPlayModeControlView"]},{"father":"UIViewController","childList":["MSPlayModeControlViewController"]},{"father":"MSSongsTableViewController","childList":["MSPlaylistSongsTableViewController"]},{"father":"MSTableViewController","childList":["MSPlaylistsTableViewController"]},{"father":"MSTableViewController","childList":["MSPodcastEpisodesTableViewController"]},{"father":"MSSectionedTableViewController","childList":["MSPodcastsTableViewController"]},{"father":"UIViewController","childList":["MSRadioNowPlayingOptionsViewController"]},{"father":"MSTableViewController","childList":["MSRadioStationListViewController"]},{"father":"MSTableViewController","childList":["MSRadioViewController"]},{"father":"NSObject","childList":["MSRootController"]},{"father":"MSTableViewController","childList":["MSSectionedTableViewController"]},{"father":"MSSectionedTableViewController","childList":["MSSongsTableViewController"]},{"father":"UITableViewController","childList":["MSTableViewController"]},{"father":"UIView","childList":["MSTransportControlView"]},{"father":"UIViewController","childList":["MSTransportControlViewController"]},{"father":"MSTableViewController","childList":["MSiTunesUEpisodesTableViewController"]},{"father":"MSSectionedTableViewController","childList":["MSiTunesUTableViewController"]}]}
+{
+  "name": "MusicCarDisplayUI.framework",
+  "list": [
+    {
+      "name": "MSSectionedTableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSiTunesUTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSTableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSiTunesUEpisodesTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTransportControlViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTransportControlView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSRootController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSSongsTableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSPlaylistSongsTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSNowPlayingButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSNowPlayingBackSideTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPageViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSGeniusMixesViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSBrowserViewController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

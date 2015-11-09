@@ -1,1 +1,43 @@
-{"name":"VisualVoicemail.framework","list":[{"father":"NSObject","childList":["VMAccount"]},{"father":"NSObject","childList":["VMServiceClient"]},{"father":"NSObject","childList":["VMVoicemail"]},{"father":"NSObject","childList":["VMXPCMessageResult"]},{"father":"NSObject","childList":["VVCarrierParameters"]},{"father":"NSObject","childList":["VVNotificationInterpreter"]},{"father":"NSObject","childList":["VVService"]},{"father":"NSObject","childList":["VVVerifier"]}]}
+{
+  "name": "VisualVoicemail.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "VMAccount",
+          "children": []
+        },
+        {
+          "name": "VMServiceClient",
+          "children": []
+        },
+        {
+          "name": "VMVoicemail",
+          "children": []
+        },
+        {
+          "name": "VMXPCMessageResult",
+          "children": []
+        },
+        {
+          "name": "VVCarrierParameters",
+          "children": []
+        },
+        {
+          "name": "VVNotificationInterpreter",
+          "children": []
+        },
+        {
+          "name": "VVService",
+          "children": []
+        },
+        {
+          "name": "VVVerifier",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

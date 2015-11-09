@@ -1,1 +1,33 @@
-{"name":"AccountSettings.framework","list":[{"father":"NSObject","childList":["ASRuntimeFixMailAccount"]},{"father":"NSObject","childList":["AccountsManager"]},{"father":"NSObject","childList":["BasicAccount"]},{"father":"BasicAccount","childList":["DeviceLocalAccount"]}]}
+{
+  "name": "AccountSettings.framework",
+  "list": [
+    {
+      "name": "BasicAccount",
+      "parent": null,
+      "children": [
+        {
+          "name": "DeviceLocalAccount",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ASRuntimeFixMailAccount",
+          "children": []
+        },
+        {
+          "name": "AccountsManager",
+          "children": []
+        },
+        {
+          "name": "BasicAccount",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

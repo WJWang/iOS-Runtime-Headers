@@ -1,1 +1,61 @@
-{"name":"Notes.framework","list":[{"father":"NSObject","childList":["AccountUtilities"]},{"father":"NSManagedObject","childList":["MNFNoteProperty"]},{"father":"NoteCollectionObject","childList":["NoteAccountObject"]},{"father":"NSManagedObject","childList":["NoteBodyObject"]},{"father":"NSManagedObject","childList":["NoteChangeObject"]},{"father":"NSManagedObject","childList":["NoteCollectionObject"]},{"father":"NSObject","childList":["NoteContext"]},{"father":"NSManagedObject","childList":["NoteObject"]},{"father":"NSMergePolicy","childList":["NoteResurrectionMergePolicy"]},{"father":"NSObject","childList":["NoteSearchContext"]},{"father":"NoteCollectionObject","childList":["NoteStoreObject"]}]}
+{
+  "name": "Notes.framework",
+  "list": [
+    {
+      "name": "NoteCollectionObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "NoteStoreObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "NoteSearchContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMergePolicy",
+      "parent": null,
+      "children": [
+        {
+          "name": "NoteResurrectionMergePolicy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MNFNoteProperty",
+          "children": []
+        },
+        {
+          "name": "NoteBodyObject",
+          "children": []
+        },
+        {
+          "name": "NoteChangeObject",
+          "children": []
+        },
+        {
+          "name": "NoteCollectionObject",
+          "children": []
+        },
+        {
+          "name": "NoteObject",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

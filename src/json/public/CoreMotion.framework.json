@@ -1,1 +1,101 @@
-{"name":"CoreMotion.framework","list":[{"father":"CLNotifierServiceAdapter","childList":["CLCompassDatabaseAdapter"]},{"father":"NSObject","childList":["CLDeviceMotionProperties"]},{"father":"CLSilo","childList":["CLDispatchSilo"]},{"father":"NSObject","childList":["CLDispatchTimerScheduler"]},{"father":"CLNotifierServiceAdapter","childList":["CLGeomagneticModelProviderAdapter"]},{"father":"CLNotifierServiceAdapter","childList":["CLGyroCalibrationDatabaseAdapter"]},{"father":"NSObject","childList":["CLIntersiloInterface"]},{"father":"NSObject","childList":["CLIntersiloInterfaceSelectorInfo"]},{"father":"NSProxy","childList":["CLIntersiloProxy"]},{"father":"NSObject","childList":["CLIntersiloService"]},{"father":"NSObject","childList":["CLNotifierClientAdapter"]},{"father":"NSObject","childList":["CLNotifierData"]},{"father":"CLIntersiloService","childList":["CLNotifierServiceAdapter"]},{"father":"NSObject","childList":["CLServiceVendor"]},{"father":"NSObject","childList":["CLServiceVendorHeartbeatRecord"]},{"father":"NSObject","childList":["CLSilo"]},{"father":"NSObject","childList":["CLTimer"]},{"father":"CMLogItem","childList":["CMAccelerometerData"]},{"father":"NSObject","childList":["CMAccelerometerDataInternal"]},{"father":"CMLogItem","childList":["CMActivity"]},{"father":"NSObject","childList":["CMActivityAlarm"]},{"father":"NSObject","childList":["CMActivityAlarmProxy"]},{"father":"NSObject","childList":["CMActivityInternal"]},{"father":"NSObject","childList":["CMActivityManager"]},{"father":"NSObject","childList":["CMActivityManagerInternal"]},{"father":"NSObject","childList":["CMAttitude"]},{"father":"NSObject","childList":["CMAttitudeInternal"]},{"father":"CMLogItem","childList":["CMDeviceMotion"]},{"father":"NSObject","childList":["CMDeviceMotionInternal"]},{"father":"CMLogItem","childList":["CMDeviceOrientation"]},{"father":"NSObject","childList":["CMDeviceOrientationInternal"]},{"father":"NSObject","childList":["CMDeviceOrientationManager"]},{"father":"NSObject","childList":["CMDeviceOrientationManagerInternal"]},{"father":"NSObject","childList":["CMGestureManager"]},{"father":"NSObject","childList":["CMGestureManagerInternal"]},{"father":"CMLogItem","childList":["CMGyroData"]},{"father":"NSObject","childList":["CMGyroDataInternal"]},{"father":"NSObject","childList":["CMLogItem"]},{"father":"NSObject","childList":["CMLogItemInternal"]},{"father":"CMLogItem","childList":["CMMagnetometerData"]},{"father":"NSObject","childList":["CMMagnetometerDataInternal"]},{"father":"CMLogItem","childList":["CMMotionActivity"]},{"father":"NSObject","childList":["CMMotionActivityManager"]},{"father":"NSObject","childList":["CMMotionManager"]},{"father":"NSObject","childList":["CMMotionManagerInternal"]},{"father":"NSObject","childList":["CMMotionUtils"]},{"father":"CMLogItem","childList":["CMOnBodyStatus"]},{"father":"NSObject","childList":["CMOnBodyStatusManager"]},{"father":"NSObject","childList":["CMStepCounter"]}]}
+{
+  "name": "CoreMotion.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMOnBodyStatusManager",
+          "children": []
+        },
+        {
+          "name": "CMStepCounter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMLogItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMAccelerometerData",
+          "children": []
+        },
+        {
+          "name": "CMActivity",
+          "children": []
+        },
+        {
+          "name": "CMDeviceMotion",
+          "children": []
+        },
+        {
+          "name": "CMDeviceOrientation",
+          "children": []
+        },
+        {
+          "name": "CMGyroData",
+          "children": []
+        },
+        {
+          "name": "CMMagnetometerData",
+          "children": []
+        },
+        {
+          "name": "CMMotionActivity",
+          "children": []
+        },
+        {
+          "name": "CMOnBodyStatus",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CLIntersiloService",
+      "parent": null,
+      "children": [
+        {
+          "name": "CLNotifierServiceAdapter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSProxy",
+      "parent": null,
+      "children": [
+        {
+          "name": "CLIntersiloProxy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CLNotifierServiceAdapter",
+      "parent": null,
+      "children": [
+        {
+          "name": "CLGeomagneticModelProviderAdapter",
+          "children": []
+        },
+        {
+          "name": "CLGyroCalibrationDatabaseAdapter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CLSilo",
+      "parent": null,
+      "children": [
+        {
+          "name": "CLDispatchSilo",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

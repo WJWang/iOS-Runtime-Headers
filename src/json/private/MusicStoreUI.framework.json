@@ -1,1 +1,165 @@
-{"name":"MusicStoreUI.framework","list":[{"father":"UIView","childList":["MSAudioProgressView"]},{"father":"SUClientApplicationController","childList":["MSClientApplicationController"]},{"father":"NSObject","childList":["MSLibraryLinkItem"]},{"father":"UIView","childList":["MSPieImageView"]},{"father":"SUPurchaseBatch","childList":["MSPurchaseBatch"]},{"father":"SUViewController","childList":["MSPurchasesViewController"]},{"father":"NSObject","childList":["MSSearchLinkItem"]},{"father":"SUStructuredPageGroupedTableDataSource","childList":["MSStructuredPageTableDataSource"]},{"father":"SUStructuredPageGroupedViewController","childList":["MSStructuredPageViewController"]},{"father":"SUTableCell","childList":["MSTableCell"]},{"father":"SUPurchaseContinuation","childList":["MSTonePurchaseContinuation"]},{"father":"SUMediaItemCellConfiguration","childList":["MSTrackListCellConfiguration"]},{"father":"SUMediaItemCellContext","childList":["MSTrackListCellContext"]},{"father":"UIView","childList":["MSTrackListCopyrightFooterView"]},{"father":"MSStructuredPageTableDataSource","childList":["MSTrackListDataSource"]},{"father":"UIView","childList":["MSTrackListHeaderView"]},{"father":"SUItemCellConfiguration","childList":["MSTrackListLinkCellConfiguration"]},{"father":"SULoadMoreMediaCellConfiguration","childList":["MSTrackListLoadMoreCellConfiguration"]},{"father":"UIView","childList":["MSTrackListTableHeaderView"]},{"father":"MSStructuredPageViewController","childList":["MSTrackListViewController"]},{"father":"SUViewControllerFactory","childList":["MSViewControllerFactory"]},{"father":"SUViewController","childList":["MSVolumeViewController"]}]}
+{
+  "name": "MusicStoreUI.framework",
+  "list": [
+    {
+      "name": "SUViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSVolumeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUViewControllerFactory",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSViewControllerFactory",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSStructuredPageViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTrackListViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTrackListTableHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SULoadMoreMediaCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTrackListLoadMoreCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUItemCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTrackListLinkCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSStructuredPageTableDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTrackListDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUMediaItemCellContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTrackListCellContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUMediaItemCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTrackListCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUPurchaseContinuation",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTonePurchaseContinuation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTableCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUStructuredPageGroupedViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSStructuredPageViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUStructuredPageGroupedTableDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSStructuredPageTableDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSSearchLinkItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUPurchaseBatch",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSPurchaseBatch",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUClientApplicationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSClientApplicationController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

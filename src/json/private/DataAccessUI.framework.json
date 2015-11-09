@@ -1,1 +1,55 @@
-{"name":"DataAccessUI.framework","list":[{"father":"PSDetailController","childList":["DADiagnosticsNotesController"]},{"father":"PSEditingPane","childList":["DADiagnosticsNotesPane"]},{"father":"PSListController","childList":["DADiagnosticsPSController"]},{"father":"ACUIViewController","childList":["DASettingsAccountsUIController"]},{"father":"ACUIDataclassConfigurationViewController","childList":["DASettingsDataclassConfigurationViewController"]}]}
+{
+  "name": "DataAccessUI.framework",
+  "list": [
+    {
+      "name": "ACUIDataclassConfigurationViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DASettingsDataclassConfigurationViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ACUIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DASettingsAccountsUIController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DADiagnosticsPSController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSEditingPane",
+      "parent": null,
+      "children": [
+        {
+          "name": "DADiagnosticsNotesPane",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSDetailController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DADiagnosticsNotesController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

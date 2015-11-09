@@ -1,1 +1,27 @@
-{"name":"CommunicationsFilter.framework","list":[{"father":"NSObject","childList":["CommunicationFilterItem"]},{"father":"NSObject","childList":["CommunicationFilterItemCache"]},{"father":"NSObject","childList":["CommunicationsFilterBlockList"]},{"father":"NSObject","childList":["CommunicationsFilterBlockListCache"]}]}
+{
+  "name": "CommunicationsFilter.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CommunicationFilterItem",
+          "children": []
+        },
+        {
+          "name": "CommunicationFilterItemCache",
+          "children": []
+        },
+        {
+          "name": "CommunicationsFilterBlockList",
+          "children": []
+        },
+        {
+          "name": "CommunicationsFilterBlockListCache",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

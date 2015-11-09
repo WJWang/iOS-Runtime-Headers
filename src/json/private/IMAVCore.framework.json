@@ -1,1 +1,59 @@
-{"name":"IMAVCore.framework","list":[{"father":"NSObject","childList":["IMAVCallManager"]},{"father":"NSObject","childList":["IMAVCamera"]},{"father":"NSObject","childList":["IMAVCameraController"]},{"father":"NSObject","childList":["IMAVChat"]},{"father":"NSObject","childList":["IMAVChatParticipant"]},{"father":"NSObject","childList":["IMAVChatParticipantCallInfo"]},{"father":"NSObject","childList":["IMAVChatParticipantProxy"]},{"father":"NSObject","childList":["IMAVChatProxy"]},{"father":"IMAVInterface","childList":["IMAVConferenceInterface"]},{"father":"NSObject","childList":["IMAVController"]},{"father":"NSObject","childList":["IMAVDVDController"]},{"father":"NSObject","childList":["IMAVDaemonController"]},{"father":"NSObject","childList":["IMAVDaemonListener"]},{"father":"IMAVConferenceInterface","childList":["IMAVEmbeddedInterface"]},{"father":"NSObject","childList":["IMAVHandler"]},{"father":"NSObject","childList":["IMAVInterface"]},{"father":"NSObject","childList":["IMAVLocalPreviewClient"]},{"father":"NSObject","childList":["IMAVMicrophone"]},{"father":"NSObject","childList":["IMAVMicrophoneController"]},{"father":"NSObject","childList":["IMAVTelephonyManager"]},{"father":"NSObject","childList":["IMAViTunesController"]}]}
+{
+  "name": "IMAVCore.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMAVHandler",
+          "children": []
+        },
+        {
+          "name": "IMAVInterface",
+          "children": []
+        },
+        {
+          "name": "IMAVLocalPreviewClient",
+          "children": []
+        },
+        {
+          "name": "IMAVMicrophone",
+          "children": []
+        },
+        {
+          "name": "IMAVMicrophoneController",
+          "children": []
+        },
+        {
+          "name": "IMAVTelephonyManager",
+          "children": []
+        },
+        {
+          "name": "IMAViTunesController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMAVConferenceInterface",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMAVEmbeddedInterface",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMAVInterface",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMAVConferenceInterface",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,2040 @@
-{"name":"OfficeImport.framework","list":[{"father":"NSObject","childList":["CHAutoStyling"]},{"father":"NSObject","childList":["CHBArea2DType"]},{"father":"NSObject","childList":["CHBArea3DType"]},{"father":"CHAutoStyling","childList":["CHBAutoStyling"]},{"father":"NSObject","childList":["CHBAxis"]},{"father":"NSObject","childList":["CHBBar2DType"]},{"father":"NSObject","childList":["CHBBar3DSeries"]},{"father":"NSObject","childList":["CHBBar3DType"]},{"father":"NSObject","childList":["CHBCategoryAxis"]},{"father":"NSObject","childList":["CHBChart"]},{"father":"NSObject","childList":["CHBChartType"]},{"father":"NSObject","childList":["CHBChartTypeWithGrouping"]},{"father":"NSObject","childList":["CHBData"]},{"father":"NSObject","childList":["CHBDataLabel"]},{"father":"NSObject","childList":["CHBDataValueProperties"]},{"father":"NSObject","childList":["CHBDateAxis"]},{"father":"NSObject","childList":["CHBDefaultTextProperties"]},{"father":"NSObject","childList":["CHBErrorBar"]},{"father":"NSObject","childList":["CHBGraphicProperties"]},{"father":"NSObject","childList":["CHBLegend"]},{"father":"NSObject","childList":["CHBLine2DType"]},{"father":"NSObject","childList":["CHBLine3DType"]},{"father":"NSObject","childList":["CHBLineSeries"]},{"father":"NSObject","childList":["CHBLineType"]},{"father":"NSObject","childList":["CHBMarker"]},{"father":"NSObject","childList":["CHBPie2DType"]},{"father":"NSObject","childList":["CHBPie3DType"]},{"father":"NSObject","childList":["CHBPieDataValueProperties"]},{"father":"NSObject","childList":["CHBPieSeries"]},{"father":"NSObject","childList":["CHBPlotArea"]},{"father":"NSObject","childList":["CHBReader"]},{"father":"CHBState","childList":["CHBReaderState"]},{"father":"NSObject","childList":["CHBScatterSeries"]},{"father":"NSObject","childList":["CHBScatterType"]},{"father":"NSObject","childList":["CHBSeries"]},{"father":"NSObject","childList":["CHBSeriesAxis"]},{"father":"NSObject","childList":["CHBState"]},{"father":"NSObject","childList":["CHBString"]},{"father":"NSObject","childList":["CHBTitle"]},{"father":"NSObject","childList":["CHBTrendLine"]},{"father":"NSObject","childList":["CHBTrendLineLabel"]},{"father":"NSObject","childList":["CHBUnsupportedSeries"]},{"father":"NSObject","childList":["CHBUnsupportedType"]},{"father":"NSObject","childList":["CHBValueAxis"]},{"father":"NSObject","childList":["CHBView3D"]},{"father":"NSObject","childList":["CHCMessages"]},{"father":"CHDAnchor","childList":["CHDAbsoluteSizeAnchor"]},{"father":"NSObject","childList":["CHDAnchor"]},{"father":"CHDChartTypeWithGrouping","childList":["CHDArea2DType"]},{"father":"CHDArea2DType","childList":["CHDArea3DType"]},{"father":"NSObject","childList":["CHDAutomaticObject"]},{"father":"EDKeyedCollection","childList":["CHDAxesCollection"]},{"father":"NSObject","childList":["CHDAxis"]},{"father":"CHDChartTypeWithGrouping","childList":["CHDBar2DType"]},{"father":"CHDSeries","childList":["CHDBar3DSeries"]},{"father":"CHDBar2DType","childList":["CHDBar3DType"]},{"father":"CHDUnsupportedType","childList":["CHDBubbleType"]},{"father":"CHDAxis","childList":["CHDCategoryAxis"]},{"father":"OADGraphic","childList":["CHDChart"]},{"father":"NSObject","childList":["CHDChartType"]},{"father":"CHDChartType","childList":["CHDChartTypeWithGrouping"]},{"father":"EDCollection","childList":["CHDChartTypesCollection"]},{"father":"NSObject","childList":["CHDData"]},{"father":"NSObject","childList":["CHDDataLabel"]},{"father":"NSObject","childList":["CHDDataValue"]},{"father":"NSObject","childList":["CHDDataValueProperties"]},{"father":"NSObject","childList":["CHDDataValuesCollection"]},{"father":"CHDAxis","childList":["CHDDateAxis"]},{"father":"EDKeyedCollection","childList":["CHDDefaultTextProperties"]},{"father":"NSObject","childList":["CHDDefaultTextProperty"]},{"father":"NSObject","childList":["CHDErrorBar"]},{"father":"EDFormula","childList":["CHDFormula"]},{"father":"NSObject","childList":["CHDLegend"]},{"father":"NSObject","childList":["CHDLegendEntry"]},{"father":"CHDLineType","childList":["CHDLine2DType"]},{"father":"CHDLineType","childList":["CHDLine3DType"]},{"father":"CHDSeries","childList":["CHDLineSeries"]},{"father":"CHDChartTypeWithGrouping","childList":["CHDLineType"]},{"father":"NSObject","childList":["CHDMarker"]},{"father":"NSObject","childList":["CHDOfficeArtClient"]},{"father":"CHDSeries","childList":["CHDPie2DSeries"]},{"father":"CHDChartType","childList":["CHDPie2DType"]},{"father":"CHDPie2DType","childList":["CHDPie3DType"]},{"father":"CHDDataValueProperties","childList":["CHDPieDataValueProperties"]},{"father":"CHDSeries","childList":["CHDPieSeries"]},{"father":"NSObject","childList":["CHDPlotArea"]},{"father":"CHDUnsupportedType","childList":["CHDRadarType"]},{"father":"CHDAnchor","childList":["CHDRelativeSizeAnchor"]},{"father":"CHDLineSeries","childList":["CHDScatterSeries"]},{"father":"CHDChartType","childList":["CHDScatterType"]},{"father":"NSObject","childList":["CHDSeries"]},{"father":"CHDAxis","childList":["CHDSeriesAxis"]},{"father":"EDSortedCollection","childList":["CHDSeriesCollection"]},{"father":"CHDUnsupportedType","childList":["CHDSurfaceType"]},{"father":"NSObject","childList":["CHDTitle"]},{"father":"NSObject","childList":["CHDTrendline"]},{"father":"NSObject","childList":["CHDTrendlineLabel"]},{"father":"CHDSeries","childList":["CHDUnsupportedSeries"]},{"father":"CHDChartType","childList":["CHDUnsupportedType"]},{"father":"CHDAxis","childList":["CHDValueAxis"]},{"father":"NSObject","childList":["CHDView3D"]},{"father":"EDProcessor","childList":["CHPCachedValuesRetriever"]},{"father":"EDProcessor","childList":["CHPCategoryAndSeriesReordering"]},{"father":"EDProcessor","childList":["CHPChangeDirection"]},{"father":"EDProcessor","childList":["CHPChartDirection"]},{"father":"EDProcessor","childList":["CHPScatterWithStringValueX"]},{"father":"EDProcessor","childList":["CHPSeriesDateTimeFormatting"]},{"father":"EDProcessor","childList":["CHPSeriesNameSynthesizer"]},{"father":"EDProcessor","childList":["CHPSeriesValueSynthesizer"]},{"father":"EDProcessor","childList":["CHPValueAxisFormatting"]},{"father":"NSObject","childList":["CHXArea2DType"]},{"father":"NSObject","childList":["CHXArea3DType"]},{"father":"CHAutoStyling","childList":["CHXAutoStyling"]},{"father":"NSObject","childList":["CHXAxis"]},{"father":"NSObject","childList":["CHXBar2DType"]},{"father":"NSObject","childList":["CHXBar3DSeries"]},{"father":"NSObject","childList":["CHXBar3DType"]},{"father":"NSObject","childList":["CHXCategoryAxis"]},{"father":"NSObject","childList":["CHXChart"]},{"father":"NSObject","childList":["CHXChartType"]},{"father":"NSObject","childList":["CHXData"]},{"father":"NSObject","childList":["CHXDataLabel"]},{"father":"NSObject","childList":["CHXDataValue"]},{"father":"NSObject","childList":["CHXDataValueProperties"]},{"father":"NSObject","childList":["CHXDateAxis"]},{"father":"NSObject","childList":["CHXDoughnutType"]},{"father":"OAXDrawingState","childList":["CHXDrawingState"]},{"father":"NSObject","childList":["CHXErrorBar"]},{"father":"NSObject","childList":["CHXFont"]},{"father":"NSObject","childList":["CHXGraphicProperties"]},{"father":"NSObject","childList":["CHXLayout"]},{"father":"NSObject","childList":["CHXLegend"]},{"father":"NSObject","childList":["CHXLine2DType"]},{"father":"NSObject","childList":["CHXLine3DType"]},{"father":"NSObject","childList":["CHXLineSeries"]},{"father":"NSObject","childList":["CHXLineType"]},{"father":"NSObject","childList":["CHXMarker"]},{"father":"NSObject","childList":["CHXOfPieType"]},{"father":"NSObject","childList":["CHXPie2DSeries"]},{"father":"NSObject","childList":["CHXPie2DType"]},{"father":"NSObject","childList":["CHXPie3DType"]},{"father":"NSObject","childList":["CHXPieDataValueProperties"]},{"father":"NSObject","childList":["CHXPieSeries"]},{"father":"NSObject","childList":["CHXPlotArea"]},{"father":"NSObject","childList":["CHXReader"]},{"father":"NSObject","childList":["CHXScatterSeries"]},{"father":"NSObject","childList":["CHXScatterType"]},{"father":"NSObject","childList":["CHXSeries"]},{"father":"NSObject","childList":["CHXSeriesAxis"]},{"father":"NSObject","childList":["CHXState"]},{"father":"NSObject","childList":["CHXStockType"]},{"father":"NSObject","childList":["CHXString"]},{"father":"NSObject","childList":["CHXTitle"]},{"father":"NSObject","childList":["CHXTrendline"]},{"father":"NSObject","childList":["CHXTrendlineLabel"]},{"father":"NSObject","childList":["CHXUnsupportedSeries"]},{"father":"NSObject","childList":["CHXUnsupportedType"]},{"father":"NSObject","childList":["CHXUserShapes"]},{"father":"NSObject","childList":["CHXValueAxis"]},{"father":"NSObject","childList":["CHXView3D"]},{"father":"NSObject","childList":["CMArchiveManager"]},{"father":"CMProperty","childList":["CMBordersProperty"]},{"father":"CMShapeBuilder","childList":["CMCanonicalShapeBuilder"]},{"father":"CMProperty","childList":["CMColorProperty"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramArrowMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramChevronMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramContinuousArrowMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramListMapper"]},{"father":"CMDrawableMapper","childList":["CMDiagramMapper"]},{"father":"NSObject","childList":["CMDiagramNodeInfo"]},{"father":"NSObject","childList":["CMDiagramNodeLayout"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointArrowMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointChevronMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointContinuousArrowMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointEllipseMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointListBaseMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointListItemL1Mapper"]},{"father":"CMMapper","childList":["CMDiagramPointMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointPyramidLayerMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointRoundedRectMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointSegmentedPieMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointSegmentedPyramidLayerMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointTextMapper"]},{"father":"CMDiagramPointMapper","childList":["CMDiagramPointTransitionMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramPyramidMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramSegmentedPieMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramSegmentedPyramidMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramShapeArrow4Mapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramShapeCycleMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramShapeHierarchyMapper"]},{"father":"CMDiagramMapper","childList":["CMDiagramShapeMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramShapeMatrixMapper"]},{"father":"CMDiagramShapeMapper","childList":["CMDiagramShapeVennMapper"]},{"father":"CMArchiveManager","childList":["CMDictArchiveManager"]},{"father":"CMMapper","childList":["CMDrawableMapper"]},{"father":"EMCellStyle","childList":["CMDrawableStyle"]},{"father":"NSObject","childList":["CMDrawingAction"]},{"father":"NSObject","childList":["CMDrawingContext"]},{"father":"NSObject","childList":["CMFileManager"]},{"father":"NSObject","childList":["CMFrameUtils"]},{"father":"CMLineShapeBuilder","childList":["CMFreeFormShapeBuilder"]},{"father":"NSObject","childList":["CMGlobalCache"]},{"father":"CMMapper","childList":["CMImageFillMapper"]},{"father":"CMProperty","childList":["CMLengthProperty"]},{"father":"CMShapeBuilder","childList":["CMLineShapeBuilder"]},{"father":"NSObject","childList":["CMMapper"]},{"father":"NSObject","childList":["CMOutlineState"]},{"father":"CMArchiveManager","childList":["CMProgressiveArchiveManager"]},{"father":"NSObject","childList":["CMProperty"]},{"father":"NSObject","childList":["CMShapeBuilder"]},{"father":"NSObject","childList":["CMShapeRenderer"]},{"father":"NSObject","childList":["CMShapeUtils"]},{"father":"NSObject","childList":["CMState"]},{"father":"CMProperty","childList":["CMStringProperty"]},{"father":"NSObject","childList":["CMStyle"]},{"father":"NSObject","childList":["CMTableGridInfo"]},{"father":"NSObject","childList":["CMTextFilter"]},{"father":"CMProperty","childList":["CMToggleProperty"]},{"father":"NSObject","childList":["CMTop"]},{"father":"NSObject","childList":["CMXmlUtils"]},{"father":"NSObject","childList":["CPBundleLookupClass"]},{"father":"NSException","childList":["CPBundleResourceException"]},{"father":"NSObject","childList":["CPBundleResourceManager"]},{"father":"NSObject","childList":["CPBundleResourcePackage"]},{"father":"NSObject","childList":["CPBundleResourcePackageEntry"]},{"father":"NSObject","childList":["CPColorPalettizer"]},{"father":"NSObject","childList":["CPCommonMessages"]},{"father":"CPDumpType","childList":["CPDumpArray"]},{"father":"NSObject","childList":["CPDumpBinaryToXmlState"]},{"father":"CPDumpType","childList":["CPDumpBlob"]},{"father":"CPDumpType","childList":["CPDumpContainer"]},{"father":"CPDumpType","childList":["CPDumpEmfPlusContainer"]},{"father":"NSObject","childList":["CPDumpEnum"]},{"father":"NSObject","childList":["CPDumpField"]},{"father":"CPDumpType","childList":["CPDumpNumeric"]},{"father":"NSObject","childList":["CPDumpSettings"]},{"father":"CPDumpType","childList":["CPDumpStruct"]},{"father":"NSObject","childList":["CPDumpType"]},{"father":"CPDumpType","childList":["CPDumpUnion"]},{"father":"NSObject","childList":["CPEnumerationMap"]},{"father":"CPTracing","childList":["CPExportTracing"]},{"father":"NSObject","childList":["CPFontUtils"]},{"father":"CPTracing","childList":["CPImportTracing"]},{"father":"NSObject","childList":["CPLocalizedStringMessages"]},{"father":"NSObject","childList":["CPMessageContext"]},{"father":"NSObject","childList":["CPMessageEntry"]},{"father":"NSException","childList":["CPMessageException"]},{"father":"NSObject","childList":["CPMessagePlaceholderInfo"]},{"father":"NSObject","childList":["CPNamedData"]},{"father":"NSObject","childList":["CPProgressContext"]},{"father":"NSObject","childList":["CPProgressStage"]},{"father":"NSObject","childList":["CPTracing"]},{"father":"NSObject","childList":["CPTracingManager"]},{"father":"NSObject","childList":["CPXmlEnumMap"]},{"father":"NSObject","childList":["CPXmlUtilities"]},{"father":"CMMapper","childList":["CSVMapper"]},{"father":"NSObject","childList":["CSVTop"]},{"father":"NSObject","childList":["CXCommon"]},{"father":"NSObject","childList":["CXNamespace"]},{"father":"CXNamespace","childList":["CXUnqualifiedNamespace"]},{"father":"NSObject","childList":["EBAlignmentInfo"]},{"father":"NSObject","childList":["EBBorders"]},{"father":"NSObject","childList":["EBCell"]},{"father":"NSObject","childList":["EBCellFormatTable"]},{"father":"NSObject","childList":["EBChartSheet"]},{"father":"NSObject","childList":["EBColorReference"]},{"father":"NSObject","childList":["EBColorTable"]},{"father":"NSObject","childList":["EBColumnTable"]},{"father":"NSObject","childList":["EBConditionalFormat"]},{"father":"NSObject","childList":["EBConditionalFormatTable"]},{"father":"NSObject","childList":["EBContentFormat"]},{"father":"NSObject","childList":["EBContentFormatTable"]},{"father":"NSObject","childList":["EBDifferentialStyle"]},{"father":"NSObject","childList":["EBEscher"]},{"father":"ESDObject","childList":["EBEscherShape"]},{"father":"NSObject","childList":["EBFill"]},{"father":"NSObject","childList":["EBFont"]},{"father":"NSObject","childList":["EBFontTable"]},{"father":"NSObject","childList":["EBFormula"]},{"father":"NSObject","childList":["EBGraphic"]},{"father":"NSObject","childList":["EBHyperlink"]},{"father":"NSObject","childList":["EBHyperlinkTable"]},{"father":"NSObject","childList":["EBLinkTable"]},{"father":"NSObject","childList":["EBMergeTable"]},{"father":"NSObject","childList":["EBNameTable"]},{"father":"NSObject","childList":["EBOfficeArtReaderClient"]},{"father":"OABReaderState","childList":["EBOfficeArtReaderState"]},{"father":"OABWriterClient","childList":["EBOfficeArtWriterClient"]},{"father":"NSObject","childList":["EBPageProperties"]},{"father":"NSObject","childList":["EBPane"]},{"father":"NSObject","childList":["EBProtection"]},{"father":"OCBReader","childList":["EBReader"]},{"father":"NSObject","childList":["EBReaderSheetState"]},{"father":"EBState","childList":["EBReaderState"]},{"father":"NSObject","childList":["EBReference"]},{"father":"NSObject","childList":["EBRow"]},{"father":"NSObject","childList":["EBRowBlocks"]},{"father":"NSObject","childList":["EBSheet"]},{"father":"NSObject","childList":["EBSheetContext"]},{"father":"NSObject","childList":["EBState"]},{"father":"NSObject","childList":["EBString"]},{"father":"NSObject","childList":["EBStringTable"]},{"father":"NSObject","childList":["EBStyleTable"]},{"father":"NSObject","childList":["EBTextBox"]},{"father":"NSObject","childList":["EBUnsupportedSheet"]},{"father":"NSObject","childList":["EBWorkbook"]},{"father":"NSObject","childList":["EBWorksheet"]},{"father":"NSObject","childList":["ECColumnWidthConvertor"]},{"father":"NSObject","childList":["ECCurrencyConverter"]},{"father":"NSObject","childList":["ECCurrencyEntry"]},{"father":"NSObject","childList":["ECFormulaProcessor"]},{"father":"NSObject","childList":["ECMappingContext"]},{"father":"NSObject","childList":["ECMappingInfo"]},{"father":"NSObject","childList":["ECMessages"]},{"father":"NSObject","childList":["ECPackedDataUtils"]},{"father":"TSUPointerKeyDictionary","childList":["ECPointerNilKeyDictionary"]},{"father":"NSObject","childList":["ECStrings"]},{"father":"NSObject","childList":["ECTwoKeyCache"]},{"father":"NSObject","childList":["ECUtils"]},{"father":"NSObject","childList":["ECXmlDump"]},{"father":"EDAnchor","childList":["EDAbsoluteAnchor"]},{"father":"NSObject","childList":["EDAlignmentInfo"]},{"father":"NSObject","childList":["EDAnchor"]},{"father":"EDSharedFormula","childList":["EDArrayedFormula"]},{"father":"NSObject","childList":["EDBorder"]},{"father":"NSObject","childList":["EDBorders"]},{"father":"NSObject","childList":["EDBuildableFormula"]},{"father":"NSObject","childList":["EDCellIterator"]},{"father":"EDSheet","childList":["EDChartSheet"]},{"father":"NSObject","childList":["EDCollection"]},{"father":"NSObject","childList":["EDColorLocator"]},{"father":"NSObject","childList":["EDColorReference"]},{"father":"EDCollection","childList":["EDColorsCollection"]},{"father":"NSObject","childList":["EDColumnInfo"]},{"father":"EDSortedCollection","childList":["EDColumnInfoCollection"]},{"father":"NSObject","childList":["EDComment"]},{"father":"NSObject","childList":["EDConditionalFormatting"]},{"father":"NSObject","childList":["EDConditionalFormattingRule"]},{"father":"NSObject","childList":["EDContentFormat"]},{"father":"EDKeyedCollection","childList":["EDContentFormatsCollection"]},{"father":"NSObject","childList":["EDDifferentialStyle"]},{"father":"NSObject","childList":["EDFill"]},{"father":"NSObject","childList":["EDFont"]},{"father":"EDCollection","childList":["EDFontsCollection"]},{"father":"NSObject","childList":["EDFormula"]},{"father":"NSObject","childList":["EDFormulaHelper"]},{"father":"EDFill","childList":["EDGradientFill"]},{"father":"NSObject","childList":["EDHeaderFooter"]},{"father":"NSObject","childList":["EDHyperlink"]},{"father":"EDCollection","childList":["EDKeyedCollection"]},{"father":"NSObject","childList":["EDLink"]},{"father":"NSObject","childList":["EDLinkReference"]},{"father":"NSObject","childList":["EDLinksCollection"]},{"father":"EDCollection","childList":["EDMergedCellCollection"]},{"father":"NSObject","childList":["EDName"]},{"father":"EDStyle","childList":["EDNamedStyle"]},{"father":"NSObject","childList":["EDOfficeArtClient"]},{"father":"EDAnchor","childList":["EDOneCellAnchor"]},{"father":"EDCollection","childList":["EDOptimizedStringsCollection"]},{"father":"NSObject","childList":["EDPageSetup"]},{"father":"NSObject","childList":["EDPane"]},{"father":"EDFill","childList":["EDPatternFill"]},{"father":"NSObject","childList":["EDPhoneticInfo"]},{"father":"NSObject","childList":["EDPhoneticRun"]},{"father":"NSObject","childList":["EDPivotArea"]},{"father":"NSObject","childList":["EDPivotAreaReference"]},{"father":"NSObject","childList":["EDPivotConditionalFormat"]},{"father":"NSObject","childList":["EDPivotDataField"]},{"father":"NSObject","childList":["EDPivotField"]},{"father":"NSObject","childList":["EDPivotFieldItem"]},{"father":"NSObject","childList":["EDPivotItem"]},{"father":"NSObject","childList":["EDPivotPageField"]},{"father":"NSObject","childList":["EDPivotTable"]},{"father":"NSObject","childList":["EDProcessor"]},{"father":"NSObject","childList":["EDProcessors"]},{"father":"NSObject","childList":["EDProtection"]},{"father":"NSObject","childList":["EDReference"]},{"father":"EDCollection","childList":["EDReferenceCollection"]},{"father":"NSObject","childList":["EDReferenceIterator"]},{"father":"NSObject","childList":["EDResources"]},{"father":"NSObject","childList":["EDRowBlock"]},{"father":"NSObject","childList":["EDRowBlocks"]},{"father":"NSObject","childList":["EDRun"]},{"father":"EDSortedCollection","childList":["EDRunsCollection"]},{"father":"EDFormula","childList":["EDSharedFormula"]},{"father":"OCDDelayedNode","childList":["EDSheet"]},{"father":"EDReference","childList":["EDSheetReference"]},{"father":"EDKeyedCollection","childList":["EDSortedCollection"]},{"father":"NSObject","childList":["EDString"]},{"father":"NSObject","childList":["EDStyle"]},{"father":"EDCollection","childList":["EDStylesCollection"]},{"father":"NSObject","childList":["EDTable"]},{"father":"NSObject","childList":["EDTableColumn"]},{"father":"NSObject","childList":["EDTableFilter"]},{"father":"NSObject","childList":["EDTableFilterColumn"]},{"father":"NSObject","childList":["EDTableStyle"]},{"father":"NSObject","childList":["EDTableStyleElement"]},{"father":"EDCollection","childList":["EDTableStylesCollection"]},{"father":"NSObject","childList":["EDTextBox"]},{"father":"NSObject","childList":["EDTokenTree"]},{"father":"NSObject","childList":["EDTokenTreeNode"]},{"father":"EDAnchor","childList":["EDTwoCellAnchor"]},{"father":"EDSheet","childList":["EDUnsupportedSheet"]},{"father":"NSObject","childList":["EDWarnings"]},{"father":"OCDDocument","childList":["EDWorkbook"]},{"father":"EDSheet","childList":["EDWorksheet"]},{"father":"NSObject","childList":["EFTableData"]},{"father":"NSObject","childList":["EFormula"]},{"father":"CMMapper","childList":["EMAxisMapper"]},{"father":"CMProperty","childList":["EMBordersProperty"]},{"father":"CMMapper","childList":["EMCellMapper"]},{"father":"CMMapper","childList":["EMCellNumberMapper"]},{"father":"CMStyle","childList":["EMCellStyle"]},{"father":"CMMapper","childList":["EMCellTextMapper"]},{"father":"CMMapper","childList":["EMChartMapper"]},{"father":"EMSheetMapper","childList":["EMChartsheetMapper"]},{"father":"CMMapper","childList":["EMColumnInfoMapper"]},{"father":"CMDrawableMapper","childList":["EMDrawableMapper"]},{"father":"CMProperty","childList":["EMEnumProperty"]},{"father":"NSObject","childList":["EMFPlayer"]},{"father":"NSObject","childList":["EMFPlusPlayer"]},{"father":"NSObject","childList":["EMFReader"]},{"father":"NSObject","childList":["EMNumberFormatter"]},{"father":"CMMapper","childList":["EMRowMapper"]},{"father":"CMMapper","childList":["EMSeriesMapper"]},{"father":"CMMapper","childList":["EMSheetMapper"]},{"father":"CMState","childList":["EMState"]},{"father":"CMMapper","childList":["EMStyleMapper"]},{"father":"CMTop","childList":["EMTop"]},{"father":"CMMapper","childList":["EMWorkbookMapper"]},{"father":"EMSheetMapper","childList":["EMWorksheetMapper"]},{"father":"EDBorder","childList":["EPBorder"]},{"father":"EDProcessor","childList":["EPFormulaCleaner"]},{"father":"EDProcessor","childList":["EPFormulaCollectionCleaner"]},{"father":"EDProcessor","childList":["EPMergedRegionScanner"]},{"father":"EDProcessor","childList":["EPNameFormulaCleaner"]},{"father":"EPStyleFlattener","childList":["EPPivotTableStyleFlattener"]},{"father":"EDProcessor","childList":["EPStyleFlattener"]},{"father":"EPStyleFlattener","childList":["EPTableStyleFlattener"]},{"father":"NSObject","childList":["ESDBlipContext"]},{"father":"ESDObject","childList":["ESDContainer"]},{"father":"ESDBlipContext","childList":["ESDDibFileBlipContext"]},{"father":"ESDBlipContext","childList":["ESDMetafileBlipContext"]},{"father":"NSObject","childList":["ESDObject"]},{"father":"NSObject","childList":["ESDObjectFactory"]},{"father":"ESDObject","childList":["ESDRoot"]},{"father":"NSObject","childList":["EXAlignmentInfo"]},{"father":"NSObject","childList":["EXBorders"]},{"father":"NSObject","childList":["EXBordersTable"]},{"father":"NSObject","childList":["EXCell"]},{"father":"NSObject","childList":["EXCellFormat"]},{"father":"NSObject","childList":["EXCellFormatTable"]},{"father":"NSObject","childList":["EXChartsheet"]},{"father":"NSObject","childList":["EXColorReference"]},{"father":"NSObject","childList":["EXColorTable"]},{"father":"NSObject","childList":["EXColumnInfo"]},{"father":"NSObject","childList":["EXCommon"]},{"father":"NSObject","childList":["EXConditionalFormatting"]},{"father":"NSObject","childList":["EXConditionalFormattingRule"]},{"father":"NSObject","childList":["EXContentFormat"]},{"father":"NSObject","childList":["EXContentFormatTable"]},{"father":"NSObject","childList":["EXDifferentialStyle"]},{"father":"NSObject","childList":["EXDifferentialStyleTable"]},{"father":"NSObject","childList":["EXDrawing"]},{"father":"NSObject","childList":["EXFill"]},{"father":"NSObject","childList":["EXFillTable"]},{"father":"NSObject","childList":["EXFont"]},{"father":"NSObject","childList":["EXFontTable"]},{"father":"NSObject","childList":["EXFormula"]},{"father":"NSObject","childList":["EXHeaderFooter"]},{"father":"NSObject","childList":["EXHyperlink"]},{"father":"NSObject","childList":["EXMergeTable"]},{"father":"NSObject","childList":["EXNameTable"]},{"father":"OAVState","childList":["EXOAVState"]},{"father":"OAXClient","childList":["EXOfficeArtClient"]},{"father":"OAXDrawingState","childList":["EXOfficeArtState"]},{"father":"NSObject","childList":["EXPageSetup"]},{"father":"NSObject","childList":["EXPane"]},{"father":"NSObject","childList":["EXPivotTable"]},{"father":"NSObject","childList":["EXProtection"]},{"father":"OCXReader","childList":["EXReader"]},{"father":"NSObject","childList":["EXReference"]},{"father":"NSObject","childList":["EXRow"]},{"father":"NSObject","childList":["EXSheet"]},{"father":"NSObject","childList":["EXSheetContext"]},{"father":"OAVState","childList":["EXState"]},{"father":"NSObject","childList":["EXString"]},{"father":"NSObject","childList":["EXStringTable"]},{"father":"NSObject","childList":["EXTable"]},{"father":"NSObject","childList":["EXTableColumn"]},{"father":"NSObject","childList":["EXTableFilter"]},{"father":"NSObject","childList":["EXTableFilterColumn"]},{"father":"NSObject","childList":["EXTableStyle"]},{"father":"NSObject","childList":["EXTableStyleElement"]},{"father":"NSObject","childList":["EXTableStyleTable"]},{"father":"NSObject","childList":["EXUnsupportedSheet"]},{"father":"NSObject","childList":["EXVmlClient"]},{"father":"NSObject","childList":["EXWorkbook"]},{"father":"NSObject","childList":["EXWorksheet"]},{"father":"NSObject","childList":["MFBitmap"]},{"father":"NSObject","childList":["MFBrush"]},{"father":"NSObject","childList":["MFByteUtils"]},{"father":"NSObject","childList":["MFConverter"]},{"father":"NSObject","childList":["MFDeviceContext"]},{"father":"NSObject","childList":["MFFont"]},{"father":"NSObject","childList":["MFGraphicsDevice"]},{"father":"NSObject","childList":["MFObjectTable"]},{"father":"MFPImage","childList":["MFPBitmapImage"]},{"father":"NSObject","childList":["MFPBlendStop"]},{"father":"MFPEffect","childList":["MFPBlurEffect"]},{"father":"MFPEffect","childList":["MFPBrightnessContrastEffect"]},{"father":"NSObject","childList":["MFPBrush"]},{"father":"NSObject","childList":["MFPColorAdjust"]},{"father":"MFPEffect","childList":["MFPColorBalanceEffect"]},{"father":"MFPEffect","childList":["MFPColorCurveEffect"]},{"father":"MFPEffect","childList":["MFPColorLUTEffect"]},{"father":"MFPEffect","childList":["MFPColorMatrixEffect"]},{"father":"NSObject","childList":["MFPEffect"]},{"father":"NSObject","childList":["MFPFont"]},{"father":"MFPBrush","childList":["MFPGradientBrush"]},{"father":"NSObject","childList":["MFPGradientStop"]},{"father":"NSObject","childList":["MFPGraphics"]},{"father":"NSObject","childList":["MFPGraphicsContainer"]},{"father":"NSObject","childList":["MFPGraphicsState"]},{"father":"MFPImageBrush","childList":["MFPHatchBrush"]},{"father":"MFPEffect","childList":["MFPHueSaturationLightnessEffect"]},{"father":"NSObject","childList":["MFPImage"]},{"father":"NSObject","childList":["MFPImageAttributes"]},{"father":"MFPBrush","childList":["MFPImageBrush"]},{"father":"MFPEffect","childList":["MFPLevelsEffect"]},{"father":"MFPGradientBrush","childList":["MFPLinearGradientBrush"]},{"father":"MFPImage","childList":["MFPMetafileImage"]},{"father":"NSObject","childList":["MFPObjectTable"]},{"father":"NSObject","childList":["MFPPath"]},{"father":"MFPGradientBrush","childList":["MFPPathGradientBrush"]},{"father":"NSObject","childList":["MFPPen"]},{"father":"MFPEffect","childList":["MFPRedEyeCorrectionEffect"]},{"father":"MFPEffect","childList":["MFPSharpenEffect"]},{"father":"MFPBrush","childList":["MFPSolidBrush"]},{"father":"NSObject","childList":["MFPStringFormat"]},{"father":"MFPImageBrush","childList":["MFPTextureBrush"]},{"father":"MFPEffect","childList":["MFPTintEffect"]},{"father":"NSObject","childList":["MFPalette"]},{"father":"NSObject","childList":["MFPath"]},{"father":"NSObject","childList":["MFPen"]},{"father":"MFBitmap","childList":["MFPhoneBitmap"]},{"father":"MFBrush","childList":["MFPhoneBrush"]},{"father":"NSObject","childList":["MFPhoneDeviceDriver"]},{"father":"MFFont","childList":["MFPhoneFont"]},{"father":"MFPhoneBrush","childList":["MFPhoneHatchBrush"]},{"father":"MFPhoneBrush","childList":["MFPhoneNullBrush"]},{"father":"MFPath","childList":["MFPhonePath"]},{"father":"MFPhoneBrush","childList":["MFPhonePatternBrush"]},{"father":"MFPen","childList":["MFPhonePen"]},{"father":"MFRegion","childList":["MFPhoneRegion"]},{"father":"MFPhoneBrush","childList":["MFPhoneSolidBrush"]},{"father":"NSObject","childList":["MFRegion"]},{"father":"NSObject","childList":["MFSniffer"]},{"father":"NSObject","childList":["MFTransform"]},{"father":"NSObject","childList":["NSBezierPathStub"]},{"father":"NSObject","childList":["NSBitmapImageRepStub"]},null,{"father":"NSObject","childList":["NSFontStub"]},{"father":"NSObject","childList":["NSMutableParagraphStyleStub"]},{"father":"NSObject","childList":["OABBlip"]},{"father":"NSObject","childList":["OABChart"]},{"father":"NSObject","childList":["OABColor"]},{"father":"NSObject","childList":["OABContent"]},{"father":"NSObject","childList":["OABDefaultsManager"]},{"father":"NSObject","childList":["OABDrawable"]},{"father":"NSObject","childList":["OABDrawing"]},{"father":"NSObject","childList":["OABDrawingGroup"]},{"father":"NSObject","childList":["OABFill"]},{"father":"NSObject","childList":["OABFillPropertiesManager"]},{"father":"NSObject","childList":["OABGroup"]},{"father":"NSObject","childList":["OABImage"]},{"father":"NSObject","childList":["OABOle"]},{"father":"NSObject","childList":["OABRTable"]},{"father":"NSObject","childList":["OABReaderClient"]},{"father":"NSObject","childList":["OABReaderState"]},{"father":"NSObject","childList":["OABShadow"]},{"father":"NSObject","childList":["OABShape"]},{"father":"OABFillPropertiesManager","childList":["OABShapeBaseManager"]},{"father":"NSObject","childList":["OABShapeGeometry"]},{"father":"OABShapeBaseManager","childList":["OABShapeManager"]},{"father":"NSObject","childList":["OABShapeProperties"]},{"father":"NSObject","childList":["OABStroke"]},{"father":"NSObject","childList":["OABTable"]},{"father":"NSObject","childList":["OABTableSortedIntArray"]},{"father":"NSObject","childList":["OABTextBodyProperties"]},{"father":"NSObject","childList":["OABWTable"]},{"father":"NSObject","childList":["OABWordArt"]},{"father":"NSObject","childList":["OABWriterClient"]},{"father":"NSObject","childList":["OABWriterState"]},{"father":"NSObject","childList":["OADAdjustRect"]},{"father":"OADColor","childList":["OADAdjustedColor"]},{"father":"OADBlipEffect","childList":["OADAlphaModFixEffect"]},{"father":"OADPathElement","childList":["OADAngleArcPathElement"]},{"father":"OADPathElement","childList":["OADArcToPathElement"]},{"father":"OADLinkedMediaFile","childList":["OADAudioFile"]},{"father":"OADBulletProperties","childList":["OADAutoNumberBulletProperties"]},{"father":"NSObject","childList":["OADBackdrop"]},{"father":"NSObject","childList":["OADBackground"]},{"father":"OADFill","childList":["OADBackgroundFill"]},{"father":"OADBackground","childList":["OADBackgroundProperties"]},{"father":"OADBaseStylesBase","childList":["OADBaseStyles"]},{"father":"NSObject","childList":["OADBaseStylesBase"]},{"father":"NSObject","childList":["OADBevel"]},{"father":"OADLineJoin","childList":["OADBevelLineJoin"]},{"father":"OADBlipEffect","childList":["OADBiLevelEffect"]},{"father":"NSObject","childList":["OADBlip"]},{"father":"NSObject","childList":["OADBlipCollection"]},{"father":"NSObject","childList":["OADBlipEffect"]},{"father":"NSObject","childList":["OADBlipRef"]},{"father":"NSObject","childList":["OADBulletColor"]},{"father":"OADBulletColor","childList":["OADBulletColorFollowText"]},{"father":"OADBulletColor","childList":["OADBulletColorSpecification"]},{"father":"NSObject","childList":["OADBulletFont"]},{"father":"OADBulletFont","childList":["OADBulletFontFollowText"]},{"father":"OADBulletFont","childList":["OADBulletFontSpecification"]},{"father":"NSObject","childList":["OADBulletProperties"]},{"father":"NSObject","childList":["OADBulletSize"]},{"father":"OADBulletSize","childList":["OADBulletSizeFollowText"]},{"father":"NSObject","childList":["OADCachedDrawableStyle"]},{"father":"NSObject","childList":["OADCachedTextStyle"]},{"father":"NSObject","childList":["OADCamera"]},{"father":"OADBulletProperties","childList":["OADCharacterBulletProperties"]},{"father":"OADProperties","childList":["OADCharacterProperties"]},{"father":"OADPathElement","childList":["OADClosePathElement"]},{"father":"NSObject","childList":["OADColor"]},{"father":"OADBlipEffect","childList":["OADColorChangeEffect"]},{"father":"NSObject","childList":["OADColorContext"]},{"father":"NSObject","childList":["OADColorMap"]},{"father":"NSObject","childList":["OADColorScheme"]},{"father":"NSObject","childList":["OADColorTransform"]},{"father":"NSObject","childList":["OADConnection"]},{"father":"OADShape","childList":["OADConnector"]},{"father":"OADShapeProperties","childList":["OADConnectorProperties"]},{"father":"NSObject","childList":["OADCountedGraphicFeature"]},{"father":"OADPathElement","childList":["OADCubicBezierToPathElement"]},{"father":"OADDash","childList":["OADCustomDash"]},{"father":"OADPattern","childList":["OADCustomPattern"]},{"father":"OADShapeGeometry","childList":["OADCustomShapeGeometry"]},{"father":"OADProperties","childList":["OADDash"]},{"father":"NSObject","childList":["OADDashStop"]},{"father":"OADTextField","childList":["OADDateTimeField"]},{"father":"NSObject","childList":["OADDefaultProperties"]},{"father":"NSObject","childList":["OADDrawable"]},{"father":"OADProperties","childList":["OADDrawableProperties"]},{"father":"NSObject","childList":["OADDrawingTheme"]},{"father":"OADBlipEffect","childList":["OADDuotoneEffect"]},{"father":"NSObject","childList":["OADEffect"]},{"father":"OADMovie","childList":["OADEmbeddedMediaFile"]},{"father":"OADProperties","childList":["OADFill"]},{"father":"OADEffect","childList":["OADFillOverlayEffect"]},{"father":"OADDrawable","childList":["OADFlattenedGroup"]},{"father":"NSObject","childList":["OADFontReference"]},{"father":"NSObject","childList":["OADFontScheme"]},{"father":"OADTextField","childList":["OADFooterField"]},{"father":"OADBlipEffect","childList":["OADForegroundColorEffect"]},{"father":"NSObject","childList":["OADFormula"]},{"father":"OADLinkedMediaFile","childList":["OADGenericLinkedMediaFile"]},{"father":"OADTextField","childList":["OADGenericTextField"]},{"father":"OADEffect","childList":["OADGlowEffect"]},{"father":"OADFill","childList":["OADGradientFill"]},{"father":"NSObject","childList":["OADGradientFillStop"]},{"father":"OADDrawable","childList":["OADGraphic"]},{"father":"NSObject","childList":["OADGraphicFeatureCache"]},{"father":"OADDrawableProperties","childList":["OADGraphicProperties"]},{"father":"NSObject","childList":["OADGraphicStyleCache"]},{"father":"OADBlipEffect","childList":["OADGrayscaleEffect"]},{"father":"OADDrawable","childList":["OADGroup"]},{"father":"OADFill","childList":["OADGroupFill"]},{"father":"OADDrawableProperties","childList":["OADGroupProperties"]},{"father":"NSObject","childList":["OADHyperlink"]},{"father":"OADGraphic","childList":["OADImage"]},{"father":"OADBulletProperties","childList":["OADImageBulletProperties"]},{"father":"OADFill","childList":["OADImageFill"]},{"father":"OADProperties","childList":["OADImageFillTechnique"]},{"father":"OADGraphicProperties","childList":["OADImageProperties"]},{"father":"NSObject","childList":["OADImageRecolorInfo"]},{"father":"OADColor","childList":["OADIndexedColor"]},{"father":"OADShadowEffect","childList":["OADInnerShadowEffect"]},{"father":"NSObject","childList":["OADLightRig"]},{"father":"OADShape","childList":["OADLine"]},{"father":"OADProperties","childList":["OADLineEnd"]},{"father":"OADProperties","childList":["OADLineJoin"]},{"father":"OADShapeProperties","childList":["OADLineProperties"]},{"father":"OADToPointPathElement","childList":["OADLineToPathElement"]},{"father":"OADShade","childList":["OADLinearShade"]},{"father":"OADMovie","childList":["OADLinkedMediaFile"]},{"father":"OADBlipEffect","childList":["OADLuminanceEffect"]},{"father":"OADBackground","childList":["OADMasterBackground"]},{"father":"OADLineJoin","childList":["OADMiterLineJoin"]},{"father":"OADToPointPathElement","childList":["OADMoveToPathElement"]},{"father":"OCDDelayedMedia","childList":["OADMovie"]},{"father":"OADTextBodyAutoFit","childList":["OADNormalTextBodyAutoFit"]},{"father":"OADBulletProperties","childList":["OADNullBulletProperties"]},{"father":"OADFill","childList":["OADNullFill"]},{"father":"NSObject","childList":["OADOle"]},{"father":"NSObject","childList":["OADOrientedBounds"]},{"father":"OADShadowEffect","childList":["OADOuterShadowEffect"]},{"father":"NSObject","childList":["OADParagraph"]},{"father":"OADCharacterProperties","childList":["OADParagraphProperties"]},{"father":"NSObject","childList":["OADPath"]},{"father":"NSObject","childList":["OADPathElement"]},{"father":"OADShade","childList":["OADPathShade"]},{"father":"OADProperties","childList":["OADPattern"]},{"father":"OADFill","childList":["OADPatternFill"]},{"father":"OADBulletSize","childList":["OADPercentBulletSize"]},{"father":"OADTextSpacing","childList":["OADPercentTextSpacing"]},{"father":"OADColor","childList":["OADPlaceholderColor"]},{"father":"NSObject","childList":["OADPoint3D"]},{"father":"OADBulletSize","childList":["OADPointBulletSize"]},{"father":"OADTextSpacing","childList":["OADPointTextSpacing"]},{"father":"OADDash","childList":["OADPresetDash"]},{"father":"OADPattern","childList":["OADPresetPattern"]},{"father":"OADShadowEffect","childList":["OADPresetShadowEffect"]},{"father":"OADShapeGeometry","childList":["OADPresetShapeGeometry"]},{"father":"OADTextWarp","childList":["OADPresetTextWarp"]},{"father":"NSObject","childList":["OADProperties"]},{"father":"OADEmbeddedMediaFile","childList":["OADQTStubFile"]},{"father":"OADPathElement","childList":["OADQuadBezierControlPointPathElement"]},{"father":"OADPathElement","childList":["OADQuadBezierToPathElement"]},{"father":"OADToPointPathElement","childList":["OADQuarterEllipseToPathElement"]},{"father":"OADLinkedMediaFile","childList":["OADQuickTimeFile"]},{"father":"OADEffect","childList":["OADReflectionEffect"]},{"father":"OADTextRun","childList":["OADRegularTextRun"]},{"father":"NSObject","childList":["OADRelativeRect"]},{"father":"OADColor","childList":["OADRgbColor"]},{"father":"NSObject","childList":["OADRotation3D"]},{"father":"OADLineJoin","childList":["OADRoundLineJoin"]},{"father":"NSObject","childList":["OADScene3D"]},{"father":"OADColor","childList":["OADSchemeColor"]},{"father":"OADProperties","childList":["OADShade"]},{"father":"OADEffect","childList":["OADShadowEffect"]},{"father":"OADGraphic","childList":["OADShape"]},{"father":"NSObject","childList":["OADShape3D"]},{"father":"NSObject","childList":["OADShapeGeometry"]},{"father":"OADGraphicProperties","childList":["OADShapeProperties"]},{"father":"NSObject","childList":["OADShapeStyle"]},{"father":"OADFill","childList":["OADSolidFill"]},{"father":"OCDDelayedMedia","childList":["OADSound"]},{"father":"OADImageFillTechnique","childList":["OADStretchTechnique"]},{"father":"OADProperties","childList":["OADStroke"]},{"father":"NSObject","childList":["OADStyleMatrix"]},{"father":"NSObject","childList":["OADStyleMatrixReference"]},{"father":"OCDDelayedMedia","childList":["OADSubBlip"]},{"father":"OADColor","childList":["OADSystemColor"]},{"father":"NSObject","childList":["OADTabStop"]},{"father":"OADDrawable","childList":["OADTable"]},{"father":"NSObject","childList":["OADTableBackground"]},{"father":"NSObject","childList":["OADTableCell"]},{"father":"NSObject","childList":["OADTableCell3DProperties"]},{"father":"NSObject","childList":["OADTableCellBorderStyle"]},{"father":"NSObject","childList":["OADTableCellProperties"]},{"father":"NSObject","childList":["OADTableCellStyle"]},{"father":"NSObject","childList":["OADTableColumn"]},{"father":"NSObject","childList":["OADTableGrid"]},{"father":"NSObject","childList":["OADTablePartStyle"]},{"father":"OADDrawableProperties","childList":["OADTableProperties"]},{"father":"NSObject","childList":["OADTableRow"]},{"father":"NSObject","childList":["OADTableStyle"]},{"father":"NSObject","childList":["OADTableTextStyle"]},{"father":"NSObject","childList":["OADTextBody"]},{"father":"NSObject","childList":["OADTextBodyAutoFit"]},{"father":"OADProperties","childList":["OADTextBodyProperties"]},{"father":"OADTextRun","childList":["OADTextField"]},{"father":"OADTextRun","childList":["OADTextLineBreak"]},{"father":"NSObject","childList":["OADTextListStyle"]},{"father":"NSObject","childList":["OADTextRun"]},{"father":"NSObject","childList":["OADTextSpacing"]},{"father":"NSObject","childList":["OADTextWarp"]},{"father":"NSObject","childList":["OADTheme"]},{"father":"OADBaseStylesBase","childList":["OADThemeOverrides"]},{"father":"OADImageFillTechnique","childList":["OADTileTechnique"]},{"father":"OADPathElement","childList":["OADToPointPathElement"]},{"father":"NSObject","childList":["OADUnderline"]},{"father":"OADColorTransform","childList":["OADValueColorTransform"]},{"father":"NSObject","childList":["OADVector3D"]},{"father":"OADPathElement","childList":["OADVectorArcPathElement"]},{"father":"OADLinkedMediaFile","childList":["OADVideoFile"]},{"father":"OADEmbeddedMediaFile","childList":["OADWavAudioFile"]},{"father":"OADShape","childList":["OADWordArt"]},{"father":"NSObject","childList":["OAITOrientedBounds"]},{"father":"NSObject","childList":["OAMessages"]},{"father":"NSObject","childList":["OAVClient"]},{"father":"NSObject","childList":["OAVColor"]},{"father":"NSObject","childList":["OAVCommon"]},{"father":"NSObject","childList":["OAVDrawable"]},{"father":"NSObject","childList":["OAVFill"]},{"father":"NSObject","childList":["OAVFormula"]},{"father":"NSObject","childList":["OAVGroup"]},{"father":"NSObject","childList":["OAVHyperlink"]},{"father":"NSObject","childList":["OAVImage"]},{"father":"NSObject","childList":["OAVPath"]},{"father":"NSObject","childList":["OAVShadow"]},{"father":"NSObject","childList":["OAVShape"]},{"father":"NSObject","childList":["OAVShapeGeometry"]},{"father":"NSObject","childList":["OAVShapeManager"]},{"father":"NSObject","childList":["OAVShapeType"]},{"father":"NSObject","childList":["OAVState"]},{"father":"NSObject","childList":["OAVStroke"]},{"father":"NSObject","childList":["OAVTextBodyProperties"]},{"father":"NSObject","childList":["OAVWordArt"]},{"father":"NSObject","childList":["OAXBackground"]},{"father":"NSObject","childList":["OAXBaseStyles"]},{"father":"NSObject","childList":["OAXBaseTypes"]},{"father":"OCXDelayedMediaContext","childList":["OAXBlipContext"]},{"father":"NSObject","childList":["OAXBlipEffects"]},{"father":"NSObject","childList":["OAXClient"]},{"father":"NSObject","childList":["OAXColor"]},{"father":"NSObject","childList":["OAXColorMap"]},{"father":"NSObject","childList":["OAXColorScheme"]},{"father":"NSObject","childList":["OAXColorTransform"]},{"father":"NSObject","childList":["OAXCommon"]},{"father":"NSObject","childList":["OAXConnector"]},{"father":"NSObject","childList":["OAXDrawable"]},{"father":"NSObject","childList":["OAXDrawingState"]},{"father":"NSObject","childList":["OAXEffect"]},{"father":"NSObject","childList":["OAXFill"]},{"father":"NSObject","childList":["OAXFillOverlayEffect"]},{"father":"NSObject","childList":["OAXFontReference"]},{"father":"NSObject","childList":["OAXFontScheme"]},{"father":"NSObject","childList":["OAXGeometry"]},{"father":"NSObject","childList":["OAXGraphic"]},{"father":"NSObject","childList":["OAXGraphicFrame"]},{"father":"NSObject","childList":["OAXGraphicalObject"]},{"father":"NSObject","childList":["OAXGroup"]},{"father":"NSObject","childList":["OAXHyperlink"]},{"father":"OCXDelayedMediaContext","childList":["OAXMovieContext"]},{"father":"NSObject","childList":["OAXParagraph"]},{"father":"NSObject","childList":["OAXPicture"]},{"father":"NSObject","childList":["OAXScene3D"]},{"father":"NSObject","childList":["OAXShape"]},{"father":"NSObject","childList":["OAXShape3D"]},{"father":"NSObject","childList":["OAXShapeStyle"]},{"father":"NSObject","childList":["OAXStroke"]},{"father":"NSObject","childList":["OAXStyleMatrix"]},{"father":"NSObject","childList":["OAXTable"]},{"father":"NSObject","childList":["OAXTableStyleCache"]},{"father":"NSObject","childList":["OAXTextBody"]},{"father":"NSObject","childList":["OAXTextCharPropertyBag"]},{"father":"NSObject","childList":["OAXTextListStyle"]},{"father":"NSObject","childList":["OAXTextParaPropertyBag"]},{"father":"NSObject","childList":["OAXTheme"]},{"father":"NSObject","childList":["OAXThemeOverrides"]},{"father":"NSObject","childList":["OAXTransform2D"]},{"father":"OCDEncryptedReader","childList":["OCBReader"]},{"father":"NSObject","childList":["OCBSummary"]},{"father":"NSObject","childList":["OCCDecryptor"]},{"father":"NSObject","childList":["OCCancel"]},{"father":"OCDDelayedNode","childList":["OCDDelayedMedia"]},{"father":"NSObject","childList":["OCDDelayedNode"]},{"father":"NSObject","childList":["OCDDocument"]},{"father":"OCDReader","childList":["OCDEncryptedReader"]},{"father":"NSObject","childList":["OCDReader"]},{"father":"NSObject","childList":["OCDSummary"]},{"father":"OCMapper","childList":["OCImporter"]},{"father":"NSObject","childList":["OCMapper"]},{"father":"NSException","childList":["OCPException"]},{"father":"NSObject","childList":["OCPPackage"]},{"father":"NSObject","childList":["OCPPackagePart"]},{"father":"NSObject","childList":["OCPPackageProperties"]},{"father":"NSObject","childList":["OCPPackageRelationship"]},{"father":"NSObject","childList":["OCPPackageRelationshipCollection"]},{"father":"OCPPackage","childList":["OCPZipPackage"]},{"father":"OCPPackagePart","childList":["OCPZipPackagePart"]},{"father":"NSObject","childList":["OCPattern"]},{"father":"NSObject","childList":["OCXCommon"]},{"father":"NSObject","childList":["OCXDelayedMediaContext"]},{"father":"OCDEncryptedReader","childList":["OCXReader"]},{"father":"NSObject","childList":["OCXSStream"]},{"father":"NSObject","childList":["OCXSStreamLevel"]},{"father":"NSObject","childList":["OCXStreamUtility"]},{"father":"NSObject","childList":["OCXSummary"]},{"father":"ODDLayoutObject","childList":["ODDAlgorithm"]},{"father":"ODDLayoutObject","childList":["ODDChoose"]},{"father":"NSObject","childList":["ODDColorTransform"]},{"father":"NSObject","childList":["ODDColorTransformStyleLabel"]},{"father":"ODDPoint","childList":["ODDDataPoint"]},{"father":"OADDrawable","childList":["ODDDiagram"]},{"father":"NSObject","childList":["ODDFillColorList"]},{"father":"ODDLayoutObjectList","childList":["ODDForEach"]},{"father":"NSObject","childList":["ODDIteratorAttributes"]},{"father":"NSObject","childList":["ODDIteratorSpecification"]},{"father":"NSObject","childList":["ODDLayout"]},{"father":"ODDLayoutObjectList","childList":["ODDLayoutNode"]},{"father":"NSObject","childList":["ODDLayoutObject"]},{"father":"ODDLayoutObject","childList":["ODDLayoutObjectList"]},{"father":"OADProperties","childList":["ODDLayoutVariablePropertySet"]},{"father":"ODDDataPoint","childList":["ODDNodePoint"]},{"father":"ODDLayoutObjectList","childList":["ODDOtherwise"]},{"father":"NSObject","childList":["ODDPoint"]},{"father":"NSObject","childList":["ODDPointPropertySet"]},{"father":"ODDPoint","childList":["ODDPresentationPoint"]},{"father":"ODDLayoutObject","childList":["ODDShape"]},{"father":"NSObject","childList":["ODDShapeAdjustment"]},{"father":"NSObject","childList":["ODDStyleDefinition"]},{"father":"NSObject","childList":["ODDStyleLabel"]},{"father":"ODDDataPoint","childList":["ODDTransitionPoint"]},{"father":"ODDLayoutObjectList","childList":["ODDWhen"]},{"father":"ODIImageLinear","childList":["ODIAccentedImageLinear"]},{"father":"NSObject","childList":["ODIArrow"]},{"father":"ODILinear","childList":["ODIArrow2"]},{"father":"NSObject","childList":["ODIArrow3"]},{"father":"NSObject","childList":["ODIArrow4"]},{"father":"NSObject","childList":["ODIBending"]},{"father":"ODIBending","childList":["ODIBendingList2"]},{"father":"ODICycle5","childList":["ODIChart3"]},{"father":"NSObject","childList":["ODICycle"]},{"father":"ODICycle","childList":["ODICycle2"]},{"father":"ODICycle5","childList":["ODICycle3"]},{"father":"ODICycle3","childList":["ODICycle4"]},{"father":"ODICycle","childList":["ODICycle5"]},{"father":"ODICycle5","childList":["ODICycle6"]},{"father":"ODICycle","childList":["ODICycle7"]},{"father":"NSObject","childList":["ODIDiagram"]},{"father":"NSObject","childList":["ODIDrawable"]},{"father":"ODICycle5","childList":["ODIGear1"]},{"father":"NSObject","childList":["ODIHNodeInfo"]},{"father":"NSObject","childList":["ODIHierarchy"]},{"father":"NSObject","childList":["ODIHorizonalList3"]},{"father":"ODILinear","childList":["ODIHorizontalProcess11"]},{"father":"ODILinear","childList":["ODIHorizontalProcess3"]},{"father":"ODILinear","childList":["ODIImageLinear"]},{"father":"NSObject","childList":["ODILayoutNode"]},{"father":"NSObject","childList":["ODILinear"]},{"father":"ODILinear","childList":["ODIList1"]},{"father":"NSObject","childList":["ODIPointIterator"]},{"father":"NSObject","childList":["ODIPyramid"]},{"father":"NSObject","childList":["ODIState"]},{"father":"ODILinear","childList":["ODITarget1"]},{"father":"ODILinear","childList":["ODITarget2"]},{"father":"ODILinear","childList":["ODITarget3"]},{"father":"NSObject","childList":["ODIText"]},{"father":"ODIHorizonalList3","childList":["ODITitlePoint"]},{"father":"NSObject","childList":["ODIVenn"]},{"father":"ODIVenn","childList":["ODIVenn1"]},{"father":"ODILinear","childList":["ODIVenn2"]},{"father":"ODIVenn","childList":["ODIVenn3"]},{"father":"ODILinear","childList":["ODIVerticalProcess2"]},{"father":"NSObject","childList":["ODXAlgorithm"]},{"father":"NSObject","childList":["ODXChoose"]},{"father":"NSObject","childList":["ODXColorTransform"]},{"father":"NSObject","childList":["ODXColorTransformStyleLabel"]},{"father":"NSObject","childList":["ODXCommon"]},{"father":"NSObject","childList":["ODXData"]},{"father":"NSObject","childList":["ODXDiagram"]},{"father":"NSObject","childList":["ODXFillColorList"]},{"father":"NSObject","childList":["ODXForEach"]},{"father":"NSObject","childList":["ODXIteratorSpecification"]},{"father":"NSObject","childList":["ODXLayout"]},{"father":"NSObject","childList":["ODXLayoutNode"]},{"father":"NSObject","childList":["ODXLayoutObjectList"]},{"father":"NSObject","childList":["ODXLayoutVariablePropertySet"]},{"father":"NSObject","childList":["ODXPointPropertySet"]},{"father":"NSObject","childList":["ODXShape"]},{"father":"NSObject","childList":["ODXState"]},{"father":"NSObject","childList":["ODXStyleDefinition"]},{"father":"NSObject","childList":["ODXStyleLabel"]},{"father":"NSObject","childList":["OISFUBufferedInputStream"]},{"father":"OISFUCryptor","childList":["OISFUCommonCryptoCryptor"]},{"father":"NSObject","childList":["OISFUCryptoInputStream"]},{"father":"NSObject","childList":["OISFUCryptoKey"]},{"father":"NSObject","childList":["OISFUCryptoUtils"]},{"father":"NSObject","childList":["OISFUCryptor"]},{"father":"NSObject","childList":["OISFUDataRepresentation"]},{"father":"NSObject","childList":["OISFUFileInputStream"]},{"father":"NSObject","childList":["OISFUMemoryInputStream"]},{"father":"OISFUCryptoKey","childList":["OISFUTangierCryptoKey"]},{"father":"NSObject","childList":["OISFUZipArchive"]},{"father":"OISFUDataRepresentation","childList":["OISFUZipArchiveFileDataRepresentation"]},{"father":"OISFUDataRepresentation","childList":["OISFUZipEntry"]},{"father":"NSException","childList":["OISFUZipException"]},{"father":"NSObject","childList":["OISFUZipInflateInputStream"]},{"father":"NSObject","childList":["OISFUZipRecordInputStream"]},{"father":"OIXMLNode","childList":["OIXMLDocument"]},{"father":"OIXMLNode","childList":["OIXMLElement"]},{"father":"NSObject","childList":["OIXMLNode"]},{"father":"NSObject","childList":["ObjectCacheByCString"]},{"father":"NSObject","childList":["PBAnimation"]},{"father":"PDAnimationCacheState","childList":["PBAnimationCacheState"]},{"father":"NSObject","childList":["PBBulletProperties"]},{"father":"NSObject","childList":["PBCharacterProperties"]},{"father":"NSObject","childList":["PBChart"]},{"father":"NSObject","childList":["PBColorScheme"]},{"father":"NSObject","childList":["PBFontEntity"]},{"father":"NSObject","childList":["PBHeadersFooters"]},{"father":"NSObject","childList":["PBHyperlink"]},{"father":"NSObject","childList":["PBMasterInfo"]},{"father":"NSObject","childList":["PBMasterLayoutMap"]},{"father":"NSObject","childList":["PBMasterStyle"]},{"father":"NSObject","childList":["PBMedia"]},{"father":"NSObject","childList":["PBNotes"]},{"father":"NSObject","childList":["PBOfficeArtReaderClient"]},{"father":"OABReaderState","childList":["PBOfficeArtReaderState"]},{"father":"OABWriterClient","childList":["PBOfficeArtWriterClient"]},{"father":"OABWriterState","childList":["PBOfficeArtWriterState"]},{"father":"NSObject","childList":["PBOutlineBulletDictionary"]},{"father":"NSObject","childList":["PBOutlineBulletKey"]},{"father":"NSObject","childList":["PBParagraphProperties"]},{"father":"NSObject","childList":["PBPlaceholder"]},{"father":"NSObject","childList":["PBPresentation"]},{"father":"NSObject","childList":["PBPresentationReaderState"]},{"father":"NSObject","childList":["PBPresentationWriterState"]},{"father":"NSObject","childList":["PBProgTag"]},{"father":"OCBReader","childList":["PBReader"]},{"father":"NSObject","childList":["PBReaderHyperlinkInfo"]},{"father":"PBSlideBase","childList":["PBSlide"]},{"father":"NSObject","childList":["PBSlideBase"]},{"father":"PBSlideBase","childList":["PBSlideMaster"]},{"father":"NSObject","childList":["PBSlideObjAndMasterPair"]},{"father":"NSObject","childList":["PBSlideState"]},{"father":"NSObject","childList":["PBTextBlock"]},{"father":"NSObject","childList":["PBTextRun"]},{"father":"NSObject","childList":["PCMessages"]},{"father":"PDTimeNode","childList":["PDAnimateBehavior"]},{"father":"PDAnimateBehavior","childList":["PDAnimateColorBehavior"]},{"father":"PDAnimateBehavior","childList":["PDAnimateEffectBehavior"]},{"father":"PDAnimateScaleBehavior","childList":["PDAnimateMotionBehavior"]},{"father":"PDAnimateBehavior","childList":["PDAnimateRotateBehavior"]},{"father":"PDAnimateBehavior","childList":["PDAnimateScaleBehavior"]},{"father":"PDAnimateBehavior","childList":["PDAnimateTimeBehavior"]},{"father":"NSObject","childList":["PDAnimation"]},{"father":"PDAnimationShapeTarget","childList":["PDAnimationBackgroundTarget"]},{"father":"NSObject","childList":["PDAnimationCache"]},{"father":"NSObject","childList":["PDAnimationCacheState"]},{"father":"PDAnimationShapeTarget","childList":["PDAnimationChartTarget"]},{"father":"PDAnimationShapeTarget","childList":["PDAnimationDiagramTarget"]},{"father":"NSObject","childList":["PDAnimationInfo"]},{"father":"NSObject","childList":["PDAnimationInfoData"]},{"father":"PDAnimationShapeTarget","childList":["PDAnimationOleChartTarget"]},{"father":"PDAnimationTarget","childList":["PDAnimationShapeTarget"]},{"father":"PDAnimationShapeTarget","childList":["PDAnimationSoundTarget"]},{"father":"NSObject","childList":["PDAnimationTarget"]},{"father":"PDAnimationShapeTarget","childList":["PDAnimationTextTarget"]},{"father":"PDMediaNode","childList":["PDAudioNode"]},{"father":"PDTransitionOptions","childList":["PDBlackOptions"]},{"father":"NSObject","childList":["PDBuild"]},{"father":"NSObject","childList":["PDBuildMapKey"]},{"father":"PDBuild","childList":["PDChartBuild"]},{"father":"PDAnimateBehavior","childList":["PDCmdBehavior"]},{"father":"NSObject","childList":["PDComment"]},{"father":"NSObject","childList":["PDCommentAuthor"]},{"father":"PDTransitionOptions","childList":["PDCornerDirectionOptions"]},{"father":"PDBuild","childList":["PDDiagramBuild"]},{"father":"PDTransitionOptions","childList":["PDEightDirectionOptions"]},{"father":"NSObject","childList":["PDHeadersFooters"]},{"father":"PDTransitionOptions","childList":["PDInOutDirectionOptions"]},{"father":"NSObject","childList":["PDIterate"]},{"father":"PDTimeNode","childList":["PDMediaNode"]},{"father":"PDSlideBase","childList":["PDNotesMaster"]},{"father":"PDSlideChild","childList":["PDNotesSlide"]},{"father":"NSObject","childList":["PDOfficeArtClient"]},{"father":"PDTransitionOptions","childList":["PDOrientationOptions"]},{"father":"PDBuild","childList":["PDParagraphBuild"]},{"father":"PDTimeNode","childList":["PDParallelTimeNode"]},{"father":"NSObject","childList":["PDPlaceholder"]},{"father":"OCDDocument","childList":["PDPresentation"]},{"father":"PDSideDirectionOptions","childList":["PDPrismOptions"]},{"father":"PDEightDirectionOptions","childList":["PDRevealOptions"]},{"father":"PDParallelTimeNode","childList":["PDRootTimeNode"]},{"father":"PDTransitionOptions","childList":["PDRotationOptions"]},{"father":"PDTimeNode","childList":["PDSequentialTimeNode"]},{"father":"PDAnimateBehavior","childList":["PDSetBehavior"]},{"father":"PDTransitionOptions","childList":["PDSideDirectionOptions"]},{"father":"PDSlideChild","childList":["PDSlide"]},{"father":"NSObject","childList":["PDSlideBase"]},{"father":"PDSlideBase","childList":["PDSlideChild"]},{"father":"PDSlideChild","childList":["PDSlideLayout"]},{"father":"PDSlideBase","childList":["PDSlideMaster"]},{"father":"OADTextField","childList":["PDSlideNumberField"]},{"father":"PDAnimationTarget","childList":["PDSlideTarget"]},{"father":"PDTransitionOptions","childList":["PDSplitDirectionOptions"]},{"father":"NSObject","childList":["PDTimeAnimateValue"]},{"father":"NSObject","childList":["PDTimeCondition"]},{"father":"NSObject","childList":["PDTimeNode"]},{"father":"NSObject","childList":["PDTimeNodeUnion"]},{"father":"OADProperties","childList":["PDTransition"]},{"father":"NSObject","childList":["PDTransitionOptions"]},{"father":"PDMediaNode","childList":["PDVideoNode"]},{"father":"PDTransitionOptions","childList":["PDWheelDirectionOptions"]},{"father":"CMMapper","childList":["PMBackgroundMapper"]},{"father":"CMMapper","childList":["PMBulletMapper"]},{"father":"CMDrawableMapper","childList":["PMDrawableMapper"]},{"father":"PMSlideMapper","childList":["PMMasterSlideMapper"]},{"father":"CMMapper","childList":["PMParagraphMapper"]},{"father":"CMMapper","childList":["PMPresentationMapper"]},{"father":"CMMapper","childList":["PMShapeTextMapper"]},{"father":"CMMapper","childList":["PMSlideMapper"]},{"father":"CMState","childList":["PMState"]},{"father":"CMMapper","childList":["PMTableCellMapper"]},{"father":"CMMapper","childList":["PMTableMapper"]},{"father":"CMMapper","childList":["PMTableRowMapper"]},{"father":"CMMapper","childList":["PMTextRunMapper"]},{"father":"CMTop","childList":["PMTop"]},{"father":"NSObject","childList":["PXAnimation"]},{"father":"NSObject","childList":["PXComment"]},{"father":"NSObject","childList":["PXCommentAuthor"]},{"father":"NSObject","childList":["PXCommon"]},{"father":"NSObject","childList":["PXLegacyText"]},{"father":"NSObject","childList":["PXMessages"]},{"father":"NSObject","childList":["PXNotesMaster"]},{"father":"NSObject","childList":["PXNotesSlide"]},{"father":"OAXClient","childList":["PXOfficeArtClient"]},{"father":"NSObject","childList":["PXPresentation"]},{"father":"NSObject","childList":["PXPresentationState"]},{"father":"OCXReader","childList":["PXReader"]},{"father":"NSObject","childList":["PXSlide"]},{"father":"NSObject","childList":["PXSlideBase"]},{"father":"NSObject","childList":["PXSlideChild"]},{"father":"NSObject","childList":["PXSlideLayout"]},{"father":"NSObject","childList":["PXSlideMaster"]},{"father":"NSObject","childList":["PXTransition"]},{"father":"NSObject","childList":["PXVmlClient"]},{"father":"OAVState","childList":["PXVmlState"]},{"father":"NSObject","childList":["PptHyperlinkBlock"]},{"father":"NSObject","childList":["PptMetaCharacterBlock"]},{"father":"NSObject","childList":["PptTextBlock"]},{"father":"NSObject","childList":["QLTop"]},{"father":"NSObject","childList":["SFUCryptoOutputStream"]},{"father":"OISFUDataRepresentation","childList":["SFUFileDataRepresentation"]},{"father":"NSObject","childList":["SFUFileOutputStream"]},{"father":"NSObject","childList":["SFUJson"]},{"father":"NSObject","childList":["SFUJsonScanner"]},{"father":"OISFUDataRepresentation","childList":["SFUMemoryDataRepresentation"]},{"father":"NSObject","childList":["SFUMemoryOutputStream"]},{"father":"NSObject","childList":["SFUMoveableFileOutputStream"]},{"father":"NSObject","childList":["SFUOffsetInputStream"]},{"father":"NSObject","childList":["SFUOffsetOutputStream"]},{"father":"NSObject","childList":["SFURegularExpression"]},{"father":"OISFUDataRepresentation","childList":["SFUZipArchiveMemoryDataRepresentation"]},{"father":"NSObject","childList":["SFUZipArchiveOutputStream"]},{"father":"NSObject","childList":["SFUZipDeflateOutputStream"]},{"father":"NSObject","childList":["SFUZipFreeSpaceEntry"]},{"father":"NSObject","childList":["SFUZipOutputEntry"]},{"father":"NSObject","childList":["STPropVariant"]},{"father":"NSObject","childList":["STPropertyStorage"]},{"father":"STStorage","childList":["STRootStorage"]},{"father":"NSObject","childList":["STSStgObject"]},{"father":"NSObject","childList":["STStgInfo"]},{"father":"STSStgObject","childList":["STStorage"]},{"father":"STSStgObject","childList":["STStream"]},{"father":"NSObject","childList":["TSDBezierPath"]},{"father":"NSAssertionHandler","childList":["TSUAssertionHandler"]},{"father":"NSObject","childList":["TSUBundleLookupClass"]},{"father":"NSObject","childList":["TSUColor"]},{"father":"NSObject","childList":["TSUDateFormat"]},{"father":"NSObject","childList":["TSUDateFormatCategory"]},{"father":"NSObject","childList":["TSUDateFormatCategoryEntry"]},{"father":"NSObject","childList":["TSUDateFormatter"]},{"father":"NSObject","childList":["TSUDateParser"]},{"father":"NSObject","childList":["TSUDateParserLibrary"]},{"father":"NSObject","childList":["TSUDuration"]},{"father":"NSObject","childList":["TSUDurationFormat"]},{"father":"NSFormatter","childList":["TSUDurationFormatter"]},{"father":"NSNumberFormatter","childList":["TSUFileSizeFormatter"]},{"father":"NSObject","childList":["TSUFlushingManager"]},{"father":"NSObject","childList":["TSUFormatReferenceObject"]},{"father":"NSObject","childList":["TSUImage"]},{"father":"NSObject","childList":["TSUMemoryWatcher"]},{"father":"TSUNumberFormat","childList":["TSUMutableNumberFormat"]},{"father":"TSUPair","childList":["TSUMutablePair"]},{"father":"TSUShallowCopyPair","childList":["TSUMutableShallowCopyPair"]},{"father":"NSMutableDictionary","childList":["TSUNoCopyDictionary"]},{"father":"NSObject","childList":["TSUNumberFormat"]},{"father":"NSObject","childList":["TSUNumberFormatter"]},{"father":"NSObject","childList":["TSUPair"]},{"father":"TSUPair","childList":["TSUPairNonRetainedSecond"]},{"father":"TSUNoCopyDictionary","childList":["TSUPointerKeyDictionary"]},{"father":"NSObject","childList":["TSUProgressContext"]},{"father":"NSObject","childList":["TSUProgressStage"]},{"father":"TSUNoCopyDictionary","childList":["TSURetainedPointerKeyDictionary"]},{"father":"TSUPair","childList":["TSUShallowCopyPair"]},{"father":"NSObject","childList":["TSUSharedLocale"]},{"father":"NSObject","childList":["TSUTemporaryDirectory"]},{"father":"NSObject","childList":["WBAnnotation"]},{"father":"NSObject","childList":["WBBookmark"]},{"father":"NSObject","childList":["WBBorder"]},{"father":"NSObject","childList":["WBCharacterProperties"]},{"father":"NSObject","childList":["WBCharacterRun"]},{"father":"NSObject","childList":["WBDocument"]},{"father":"NSObject","childList":["WBEscher"]},{"father":"NSObject","childList":["WBFieldMarker"]},{"father":"NSObject","childList":["WBFont"]},{"father":"NSObject","childList":["WBFontTable"]},{"father":"NSObject","childList":["WBFormField"]},{"father":"NSObject","childList":["WBList"]},{"father":"NSObject","childList":["WBListDefinition"]},{"father":"NSObject","childList":["WBListDefinitionTable"]},{"father":"NSObject","childList":["WBListLevel"]},{"father":"NSObject","childList":["WBListLevelOverride"]},{"father":"NSObject","childList":["WBListTable"]},{"father":"NSObject","childList":["WBMessages"]},{"father":"NSObject","childList":["WBNote"]},{"father":"NSObject","childList":["WBObjectFactory"]},{"father":"NSObject","childList":["WBOfficeArt"]},{"father":"NSObject","childList":["WBOfficeArtReaderClient"]},{"father":"OABReaderState","childList":["WBOfficeArtReaderState"]},{"father":"OABWriterState","childList":["WBOfficeArtWriterState"]},{"father":"WBPicture","childList":["WBOleObject"]},{"father":"NSObject","childList":["WBParagraph"]},{"father":"NSObject","childList":["WBParagraphProperties"]},{"father":"WBOfficeArt","childList":["WBPicture"]},{"father":"OCBReader","childList":["WBReader"]},{"father":"NSObject","childList":["WBRevisionAuthorTable"]},{"father":"NSObject","childList":["WBSection"]},{"father":"NSObject","childList":["WBShading"]},{"father":"NSObject","childList":["WBSpecialCharacter"]},{"father":"NSObject","childList":["WBStory"]},{"father":"NSObject","childList":["WBStyle"]},{"father":"NSObject","childList":["WBStyleSheet"]},{"father":"NSObject","childList":["WBSymbol"]},{"father":"NSObject","childList":["WBTable"]},{"father":"NSObject","childList":["WBTableCell"]},{"father":"NSObject","childList":["WBTableCellBodyProperties"]},{"father":"NSObject","childList":["WBTableCellProperties"]},{"father":"NSObject","childList":["WBTableCellStyleProperties"]},{"father":"NSObject","childList":["WBTableProperties"]},{"father":"NSObject","childList":["WBTableRow"]},{"father":"NSObject","childList":["WBTableRowProperties"]},{"father":"NSObject","childList":["WBTableStyleOverride"]},{"father":"NSObject","childList":["WBText"]},{"father":"NSObject","childList":["WBTextBox"]},{"father":"NSObject","childList":["WDAAnchor"]},{"father":"NSObject","childList":["WDAContent"]},{"father":"NSObject","childList":["WDATextBox"]},{"father":"WDRun","childList":["WDAnnotation"]},{"father":"WDTestIterator","childList":["WDAnnotationIterator"]},{"father":"WDIterator","childList":["WDArrayIterator"]},{"father":"NSObject","childList":["WDBlock"]},{"father":"WDCombinedIterator","childList":["WDBlockRunIterator"]},{"father":"WDRun","childList":["WDBookmark"]},{"father":"NSObject","childList":["WDBorder"]},{"father":"NSObject","childList":["WDCharacterProperties"]},{"father":"WDRun","childList":["WDCharacterRun"]},{"father":"NSObject","childList":["WDCitation"]},{"father":"NSObject","childList":["WDCitationAuthor"]},{"father":"NSObject","childList":["WDCitationTable"]},{"father":"WDIterator","childList":["WDCombinedIterator"]},{"father":"WDRun","childList":["WDDateTime"]},{"father":"OCDDocument","childList":["WDDocument"]},{"father":"WDTestIterator","childList":["WDEndnoteIterator"]},{"father":"WDRun","childList":["WDFieldMarker"]},{"father":"NSObject","childList":["WDFont"]},{"father":"NSObject","childList":["WDFontTable"]},{"father":"WDTestIterator","childList":["WDFootnoteIterator"]},{"father":"WDRun","childList":["WDFormField"]},{"father":"NSObject","childList":["WDIterator"]},{"father":"NSObject","childList":["WDList"]},{"father":"NSObject","childList":["WDListDefinition"]},{"father":"NSObject","childList":["WDListDefinitionTable"]},{"father":"NSObject","childList":["WDListLevel"]},{"father":"NSObject","childList":["WDListLevelOverride"]},{"father":"NSObject","childList":["WDListTable"]},{"father":"WDRun","childList":["WDNote"]},{"father":"WDCombinedIterator","childList":["WDNoteBlockIterator"]},{"father":"WDRun","childList":["WDOfficeArt"]},{"father":"WDPicture","childList":["WDOleObject"]},{"father":"WDBlock","childList":["WDParagraph"]},{"father":"NSObject","childList":["WDParagraphProperties"]},{"father":"WDOfficeArt","childList":["WDPicture"]},{"father":"NSObject","childList":["WDRevisionAuthorTable"]},{"father":"NSObject","childList":["WDRubyProperties"]},{"father":"WDCharacterRun","childList":["WDRubyRun"]},{"father":"NSObject","childList":["WDRun"]},{"father":"NSObject","childList":["WDSection"]},{"father":"WDCombinedIterator","childList":["WDSectionBlockIterator"]},{"father":"NSObject","childList":["WDShading"]},{"father":"WDRun","childList":["WDSpecialCharacter"]},{"father":"NSObject","childList":["WDStory"]},{"father":"NSObject","childList":["WDStyle"]},{"father":"NSObject","childList":["WDStyleSheet"]},{"father":"WDRun","childList":["WDSymbol"]},{"father":"WDBlock","childList":["WDTable"]},{"father":"NSObject","childList":["WDTableCell"]},{"father":"NSObject","childList":["WDTableCellDescriptor"]},{"father":"NSObject","childList":["WDTableCellProperties"]},{"father":"WDCombinedIterator","childList":["WDTableCellRunIterator"]},{"father":"NSObject","childList":["WDTableProperties"]},{"father":"NSObject","childList":["WDTableRow"]},{"father":"WDCombinedIterator","childList":["WDTableRowCellIterator"]},{"father":"NSObject","childList":["WDTableRowProperties"]},{"father":"WDIterator","childList":["WDTestIterator"]},{"father":"NSObject","childList":["WDTableStyleOverride"]},{"father":"NSObject","childList":["WDText"]},{"father":"CMMapper","childList":["WMBookmarkMapper"]},{"father":"CMBordersProperty","childList":["WMBordersProperty"]},{"father":"CMMapper","childList":["WMCharacterRunMapper"]},{"father":"CMMapper","childList":["WMDocumentMapper"]},{"father":"CMProperty","childList":["WMEnumProperty"]},{"father":"NSObject","childList":["WMFPlayer"]},{"father":"NSObject","childList":["WMFReader"]},{"father":"WMParagraphMapper","childList":["WMFieldMapper"]},{"father":"NSObject","childList":["WMListLevelTextMapper"]},{"father":"NSObject","childList":["WMListLevelTextToken"]},{"father":"CMDrawableMapper","childList":["WMOfficeArtMapper"]},{"father":"CMMapper","childList":["WMParagraphMapper"]},{"father":"WMStyle","childList":["WMParagraphStyle"]},{"father":"CMMapper","childList":["WMParagraphStyleMapper"]},{"father":"CMDrawableMapper","childList":["WMPictureMapper"]},{"father":"CMMapper","childList":["WMSectionContentMapper"]},{"father":"CMMapper","childList":["WMSectionMapper"]},{"father":"WMStyle","childList":["WMSectionStyle"]},{"father":"CMState","childList":["WMState"]},{"father":"CMStyle","childList":["WMStyle"]},{"father":"CMMapper","childList":["WMSymbolMapper"]},{"father":"CMMapper","childList":["WMTableCellMapper"]},{"father":"WMStyle","childList":["WMTableCellStyle"]},{"father":"NSObject","childList":["WMTableColumnInfo"]},{"father":"CMMapper","childList":["WMTableMapper"]},{"father":"CMMapper","childList":["WMTableRowMapper"]},{"father":"WMStyle","childList":["WMTableStyle"]},{"father":"CMTop","childList":["WMTop"]},{"father":"NSObject","childList":["WXAnnotation"]},{"father":"NSObject","childList":["WXBookmark"]},{"father":"NSObject","childList":["WXBorder"]},{"father":"NSObject","childList":["WXCharacterProperties"]},{"father":"NSObject","childList":["WXCharacterRun"]},{"father":"NSObject","childList":["WXCitation"]},{"father":"NSObject","childList":["WXCitationTable"]},{"father":"NSObject","childList":["WXCommon"]},{"father":"NSObject","childList":["WXDocument"]},{"father":"NSObject","childList":["WXFieldMarker"]},{"father":"NSObject","childList":["WXFont"]},{"father":"NSObject","childList":["WXFontTable"]},{"father":"NSObject","childList":["WXList"]},{"father":"NSObject","childList":["WXListDefinition"]},{"father":"NSObject","childList":["WXListDefinitionTable"]},{"father":"NSObject","childList":["WXListLevel"]},{"father":"NSObject","childList":["WXListLevelOverride"]},{"father":"NSObject","childList":["WXListTable"]},{"father":"NSObject","childList":["WXNote"]},{"father":"OAVState","childList":["WXOAVState"]},{"father":"NSObject","childList":["WXOfficeArt"]},{"father":"OAXClient","childList":["WXOfficeArtClient"]},{"father":"NSObject","childList":["WXParagraph"]},{"father":"NSObject","childList":["WXParagraphProperties"]},{"father":"OCXReader","childList":["WXReader"]},{"father":"NSObject","childList":["WXRubyProperties"]},{"father":"WXCharacterRun","childList":["WXRubyRun"]},{"father":"NSObject","childList":["WXSection"]},{"father":"NSObject","childList":["WXShading"]},{"father":"NSObject","childList":["WXSpecialCharacter"]},{"father":"NSObject","childList":["WXState"]},{"father":"NSObject","childList":["WXStyle"]},{"father":"NSObject","childList":["WXStyleSheet"]},{"father":"NSObject","childList":["WXSymbol"]},{"father":"NSObject","childList":["WXTable"]},{"father":"NSObject","childList":["WXTableCell"]},{"father":"NSObject","childList":["WXTableCellProperties"]},{"father":"NSObject","childList":["WXTableProperties"]},{"father":"NSObject","childList":["WXTableRow"]},{"father":"NSObject","childList":["WXTableRowProperties"]},{"father":"NSObject","childList":["WXTableStyleOverride"]},{"father":"NSObject","childList":["WXText"]},{"father":"NSObject","childList":["WXTextBox"]},{"father":"NSObject","childList":["WXVmlClient"]}]}
+{
+  "name": "OfficeImport.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WXSection",
+          "children": []
+        },
+        {
+          "name": "WXShading",
+          "children": []
+        },
+        {
+          "name": "WXSpecialCharacter",
+          "children": []
+        },
+        {
+          "name": "WXState",
+          "children": []
+        },
+        {
+          "name": "WXStyle",
+          "children": []
+        },
+        {
+          "name": "WXStyleSheet",
+          "children": []
+        },
+        {
+          "name": "WXSymbol",
+          "children": []
+        },
+        {
+          "name": "WXTable",
+          "children": []
+        },
+        {
+          "name": "WXTableCell",
+          "children": []
+        },
+        {
+          "name": "WXTableCellProperties",
+          "children": []
+        },
+        {
+          "name": "WXTableProperties",
+          "children": []
+        },
+        {
+          "name": "WXTableRow",
+          "children": []
+        },
+        {
+          "name": "WXTableRowProperties",
+          "children": []
+        },
+        {
+          "name": "WXTableStyleOverride",
+          "children": []
+        },
+        {
+          "name": "WXText",
+          "children": []
+        },
+        {
+          "name": "WXTextBox",
+          "children": []
+        },
+        {
+          "name": "WXVmlClient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WXCharacterRun",
+      "parent": null,
+      "children": [
+        {
+          "name": "WXRubyRun",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCXReader",
+      "parent": null,
+      "children": [
+        {
+          "name": "WXReader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OAXClient",
+      "parent": null,
+      "children": [
+        {
+          "name": "WXOfficeArtClient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OAVState",
+      "parent": null,
+      "children": [
+        {
+          "name": "WXOAVState",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMTop",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMTop",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WMStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMTableStyle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMSymbolMapper",
+          "children": []
+        },
+        {
+          "name": "WMTableCellMapper",
+          "children": []
+        },
+        {
+          "name": "WMTableMapper",
+          "children": []
+        },
+        {
+          "name": "WMTableRowMapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMStyle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMState",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMState",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMDrawableMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMOfficeArtMapper",
+          "children": []
+        },
+        {
+          "name": "WMPictureMapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WMParagraphMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMFieldMapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMProperty",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMEnumProperty",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMBordersProperty",
+      "parent": null,
+      "children": [
+        {
+          "name": "WMBordersProperty",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WDIterator",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDTestIterator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WDCombinedIterator",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDTableCellRunIterator",
+          "children": []
+        },
+        {
+          "name": "WDTableRowCellIterator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WDBlock",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDTable",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WDRun",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDSpecialCharacter",
+          "children": []
+        },
+        {
+          "name": "WDSymbol",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WDCharacterRun",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDRubyRun",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WDOfficeArt",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDPicture",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WDPicture",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDOleObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WDTestIterator",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDEndnoteIterator",
+          "children": []
+        },
+        {
+          "name": "WDFootnoteIterator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCDDocument",
+      "parent": null,
+      "children": [
+        {
+          "name": "WDDocument",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCBReader",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBReader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBOfficeArt",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBPicture",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WBPicture",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBOleObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OABWriterState",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBOfficeArtWriterState",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OABReaderState",
+      "parent": null,
+      "children": [
+        {
+          "name": "WBOfficeArtReaderState",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TSUPair",
+      "parent": null,
+      "children": [
+        {
+          "name": "TSUShallowCopyPair",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TSUNoCopyDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "TSUPointerKeyDictionary",
+          "children": []
+        },
+        {
+          "name": "TSURetainedPointerKeyDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "TSUNoCopyDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TSUShallowCopyPair",
+      "parent": null,
+      "children": [
+        {
+          "name": "TSUMutableShallowCopyPair",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TSUNumberFormat",
+      "parent": null,
+      "children": [
+        {
+          "name": "TSUMutableNumberFormat",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSNumberFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "TSUFileSizeFormatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "TSUDurationFormatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSAssertionHandler",
+      "parent": null,
+      "children": [
+        {
+          "name": "TSUAssertionHandler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "STSStgObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "STStorage",
+          "children": []
+        },
+        {
+          "name": "STStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "STStorage",
+      "parent": null,
+      "children": [
+        {
+          "name": "STRootStorage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OISFUDataRepresentation",
+      "parent": null,
+      "children": [
+        {
+          "name": "SFUFileDataRepresentation",
+          "children": []
+        },
+        {
+          "name": "SFUMemoryDataRepresentation",
+          "children": []
+        },
+        {
+          "name": "SFUZipArchiveMemoryDataRepresentation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PMSlideMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "PMMasterSlideMapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDTransitionOptions",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDWheelDirectionOptions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDMediaNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDVideoNode",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADProperties",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDTransition",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDAnimationTarget",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDSlideTarget",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADTextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDSlideNumberField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDSlideBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDSlideMaster",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDSlideChild",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDSlide",
+          "children": []
+        },
+        {
+          "name": "PDSlideLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDAnimateBehavior",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDSetBehavior",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDTimeNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDSequentialTimeNode",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDParallelTimeNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDRootTimeNode",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDEightDirectionOptions",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDRevealOptions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDSideDirectionOptions",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDPrismOptions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDBuild",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDChartBuild",
+          "children": []
+        },
+        {
+          "name": "PDDiagramBuild",
+          "children": []
+        },
+        {
+          "name": "PDParagraphBuild",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDAnimationShapeTarget",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDAnimationBackgroundTarget",
+          "children": []
+        },
+        {
+          "name": "PDAnimationChartTarget",
+          "children": []
+        },
+        {
+          "name": "PDAnimationDiagramTarget",
+          "children": []
+        },
+        {
+          "name": "PDAnimationOleChartTarget",
+          "children": []
+        },
+        {
+          "name": "PDAnimationSoundTarget",
+          "children": []
+        },
+        {
+          "name": "PDAnimationTextTarget",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDAnimateScaleBehavior",
+      "parent": null,
+      "children": [
+        {
+          "name": "PDAnimateMotionBehavior",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PBSlideBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "PBSlide",
+          "children": []
+        },
+        {
+          "name": "PBSlideMaster",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OABWriterClient",
+      "parent": null,
+      "children": [
+        {
+          "name": "PBOfficeArtWriterClient",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PDAnimationCacheState",
+      "parent": null,
+      "children": [
+        {
+          "name": "PBAnimationCacheState",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OIXMLNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "OIXMLDocument",
+          "children": []
+        },
+        {
+          "name": "OIXMLElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSException",
+      "parent": null,
+      "children": [
+        {
+          "name": "OISFUZipException",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OISFUCryptoKey",
+      "parent": null,
+      "children": [
+        {
+          "name": "OISFUTangierCryptoKey",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OISFUCryptor",
+      "parent": null,
+      "children": [
+        {
+          "name": "OISFUCommonCryptoCryptor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODILinear",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODIVerticalProcess2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODIVenn",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODIVenn1",
+          "children": []
+        },
+        {
+          "name": "ODIVenn3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODIHorizonalList3",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODITitlePoint",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODICycle5",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODIGear1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODICycle",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODICycle5",
+          "children": []
+        },
+        {
+          "name": "ODICycle7",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODICycle3",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODICycle4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODIBending",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODIBendingList2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODIImageLinear",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODIAccentedImageLinear",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODDLayoutObjectList",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODDWhen",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODDDataPoint",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODDTransitionPoint",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODDLayoutObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODDShape",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ODDPoint",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODDPresentationPoint",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADDrawable",
+      "parent": null,
+      "children": [
+        {
+          "name": "ODDDiagram",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCDEncryptedReader",
+      "parent": null,
+      "children": [
+        {
+          "name": "OCXReader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCPPackagePart",
+      "parent": null,
+      "children": [
+        {
+          "name": "OCPZipPackagePart",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCPPackage",
+      "parent": null,
+      "children": [
+        {
+          "name": "OCPZipPackage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "OCImporter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCDReader",
+      "parent": null,
+      "children": [
+        {
+          "name": "OCDEncryptedReader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCDDelayedNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "OCDDelayedMedia",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCXDelayedMediaContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "OAXBlipContext",
+          "children": []
+        },
+        {
+          "name": "OAXMovieContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADShape",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADWordArt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADEmbeddedMediaFile",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADWavAudioFile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADLinkedMediaFile",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADVideoFile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADPathElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADVectorArcPathElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADColorTransform",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADValueColorTransform",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADImageFillTechnique",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADTileTechnique",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADBaseStylesBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADThemeOverrides",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADTextRun",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADTextField",
+          "children": []
+        },
+        {
+          "name": "OADTextLineBreak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADDrawableProperties",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADTableProperties",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADColor",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADSystemColor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OCDDelayedMedia",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADSound",
+          "children": []
+        },
+        {
+          "name": "OADSubBlip",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADFill",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADSolidFill",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADGraphicProperties",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADShapeProperties",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADGraphic",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADShape",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADEffect",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADShadowEffect",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADLineJoin",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADRoundLineJoin",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADToPointPathElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADQuarterEllipseToPathElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADTextWarp",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADPresetTextWarp",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADShapeGeometry",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADPresetShapeGeometry",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADShadowEffect",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADPresetShadowEffect",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADPattern",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADPresetPattern",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADDash",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADPresetDash",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADTextSpacing",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADPointTextSpacing",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADBulletSize",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADPercentBulletSize",
+          "children": []
+        },
+        {
+          "name": "OADPointBulletSize",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADShade",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADPathShade",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADCharacterProperties",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADParagraphProperties",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADBulletProperties",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADNullBulletProperties",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADTextBodyAutoFit",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADNormalTextBodyAutoFit",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADBackground",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADMasterBackground",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADBlipEffect",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADLuminanceEffect",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADMovie",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADLinkedMediaFile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADShapeProperties",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADConnectorProperties",
+          "children": []
+        },
+        {
+          "name": "OADLineProperties",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADBulletFont",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADBulletFontFollowText",
+          "children": []
+        },
+        {
+          "name": "OADBulletFontSpecification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OADBulletColor",
+      "parent": null,
+      "children": [
+        {
+          "name": "OADBulletColorFollowText",
+          "children": []
+        },
+        {
+          "name": "OADBulletColorSpecification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OABShapeBaseManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "OABShapeManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OABFillPropertiesManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "OABShapeBaseManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "parent": null,
+      "name": null,
+      "children": []
+    },
+    {
+      "name": "MFPhoneBrush",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPhoneSolidBrush",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFRegion",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPhoneRegion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFPen",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPhonePen",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFPath",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPhonePath",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFFont",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPhoneFont",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFBrush",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPhoneBrush",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFBitmap",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPhoneBitmap",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFPEffect",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPTintEffect",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFPImageBrush",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPTextureBrush",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFPBrush",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPSolidBrush",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFPGradientBrush",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPPathGradientBrush",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFPImage",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPBitmapImage",
+          "children": []
+        },
+        {
+          "name": "MFPMetafileImage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OAXDrawingState",
+      "parent": null,
+      "children": [
+        {
+          "name": "EXOfficeArtState",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ESDObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ESDRoot",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ESDBlipContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "ESDDibFileBlipContext",
+          "children": []
+        },
+        {
+          "name": "ESDMetafileBlipContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EPStyleFlattener",
+      "parent": null,
+      "children": [
+        {
+          "name": "EPTableStyleFlattener",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDProcessor",
+      "parent": null,
+      "children": [
+        {
+          "name": "EPFormulaCleaner",
+          "children": []
+        },
+        {
+          "name": "EPFormulaCollectionCleaner",
+          "children": []
+        },
+        {
+          "name": "EPMergedRegionScanner",
+          "children": []
+        },
+        {
+          "name": "EPNameFormulaCleaner",
+          "children": []
+        },
+        {
+          "name": "EPStyleFlattener",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDBorder",
+      "parent": null,
+      "children": [
+        {
+          "name": "EPBorder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EMSheetMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "EMChartsheetMapper",
+          "children": []
+        },
+        {
+          "name": "EMWorksheetMapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDSheet",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDUnsupportedSheet",
+          "children": []
+        },
+        {
+          "name": "EDWorksheet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDAnchor",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDTwoCellAnchor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDCollection",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDStylesCollection",
+          "children": []
+        },
+        {
+          "name": "EDTableStylesCollection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDKeyedCollection",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDSortedCollection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDReference",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDSheetReference",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDFormula",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDSharedFormula",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDSortedCollection",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDRunsCollection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDFill",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDPatternFill",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDNamedStyle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EDSharedFormula",
+      "parent": null,
+      "children": [
+        {
+          "name": "EDArrayedFormula",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "TSUPointerKeyDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "ECPointerNilKeyDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EBState",
+      "parent": null,
+      "children": [
+        {
+          "name": "EBReaderState",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CXNamespace",
+      "parent": null,
+      "children": [
+        {
+          "name": "CXUnqualifiedNamespace",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPTracing",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPExportTracing",
+          "children": []
+        },
+        {
+          "name": "CPImportTracing",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPDumpType",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPDumpArray",
+          "children": []
+        },
+        {
+          "name": "CPDumpBlob",
+          "children": []
+        },
+        {
+          "name": "CPDumpContainer",
+          "children": []
+        },
+        {
+          "name": "CPDumpEmfPlusContainer",
+          "children": []
+        },
+        {
+          "name": "CPDumpNumeric",
+          "children": []
+        },
+        {
+          "name": "CPDumpStruct",
+          "children": []
+        },
+        {
+          "name": "CPDumpUnion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMArchiveManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMProgressiveArchiveManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMShapeBuilder",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMLineShapeBuilder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMLineShapeBuilder",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMFreeFormShapeBuilder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EMCellStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMDrawableStyle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMDiagramShapeMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMDiagramShapeMatrixMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramShapeVennMapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMDiagramMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMDiagramShapeMapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CMDiagramPointMapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "CMDiagramPointArrowMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointChevronMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointContinuousArrowMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointEllipseMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointListBaseMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointListItemL1Mapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointPyramidLayerMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointRoundedRectMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointSegmentedPieMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointSegmentedPyramidLayerMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointTextMapper",
+          "children": []
+        },
+        {
+          "name": "CMDiagramPointTransitionMapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHAutoStyling",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHXAutoStyling",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDAxis",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDValueAxis",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDChartType",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDUnsupportedType",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDSeries",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDUnsupportedSeries",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDUnsupportedType",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDSurfaceType",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDLineSeries",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDScatterSeries",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDAnchor",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDRelativeSizeAnchor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDDataValueProperties",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDPieDataValueProperties",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDPie2DType",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDPie3DType",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDChartTypeWithGrouping",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDLineType",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDLineType",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDLine2DType",
+          "children": []
+        },
+        {
+          "name": "CHDLine3DType",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDBar2DType",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDBar3DType",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHDArea2DType",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHDArea3DType",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CHBState",
+      "parent": null,
+      "children": [
+        {
+          "name": "CHBReaderState",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

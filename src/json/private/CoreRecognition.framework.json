@@ -1,1 +1,45 @@
-{"name":"CoreRecognition.framework","list":[{"father":"CAReplicatorLayer","childList":["CRBoxLayer"]},{"father":"UIViewController","childList":["CRCodeRedeemerController"]},{"father":"NSObject","childList":["CaptureSessionManager"]},{"father":"CALayer","childList":["DiagnosticHUDLayer"]}]}
+{
+  "name": "CoreRecognition.framework",
+  "list": [
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "DiagnosticHUDLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CaptureSessionManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CRCodeRedeemerController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAReplicatorLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "CRBoxLayer",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

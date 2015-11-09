@@ -1,1 +1,37 @@
-{"name":"DataAccessExpress.framework","list":[{"father":"NSObject","childList":["DABehaviorOptions"]},{"father":"NSObject","childList":["DAContactSearchResultElement"]},{"father":"DASearchQuery","childList":["DAContactsSearchQuery"]},{"father":"NSObject","childList":["DADAMContainerIDCacheKey"]},{"father":"NSObject","childList":["DADConnection"]},{"father":"NSObject","childList":["DADisableableObject"]},{"father":"NSObject","childList":["DADownloadContext"]},{"father":"NSObject","childList":["DAFolderChange"]},{"father":"DASearchQuery","childList":["DAMailboxSearchQuery"]},{"father":"NSObject","childList":["DASearchQuery"]},{"father":"NSObject","childList":["DASharedCalendarContext"]},{"father":"NSObject","childList":["DAStatusReport"]}]}
+{
+  "name": "DataAccessExpress.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "DASearchQuery",
+          "children": []
+        },
+        {
+          "name": "DASharedCalendarContext",
+          "children": []
+        },
+        {
+          "name": "DAStatusReport",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DASearchQuery",
+      "parent": null,
+      "children": [
+        {
+          "name": "DAContactsSearchQuery",
+          "children": []
+        },
+        {
+          "name": "DAMailboxSearchQuery",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,59 @@
-{"name":"Symptoms.framework","list":[{"father":"NSObject","childList":["AnalyticsWorkspace"]},{"father":"Process","childList":["App"]},{"father":"ProcessAnalytics","childList":["AppAnalytics"]},{"father":"NSManagedObject","childList":["AppCalendarUsage"]},{"father":"NSManagedObject","childList":["AppRun"]},{"father":"NSManagedObject","childList":["AppTypicalUsage"]},{"father":"NSManagedObject","childList":["CheckUpEvent"]},{"father":"NSManagedObject","childList":["DemoLiveUsage"]},{"father":"NSManagedObject","childList":["Event"]},{"father":"NSManagedObject","childList":["EventScene"]},{"father":"NSManagedObject","childList":["LiveUsage"]},{"father":"NSObject","childList":["ObjectAnalytics"]},{"father":"NSManagedObject","childList":["Peer"]},{"father":"NSManagedObject","childList":["Process"]},{"father":"ObjectAnalytics","childList":["ProcessAnalytics"]},{"father":"NSObject","childList":["ProcessNetStatsClient"]},{"father":"NSObject","childList":["ProcessNetStatsIndividualEntity"]},{"father":"NSManagedObject","childList":["TshootingData"]},{"father":"ObjectAnalytics","childList":["UsageAnalytics"]},{"father":"NSObject","childList":["UsageFeed"]},{"father":"NSManagedObject","childList":["WiFiData"]}]}
+{
+  "name": "Symptoms.framework",
+  "list": [
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WiFiData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "UsageFeed",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ObjectAnalytics",
+      "parent": null,
+      "children": [
+        {
+          "name": "ProcessAnalytics",
+          "children": []
+        },
+        {
+          "name": "UsageAnalytics",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ProcessAnalytics",
+      "parent": null,
+      "children": [
+        {
+          "name": "AppAnalytics",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Process",
+      "parent": null,
+      "children": [
+        {
+          "name": "App",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

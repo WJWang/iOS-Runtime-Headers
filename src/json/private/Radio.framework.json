@@ -1,1 +1,137 @@
-{"name":"Radio.framework","list":[{"father":"RadioSyncRequest","childList":["RadioAddStationRequest"]},{"father":"RadioRequest","childList":["RadioAddToWishListRequest"]},{"father":"RadioTrack","childList":["RadioAudioClip"]},{"father":"RadioRequest","childList":["RadioClearPlayHistoryRequest"]},{"father":"RadioRequest","childList":["RadioContentLookupRequest"]},{"father":"RadioSyncRequest","childList":["RadioDeleteStationRequest"]},{"father":"RadioGetGenreTreeNodesRequest","childList":["RadioGenresRequest"]},{"father":"RadioRequest","childList":["RadioGetFeaturedStationsRequest"]},{"father":"RadioRequest","childList":["RadioGetGenreTreeNodesRequest"]},{"father":"RadioRequest","childList":["RadioGetHistoryRequest"]},{"father":"RadioRequest","childList":["RadioGetLikesRequest"]},{"father":"RadioRequest","childList":["RadioGetStreamingStationsRequest"]},{"father":"RadioRequest","childList":["RadioGetTrackEventsRequest"]},{"father":"RadioRequest","childList":["RadioGetTracksRequest"]},{"father":"RadioRequest","childList":["RadioGetWishListRequest"]},{"father":"NSObject","childList":["RadioImageCache"]},{"father":"RadioRequest","childList":["RadioItemLookupRequest"]},{"father":"RadioRequest","childList":["RadioLikeRequest"]},{"father":"RadioRequest","childList":["RadioLoadStoreBagRequest"]},{"father":"RadioManagedTrack","childList":["RadioManagedAudioClip"]},{"father":"NSManagedObject","childList":["RadioManagedSkipHistory"]},{"father":"NSManagedObject","childList":["RadioManagedStation"]},{"father":"NSManagedObject","childList":["RadioManagedTrack"]},{"father":"NSManagedObject","childList":["RadioManagedTrackHistory"]},{"father":"NSObject","childList":["RadioModel"]},{"father":"RadioTrackHistorySectionInfo","childList":["RadioMutableTrackHistorySectionInfo"]},{"father":"NSObject","childList":["RadioNetworkObserver"]},{"father":"RadioRequest","childList":["RadioOptInRequest"]},{"father":"NSObject","childList":["RadioPlayEvent"]},{"father":"NSObject","childList":["RadioPlayEvents"]},{"father":"RadioRequest","childList":["RadioPlayEventsRequest"]},{"father":"NSObject","childList":["RadioPushNotificationController"]},{"father":"RadioRequest","childList":["RadioRemoveAllFromWishListRequest"]},{"father":"RadioRequest","childList":["RadioReportIssueRequest"]},{"father":"NSObject","childList":["RadioRequest"]},{"father":"NSObject","childList":["RadioRequestContext"]},{"father":"NSManagedObject","childList":["RadioRevision"]},{"father":"RadioRequest","childList":["RadioSearchRequest"]},{"father":"RadioRequest","childList":["RadioSearchResultAccessedRequest"]},{"father":"RadioRequest","childList":["RadioShareInfoRequest"]},{"father":"RadioSyncRequest","childList":["RadioShareStationRequest"]},{"father":"NSObject","childList":["RadioSkipHistory"]},{"father":"NSObject","childList":["RadioStation"]},{"father":"RadioRequest","childList":["RadioStationMatchRequest"]},{"father":"NSObject","childList":["RadioStoreBag"]},{"father":"RadioRequest","childList":["RadioSyncRequest"]},{"father":"RadioRequest","childList":["RadioTermsCheckRequest"]},{"father":"NSObject","childList":["RadioTrack"]},{"father":"NSObject","childList":["RadioTrackHistory"]},{"father":"NSObject","childList":["RadioTrackHistorySectionInfo"]},{"father":"NSArray","childList":["RadioTracksArray"]},{"father":"SSURLConnectionRequest","childList":["RadioURLConnectionRequest"]},{"father":"RadioSyncRequest","childList":["RadioUpdateSortOrderRequest"]},{"father":"RadioSyncRequest","childList":["RadioUpdateStationRequest"]}]}
+{
+  "name": "Radio.framework",
+  "list": [
+    {
+      "name": "RadioSyncRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioUpdateSortOrderRequest",
+          "children": []
+        },
+        {
+          "name": "RadioUpdateStationRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSURLConnectionRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioURLConnectionRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioTracksArray",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioTrack",
+          "children": []
+        },
+        {
+          "name": "RadioTrackHistory",
+          "children": []
+        },
+        {
+          "name": "RadioTrackHistorySectionInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RadioRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioSearchRequest",
+          "children": []
+        },
+        {
+          "name": "RadioSearchResultAccessedRequest",
+          "children": []
+        },
+        {
+          "name": "RadioShareInfoRequest",
+          "children": []
+        },
+        {
+          "name": "RadioStationMatchRequest",
+          "children": []
+        },
+        {
+          "name": "RadioSyncRequest",
+          "children": []
+        },
+        {
+          "name": "RadioTermsCheckRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioRevision",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RadioTrackHistorySectionInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioMutableTrackHistorySectionInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RadioManagedTrack",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioManagedAudioClip",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RadioGetGenreTreeNodesRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioGenresRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "RadioTrack",
+      "parent": null,
+      "children": [
+        {
+          "name": "RadioAudioClip",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

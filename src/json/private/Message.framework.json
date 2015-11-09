@@ -1,1 +1,439 @@
-{"name":"Message.framework","list":[{"father":"DeliveryAccount","childList":["DADeliveryAccount"]},{"father":"MailAccount","childList":["DAMailAccount"]},{"father":"MFAccount","childList":["DeliveryAccount"]},{"father":"MailAccount","childList":["LocalAccount"]},{"father":"NSObject","childList":["MFAccount"]},{"father":"NSObject","childList":["MFAccountLoader"]},{"father":"NSObject","childList":["MFAccountStore"]},{"father":"NSObject","childList":["MFAccountValidator"]},{"father":"MFPriorityDesignator","childList":["MFActivityMonitor"]},{"father":"NSObject","childList":["MFAttachment"]},{"father":"NSObject","childList":["MFAttachmentLibraryDataProvider"]},{"father":"NSObject","childList":["MFAttachmentManager"]},{"father":"NSObject","childList":["MFAuthScheme"]},{"father":"NSObject","childList":["MFBasicMessageDataSection"]},{"father":"NSObject","childList":["MFBufferedQueue"]},{"father":"MFAuthScheme","childList":["MFCRAM_MD5AuthScheme"]},{"father":"MFSASLAuthenticator","childList":["MFCRAM_MD5Authenticator"]},{"father":"NSObject","childList":["MFConnection"]},{"father":"NSObject","childList":["MFConnectionSettings"]},{"father":"NSObject","childList":["MFCountryConfiguration"]},{"father":"MFOfflineCacheOperation","childList":["MFDADeferredMessageMoveOperation"]},{"father":"MFMailDelivery","childList":["MFDADelivery"]},{"father":"MFDAMailAccountConsumer","childList":["MFDADeliveryConsumer"]},{"father":"NSObject","childList":["MFDAFolderChangeConsumer"]},{"father":"NSObject","childList":["MFDAFolderChangeResult"]},{"father":"NSObject","childList":["MFDAMailAccountConsumer"]},{"father":"MFDAMailAccountConsumer","childList":["MFDAMailAccountSyncConsumer"]},{"father":"MFMailboxUid","childList":["MFDAMailbox"]},{"father":"MFMailMessage","childList":["MFDAMessage"]},{"father":"NSObject","childList":["MFDAMessageContentConsumer"]},{"father":"NSObject","childList":["MFDAMessagePayloadFetchResponseImpl"]},{"father":"MFLibraryStore","childList":["MFDAMessageStore"]},{"father":"MFDAMailAccountConsumer","childList":["MFDAMoveResponseConsumer"]},{"father":"MFOfflineCache","childList":["MFDAOfflineCache"]},{"father":"MFRequestQueue","childList":["MFDARequestQueue"]},{"father":"NSObject","childList":["MFDbJournal"]},{"father":"NSObject","childList":["MFDecryptedAttachmentDataProvider"]},{"father":"NSObject","childList":["MFDeliveryResult"]},{"father":"MFAuthScheme","childList":["MFDigestMD5AuthScheme"]},{"father":"NSError","childList":["MFError"]},{"father":"NSObject","childList":["MFFetchLimits"]},{"father":"NSObject","childList":["MFInvocationQueue"]},{"father":"NSObject","childList":["MFLibraryContentIndex"]},{"father":"NSObject","childList":["MFLibraryContentIndexableItem"]},{"father":"MFMailMessage","childList":["MFLibraryMessage"]},{"father":"MFMailMessageStore","childList":["MFLibraryStore"]},{"father":"MFMessageHeaders","childList":["MFLocalizedMessageHeaders"]},{"father":"MFDataMessageStore","childList":["MFMailDataMessageStore"]},{"father":"NSObject","childList":["MFMailDelivery"]},{"father":"MFMessage","childList":["MFMailMessage"]},{"father":"MFMessageLibrary","childList":["MFMailMessageLibrary"]},{"father":"NSObject","childList":["MFMailMessageLibraryMigrator"]},{"father":"MFMessageStore","childList":["MFMailMessageStore"]},{"father":"MFMimePart","childList":["MFMailMimePart"]},{"father":"MFMimeTextAttachment","childList":["MFMailMimeTextAttachment"]},{"father":"NSObject","childList":["MFMailboxMessageIterationFilter"]},{"father":"NSObject","childList":["MFMailboxUid"]},{"father":"NSObject","childList":["MFMessageCriterion"]},{"father":"NSObject","childList":["MFMessageDetails"]},{"father":"NSObject","childList":["MFMessageInfo"]},{"father":"NSObject","childList":["MFMessageKeychainManager"]},{"father":"NSObject","childList":["MFMessageLibrary"]},{"father":"NSNotificationCenter","childList":["MFMessageNotificationCenter"]},{"father":"NSObject","childList":["MFMessageSigner"]},{"father":"NSObject","childList":["MFMessageURLConnectionDelegate"]},{"father":"NSURLProtocol","childList":["MFMessageURLProtocol"]},{"father":"NSObject","childList":["MFMessageWriter"]},{"father":"NSObject","childList":["MFMimeEnrichedReader"]},{"father":"NSInvocation","childList":["MFMonitoredInvocation"]},{"father":"MFAuthScheme","childList":["MFNTLMAuthScheme"]},{"father":"NSObject","childList":["MFNetworkController"]},{"father":"NSObject","childList":["MFOfflineCache"]},{"father":"NSObject","childList":["MFOfflineCacheOperation"]},{"father":"NSObject","childList":["MFOfflineCacheReplayContext"]},{"father":"NSObject","childList":["MFOfflineTransferFailureSnapshot"]},{"father":"MFMailMessage","childList":["MFOutgoingMessage"]},{"father":"NSObject","childList":["MFOutgoingMessageDelivery"]},{"father":"MFAuthScheme","childList":["MFPlainAuthScheme"]},{"father":"NSObject","childList":["MFPlainTextDocument"]},{"father":"NSObject","childList":["MFPlainTextFragment"]},{"father":"NSObject","childList":["MFPowerController"]},{"father":"NSObject","childList":["MFProgressiveMimeParser"]},{"father":"MFSQLiteConnection","childList":["MFProtectedSQLiteConnection"]},{"father":"NSObject","childList":["MFRFC822AttachmentDataProvider"]},{"father":"NSObject","childList":["MFRequestQueue"]},{"father":"NSObject","childList":["MFSASLAuthenticator"]},{"father":"MFConnection","childList":["MFSMTPConnection"]},{"father":"MFMailDelivery","childList":["MFSMTPDelivery"]},{"father":"NSObject","childList":["MFSMTPResponse"]},{"father":"NSObject","childList":["MFSQLiteConnection"]},{"father":"NSObject","childList":["MFSQLiteConnectionPool"]},{"father":"NSObject","childList":["MFSecureMIMECompositionManager"]},{"father":"NSObject","childList":["MFSparseMutable64IndexSet"]},{"father":"NSObject","childList":["MFSqliteMessageIDStore"]},{"father":"NSObject","childList":["MFStream"]},{"father":"NSObject","childList":["MFWeakObjectCache"]},{"father":"NSObject","childList":["MFWebAttachmentSource"]},{"father":"MFWebAttachmentSource","childList":["MFWebMessageDocument"]},{"father":"MFAccount","childList":["MailAccount"]},{"father":"DeliveryAccount","childList":["SMTPAccount"]},{"father":"NSObject","childList":["_MFActivityMonitorMultiTarget"]},{"father":"NSObject","childList":["_MFContentIndexWrapper"]},{"father":"NSObject","childList":["_MFContentProtectionObserverWrapper"]},{"father":"MFOfflineCacheOperation","childList":["_MFDADeferredDeleteMailboxOperation"]},{"father":"MFOfflineCacheOperation","childList":["_MFDADeferredDeleteMessageOperation"]},{"father":"MFOfflineCacheOperation","childList":["_MFDADeferredModifyMailboxOperation"]},{"father":"MFOfflineCacheOperation","childList":["_MFDADeferredNewMailboxOperation"]},{"father":"MFOfflineCacheOperation","childList":["_MFDADeferredSelectMailboxOperation"]},{"father":"MFOfflineCacheOperation","childList":["_MFDADeferredSetFlagsOperation"]},{"father":"NSObject","childList":["_MFDALibraryConsumerFactory"]},{"father":"MFBufferedQueue","childList":["_MFDAMSBasicConsumer"]},{"father":"_MFDAMSBasicConsumer","childList":["_MFDAMSSearchResponseConsumer"]},{"father":"_MFDAMSBasicConsumer","childList":["_MFDAMSUpdateConsumer"]},{"father":"NSObject","childList":["_MFDAMessageBodyFetchConsumer"]},{"father":"MFDAMailAccountConsumer","childList":["_MFDAMessageFetchAttachmentConsumer"]},{"father":"DAMailboxDeleteMessageRequest","childList":["_MFDAMessageStoreDeleteRequest"]},{"father":"DAMailboxFetchMessageRequest","childList":["_MFDAMessageStoreFetchRequest"]},{"father":"DAMailboxGetUpdatesRequest","childList":["_MFDAMessageStoreGetUpdatesRequest"]},{"father":"NSObject","childList":["_MFDAMessageStoreSearchResultBodyConsumer"]},{"father":"DAMailboxSetFlagsRequest","childList":["_MFDAMessageStoreSetFlagsRequest"]},{"father":"NSObject","childList":["_MFDAResolveRecipientsConsumer"]},{"father":"NSObject","childList":["_MFDataCollector"]},{"father":"MFSASLAuthenticator","childList":["_MFDigestMD5Authenticator"]},{"father":"NSObject","childList":["_MFFormatFlowedWriter"]},{"father":"NSObject","childList":["_MFLibraryContentIndexResultsCache"]},{"father":"NSObject","childList":["_MFLibraryContentIndexResultsKey"]},{"father":"NSObject","childList":["_MFLibrarySQLiteConnectionWrapper"]},{"father":"MFSASLAuthenticator","childList":["_MFLoginAuthenticator"]},{"father":"NSEnumerator","childList":["_MFMailboxUidChildrenEnumerator"]},{"father":"NSEnumerator","childList":["_MFMailboxUidEnumerator"]},{"father":"NSObject","childList":["_MFMessageCollector"]},{"father":"NSObject","childList":["_MFMessageFlags"]},{"father":"MFSASLAuthenticator","childList":["_MFNTLMAuthenticator"]},{"father":"NSObject","childList":["_MFNetworkObserver"]},{"father":"MFMessageBody","childList":["_MFOutgoingMessageBody"]},{"father":"MFSASLAuthenticator","childList":["_MFPlainAuthenticator"]},{"father":"NSObject","childList":["_MFReplaceTemporaryIDForTransferFailureReplayContextTransformation"]},{"father":"MFMailboxUid","childList":["_MFRootlessMailboxUid"]},{"father":"NSObject","childList":["_MFSQLiteConnectionWrapper"]},{"father":"NSObject","childList":["_MFSecCMSDecoder"]},{"father":"MFBufferedDataConsumer","childList":["_MFSecCMSEncoder"]},{"father":"MFDataMessageStore","childList":["_MFSecDataMessageStore"]},{"father":"NSObject","childList":["_MFSelectMailboxReplayContextTransformation"]},{"father":"NSObject","childList":["_MFSocket"]},{"father":"NSObject","childList":["_MFTransferFailureReplayContextTransformation"]},{"father":"NSObject","childList":["_MFTranslateTemporaryIDReplayContextTransformation"]}]}
+{
+  "name": "Message.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFSelectMailboxReplayContextTransformation",
+          "children": []
+        },
+        {
+          "name": "_MFSocket",
+          "children": []
+        },
+        {
+          "name": "_MFTransferFailureReplayContextTransformation",
+          "children": []
+        },
+        {
+          "name": "_MFTranslateTemporaryIDReplayContextTransformation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFDataMessageStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFSecDataMessageStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFBufferedDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFSecCMSEncoder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMailboxUid",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFRootlessMailboxUid",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFSASLAuthenticator",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFPlainAuthenticator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageBody",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFOutgoingMessageBody",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFMailboxUidChildrenEnumerator",
+          "children": []
+        },
+        {
+          "name": "_MFMailboxUidEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DAMailboxSetFlagsRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFDAMessageStoreSetFlagsRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DAMailboxGetUpdatesRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFDAMessageStoreGetUpdatesRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DAMailboxFetchMessageRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFDAMessageStoreFetchRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DAMailboxDeleteMessageRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFDAMessageStoreDeleteRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFDAMailAccountConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFDAMessageFetchAttachmentConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_MFDAMSBasicConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFDAMSSearchResponseConsumer",
+          "children": []
+        },
+        {
+          "name": "_MFDAMSUpdateConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFBufferedQueue",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFDAMSBasicConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFOfflineCacheOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFDADeferredDeleteMailboxOperation",
+          "children": []
+        },
+        {
+          "name": "_MFDADeferredDeleteMessageOperation",
+          "children": []
+        },
+        {
+          "name": "_MFDADeferredModifyMailboxOperation",
+          "children": []
+        },
+        {
+          "name": "_MFDADeferredNewMailboxOperation",
+          "children": []
+        },
+        {
+          "name": "_MFDADeferredSelectMailboxOperation",
+          "children": []
+        },
+        {
+          "name": "_MFDADeferredSetFlagsOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DeliveryAccount",
+      "parent": null,
+      "children": [
+        {
+          "name": "SMTPAccount",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFAccount",
+      "parent": null,
+      "children": [
+        {
+          "name": "MailAccount",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFWebAttachmentSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFWebMessageDocument",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMailDelivery",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFSMTPDelivery",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFConnection",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFSMTPConnection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFSQLiteConnection",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFProtectedSQLiteConnection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFAuthScheme",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPlainAuthScheme",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMailMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFOutgoingMessage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSInvocation",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMonitoredInvocation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSURLProtocol",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMessageURLProtocol",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSNotificationCenter",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMessageNotificationCenter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMimeTextAttachment",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailMimeTextAttachment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMimePart",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailMimePart",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailMessageStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageLibrary",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailMessageLibrary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMailMessage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageHeaders",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFLocalizedMessageHeaders",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMailMessageStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFLibraryStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSError",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFError",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFRequestQueue",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFDARequestQueue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFOfflineCache",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFDAOfflineCache",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFLibraryStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFDAMessageStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFPriorityDesignator",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFActivityMonitor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MailAccount",
+      "parent": null,
+      "children": [
+        {
+          "name": "DAMailAccount",
+          "children": []
+        },
+        {
+          "name": "LocalAccount",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

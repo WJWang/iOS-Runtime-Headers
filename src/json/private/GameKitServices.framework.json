@@ -1,1 +1,229 @@
-{"name":"GameKitServices.framework","list":[{"father":"NSObject","childList":["AVAudioClient"]},{"father":"NSObject","childList":["AVAudioDevice"]},{"father":"NSObject","childList":["AVAudioDeviceList"]},{"father":"NSObject","childList":["AVAudioManager"]},{"father":"NSObject","childList":["AVAudioPayload"]},{"father":"NSObject","childList":["AVAudioTier"]},{"father":"NSObject","childList":["AVAudioTierPicker"]},{"father":"NSObject","childList":["AVConference"]},{"father":"NSObject","childList":["AVConferencePreview"]},{"father":"NSObject","childList":["AVConferencePreviewServer"]},{"father":"NSObject","childList":["AVConferenceXPCClient"]},{"father":"NSObject","childList":["AVConferenceXPCServer"]},{"father":"NSObject","childList":["AVInternalDeviceList"]},{"father":"NSObject","childList":["AVPingTest"]},{"father":"NSObject","childList":["AWDHistogram"]},{"father":"NSObject","childList":["AWDStats"]},{"father":"NSObject","childList":["AudioTier"]},{"father":"NSObject","childList":["AudioTierHistogram"]},{"father":"NSObject","childList":["CDXClient"]},{"father":"NSObject","childList":["CDXClientSession"]},{"father":"NSObject","childList":["CMVideoCapture"]},{"father":"NSObject","childList":["CMVideoCaptureCameraTorchManager"]},{"father":"NSObject","childList":["CameraConferenceSynchronizer"]},{"father":"NSObject","childList":["CannedAVSync"]},{"father":"NSObject","childList":["CannedAudioInjector"]},{"father":"NSObject","childList":["CannedEncodedVideoCapture"]},{"father":"NSObject","childList":["CannedRawVideoCapture"]},{"father":"NSObject","childList":["CannedVideoCapture"]},{"father":"NSObject","childList":["GCKEventItem"]},{"father":"NSObject","childList":["GCKOOBMessage"]},{"father":"NSObject","childList":["GKAsyncSocket"]},{"father":"GKAsyncSocket","childList":["GKAsyncSocketInternal"]},{"father":"GKTable","childList":["GKAutoPeerIDTable"]},{"father":"NSObject","childList":["GKBluetoothSupport"]},{"father":"NSObject","childList":["GKConnection"]},{"father":"GKConnection","childList":["GKConnectionInternal"]},{"father":"NSObject","childList":["GKDiscovery"]},{"father":"NSObject","childList":["GKDiscoveryBonjour"]},{"father":"NSObject","childList":["GKDiscoveryBonjourResolveContainer"]},{"father":"NSObject","childList":["GKDiscoveryManager"]},{"father":"NSObject","childList":["GKDiscoveryPeer"]},{"father":"NSObject","childList":["GKDiscoveryPeerConnection"]},{"father":"NSObject","childList":["GKInterface"]},{"father":"NSObject","childList":["GKInterfaceListener"]},{"father":"NSObject","childList":["GKInterfacePrioritizer"]},{"father":"NSObject","childList":["GKList"]},{"father":"NSObject","childList":["GKNATObserver"]},{"father":"GKNATObserver","childList":["GKNATObserverInternal"]},{"father":"NSObject","childList":["GKNATObserver_SCContext"]},{"father":"NSObject","childList":["GKOOBMessage"]},{"father":"NSObject","childList":["GKOOBMessageFactory"]},{"father":"NSObject","childList":["GKPeerInternal"]},{"father":"NSObject","childList":["GKRWLock"]},{"father":"NSObject","childList":["GKRingBuffer"]},{"father":"NSObject","childList":["GKSConnectivitySettings"]},{"father":"NSObject","childList":["GKSDLHandleWrapper"]},{"father":"NSObject","childList":["GKSLinkingSingleton"]},{"father":"NSObject","childList":["GKSTUNObserver"]},{"father":"GKSTUNObserver","childList":["GKSTUNObserverInternal"]},{"father":"NSObject","childList":["GKSessionGlobals"]},{"father":"NSObject","childList":["GKSessionInternal"]},{"father":"NSObject","childList":["GKSimpleTimer"]},{"father":"NSObject","childList":["GKTable"]},{"father":"NSObject","childList":["GKVoiceChatDictionary"]},{"father":"NSObject","childList":["GKVoiceChatError"]},{"father":"GKVoiceChatServicePrivate","childList":["GKVoiceChatServiceFocus"]},{"father":"NSObject","childList":["GKVoiceChatServicePrivate"]},{"father":"NSObject","childList":["GKVoiceChatSession"]},{"father":"NSObject","childList":["GKVoiceChatSessionInternal"]},{"father":"NSObject","childList":["GKVoiceChatSessionListener"]},{"father":"GKOOBMessage","childList":["GKVoiceChatSessionMessage"]},{"father":"NSObject","childList":["HandleWrapper"]},{"father":"NSObject","childList":["ICEResultQuery"]},{"father":"NSObject","childList":["ICEResultWaitQueue"]},{"father":"NSObject","childList":["IPPortWrapper"]},{"father":"NSObject","childList":["LogDumpUtility"]},{"father":"NSObject","childList":["LoopbackSocketTunnel"]},{"father":"NSObject","childList":["SDPMini"]},{"father":"NSObject","childList":["SIPClientDataDictionary"]},{"father":"NSObject","childList":["SnapshotTimer"]},{"father":"NSObject","childList":["TCPBufferPool"]},{"father":"NSObject","childList":["TCPTunnelClient"]},{"father":"NSObject","childList":["TimingCollection"]},{"father":"NSObject","childList":["TimingInstance"]},{"father":"NSObject","childList":["VCBitrateArbiter"]},{"father":"NSObject","childList":["VCBitrateRule"]},{"father":"NSObject","childList":["VCCallInfo"]},{"father":"NSObject","childList":["VCCallLinkCongestionDetector"]},{"father":"NSObject","childList":["VCCallSession"]},{"father":"NSObject","childList":["VCCapabilities"]},{"father":"NSObject","childList":["VCHardwareRules"]},{"father":"NSObject","childList":["VCJitterBuffer"]},{"father":"NSObject","childList":["VCServerBag"]},{"father":"NSObject","childList":["VCSessionMessageTopic"]},{"father":"NSObject","childList":["VCSessionMessaging"]},{"father":"NSObject","childList":["VCTransport"]},{"father":"NSObject","childList":["VCVideoRule"]},{"father":"NSObject","childList":["VCWCMClient"]},{"father":"NSObject","childList":["VideoAttributes"]},{"father":"NSObject","childList":["VideoConference"]},{"father":"NSObject","childList":["VideoConferenceDefaults"]},{"father":"NSObject","childList":["VideoConferenceManager"]},{"father":"NSObject","childList":["VideoScaler"]},{"father":"NSObject","childList":["VoiceChatSessionBeaconState"]},{"father":"NSObject","childList":["VoiceChatSessionRoster"]},{"father":"NSObject","childList":["XPCClientUser"]},{"father":"NSObject","childList":["XPCConnection"]},{"father":"NSObject","childList":["XPCServerUser"]}]}
+{
+  "name": "GameKitServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "HandleWrapper",
+          "children": []
+        },
+        {
+          "name": "ICEResultQuery",
+          "children": []
+        },
+        {
+          "name": "ICEResultWaitQueue",
+          "children": []
+        },
+        {
+          "name": "IPPortWrapper",
+          "children": []
+        },
+        {
+          "name": "LogDumpUtility",
+          "children": []
+        },
+        {
+          "name": "LoopbackSocketTunnel",
+          "children": []
+        },
+        {
+          "name": "SDPMini",
+          "children": []
+        },
+        {
+          "name": "SIPClientDataDictionary",
+          "children": []
+        },
+        {
+          "name": "SnapshotTimer",
+          "children": []
+        },
+        {
+          "name": "TCPBufferPool",
+          "children": []
+        },
+        {
+          "name": "TCPTunnelClient",
+          "children": []
+        },
+        {
+          "name": "TimingCollection",
+          "children": []
+        },
+        {
+          "name": "TimingInstance",
+          "children": []
+        },
+        {
+          "name": "VCBitrateArbiter",
+          "children": []
+        },
+        {
+          "name": "VCBitrateRule",
+          "children": []
+        },
+        {
+          "name": "VCCallInfo",
+          "children": []
+        },
+        {
+          "name": "VCCallLinkCongestionDetector",
+          "children": []
+        },
+        {
+          "name": "VCCallSession",
+          "children": []
+        },
+        {
+          "name": "VCCapabilities",
+          "children": []
+        },
+        {
+          "name": "VCHardwareRules",
+          "children": []
+        },
+        {
+          "name": "VCJitterBuffer",
+          "children": []
+        },
+        {
+          "name": "VCServerBag",
+          "children": []
+        },
+        {
+          "name": "VCSessionMessageTopic",
+          "children": []
+        },
+        {
+          "name": "VCSessionMessaging",
+          "children": []
+        },
+        {
+          "name": "VCTransport",
+          "children": []
+        },
+        {
+          "name": "VCVideoRule",
+          "children": []
+        },
+        {
+          "name": "VCWCMClient",
+          "children": []
+        },
+        {
+          "name": "VideoAttributes",
+          "children": []
+        },
+        {
+          "name": "VideoConference",
+          "children": []
+        },
+        {
+          "name": "VideoConferenceDefaults",
+          "children": []
+        },
+        {
+          "name": "VideoConferenceManager",
+          "children": []
+        },
+        {
+          "name": "VideoScaler",
+          "children": []
+        },
+        {
+          "name": "VoiceChatSessionBeaconState",
+          "children": []
+        },
+        {
+          "name": "VoiceChatSessionRoster",
+          "children": []
+        },
+        {
+          "name": "XPCClientUser",
+          "children": []
+        },
+        {
+          "name": "XPCConnection",
+          "children": []
+        },
+        {
+          "name": "XPCServerUser",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKOOBMessage",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKVoiceChatSessionMessage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKVoiceChatServicePrivate",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKVoiceChatServiceFocus",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKSTUNObserver",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSTUNObserverInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKNATObserver",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKNATObserverInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKConnection",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKConnectionInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKTable",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKAutoPeerIDTable",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKAsyncSocket",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKAsyncSocketInternal",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

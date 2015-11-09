@@ -1,1 +1,63 @@
-{"name":"MediaStream.framework","list":[{"father":"NSObject","childList":["MSAMNotificationInfo"]},{"father":"NSObject","childList":["MSASConnection"]},{"father":"NSObject","childList":["MSASPlatformImplementation"]},{"father":"NSObject","childList":["MSAlertManager"]},{"father":"NSObject","childList":["MSAuthenticationManager"]},{"father":"NSObject","childList":["MSBatteryPowerMonitor"]},{"father":"NSObject","childList":["MSClientSidePauseContext"]},{"father":"NSObject","childList":["MSConnection"]},{"father":"NSObject","childList":["MSMSPlatform"]},{"father":"NSObject","childList":["MSPBTimerContext"]},{"father":"NSObject","childList":["MSPauseManager"]},{"father":"NSObject","childList":["MSPowerAssertionManager"]},{"father":"NSObject","childList":["MSPowerBudget"]}]}
+{
+  "name": "MediaStream.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSAMNotificationInfo",
+          "children": []
+        },
+        {
+          "name": "MSASConnection",
+          "children": []
+        },
+        {
+          "name": "MSASPlatformImplementation",
+          "children": []
+        },
+        {
+          "name": "MSAlertManager",
+          "children": []
+        },
+        {
+          "name": "MSAuthenticationManager",
+          "children": []
+        },
+        {
+          "name": "MSBatteryPowerMonitor",
+          "children": []
+        },
+        {
+          "name": "MSClientSidePauseContext",
+          "children": []
+        },
+        {
+          "name": "MSConnection",
+          "children": []
+        },
+        {
+          "name": "MSMSPlatform",
+          "children": []
+        },
+        {
+          "name": "MSPBTimerContext",
+          "children": []
+        },
+        {
+          "name": "MSPauseManager",
+          "children": []
+        },
+        {
+          "name": "MSPowerAssertionManager",
+          "children": []
+        },
+        {
+          "name": "MSPowerBudget",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

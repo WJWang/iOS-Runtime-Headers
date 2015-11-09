@@ -1,14 +1,16 @@
 var treeNode = function(options) {
   this.name = options.name;
+  this.data = options.data;
   this.parent = options.parent;
+  this.childList = [];
 };
 
-treeNode.prototype.mergeSameParent = function(node) {
-  if(ndoe.parent && this.parent && this.parent === node.parent ) {
-    return new treeNode();
-  } else {
-    
-  }
+treeNode.prototype.setParent = function(node) {
+  this.parent = node;
 };
 
-modules.export = treeNode;
+treeNode.prototype.addChild = function(node) {
+  this.childList.push(node);
+};
+
+module.exports  = treeNode;

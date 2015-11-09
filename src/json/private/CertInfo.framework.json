@@ -1,1 +1,69 @@
-{"name":"CertInfo.framework","list":[{"father":"NSObject","childList":["CertInfoBasicTrustDescription"]},{"father":"UITableViewController","childList":["CertInfoCertificateDetailsController"]},{"father":"UIView","childList":["CertInfoCertificateDetailsView"]},{"father":"UITableViewCell","childList":["CertInfoCertificateHeaderCell"]},{"father":"UIView","childList":["CertInfoCertificateListCellContentView"]},{"father":"UITableViewController","childList":["CertInfoCertificateListController"]},{"father":"UITableViewCell","childList":["CertInfoCertificateListTableViewCell"]},{"father":"UITableViewCell","childList":["CertInfoCertificateSummaryDescriptionCell"]},{"father":"UIView","childList":["CertInfoCertificateSummaryView"]},{"father":"UIView","childList":["CertInfoDescriptionCellContentView"]},{"father":"UIView","childList":["CertInfoGradientLabel"]},{"father":"UIViewController","childList":["CertInfoSheetViewController"]},{"father":"UIView","childList":["CertInfoTrustDetailsView"]},{"father":"UIViewController","childList":["CertInfoTrustDetailsViewController"]},{"father":"UITableViewController","childList":["CertInfoTrustSummaryController"]},{"father":"UIButton","childList":["_CertInfoActionButton"]},{"father":"UIView","childList":["_CertInfoGradientLabel"]},{"father":"UITableViewCell","childList":["_CertInfoTrustSummaryHeaderCell"]}]}
+{
+  "name": "CertInfo.framework",
+  "list": [
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CertInfoTrustSummaryHeaderCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CertInfoGradientLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CertInfoActionButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CertInfoTrustSummaryController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CertInfoSheetViewController",
+          "children": []
+        },
+        {
+          "name": "CertInfoTrustDetailsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CertInfoBasicTrustDescription",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

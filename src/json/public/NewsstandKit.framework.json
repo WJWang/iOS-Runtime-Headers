@@ -1,1 +1,23 @@
-{"name":"NewsstandKit.framework","list":[{"father":"NSObject","childList":["NKAssetDownload"]},{"father":"NSObject","childList":["NKIssue"]},{"father":"NSObject","childList":["NKLibrary"]}]}
+{
+  "name": "NewsstandKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "NKAssetDownload",
+          "children": []
+        },
+        {
+          "name": "NKIssue",
+          "children": []
+        },
+        {
+          "name": "NKLibrary",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,15 @@
-{"name":"MessageSupport.framework","list":[{"father":"NSObject","childList":["MFDebugTimer"]}]}
+{
+  "name": "MessageSupport.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFDebugTimer",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,689 @@
-{"name":"CoreData.framework","list":[{"father":"NSPersistentStore","childList":["NSAtomicStore"]},{"father":"NSObject","childList":["NSAtomicStoreCacheNode"]},{"father":"NSPropertyDescription","childList":["NSAttributeDescription"]},{"father":"NSPropertyStoreMapping","childList":["NSAttributeStoreMapping"]},{"father":"_NSCoreManagedObjectID","childList":["NSBasicObjectID"]},{"father":"NSMappedObjectStore","childList":["NSBinaryObjectStore"]},{"father":"NSObject","childList":["NSBinaryObjectStoreFile"]},{"father":"NSStoreMapNode","childList":["NSDictionaryMapNode"]},{"father":"NSPersistentStoreMap","childList":["NSDictionaryStoreMap"]},{"father":"NSObject","childList":["NSEntityDescription"]},{"father":"NSObject","childList":["NSEntityMapping"]},{"father":"NSObject","childList":["NSEntityMigrationPolicy"]},{"father":"NSStoreMapping","childList":["NSEntityStoreMapping"]},{"father":"NSPropertyDescription","childList":["NSExpressionDescription"]},{"father":"NSObject","childList":["NSExternalRefCountedData"]},{"father":"NSObject","childList":["NSFaultHandler"]},{"father":"NSPersistentStoreRequest","childList":["NSFetchRequest"]},{"father":"NSExpression","childList":["NSFetchRequestExpression"]},{"father":"NSPropertyDescription","childList":["NSFetchedPropertyDescription"]},{"father":"NSObject","childList":["NSFetchedResultsController"]},{"father":"NSPersistentStore","childList":["NSIncrementalStore"]},{"father":"NSObject","childList":["NSIncrementalStoreNode"]},{"father":"NSObject","childList":["NSJoin"]},{"father":"NSMutableDictionary","childList":["NSKnownKeysDictionary"]},{"father":"NSKnownKeysDictionary","childList":["NSKnownKeysDictionary1"]},{"father":"NSKnownKeysDictionary1","childList":["NSKnownKeysDictionary2"]},{"father":"NSObject","childList":["NSKnownKeysMappingStrategy"]},{"father":"NSKnownKeysMappingStrategy","childList":["NSKnownKeysMappingStrategy1"]},{"father":"NSKnownKeysMappingStrategy1","childList":["NSKnownKeysMappingStrategy2"]},{"father":"NSObject","childList":["NSManagedObject"]},{"father":"NSObject","childList":["NSManagedObjectContext"]},{"father":"NSObject","childList":["NSManagedObjectID"]},{"father":"NSObject","childList":["NSManagedObjectModel"]},{"father":"NSObject","childList":["NSManagedObjectModelBundle"]},{"father":"NSPersistentStore","childList":["NSMappedObjectStore"]},{"father":"NSObject","childList":["NSMappingModel"]},{"father":"NSMappedObjectStore","childList":["NSMemoryObjectStore"]},{"father":"NSEqualityPredicateOperator","childList":["NSMemoryStoreEqualityPredicateOperator"]},{"father":"NSInPredicateOperator","childList":["NSMemoryStoreInPredicateOperator"]},{"father":"NSObject","childList":["NSMergeConflict"]},{"father":"NSObject","childList":["NSMergePolicy"]},{"father":"NSValidationErrorLocalizationPolicy","childList":["NSMergedPolicyLocalizationPolicy"]},{"father":"NSObject","childList":["NSMigrationManager"]},{"father":"NSObject","childList":["NSPersistentStore"]},{"father":"NSObject","childList":["NSMigrationContext"]},{"father":"NSObject","childList":["NSPersistentStoreCache"]},{"father":"NSObject","childList":["NSPersistentStoreCoordinator"]},{"father":"NSObject","childList":["NSPersistentStoreMap"]},{"father":"NSObject","childList":["NSPersistentStoreRequest"]},{"father":"NSObject","childList":["NSPrivateCoreDataClassForFindingBundle"]},{"father":"NSObject","childList":["NSPropertyDescription"]},{"father":"NSObject","childList":["NSPropertyMapping"]},{"father":"NSStoreMapping","childList":["NSPropertyStoreMapping"]},{"father":"NSObject","childList":["NSPropertyTransform"]},{"father":"NSPropertyDescription","childList":["NSRelationshipDescription"]},{"father":"NSPropertyStoreMapping","childList":["NSRelationshipStoreMapping"]},{"father":"NSObject","childList":["NSSQLAdapter"]},{"father":"NSObject","childList":["NSSQLAdapterOperation"]},{"father":"NSObject","childList":["NSSQLAliasGenerator"]},{"father":"NSSQLColumn","childList":["NSSQLAttribute"]},{"father":"NSObject","childList":["NSSQLBindIntarray"]},{"father":"NSObject","childList":["NSSQLBindVariable"]},{"father":"NSObject","childList":["NSSQLChannel"]},{"father":"NSSQLProperty","childList":["NSSQLColumn"]},{"father":"NSSQLWhereIntermediate","childList":["NSSQLCompoundWhereIntermediate"]},{"father":"NSObject","childList":["NSSQLConnection"]},{"father":"NSSQLIntermediate","childList":["NSSQLConstantValueIntermediate"]},{"father":"NSPersistentStore","childList":["NSSQLCore"]},{"father":"NSObject","childList":["NSSQLCorrelation"]},{"father":"NSStoreMapping","childList":["NSSQLEntity"]},{"father":"NSSQLColumn","childList":["NSSQLEntityKey"]},{"father":"NSSQLWhereIntermediate","childList":["NSSQLExistenceSubqueryWhereIntermediate"]},{"father":"NSSQLIntermediate","childList":["NSSQLExpressionIntermediate"]},{"father":"NSSQLFetchIntermediate","childList":["NSSQLFetchCountIntermediate"]},{"father":"NSSQLIntermediate","childList":["NSSQLFetchDictionaryCountIntermediate"]},{"father":"NSSQLIntermediate","childList":["NSSQLFetchIntermediate"]},{"father":"NSSQLColumn","childList":["NSSQLForeignEntityKey"]},{"father":"NSSQLColumn","childList":["NSSQLForeignKey"]},{"father":"NSSQLConstantValueIntermediate","childList":["NSSQLForeignKeyIntermediate"]},{"father":"NSSQLColumn","childList":["NSSQLForeignOrderKey"]},{"father":"NSSQLExpressionIntermediate","childList":["NSSQLFunctionExpressionIntermediate"]},{"father":"NSObject","childList":["NSSQLGenerator"]},{"father":"NSSQLIntermediate","childList":["NSSQLGroupByIntermediate"]},{"father":"NSSQLIntermediate","childList":["NSSQLHavingIntermediate"]},{"father":"NSObject","childList":["NSSQLIntermediate"]},{"father":"NSSQLIntermediate","childList":["NSSQLJoinIntermediate"]},{"father":"NSSQLExpressionIntermediate","childList":["NSSQLKeypathExpressionIntermediate"]},{"father":"NSSQLIntermediate","childList":["NSSQLLimitIntermediate"]},{"father":"NSSQLRelationship","childList":["NSSQLManyToMany"]},{"father":"NSStoreMapping","childList":["NSSQLModel"]},{"father":"NSSQLIntermediate","childList":["NSSQLOffsetIntermediate"]},{"father":"NSObject","childList":["NSSQLOperation"]},{"father":"NSSQLColumn","childList":["NSSQLOptLockKey"]},{"father":"NSSQLIntermediate","childList":["NSSQLOrderIntermediate"]},{"father":"NSObject","childList":["NSSQLPredicateAnalyser"]},{"father":"NSSQLColumn","childList":["NSSQLPrimaryKey"]},{"father":"NSStoreMapping","childList":["NSSQLProperty"]},{"father":"NSSQLSelectIntermediate","childList":["NSSQLReadOnlySelectIntermediate"]},{"father":"NSSQLProperty","childList":["NSSQLRelationship"]},{"father":"NSExternalRefCountedData","childList":["NSSQLRow"]},{"father":"NSPersistentStoreCache","childList":["NSSQLRowCache"]},{"father":"NSSQLIntermediate","childList":["NSSQLSelectIntermediate"]},{"father":"NSSQLWhereIntermediate","childList":["NSSQLSimpleWhereIntermediate"]},{"father":"NSObject","childList":["NSSQLStatement"]},{"father":"NSObject","childList":["NSSQLStoreMappingGenerator"]},{"father":"NSSQLExpressionIntermediate","childList":["NSSQLSubqueryExpressionIntermediate"]},{"father":"NSSQLExpressionIntermediate","childList":["NSSQLTernaryExpressionIntermediate"]},{"father":"NSSQLRelationship","childList":["NSSQLToMany"]},{"father":"NSSQLRelationship","childList":["NSSQLToOne"]},{"father":"NSSQLIntermediate","childList":["NSSQLWhereIntermediate"]},{"father":"NSSQLAdapter","childList":["NSSQLiteAdapter"]},{"father":"NSSQLConnection","childList":["NSSQLiteConnection"]},{"father":"NSMigrationManager","childList":["NSSQLiteInPlaceMigrationManager"]},{"father":"NSObject","childList":["NSSQLiteIntarrayTable"]},{"father":"NSSQLStatement","childList":["NSSQLiteStatement"]},{"father":"NSPersistentStoreRequest","childList":["NSSaveChangesRequest"]},{"father":"_NSScalarObjectID","childList":["NSScalarObjectID48"]},{"father":"_NSScalarObjectID","childList":["NSScalarObjectID64"]},{"father":"NSObject","childList":["NSStoreMapNode"]},{"father":"NSObject","childList":["NSStoreMapping"]},{"father":"NSObject","childList":["NSStoreMappingGenerator"]},{"father":"NSObject","childList":["NSStoreMigrationPolicy"]},{"father":"NSManagedObjectID","childList":["NSTemporaryObjectID"]},{"father":"NSObject","childList":["NSValidationErrorLocalizationPolicy"]},{"father":"NSObject","childList":["PFUBLogEventID"]},{"father":"PFUbiquitySafeSaveFile","childList":["PFUbiquityBaseline"]},{"father":"NSObject","childList":["PFUbiquityBaselineMetadata"]},{"father":"PFUbiquityImportOperation","childList":["PFUbiquityBaselineOperation"]},{"father":"PFUbiquityBaselineOperation","childList":["PFUbiquityBaselineRecoveryOperation"]},{"father":"PFUbiquityBaselineOperation","childList":["PFUbiquityBaselineRollOperation"]},{"father":"PFUbiquityBaselineRollOperation","childList":["PFUbiquityBaselineRollResponseOperation"]},{"father":"NSObject","childList":["PFUbiquityContainerIdentifier"]},{"father":"NSObject","childList":["PFUbiquityContainerMonitor"]},{"father":"NSObject","childList":["PFUbiquityEventLogging"]},{"father":"NSObject","childList":["PFUbiquityExportContext"]},{"father":"NSFileCoordinator","childList":["PFUbiquityFileCoordinator"]},{"father":"NSObject","childList":["PFUbiquityFilePresenter"]},{"father":"NSObject","childList":["PFUbiquityGlobalObjectID"]},{"father":"NSObject","childList":["PFUbiquityGlobalObjectIDCache"]},{"father":"NSObject","childList":["PFUbiquityImportContext"]},{"father":"NSOperation","childList":["PFUbiquityImportOperation"]},{"father":"NSObject","childList":["PFUbiquityKnowledgeVector"]},{"father":"NSObject","childList":["PFUbiquityLocation"]},{"father":"NSObject","childList":["PFUbiquityLocationStatus"]},{"father":"NSObject","childList":["PFUbiquityLogging"]},{"father":"NSMergeConflict","childList":["PFUbiquityMergeConflict"]},{"father":"NSMergePolicy","childList":["PFUbiquityMergePolicy"]},{"father":"NSObject","childList":["PFUbiquityMetadataFactory"]},{"father":"NSObject","childList":["PFUbiquityMetadataFactoryEntry"]},{"father":"NSObject","childList":["PFUbiquityMetadataFactoryFilePresenter"]},{"father":"NSObject","childList":["PFUbiquityMigrationAssistant"]},{"father":"NSObject","childList":["PFUbiquityMigrationManager"]},{"father":"NSManagedObject","childList":["PFUbiquityPeer"]},{"father":"NSManagedObject","childList":["PFUbiquityPeerRange"]},{"father":"NSObject","childList":["PFUbiquityPeerRangeCache"]},{"father":"NSObject","childList":["PFUbiquityPeerRangeReservationContext"]},{"father":"PFUbiquitySafeSaveFile","childList":["PFUbiquityPeerReceipt"]},{"father":"NSObject","childList":["PFUbiquityPeerSnapshot"]},{"father":"NSObject","childList":["PFUbiquityPeerSnapshotCollection"]},{"father":"NSManagedObject","childList":["PFUbiquityPeerState"]},{"father":"NSObject","childList":["PFUbiquityRecordImportConflict"]},{"father":"NSObject","childList":["PFUbiquityRecordsImporterSchedulingContext"]},{"father":"NSManagedObject","childList":["PFUbiquityRemotePeerState"]},{"father":"NSObject","childList":["PFUbiquitySQLCorePeerRange"]},{"father":"NSObject","childList":["PFUbiquitySafeSaveFile"]},{"father":"NSObject","childList":["PFUbiquitySaveSnapshot"]},{"father":"NSObject","childList":["PFUbiquitySetupAssistant"]},{"father":"NSObject","childList":["PFUbiquityStoreExportContext"]},{"father":"NSManagedObject","childList":["PFUbiquityStoreMetadata"]},{"father":"NSObject","childList":["PFUbiquityStoreMetadataMedic"]},{"father":"NSObject","childList":["PFUbiquityStoreSaveSnapshot"]},{"father":"NSObject","childList":["PFUbiquitySwitchboard"]},{"father":"NSObject","childList":["PFUbiquitySwitchboardCacheWrapper"]},{"father":"NSObject","childList":["PFUbiquitySwitchboardEntry"]},{"father":"NSObject","childList":["PFUbiquitySwitchboardEntryMetadata"]},{"father":"NSObject","childList":["PFUbiquityToManyConflictDiff"]},{"father":"NSManagedObject","childList":["PFUbiquityTransactionEntry"]},{"father":"NSObject","childList":["PFUbiquityTransactionEntryLight"]},{"father":"NSObject","childList":["PFUbiquityTransactionHistoryCache"]},{"father":"NSObject","childList":["PFUbiquityTransactionLog"]},{"father":"NSObject","childList":["PFUbiquityTransactionLogCache"]},{"father":"NSObject","childList":["PFUbiquityTransactionLogMigrator"]},{"father":"NSObject","childList":["PFZipCentralDirectoryFileHeader"]},{"father":"NSObject","childList":["PFZipEndOfCentralDirectoryRecord"]},{"father":"NSObject","childList":["PFZipLocalFileHeader"]},{"father":"NSObject","childList":["_CDSnapshot"]},{"father":"NSObject","childList":["_NS128bitWrapper"]},{"father":"NSObject","childList":["_NSChildContextPredicateRemapper"]},{"father":"NSException","childList":["_NSCoreDataException"]},{"father":"NSException","childList":["_NSCoreDataOptimisticLockingException"]},{"father":"NSManagedObjectID","childList":["_NSCoreManagedObjectID"]},{"father":"NSObject","childList":["_NSDefaultSectionInfo"]},{"father":"NSMutableArray","childList":["_NSFaultingMutableArray"]},{"father":"NSMutableOrderedSet","childList":["_NSFaultingMutableOrderedSet"]},{"father":"NSObject","childList":["_NSFaultingMutableOrderedSetMutationMethods"]},{"father":"NSMutableSet","childList":["_NSFaultingMutableSet"]},{"father":"NSObject","childList":["_NSFaultingMutableSetMutationMethods"]},{"father":"NSEnumerator","childList":["_NSKnownKeysEnumerator"]},{"father":"NSObject","childList":["_NSManagedObject_st"]},{"father":"NSObject","childList":["_NSMappingModelBuilder"]},{"father":"NSObject","childList":["_NSMemoryStorePredicateRemapper"]},{"father":"NSMutableOrderedSet","childList":["_NSNotifyingWrapperMutableOrderedSet"]},{"father":"NSMutableSet","childList":["_NSNotifyingWrapperMutableSet"]},{"father":"NSObject","childList":["_NSOrderedSetDiff"]},{"father":"_NSOrderedSetDiff","childList":["_NSOrderedSetDiffChange"]},{"father":"_NSOrderedSetDiff","childList":["_NSOrderedSetDiffDelete"]},{"father":"_NSOrderedSetDiffChange","childList":["_NSOrderedSetDiffInsert"]},{"father":"_NSOrderedSetDiffChange","childList":["_NSOrderedSetDiffMove"]},{"father":"NSObject","childList":["_NSPersistenceUtilities"]},{"father":"NSObject","childList":["_NSPropertyDescriptionProxy"]},{"father":"_NSPropertyDescriptionProxy","childList":["_NSPropertyDescriptionProxy2"]},{"father":"_NSNotifyingWrapperMutableOrderedSet","childList":["_NSProxyWrapperMutableOrderedSet"]},{"father":"_NSNotifyingWrapperMutableSet","childList":["_NSProxyWrapperMutableSet"]},{"father":"NSObject","childList":["_NSSQLCoreConnectionObsever"]},{"father":"NSObject","childList":["_NSSQLEntityMigrationDescription"]},{"father":"NSObject","childList":["_NSSQLGenerator"]},{"father":"NSObject","childList":["_NSSQLTableMigrationDescription"]},{"father":"NSObject","childList":["_NSSQLiteStoreMigrator"]},{"father":"_NSCoreManagedObjectID","childList":["_NSScalarObjectID"]},{"father":"NSTemporaryObjectID","childList":["_NSTemporaryObjectID2"]},{"father":"NSArray","childList":["_PFArray"]},{"father":"NSArray","childList":["_PFBatchFaultingArray"]},{"father":"NSNumber","childList":["_PFCachedNumber"]},{"father":"NSObject","childList":["_PFContextMapTable"]},{"father":"NSArray","childList":["_PFEncodedArray"]},{"father":"NSData","childList":["_PFEncodedData"]},{"father":"_PFString","childList":["_PFEncodedString"]},{"father":"NSData","childList":["_PFExternalReferenceData"]},{"father":"NSObject","childList":["_PFFetchPlanHeader"]},{"father":"NSOrderedSet","childList":["_PFFetchedResultOrderedSetWrapper"]},{"father":"NSObject","childList":["_PFGCWeakReference"]},{"father":"NSObject","childList":["_PFGarbageManager"]},{"father":"NSObject","childList":["_PFLock"]},{"father":"NSObject","childList":["_PFManagedObjectReferenceQueue"]},{"father":"NSMutableArray","childList":["_PFMutableProxyArray"]},{"father":"NSObject","childList":["_PFRoutines"]},{"father":"NSString","childList":["_PFString"]},{"father":"NSObject","childList":["_PFTask"]},{"father":"NSObject","childList":["_PFTempNestedSnapshot"]},{"father":"NSObject","childList":["_PFUbiquityMigrationContext"]},{"father":"PFUbiquityImportOperation","childList":["_PFUbiquityRecordImportOperation"]},{"father":"NSObject","childList":["_PFUbiquityRecordsExporter"]},{"father":"NSObject","childList":["_PFUbiquityRecordsImporter"]},{"father":"NSObject","childList":["_PFUbiquityStack"]},{"father":"NSObject","childList":["_PFWeakReference"]},{"father":"NSObject","childList":["_PFZipFileArchive"]}]}
+{
+  "name": "CoreData.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFUbiquityRecordsExporter",
+          "children": []
+        },
+        {
+          "name": "_PFUbiquityRecordsImporter",
+          "children": []
+        },
+        {
+          "name": "_PFUbiquityStack",
+          "children": []
+        },
+        {
+          "name": "_PFWeakReference",
+          "children": []
+        },
+        {
+          "name": "_PFZipFileArchive",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PFUbiquityImportOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFUbiquityRecordImportOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSString",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFMutableProxyArray",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOrderedSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFFetchedResultOrderedSetWrapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSData",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFExternalReferenceData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PFString",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFEncodedString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFEncodedArray",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSNumber",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PFCachedNumber",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSTemporaryObjectID",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSTemporaryObjectID2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_NSCoreManagedObjectID",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSScalarObjectID",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_NSNotifyingWrapperMutableSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSProxyWrapperMutableSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_NSNotifyingWrapperMutableOrderedSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSProxyWrapperMutableOrderedSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_NSPropertyDescriptionProxy",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSPropertyDescriptionProxy2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_NSOrderedSetDiffChange",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSOrderedSetDiffInsert",
+          "children": []
+        },
+        {
+          "name": "_NSOrderedSetDiffMove",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_NSOrderedSetDiff",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSOrderedSetDiffChange",
+          "children": []
+        },
+        {
+          "name": "_NSOrderedSetDiffDelete",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSNotifyingWrapperMutableSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableOrderedSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSNotifyingWrapperMutableOrderedSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSKnownKeysEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObjectID",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSCoreManagedObjectID",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSException",
+      "parent": null,
+      "children": [
+        {
+          "name": "_NSCoreDataException",
+          "children": []
+        },
+        {
+          "name": "_NSCoreDataOptimisticLockingException",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PFUbiquityPeerState",
+          "children": []
+        },
+        {
+          "name": "PFUbiquityRemotePeerState",
+          "children": []
+        },
+        {
+          "name": "PFUbiquityStoreMetadata",
+          "children": []
+        },
+        {
+          "name": "PFUbiquityTransactionEntry",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PFUbiquitySafeSaveFile",
+      "parent": null,
+      "children": [
+        {
+          "name": "PFUbiquityPeerReceipt",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMergePolicy",
+      "parent": null,
+      "children": [
+        {
+          "name": "PFUbiquityMergePolicy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMergeConflict",
+      "parent": null,
+      "children": [
+        {
+          "name": "PFUbiquityMergeConflict",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "PFUbiquityImportOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSFileCoordinator",
+      "parent": null,
+      "children": [
+        {
+          "name": "PFUbiquityFileCoordinator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PFUbiquityBaselineRollOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "PFUbiquityBaselineRollResponseOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PFUbiquityBaselineOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "PFUbiquityBaselineRecoveryOperation",
+          "children": []
+        },
+        {
+          "name": "PFUbiquityBaselineRollOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_NSScalarObjectID",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSScalarObjectID48",
+          "children": []
+        },
+        {
+          "name": "NSScalarObjectID64",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPersistentStoreRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSaveChangesRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLStatement",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLiteStatement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMigrationManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLiteInPlaceMigrationManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLConnection",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLiteConnection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLAdapter",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLiteAdapter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLIntermediate",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLWhereIntermediate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLRelationship",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLToMany",
+          "children": []
+        },
+        {
+          "name": "NSSQLToOne",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLExpressionIntermediate",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLSubqueryExpressionIntermediate",
+          "children": []
+        },
+        {
+          "name": "NSSQLTernaryExpressionIntermediate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLWhereIntermediate",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLSimpleWhereIntermediate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPersistentStoreCache",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLRowCache",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSExternalRefCountedData",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLRow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLProperty",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLRelationship",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLSelectIntermediate",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLReadOnlySelectIntermediate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSStoreMapping",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLProperty",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLColumn",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLForeignOrderKey",
+          "children": []
+        },
+        {
+          "name": "NSSQLOptLockKey",
+          "children": []
+        },
+        {
+          "name": "NSSQLPrimaryKey",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLConstantValueIntermediate",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLForeignKeyIntermediate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSSQLFetchIntermediate",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLFetchCountIntermediate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPersistentStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSSQLCore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPropertyStoreMapping",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSRelationshipStoreMapping",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPropertyDescription",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSRelationshipDescription",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSValidationErrorLocalizationPolicy",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSMergedPolicyLocalizationPolicy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSInPredicateOperator",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSMemoryStoreInPredicateOperator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEqualityPredicateOperator",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSMemoryStoreEqualityPredicateOperator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMappedObjectStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSMemoryObjectStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSKnownKeysMappingStrategy1",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSKnownKeysMappingStrategy2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSKnownKeysMappingStrategy",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSKnownKeysMappingStrategy1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSKnownKeysDictionary1",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSKnownKeysDictionary2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSKnownKeysDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSKnownKeysDictionary1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSKnownKeysDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSExpression",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSFetchRequestExpression",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPersistentStoreMap",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSDictionaryStoreMap",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSStoreMapNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "NSDictionaryMapNode",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

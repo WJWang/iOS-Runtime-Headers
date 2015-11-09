@@ -1,1 +1,71 @@
-{"name":"CoreTelephony.framework","list":[{"father":"NSObject","childList":["CTAsciiAddress"]},{"father":"NSObject","childList":["CTCall"]},{"father":"NSObject","childList":["CTCallCenter"]},{"father":"NSObject","childList":["CTCarrier"]},{"father":"NSObject","childList":["CTEmailAddress"]},{"father":"NSObject","childList":["CTMessage"]},{"father":"NSObject","childList":["CTMessageCenter"]},{"father":"NSObject","childList":["CTMessagePart"]},{"father":"NSObject","childList":["CTMessageStatus"]},{"father":"NSObject","childList":["CTMmsEncoder"]},{"father":"NSObject","childList":["CTPhoneNumber"]},{"father":"NSObject","childList":["CTRadioAccessTechnology"]},{"father":"NSObject","childList":["CTSubscriber"]},{"father":"NSObject","childList":["CTSubscriberInfo"]},{"father":"NSObject","childList":["CTTelephonyNetworkInfo"]}]}
+{
+  "name": "CoreTelephony.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CTAsciiAddress",
+          "children": []
+        },
+        {
+          "name": "CTCall",
+          "children": []
+        },
+        {
+          "name": "CTCallCenter",
+          "children": []
+        },
+        {
+          "name": "CTCarrier",
+          "children": []
+        },
+        {
+          "name": "CTEmailAddress",
+          "children": []
+        },
+        {
+          "name": "CTMessage",
+          "children": []
+        },
+        {
+          "name": "CTMessageCenter",
+          "children": []
+        },
+        {
+          "name": "CTMessagePart",
+          "children": []
+        },
+        {
+          "name": "CTMessageStatus",
+          "children": []
+        },
+        {
+          "name": "CTMmsEncoder",
+          "children": []
+        },
+        {
+          "name": "CTPhoneNumber",
+          "children": []
+        },
+        {
+          "name": "CTRadioAccessTechnology",
+          "children": []
+        },
+        {
+          "name": "CTSubscriber",
+          "children": []
+        },
+        {
+          "name": "CTSubscriberInfo",
+          "children": []
+        },
+        {
+          "name": "CTTelephonyNetworkInfo",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

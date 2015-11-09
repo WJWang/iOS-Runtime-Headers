@@ -1,1 +1,253 @@
-{"name":"MusicLibrary.framework","list":[{"father":"NSObject","childList":["ITDBGeniusDatabase"]},{"father":"NSObject","childList":["ML3AccountCacheDatabase"]},{"father":"ML3Query","childList":["ML3AggregateQuery"]},{"father":"ML3Collection","childList":["ML3Album"]},{"father":"ML3Collection","childList":["ML3AlbumArtist"]},{"father":"NSObject","childList":["ML3AlbumData"]},{"father":"NSObject","childList":["ML3AlbumGroupingIdentifier"]},{"father":"ML3CompoundPredicate","childList":["ML3AllCompoundPredicate"]},{"father":"ML3CompoundPredicate","childList":["ML3AnyCompoundPredicate"]},{"father":"ML3Collection","childList":["ML3Artist"]},{"father":"NSObject","childList":["ML3ArtworkUtility"]},{"father":"ML3Entity","childList":["ML3BaseLocation"]},{"father":"ML3PropertyPredicate","childList":["ML3BitMaskPredicate"]},{"father":"MLITChapterTOC","childList":["ML3ChapterTOC"]},{"father":"ML3Entity","childList":["ML3Collection"]},{"father":"ML3PropertyPredicate","childList":["ML3ComparisonPredicate"]},{"father":"ML3Collection","childList":["ML3Composer"]},{"father":"ML3Predicate","childList":["ML3CompoundPredicate"]},{"father":"ML3Predicate","childList":["ML3ConditionalPredicate"]},{"father":"ML3Entity","childList":["ML3Container"]},{"father":"ML3DatabaseResult","childList":["ML3ContainerDatabaseResult"]},{"father":"NSObject","childList":["ML3ContainerMediaTypeCounts"]},{"father":"ML3Query","childList":["ML3ContainerQuery"]},{"father":"ML3QueryResultSet","childList":["ML3ContainerQueryResultSet"]},{"father":"ML3PropertyPredicate","childList":["ML3ContainmentPredicate"]},{"father":"ML3PropertyPredicate","childList":["ML3ContainsPredicate"]},{"father":"NSObject","childList":["ML3DatabaseBlob"]},{"father":"ML3DatabaseRow","childList":["ML3DatabaseCachedRow"]},{"father":"NSObject","childList":["ML3DatabaseConnection"]},{"father":"NSObject","childList":["ML3DatabaseConnectionPool"]},{"father":"ML3DatabaseConnection","childList":["ML3DatabaseDistantConnection"]},{"father":"ML3DatabaseResult","childList":["ML3DatabaseDistantResult"]},{"father":"NSObject","childList":["ML3DatabaseFunction"]},{"father":"ML3DatabaseFunction","childList":["ML3DatabaseFunctionBlock"]},{"father":"ML3DatabaseFunction","childList":["ML3DatabaseFunctionPointer"]},{"father":"ML3Entity","childList":["ML3DatabaseMetadata"]},{"father":"NSObject","childList":["ML3DatabaseModule"]},{"father":"NSObject","childList":["ML3DatabaseNaturalStatement"]},{"father":"NSObject","childList":["ML3DatabaseResult"]},{"father":"NSObject","childList":["ML3DatabaseRow"]},{"father":"NSObject","childList":["ML3DatabaseStatement"]},{"father":"NSObject","childList":["ML3DatabaseStatementRenderer"]},{"father":"NSObject","childList":["ML3DatabaseValidationClient"]},{"father":"NSObject","childList":["ML3DispatchQueue"]},{"father":"NSObject","childList":["ML3Entity"]},{"father":"NSObject","childList":["ML3EntityReplacer"]},{"father":"ML3Collection","childList":["ML3Genre"]},{"father":"NSObject","childList":["ML3ITImageLibrary"]},{"father":"NSObject","childList":["ML3ImportItem"]},{"father":"ML3Entity","childList":["ML3LocationKind"]},{"father":"NSObject","childList":["ML3MatcherAuxData"]},{"father":"NSObject","childList":["ML3MigrationDirectives"]},{"father":"NSObject","childList":["ML3MusicLibrary"]},{"father":"NSObject","childList":["ML3MusicLibraryArtworkMigrationController"]},{"father":"NSObject","childList":["ML3MusicLibrarySchema_AddedColumn"]},{"father":"NSObject","childList":["ML3MusicLibrary_SortMapEntry"]},{"father":"ML3UnaryPredicate","childList":["ML3NegationPredicate"]},{"father":"NSObject","childList":["ML3OrderingTerm"]},{"father":"NSObject","childList":["ML3PersistentIDGenerator"]},{"father":"ML3Predicate","childList":["ML3PersistentIDsPredicate"]},{"father":"NSObject","childList":["ML3Predicate"]},{"father":"ML3Predicate","childList":["ML3PropertyPredicate"]},{"father":"NSObject","childList":["ML3Query"]},{"father":"NSObject","childList":["ML3QueryResultSet"]},{"father":"NSObject","childList":["ML3QueryResultSet_BackingStore"]},{"father":"ML3QueryResultSet_BackingStore","childList":["ML3QueryResultSet_MutableBackingStore"]},{"father":"NSObject","childList":["ML3QuerySection"]},{"father":"ML3Predicate","childList":["ML3SearchStringPredicate"]},{"father":"NSObject","childList":["ML3SortMap"]},{"father":"ML3Predicate","childList":["ML3SpotlightMatchPredicate"]},{"father":"NSObject","childList":["ML3SpotlightMatchingNameCache"]},{"father":"NSObject","childList":["ML3SpotlightNameCache"]},{"father":"ML3Entity","childList":["ML3StoreLink"]},{"father":"ML3Entity","childList":["ML3Track"]},{"father":"NSObject","childList":["ML3TrackImporter"]},{"father":"ML3Predicate","childList":["ML3TruthPredicate"]},{"father":"NSObject","childList":["ML3UbiquitousDatabase"]},{"father":"ML3Predicate","childList":["ML3UnaryPredicate"]},{"father":"NSObject","childList":["ML3WeakReference"]},{"father":"NSObject","childList":["MLActiveTransaction"]},{"father":"MLTemplatedDatabaseOperation","childList":["MLBulkStatementExecutionOperation"]},{"father":"NSObject","childList":["MLChapterTOC"]},{"father":"NSObject","childList":["MLContentRating"]},{"father":"NSObject","childList":["MLEQPreset"]},{"father":"NSException","childList":["MLException"]},{"father":"NSObject","childList":["MLGeniusPlaylistController"]},{"father":"MLChapterTOC","childList":["MLITChapterTOC"]},{"father":"NSObject","childList":["MLImportSession"]},{"father":"NSOperation","childList":["MLLibraryOperation"]},{"father":"NSObject","childList":["MLLocalServiceProxy"]},{"father":"NSObject","childList":["MLMediaLibraryService"]},{"father":"NSObject","childList":["MLMediaLibraryServiceInterface"]},{"father":"NSObject","childList":["MLMediaLibraryServiceStatementAccumulator"]},{"father":"NSObject","childList":["MLMediaLibraryWriter"]},{"father":"NSObject","childList":["MLMediaTypeCountedSet"]},{"father":"NSObject","childList":["MLMovieArtist"]},{"father":"NSObject","childList":["MLMovieProperties"]},{"father":"MLTemplatedDatabaseOperation","childList":["MLSetValuesForPropertiesOperation"]},{"father":"MLLibraryOperation","childList":["MLTemplatedDatabaseOperation"]},{"father":"NSObject","childList":["MLTrackImport"]},{"father":"NSObject","childList":["MLTrackImportChapter"]},{"father":"MLLibraryOperation","childList":["MLValidateDatabaseOperation"]},{"father":"NSObject","childList":["_LibraryNotification"]},{"father":"NSObject","childList":["_LocalLibraryNotification"]},{"father":"NSObject","childList":["_ML3DatabaseConnectionSubPool"]},{"father":"NSObject","childList":["_ML3DatabaseConnectionWrapper"]},{"father":"NSObject","childList":["_ML3DatabaseNaturalStatement"]},{"father":"NSObject","childList":["_ML3ValidatableDatabase"]},{"father":"NSObject","childList":["_MLClientCompletionBlockWrapper"]}]}
+{
+  "name": "MusicLibrary.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_LibraryNotification",
+          "children": []
+        },
+        {
+          "name": "_LocalLibraryNotification",
+          "children": []
+        },
+        {
+          "name": "_ML3DatabaseConnectionSubPool",
+          "children": []
+        },
+        {
+          "name": "_ML3DatabaseConnectionWrapper",
+          "children": []
+        },
+        {
+          "name": "_ML3DatabaseNaturalStatement",
+          "children": []
+        },
+        {
+          "name": "_ML3ValidatableDatabase",
+          "children": []
+        },
+        {
+          "name": "_MLClientCompletionBlockWrapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MLLibraryOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "MLTemplatedDatabaseOperation",
+          "children": []
+        },
+        {
+          "name": "MLValidateDatabaseOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MLTemplatedDatabaseOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "MLSetValuesForPropertiesOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "MLLibraryOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MLChapterTOC",
+      "parent": null,
+      "children": [
+        {
+          "name": "MLITChapterTOC",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSException",
+      "parent": null,
+      "children": [
+        {
+          "name": "MLException",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3Predicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3TruthPredicate",
+          "children": []
+        },
+        {
+          "name": "ML3UnaryPredicate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3Entity",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3StoreLink",
+          "children": []
+        },
+        {
+          "name": "ML3Track",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3QueryResultSet_BackingStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3QueryResultSet_MutableBackingStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3UnaryPredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3NegationPredicate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3Collection",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3Genre",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3DatabaseFunction",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3DatabaseFunctionBlock",
+          "children": []
+        },
+        {
+          "name": "ML3DatabaseFunctionPointer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3DatabaseResult",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3DatabaseDistantResult",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3DatabaseConnection",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3DatabaseDistantConnection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3DatabaseRow",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3DatabaseCachedRow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3PropertyPredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3ContainmentPredicate",
+          "children": []
+        },
+        {
+          "name": "ML3ContainsPredicate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3QueryResultSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3ContainerQueryResultSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3Query",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3ContainerQuery",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MLITChapterTOC",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3ChapterTOC",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ML3CompoundPredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "ML3AllCompoundPredicate",
+          "children": []
+        },
+        {
+          "name": "ML3AnyCompoundPredicate",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

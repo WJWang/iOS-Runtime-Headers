@@ -1,1 +1,77 @@
-{"name":"AppSupport.framework","list":[{"father":"NSObject","childList":["ALCity"]},{"father":"NSObject","childList":["ALCityManager"]},{"father":"NSObject","childList":["CPAggregateDictionary"]},{"father":"NSObject","childList":["CPBitmapStore"]},{"father":"CPBitmapStore","childList":["CPBitmapStoreSQL"]},{"father":"NSOperation","childList":["CPDistributedMessagingAsyncOperation"]},{"father":"NSObject","childList":["CPDistributedMessagingCallout"]},{"father":"NSObject","childList":["CPDistributedMessagingCenter"]},{"father":"NSObject","childList":["CPDistributedMessagingDelayedReplyContext"]},{"father":"NSObject","childList":["CPDistributedNotificationCenter"]},{"father":"NSObject","childList":["CPExclusiveLock"]},{"father":"NSObject","childList":["CPLRUDictionary"]},{"father":"NSObject","childList":["CPLRUDictionaryNode"]},{"father":"NSObject","childList":["CPMemoryPool"]},{"father":"NSObject","childList":["CPMemoryPoolFile"]},{"father":"NSObject","childList":["CPNetworkObserver"]},{"father":"NSObject","childList":["CPPowerAssertionManager"]},{"father":"NSObject","childList":["CPRegularExpression"]},{"father":"NSObject","childList":["CPSearchMatcher"]},{"father":"InvocationTrampoline","childList":["CapturedInvocationTrampoline"]},{"father":"InvocationTrampoline","childList":["DelayedInvocationTrampoline"]},{"father":"NSObject","childList":["InvocationTrampoline"]},{"father":"InvocationTrampoline","childList":["OperationQueueInvocationTrampoline"]},{"father":"NSObject","childList":["PEPServiceConfiguration"]},{"father":"NSObject","childList":["RadiosPreferences"]},{"father":"InvocationTrampoline","childList":["ThreadedInvocationTrampoline"]},{"father":"NSString","childList":["_CPBundleIdentifierString"]},{"father":"NSObject","childList":["_CPPowerAssertion"]},{"father":"NSThread","childList":["_CPPowerAssertionThread"]},{"father":"NSObject","childList":["_ReachabilityRequest"]}]}
+{
+  "name": "AppSupport.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_ReachabilityRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSThread",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CPPowerAssertionThread",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSString",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CPBundleIdentifierString",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "InvocationTrampoline",
+      "parent": null,
+      "children": [
+        {
+          "name": "CapturedInvocationTrampoline",
+          "children": []
+        },
+        {
+          "name": "DelayedInvocationTrampoline",
+          "children": []
+        },
+        {
+          "name": "OperationQueueInvocationTrampoline",
+          "children": []
+        },
+        {
+          "name": "ThreadedInvocationTrampoline",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPDistributedMessagingAsyncOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPBitmapStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPBitmapStoreSQL",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

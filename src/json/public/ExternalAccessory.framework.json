@@ -1,1 +1,35 @@
-{"name":"ExternalAccessory.framework","list":[{"father":"NSObject","childList":["EAAccessory"]},{"father":"NSObject","childList":["EAAccessoryInternal"]},{"father":"NSObject","childList":["EAAccessoryManager"]},{"father":"NSObject","childList":["EABluetoothAccessoryPicker"]},{"father":"NSObject","childList":["EADiscoveredWirelessAccessory"]},{"father":"NSObject","childList":["EADiscoveredWirelessAccessoryInternal"]},{"father":"NSInputStream","childList":["EAInputStream"]},{"father":"NSObject","childList":["EANotificationCenter"]},{"father":"NSOutputStream","childList":["EAOutputStream"]},{"father":"NSObject","childList":["EASession"]}]}
+{
+  "name": "ExternalAccessory.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "EASession",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOutputStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "EAOutputStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSInputStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "EAInputStream",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

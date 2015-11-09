@@ -1,1 +1,33 @@
-{"name":"FastJPEG.framework","list":[{"father":"NSObject","childList":["FJCache"]},{"father":"NSObject","childList":["FJCacheEntry"]},{"father":"NSObject","childList":["FJTile"]},{"father":"CALayer","childList":["FJTiledLayer"]}]}
+{
+  "name": "FastJPEG.framework",
+  "list": [
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "FJTiledLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "FJCache",
+          "children": []
+        },
+        {
+          "name": "FJCacheEntry",
+          "children": []
+        },
+        {
+          "name": "FJTile",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,35 @@
-{"name":"DuetPLLConfigLogger.framework","list":[{"father":"NSObject","childList":["AppLaunchStatsAggD"]},{"father":"NSObject","childList":["BudgetPool"]},{"father":"NSObject","childList":["DuetConfigurator"]},{"father":"NSObject","childList":["DuetLogger"]},{"father":"NSObject","childList":["PoolResource"]},{"father":"NSObject","childList":["PowerLogStub"]}]}
+{
+  "name": "DuetPLLConfigLogger.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AppLaunchStatsAggD",
+          "children": []
+        },
+        {
+          "name": "BudgetPool",
+          "children": []
+        },
+        {
+          "name": "DuetConfigurator",
+          "children": []
+        },
+        {
+          "name": "DuetLogger",
+          "children": []
+        },
+        {
+          "name": "PoolResource",
+          "children": []
+        },
+        {
+          "name": "PowerLogStub",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

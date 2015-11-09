@@ -1,1 +1,105 @@
-{"name":"WebKit.framework","list":[{"father":"NSObject","childList":["WebApplicationCache"]},{"father":"NSObject","childList":["WebApplicationCacheQuotaManager"]},{"father":"NSObject","childList":["WebArchive"]},{"father":"NSObject","childList":["WebArchivePrivate"]},{"father":"NSObject","childList":["WebBackForwardList"]},{"father":"NSObject","childList":["WebBasePluginPackage"]},{"father":"NSObject","childList":["WebCache"]},{"father":"WAKScrollView","childList":["WebCoreScrollView"]},{"father":"NSObject","childList":["WebCoreStatistics"]},{"father":"NSObject","childList":["WebDataSource"]},{"father":"NSObject","childList":["WebDatabaseManager"]},{"father":"NSObject","childList":["WebDatabaseQuotaManager"]},{"father":"NSObject","childList":["WebDefaultEditingDelegate"]},{"father":"NSObject","childList":["WebDefaultFormDelegate"]},{"father":"NSObject","childList":["WebDefaultFrameLoadDelegate"]},{"father":"NSObject","childList":["WebDefaultPolicyDelegate"]},{"father":"NSObject","childList":["WebDefaultResourceLoadDelegate"]},{"father":"NSObject","childList":["WebDefaultUIDelegate"]},{"father":"NSObject","childList":["WebDefaultUIKitDelegate"]},{"father":"NSObject","childList":["WebDeviceOrientation"]},{"father":"NSObject","childList":["WebDeviceOrientationInternal"]},{"father":"NSObject","childList":["WebDeviceOrientationProviderMock"]},{"father":"NSObject","childList":["WebDeviceOrientationProviderMockInternal"]},{"father":"NSURLDownload","childList":["WebDownload"]},{"father":"NSObject","childList":["WebDownloadInternal"]},{"father":"NSObject","childList":["WebEditorUndoTarget"]},{"father":"NSDictionary","childList":["WebElementDictionary"]},{"father":"NSObject","childList":["WebFixedPositionContent"]},{"father":"NSObject","childList":["WebFormDelegate"]},{"father":"NSObject","childList":["WebFrame"]},{"father":"NSObject","childList":["WebFramePolicyListener"]},{"father":"NSObject","childList":["WebFramePrivate"]},{"father":"WAKView","childList":["WebFrameView"]},{"father":"NSObject","childList":["WebFrameViewPrivate"]},{"father":"NSObject","childList":["WebGeolocation"]},{"father":"NSObject","childList":["WebGeolocationCoreLocationProvider"]},{"father":"NSObject","childList":["WebGeolocationPolicyListener"]},{"father":"NSObject","childList":["WebGeolocationPosition"]},{"father":"NSObject","childList":["WebGeolocationPositionInternal"]},{"father":"NSObject","childList":["WebGeolocationProviderIOS"]},{"father":"NSObject","childList":["WebGeolocationProviderInitializationListener"]},{"father":"NSObject","childList":["WebHTMLRepresentation"]},{"father":"NSObject","childList":["WebHTMLRepresentationPrivate"]},{"father":"WAKView","childList":["WebHTMLView"]},{"father":"NSObject","childList":["WebHTMLViewPrivate"]},{"father":"CALayer","childList":["WebHighlightLayer"]},{"father":"NSObject","childList":["WebHistory"]},{"father":"NSObject","childList":["WebHistoryItem"]},{"father":"NSObject","childList":["WebHistoryPrivate"]},{"father":"CALayer","childList":["WebIndicateLayer"]},{"father":"NSObject","childList":["WebInspector"]},{"father":"NSObject","childList":["WebInspectorClientRegistry"]},{"father":"NSObject","childList":["WebInspectorFrontend"]},{"father":"NSObject","childList":["WebInspectorRemoteChannel"]},{"father":"NSObject","childList":["WebInspectorServer"]},{"father":"NSObject","childList":["WebInspectorServerWebViewConnection"]},{"father":"NSObject","childList":["WebInspectorServerWebViewConnectionController"]},{"father":"NSObject","childList":["WebInspectorWindowController"]},{"father":"NSObject","childList":["WebInspectorXPCWrapper"]},{"father":"NSObject","childList":["WebKitStatistics"]},{"father":"NSObject","childList":["WebMIMETypeRegistry"]},{"father":"NSProxy","childList":["WebMainThreadInvoker"]},{"father":"NSObject","childList":["WebNavigationData"]},{"father":"NSObject","childList":["WebNavigationDataPrivate"]},{"father":"NSObject","childList":["WebNodeHighlight"]},{"father":"WAKView","childList":["WebNodeHighlightView"]},{"father":"NSObject","childList":["WebNodeHighlighter"]},{"father":"NSObject","childList":["WebNotification"]},{"father":"NSObject","childList":["WebNotificationPrivate"]},{"father":"NSObject","childList":["WebOpenPanelResultListener"]},{"father":"WAKView","childList":["WebPDFView"]},{"father":"WAKView","childList":["WebPDFViewPlaceholder"]},{"father":"WAKView","childList":["WebPlainWhiteView"]},{"father":"NSObject","childList":["WebPluginContainerCheck"]},{"father":"NSObject","childList":["WebPluginController"]},{"father":"NSObject","childList":["WebPluginDatabase"]},{"father":"WebBasePluginPackage","childList":["WebPluginPackage"]},{"father":"NSObject","childList":["WebPolicyDecisionListener"]},{"father":"NSObject","childList":["WebPolicyDecisionListenerPrivate"]},{"father":"NSObject","childList":["WebPreferences"]},{"father":"NSObject","childList":["WebProgressItem"]},{"father":"NSObject","childList":["WebRenderLayer"]},{"father":"NSObject","childList":["WebResource"]},{"father":"NSObject","childList":["WebResourcePrivate"]},{"father":"NSObject","childList":["WebScriptCallFrame"]},{"father":"NSObject","childList":["WebScriptCallFramePrivate"]},{"father":"NSObject","childList":["WebScriptWorld"]},{"father":"NSObject","childList":["WebScriptWorldPrivate"]},{"father":"NSObject","childList":["WebSecurityOrigin"]},{"father":"NSObject","childList":["WebSelectionRect"]},{"father":"NSObject","childList":["WebSerializedJSValue"]},{"father":"NSObject","childList":["WebSerializedJSValuePrivate"]},{"father":"NSObject","childList":["WebStorageManager"]},{"father":"NSObject","childList":["WebTextIterator"]},{"father":"NSObject","childList":["WebTextIteratorPrivate"]},{"father":"NSObject","childList":["WebUndoStep"]},{"father":"NSObject","childList":["WebUserContentURLPattern"]},{"father":"NSObject","childList":["WebUserContentURLPatternPrivate"]},{"father":"WAKView","childList":["WebView"]},{"father":"NSObject","childList":["WebViewPrivate"]},{"father":"NSObject","childList":["WebVisiblePosition"]},{"father":"NSObject","childList":["_WebCoreLocationUpdateThreadingProxy"]},{"father":"NSObject","childList":["_WebSafeAsyncForwarder"]},{"father":"NSObject","childList":["_WebSafeForwarder"]}]}
+{
+  "name": "WebKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebViewPrivate",
+          "children": []
+        },
+        {
+          "name": "WebVisiblePosition",
+          "children": []
+        },
+        {
+          "name": "_WebCoreLocationUpdateThreadingProxy",
+          "children": []
+        },
+        {
+          "name": "_WebSafeAsyncForwarder",
+          "children": []
+        },
+        {
+          "name": "_WebSafeForwarder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WAKView",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WebBasePluginPackage",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebPluginPackage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSProxy",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebMainThreadInvoker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebHighlightLayer",
+          "children": []
+        },
+        {
+          "name": "WebIndicateLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebElementDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSURLDownload",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebDownload",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WAKScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebCoreScrollView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

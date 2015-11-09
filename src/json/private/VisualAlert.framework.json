@@ -1,1 +1,83 @@
-{"name":"VisualAlert.framework","list":[{"father":"AXLocalNotificationHandler","childList":["AXAutoForwardingLocalNotificationHandler"]},{"father":"AXNotificationHandler","childList":["AXDistributedNotificationHandler"]},{"father":"AXNotificationHandler","childList":["AXLocalNotificationHandler"]},{"father":"NSObject","childList":["AXNotificationHandler"]},{"father":"AXNotificationHandler","childList":["AXTelephonyNotificationHandler"]},{"father":"NSObject","childList":["AXVisualAlertManager"]},{"father":"AXVisualAlertSBBulletinSoundController_super","childList":["AXVisualAlertSBBulletinSoundController"]},{"father":"UIAccessibilitySafeCategory","childList":["AXVisualAlertSBBulletinSoundController_super"]},{"father":"AXVisualAlertSBCCQuickLaunchSectionController_super","childList":["AXVisualAlertSBCCQuickLaunchSectionController"]},{"father":"UIAccessibilitySafeCategory","childList":["AXVisualAlertSBCCQuickLaunchSectionController_super"]},{"father":"AXVisualAlertSBSystemLocalNotificationAlert_super","childList":["AXVisualAlertSBSystemLocalNotificationAlert"]},{"father":"UIAccessibilitySafeCategory","childList":["AXVisualAlertSBSystemLocalNotificationAlert_super"]}]}
+{
+  "name": "VisualAlert.framework",
+  "list": [
+    {
+      "name": "UIAccessibilitySafeCategory",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXVisualAlertSBSystemLocalNotificationAlert_super",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXVisualAlertSBSystemLocalNotificationAlert_super",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXVisualAlertSBSystemLocalNotificationAlert",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXVisualAlertSBCCQuickLaunchSectionController_super",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXVisualAlertSBCCQuickLaunchSectionController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXVisualAlertSBBulletinSoundController_super",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXVisualAlertSBBulletinSoundController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXVisualAlertManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXNotificationHandler",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXDistributedNotificationHandler",
+          "children": []
+        },
+        {
+          "name": "AXLocalNotificationHandler",
+          "children": []
+        },
+        {
+          "name": "AXTelephonyNotificationHandler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AXLocalNotificationHandler",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXAutoForwardingLocalNotificationHandler",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

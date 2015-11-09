@@ -1,1 +1,55 @@
-{"name":"MailServices.framework","list":[{"father":"MSMailDefaultService","childList":["MSAccounts"]},{"father":"NSObject","childList":["MSCriterion"]},{"father":"NSObject","childList":["MSEmailModel"]},{"father":"MSMailDefaultService","childList":["MSKeyValueStore"]},{"father":"MSService","childList":["MSMailDefaultService"]},{"father":"MSMailDefaultService","childList":["MSMessageAutosave"]},{"father":"MSMailDefaultService","childList":["MSNotificationObserver"]},{"father":"MSMailDefaultService","childList":["MSPushRegistration"]},{"father":"MSMailDefaultService","childList":["MSSaveEmail"]},{"father":"MSMailDefaultService","childList":["MSSearch"]},{"father":"MSMailDefaultService","childList":["MSSendEmail"]},{"father":"NSObject","childList":["MSService"]}]}
+{
+  "name": "MailServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSService",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSMailDefaultService",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSMessageAutosave",
+          "children": []
+        },
+        {
+          "name": "MSNotificationObserver",
+          "children": []
+        },
+        {
+          "name": "MSPushRegistration",
+          "children": []
+        },
+        {
+          "name": "MSSaveEmail",
+          "children": []
+        },
+        {
+          "name": "MSSearch",
+          "children": []
+        },
+        {
+          "name": "MSSendEmail",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSService",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSMailDefaultService",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

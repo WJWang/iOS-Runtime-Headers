@@ -1,1 +1,81 @@
-{"name":"Conference.framework","list":[{"father":"UIAlertView","childList":["CNFAlertView"]},{"father":"UIView","childList":["CNFArrowView"]},{"father":"NSObject","childList":["CNFAudioDeviceController"]},{"father":"NSObject","childList":["CNFAudioPlayer"]},{"father":"UIViewController","childList":["CNFCallViewController"]},{"father":"NSObject","childList":["CNFConferenceController"]},{"father":"UIViewController","childList":["CNFDisplayController"]},{"father":"UIView","childList":["CNFInterfaceOverlayView"]},{"father":"PSListController","childList":["CNFInternalAccountListViewController"]},{"father":"PSListController","childList":["CNFInternalAccountViewController"]},{"father":"PSListController","childList":["CNFInternalProcessListController"]},{"father":"NSObject","childList":["CNFInternalSettingsUtilities"]},{"father":"NSObject","childList":["CNFServiceHandler"]},{"father":"UIView","childList":["CNFStatusBarGradientView"]},{"father":"UIView","childList":["CNFTextView"]},{"father":"NSObject","childList":["CNFUIUtilities"]},{"father":"UIControl","childList":["CNFVideoGroupView"]}]}
+{
+  "name": "Conference.framework",
+  "list": [
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFVideoGroupView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFUIUtilities",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFStatusBarGradientView",
+          "children": []
+        },
+        {
+          "name": "CNFTextView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PSListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFInternalAccountListViewController",
+          "children": []
+        },
+        {
+          "name": "CNFInternalAccountViewController",
+          "children": []
+        },
+        {
+          "name": "CNFInternalProcessListController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFCallViewController",
+          "children": []
+        },
+        {
+          "name": "CNFDisplayController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAlertView",
+      "parent": null,
+      "children": [
+        {
+          "name": "CNFAlertView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

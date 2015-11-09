@@ -1,1 +1,177 @@
-{"name":"SiriUI.framework","list":[{"father":"UIViewController","childList":["ACRotatingViewController"]},{"father":"NSObject","childList":["SVSBundleIdentifierMap"]},{"father":"NSObject","childList":["SVSSnippetPluginBundle"]},{"father":"SiriUIClearBackgroundCell","childList":["SiriUIAceObjectControllerCell"]},{"father":"UIViewController","childList":["SiriUIAceObjectViewController"]},{"father":"NSObject","childList":["SiriUIAnimationUtilities"]},{"father":"NSObject","childList":["SiriUIAttributionImage"]},{"father":"UIButton","childList":["SiriUIAudioRoutePickerButton"]},{"father":"NSObject","childList":["SiriUIAudioRoutePickerController"]},{"father":"UIButton","childList":["SiriUIChevronButton"]},{"father":"UICollectionViewCell","childList":["SiriUIClearBackgroundCell"]},{"father":"UIButton","childList":["SiriUIContentButton"]},{"father":"SiriUIClearBackgroundCell","childList":["SiriUIContentCollectionViewCell"]},{"father":"UILabel","childList":["SiriUIContentLabel"]},{"father":"NSObject","childList":["SiriUIDisambiguationItem"]},{"father":"SiriUISnippetViewController","childList":["SiriUIErrorSnippetViewController"]},{"father":"NSObject","childList":["SiriUIFontScalingUtilities"]},{"father":"SiriUIContentButton","childList":["SiriUIHelpButton"]},{"father":"UIView","childList":["SiriUIImageMaskView"]},{"father":"UIView","childList":["SiriUIKeyline"]},{"father":"SiriUIContentCollectionViewCell","childList":["SiriUIMapCollectionViewCell"]},{"father":"UIView","childList":["SiriUIMapDetailsContainerView"]},{"father":"UIButton","childList":["SiriUIMicButton"]},{"father":"UIView","childList":["SiriUIObjectPickerButtonView"]},{"father":"UIViewController","childList":["SiriUIObjectPickerViewController"]},{"father":"SiriUIObjectPickerViewController","childList":["SiriUIPersonPickerViewController"]},{"father":"SiriUIClearBackgroundCell","childList":["SiriUIPhotoCollectionViewCell"]},{"father":"NSObject","childList":["SiriUIPluginManager"]},{"father":"SiriUISnippetViewController","childList":["SiriUIPrivatePeoplePickerViewController"]},{"father":"NSObject","childList":["SiriUIPrivateViewControllerOverrides"]},{"father":"SiriUIReusableFooterView","childList":["SiriUIReusableConfirmationFooterView"]},{"father":"UICollectionReusableView","childList":["SiriUIReusableFooterView"]},{"father":"UICollectionReusableView","childList":["SiriUIReusableHeaderView"]},{"father":"SiriUIReusableHeaderView","childList":["SiriUIReusableSubtitledHeaderView"]},{"father":"SiriUIContentCollectionViewCell","childList":["SiriUIReviewItemCell"]},{"father":"SiriUIReusableSubtitledHeaderView","childList":["SiriUIReviewsHeaderView"]},{"father":"SiriUISnippetViewController","childList":["SiriUIReviewsViewController"]},{"father":"UIView","childList":["SiriUISiriJogWheelStatusView"]},{"father":"NSData","childList":["SiriUISiriStatusImageData"]},{"father":"NSObject","childList":["SiriUISiriStatusImages"]},{"father":"UIView","childList":["SiriUISiriStatusView"]},{"father":"UICollectionViewCell","childList":["SiriUISnippetControllerCell"]},{"father":"UIViewController","childList":["SiriUISnippetViewController"]},{"father":"UIView","childList":["SiriUIStarsView"]},{"father":"UIView","childList":["SiriUISuggestionsView"]},{"father":"NSObject","childList":["SiriUITranscriptItem"]},{"father":"SiriUIReusableFooterView","childList":["SiriUITwoButtonFooterView"]},{"father":"NSObject","childList":["SiriUIURLSession"]},{"father":"NSObject","childList":["SiriUIURLSessionImageDownload"]}]}
+{
+  "name": "SiriUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIURLSession",
+          "children": []
+        },
+        {
+          "name": "SiriUIURLSessionImageDownload",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SiriUIReusableFooterView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUITwoButtonFooterView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIStarsView",
+          "children": []
+        },
+        {
+          "name": "SiriUISuggestionsView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUISnippetViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUISnippetControllerCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSData",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUISiriStatusImageData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SiriUISnippetViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIReviewsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SiriUIReusableSubtitledHeaderView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIReviewsHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SiriUIContentCollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIReviewItemCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SiriUIReusableHeaderView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIReusableSubtitledHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionReusableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIReusableFooterView",
+          "children": []
+        },
+        {
+          "name": "SiriUIReusableHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SiriUIClearBackgroundCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIPhotoCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SiriUIObjectPickerViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIPersonPickerViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIMicButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SiriUIContentButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIHelpButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "SiriUIContentLabel",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

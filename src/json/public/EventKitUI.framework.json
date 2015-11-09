@@ -1,1 +1,401 @@
-{"name":"EventKitUI.framework","list":[{"father":"UITableViewCell","childList":["AddressCardTableViewCell"]},{"father":"UIScrollView","childList":["BlockableScrollView"]},{"father":"NSObject","childList":["CalendarAccountsController"]},{"father":"UITableView","childList":["CalendarEventAlarmTable"]},{"father":"PreferencesDoubleTwoPartValueCell","childList":["CalendarEventDatesAndTimeZoneCell"]},{"father":"UITableViewCell","childList":["CalendarEventEditedByCell"]},{"father":"NSObject","childList":["CalendarEventLoader"]},{"father":"UINavigationController","childList":["CalendarInvitationPopoverWrapperController"]},{"father":"EKEventViewController","childList":["CalendarInvitationWrapperController"]},{"father":"UIView","childList":["CalendarListHeaderCell"]},{"father":"UIView","childList":["CalendarListHeaderCellContentView"]},{"father":"NSObject","childList":["CalendarMessageUIProxy"]},{"father":"NSObject","childList":["CalendarModel"]},{"father":"UITableViewCell","childList":["CalendarNotesCell"]},{"father":"NSObject","childList":["CalendarOccurrencesCollection"]},{"father":"NSObject","childList":["CalendarPreferences"]},{"father":"UITableView","childList":["CalendarPreferencesTable"]},{"father":"UIActivityViewController","childList":["CalendarPublishingActivityViewController"]},{"father":"UIView","childList":["CalendarStoreGroupCell"]},{"father":"UIView","childList":["CrossFadeView"]},{"father":"EKEditItemViewController","childList":["EKAlarmEditItemViewController"]},{"father":"UITableView","childList":["EKAttendeesListView"]},{"father":"UITableViewCell","childList":["EKAttendeesListViewCell"]},{"father":"UIViewController","childList":["EKAttendeesListViewController"]},{"father":"UIViewController","childList":["EKCalendarChooser"]},{"father":"UITableViewCell","childList":["EKCalendarChooserCell"]},{"father":"EKCalendarEditItem","childList":["EKCalendarColorEditItem"]},{"father":"EKCalendarEditItem","childList":["EKCalendarDeleteButtonEditItem"]},{"father":"NSObject","childList":["EKCalendarEditItem"]},{"father":"EKEditItemViewController","childList":["EKCalendarEditItemViewController"]},{"father":"UIViewController","childList":["EKCalendarEditor"]},{"father":"NSObject","childList":["EKCalendarInfo"]},{"father":"EKCalendarItemEditItem","childList":["EKCalendarItemAlarmEditItem"]},{"father":"EKCalendarItemEditItem","childList":["EKCalendarItemCalendarEditItem"]},{"father":"NSObject","childList":["EKCalendarItemEditItem"]},{"father":"UITableViewController","childList":["EKCalendarItemEditor"]},{"father":"UITableView","childList":["EKCalendarItemEditorTableView"]},{"father":"EKCalendarItemEditItem","childList":["EKCalendarItemRecurrenceEditItem"]},{"father":"UITableViewCell","childList":["EKCalendarItemRecurrenceEndCell"]},{"father":"EKCalendarItemEditItem","childList":["EKCalendarItemTitleInlineEditItem"]},{"father":"EKCalendarEditItem","childList":["EKCalendarPublishingEditItem"]},{"father":"EKEventAttendeePicker","childList":["EKCalendarShareePicker"]},{"father":"EKCalendarEditItem","childList":["EKCalendarShareesEditItem"]},{"father":"EKCalendarEditItem","childList":["EKCalendarTitleEditItem"]},{"father":"UIView","childList":["EKCurrentTimeMarkerView"]},{"father":"UIView","childList":["EKDayAllDayView"]},{"father":"UIView","childList":["EKDayGridView"]},{"father":"UIView","childList":["EKDayOccurrenceContentView"]},{"father":"UIView","childList":["EKDayOccurrenceResizeHandleView"]},{"father":"UIView","childList":["EKDayOccurrenceView"]},{"father":"UIViewController","childList":["EKDayPreviewController"]},{"father":"UIView","childList":["EKDayTimeContentView"]},{"father":"UIView","childList":["EKDayTimeView"]},{"father":"UIView","childList":["EKDayView"]},{"father":"UIView","childList":["EKDayViewContent"]},{"father":"NSObject","childList":["EKDayViewContentItem"]},{"father":"UIViewController","childList":["EKDayViewController"]},{"father":"NSObject","childList":["EKDayViewItemPath"]},{"father":"UIView","childList":["EKDayViewWithGutters"]},{"father":"UIViewController","childList":["EKEditItemViewController"]},{"father":"EKCalendarInfo","childList":["EKDeclinedCalendarItemInfo"]},{"father":"EKEventDetailItem","childList":["EKEventAlarmDetailItem"]},{"father":"UITableViewCell","childList":["EKEventAttachmentCell"]},{"father":"NSObject","childList":["EKEventAttachmentCellController"]},{"father":"EKEventDetailItem","childList":["EKEventAttachmentDetailItem"]},{"father":"EKEditItemViewController","childList":["EKEventAttachmentEditViewController"]},{"father":"EKEventEditItem","childList":["EKEventAttachmentsEditItem"]},{"father":"EKEventDetailGroup","childList":["EKEventAttendeeDetailGroup"]},{"father":"UIViewController","childList":["EKEventAttendeePicker"]},{"father":"EKEventDetailItem","childList":["EKEventAttendeesDetailItem"]},{"father":"EKEventEditItem","childList":["EKEventAttendeesEditItem"]},{"father":"EKEditItemViewController","childList":["EKEventAttendeesEditViewController"]},{"father":"EKEventDetailItem","childList":["EKEventAvailabilityDetailItem"]},{"father":"EKEventEditItem","childList":["EKEventAvailabilityEditItem"]},{"father":"EKEditItemViewController","childList":["EKEventAvailabilityEditViewController"]},{"father":"EKEventDetailItem","childList":["EKEventCalendarDetailItem"]},{"father":"EKEventDetailItem","childList":["EKEventCommentDetailItem"]},{"father":"EKEventDetailItem","childList":["EKEventDateDetailItem"]},{"father":"EKEventEditItem","childList":["EKEventDateEditItem"]},{"father":"EKEditItemViewController","childList":["EKEventDateEditItemViewController"]},{"father":"EKEventEditItem","childList":["EKEventDeleteButtonEditItem"]},{"father":"NSObject","childList":["EKEventDescriptionGenerator"]},{"father":"EKEventDetailTwoValueCell","childList":["EKEventDetailAlarmCell"]},{"father":"EKEventDetailCell","childList":["EKEventDetailAttendeesCell"]},{"father":"UIView","childList":["EKEventDetailAttendeesListView"]},{"father":"UITableViewCell","childList":["EKEventDetailCell"]},{"father":"EKEventDetailCell","childList":["EKEventDetailCommentCell"]},{"father":"UIViewController","childList":["EKEventDetailExtendedNotesViewController"]},{"father":"NSObject","childList":["EKEventDetailGroup"]},{"father":"NSObject","childList":["EKEventDetailItem"]},{"father":"EKEventDetailCell","childList":["EKEventDetailNotesCell"]},{"father":"EKEventDetailCell","childList":["EKEventDetailOrganizerCell"]},{"father":"EKEventDetailCell","childList":["EKEventDetailPreviewCell"]},{"father":"EKEventDetailCell","childList":["EKEventDetailRecurrenceCell"]},{"father":"EKEventDetailCell","childList":["EKEventDetailTitleCell"]},{"father":"EKEventDetailCell","childList":["EKEventDetailTwoValueCell"]},{"father":"EKEventDetailCell","childList":["EKEventDetailURLCell"]},{"father":"EKCalendarItemEditItem","childList":["EKEventEditItem"]},{"father":"UINavigationController","childList":["EKEventEditViewController"]},{"father":"EKEventDetailGroup","childList":["EKEventEditableDetailGroup"]},{"father":"EKEventDetailItem","childList":["EKEventEditedByDetailItem"]},{"father":"EKCalendarItemEditor","childList":["EKEventEditor"]},{"father":"EKEventDetailItem","childList":["EKEventFacebookButtonDetailItem"]},{"father":"NSObject","childList":["EKEventGestureController"]},{"father":"EKEventDetailItem","childList":["EKEventNotesDetailItem"]},{"father":"EKEditItemViewController","childList":["EKEventNotesEditItemViewController"]},{"father":"EKEventEditItem","childList":["EKEventNotesInlineEditItem"]},{"father":"UIView","childList":["EKEventOccurrenceListItem"]},{"father":"EKEventDetailItem","childList":["EKEventOrganizerDetailItem"]},{"father":"EKEventDetailItem","childList":["EKEventPreviewDetailItem"]},{"father":"EKEventDetailItem","childList":["EKEventRecurrenceDetailItem"]},{"father":"EKCalendarItemRecurrenceEditItem","childList":["EKEventRecurrenceEditItem"]},{"father":"EKEventDetailItem","childList":["EKEventTitleDetailItem"]},{"father":"EKEventEditItem","childList":["EKEventURLAndNotesInlineEditItem"]},{"father":"EKEventDetailItem","childList":["EKEventURLDetailItem"]},{"father":"EKEventEditItem","childList":["EKEventURLInlineEditItem"]},{"father":"UIViewController","childList":["EKEventViewController"]},{"father":"UITextView","childList":["EKExpandingTextView"]},{"father":"NSObject","childList":["EKGroupInfo"]},{"father":"NSObject","childList":["EKICSPreviewController"]},{"father":"UITableViewController","childList":["EKICSPreviewListController"]},{"father":"NSObject","childList":["EKICSPreviewModel"]},{"father":"UIViewController","childList":["EKIdentityViewController"]},{"father":"UIView","childList":["EKLayoutContainerView"]},{"father":"CALayer","childList":["EKLazyDrawingLayer"]},{"father":"NSObject","childList":["EKParticipantForSorting"]},{"father":"UIView","childList":["EKPickerTableView"]},{"father":"UITextView","childList":["EKPlaceholderTextView"]},{"father":"NSObject","childList":["EKPreviewSection"]},{"father":"EKEditItemViewController","childList":["EKRecurrenceEndEditItemViewController"]},{"father":"EKEditItemViewController","childList":["EKRecurrenceTypeEditItemViewController"]},{"father":"EKReminderEditItem","childList":["EKReminderAlertEditItem"]},{"father":"EKReminderEditItem","childList":["EKReminderChangeVisibilityEditItem"]},{"father":"EKReminderEditItem","childList":["EKReminderDueDateEditItem"]},{"father":"EKEditItemViewController","childList":["EKReminderDueDateEditViewController"]},{"father":"EKCalendarItemEditItem","childList":["EKReminderEditItem"]},{"father":"EKCalendarItemEditor","childList":["EKReminderEditor"]},{"father":"EKReminderEditItem","childList":["EKReminderInlineEditItem"]},{"father":"UITableViewCell","childList":["EKReminderInlineEditItemCell"]},{"father":"NSObject","childList":["EKReminderLocationItem"]},{"father":"UIViewController","childList":["EKReminderLocationMapViewController"]},{"father":"UITableViewController","childList":["EKReminderLocationPicker"]},{"father":"UITableViewCell","childList":["EKReminderLocationPickerCell"]},{"father":"NSObject","childList":["EKReminderLocationPickerModel"]},{"father":"EKReminderInlineEditItem","childList":["EKReminderNotesInlineEditItem"]},{"father":"EKReminderEditItem","childList":["EKReminderPriorityEditItem"]},{"father":"EKEditItemViewController","childList":["EKReminderPriorityEditViewController"]},{"father":"EKCalendarItemRecurrenceEditItem","childList":["EKReminderRecurrenceEditItem"]},{"father":"EKReminderChangeVisibilityEditItem","childList":["EKReminderShowLessEditItem"]},{"father":"EKReminderChangeVisibilityEditItem","childList":["EKReminderShowMoreEditItem"]},{"father":"EKReminderInlineEditItem","childList":["EKReminderTitleInlineEditItem"]},{"father":"UIViewController","childList":["EKReminderViewController"]},{"father":"UIViewController","childList":["EKShareePickerViewController"]},{"father":"UITableViewController","childList":["EKShareeViewController"]},{"father":"UILabel","childList":["EKStrikethroughLabel"]},{"father":"NSObject","childList":["EKStringFactory"]},{"father":"UITextView","childList":["EKTextViewWithLabelTextMetrics"]},{"father":"UIViewController","childList":["EKTimeZoneViewController"]},{"father":"UIView","childList":["EKUIEventStatusButtonsView"]},{"father":"UITableViewCell","childList":["EKUIOccurrenceTableViewCell"]},{"father":"NSObject","childList":["EKUISingleDayTimelineLayout"]},{"father":"NSObject","childList":["EKUISingleDayTimelineLayoutPartition"]},{"father":"NSObject","childList":["EKUISingleDayTimelineOccurrenceBucket"]},{"father":"UIViewController","childList":["EKUnknownIdentityViewController"]},{"father":"NSObject","childList":["OccurrenceCacheDataSource"]},{"father":"OccurrenceCacheDataSource","childList":["OccurrenceCacheSearchDataSource"]},{"father":"UIView","childList":["PreferencesDeleteButtonView"]},{"father":"PreferencesTwoPartValueCell","childList":["PreferencesDoubleTwoPartValueCell"]},{"father":"UITableViewCell","childList":["PreferencesMultiLineCell"]},{"father":"UITableViewCell","childList":["PreferencesTableControlCell"]},{"father":"UITableViewCell","childList":["PreferencesTwoPartValueCell"]},{"father":"UITableViewCell","childList":["PreferencesValueCell"]},{"father":"SpringFactory","childList":["ScrollSpringFactory"]},{"father":"UIView","childList":["SingleToolbarItemContainerView"]},{"father":"NSObject","childList":["SpringFactory"]},{"father":"UITableViewCell","childList":["SubtitleCellWithAdditionalDetail"]},{"father":"NSObject","childList":["TodayInvalidationTimerWrapper"]},{"father":"UILabel","childList":["TwoPartTextLabel"]},{"father":"UITableView","childList":["UINotesTableView"]},{"father":"UIView","childList":["WeekViewAllDayContents"]}]}
+{
+  "name": "EventKitUI.framework",
+  "list": [
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "WeekViewAllDayContents",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "UINotesTableView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "TwoPartTextLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "TodayInvalidationTimerWrapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SubtitleCellWithAdditionalDetail",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SpringFactory",
+      "parent": null,
+      "children": [
+        {
+          "name": "ScrollSpringFactory",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PreferencesTwoPartValueCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PreferencesDoubleTwoPartValueCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "OccurrenceCacheDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "OccurrenceCacheSearchDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKTimeZoneViewController",
+          "children": []
+        },
+        {
+          "name": "EKUnknownIdentityViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextView",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKTextViewWithLabelTextMetrics",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKShareeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKReminderInlineEditItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminderTitleInlineEditItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKReminderChangeVisibilityEditItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminderShowLessEditItem",
+          "children": []
+        },
+        {
+          "name": "EKReminderShowMoreEditItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKCalendarItemRecurrenceEditItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminderRecurrenceEditItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKEditItemViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminderPriorityEditViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKReminderEditItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminderInlineEditItem",
+          "children": []
+        },
+        {
+          "name": "EKReminderPriorityEditItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKCalendarItemEditor",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminderEditor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKCalendarItemEditItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminderEditItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKLazyDrawingLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKEventEditItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKEventURLInlineEditItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKEventDetailItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKEventEditedByDetailItem",
+          "children": []
+        },
+        {
+          "name": "EKEventFacebookButtonDetailItem",
+          "children": []
+        },
+        {
+          "name": "EKEventNotesDetailItem",
+          "children": []
+        },
+        {
+          "name": "EKEventOrganizerDetailItem",
+          "children": []
+        },
+        {
+          "name": "EKEventPreviewDetailItem",
+          "children": []
+        },
+        {
+          "name": "EKEventRecurrenceDetailItem",
+          "children": []
+        },
+        {
+          "name": "EKEventTitleDetailItem",
+          "children": []
+        },
+        {
+          "name": "EKEventURLDetailItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKEventDetailGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKEventEditableDetailGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKEventEditViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKEventDetailCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKEventDetailAttendeesCell",
+          "children": []
+        },
+        {
+          "name": "EKEventDetailCommentCell",
+          "children": []
+        },
+        {
+          "name": "EKEventDetailNotesCell",
+          "children": []
+        },
+        {
+          "name": "EKEventDetailOrganizerCell",
+          "children": []
+        },
+        {
+          "name": "EKEventDetailPreviewCell",
+          "children": []
+        },
+        {
+          "name": "EKEventDetailRecurrenceCell",
+          "children": []
+        },
+        {
+          "name": "EKEventDetailTitleCell",
+          "children": []
+        },
+        {
+          "name": "EKEventDetailTwoValueCell",
+          "children": []
+        },
+        {
+          "name": "EKEventDetailURLCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKEventDetailTwoValueCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKEventDetailAlarmCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKCalendarInfo",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKDeclinedCalendarItemInfo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKCalendarEditItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKCalendarShareesEditItem",
+          "children": []
+        },
+        {
+          "name": "EKCalendarTitleEditItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKEventAttendeePicker",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKCalendarShareePicker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalendarPublishingActivityViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKEventViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalendarInvitationWrapperController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PreferencesDoubleTwoPartValueCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "CalendarEventDatesAndTimeZoneCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "BlockableScrollView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

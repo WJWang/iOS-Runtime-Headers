@@ -1,1 +1,135 @@
-{"name":"iTunesStore.framework","list":[{"father":"NSObject","childList":["ISAuthenticationChallenge"]},{"father":"ISDialogOperation","childList":["ISAuthenticationChallengeOperation"]},{"father":"NSObject","childList":["ISCertificate"]},{"father":"NSObject","childList":["ISClient"]},{"father":"SSVCookieStorage","childList":["ISCookieStorage"]},{"father":"NSObject","childList":["ISDataProvider"]},{"father":"ISInvocationRecorder","childList":["ISDelayedInvocationRecorder"]},{"father":"NSObject","childList":["ISDelegateProxy"]},{"father":"NSObject","childList":["ISDeleteDaemonModule"]},{"father":"NSObject","childList":["ISDevice"]},{"father":"NSObject","childList":["ISDialog"]},{"father":"NSObject","childList":["ISDialogButton"]},{"father":"ISOperation","childList":["ISDialogOperation"]},{"father":"NSObject","childList":["ISDialogTextField"]},{"father":"ISOperation","childList":["ISFetchReviewOperation"]},{"father":"NSObject","childList":["ISHashError"]},{"father":"ISDataProvider","childList":["ISHashedDownloadProvider"]},{"father":"NSObject","childList":["ISITunesSyncHelper"]},{"father":"NSObject","childList":["ISInvocationRecorder"]},{"father":"ISDataProvider","childList":["ISJSONDataProvider"]},{"father":"ISOperation","childList":["ISLoadSoftwareMapOperation"]},{"father":"ISOperation","childList":["ISLoadURLBagOperation"]},{"father":"ISInvocationRecorder","childList":["ISMainThreadInvocationRecorder"]},{"father":"NSObject","childList":["ISNetworkObserver"]},{"father":"ISOperation","childList":["ISOpenURLOperation"]},{"father":"NSObject","childList":["ISOpenURLRequest"]},{"father":"NSOperation","childList":["ISOperation"]},{"father":"NSObject","childList":["ISOperationQueue"]},{"father":"ISOperation","childList":["ISPersonalizeOffersOperation"]},{"father":"NSObject","childList":["ISPersonalizeOffersRequest"]},{"father":"ISOperation","childList":["ISPostReviewOperation"]},{"father":"ISOperation","childList":["ISProcessPropertyListOperation"]},{"father":"ISProtocolDataProvider","childList":["ISPropertyListProvider"]},{"father":"ISDataProvider","childList":["ISProtocolDataProvider"]},{"father":"NSObject","childList":["ISPurchaseReceipt"]},{"father":"ISDialogOperation","childList":["ISRetryDialogOperation"]},{"father":"NSObject","childList":["ISReview"]},{"father":"ISDataProvider","childList":["ISReviewProvider"]},{"father":"ISOperation","childList":["ISServerAuthenticationOperation"]},{"father":"ISOperation","childList":["ISSetApplicationBadgeOperation"]},{"father":"NSObject","childList":["ISSoftwareApplication"]},{"father":"ISOperation","childList":["ISSoftwareCapabilitiesDialogOperation"]},{"father":"NSObject","childList":["ISSoftwareMap"]},{"father":"ISOperation","childList":["ISStoreAuthenticateOperation"]},{"father":"ISAuthenticationChallenge","childList":["ISStoreAuthenticationChallenge"]},{"father":"ISOperation","childList":["ISStoreServicesRequestOperation"]},{"father":"ISURLOperation","childList":["ISStoreURLOperation"]},{"father":"NSObject","childList":["ISStoreVersion"]},{"father":"ISDataProvider","childList":["ISStreamUnzippingDataProvider"]},{"father":"ISAuthenticationChallenge","childList":["ISURLAuthenticationChallenge"]},{"father":"NSObject","childList":["ISURLBag"]},{"father":"NSObject","childList":["ISURLBagCache"]},{"father":"NSObject","childList":["ISURLCache"]},{"father":"NSObject","childList":["ISURLCacheConfiguration"]},{"father":"ISOperation","childList":["ISURLOperation"]},{"father":"NSObject","childList":["ISURLOperationPool"]},{"father":"ISOperation","childList":["ISURLOperationPoolOperation"]},{"father":"NSObject","childList":["ISURLRequest"]},{"father":"NSObject","childList":["ISURLRequestPerformance"]},{"father":"NSObject","childList":["ISUniqueOperationContext"]},{"father":"NSObject","childList":["ISUniqueOperationManager"]},{"father":"NSObject","childList":["ISUserNotification"]},{"father":"NSObject","childList":["OpenURLTarget"]},{"father":"asn1Token","childList":["asn1IntegerToken"]},{"father":"asn1Token","childList":["asn1OSToken"]},{"father":"NSObject","childList":["asn1ReceiptToken"]},{"father":"asn1Token","childList":["asn1SequenceToken"]},{"father":"asn1Token","childList":["asn1SetToken"]},{"father":"NSObject","childList":["asn1Token"]}]}
+{
+  "name": "iTunesStore.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "asn1Token",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "asn1Token",
+      "parent": null,
+      "children": [
+        {
+          "name": "asn1IntegerToken",
+          "children": []
+        },
+        {
+          "name": "asn1OSToken",
+          "children": []
+        },
+        {
+          "name": "asn1SequenceToken",
+          "children": []
+        },
+        {
+          "name": "asn1SetToken",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISURLOperation",
+          "children": []
+        },
+        {
+          "name": "ISURLOperationPoolOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISAuthenticationChallenge",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISURLAuthenticationChallenge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISDataProvider",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISStreamUnzippingDataProvider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISURLOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISStoreURLOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISDialogOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISRetryDialogOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISProtocolDataProvider",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISPropertyListProvider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISInvocationRecorder",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISDelayedInvocationRecorder",
+          "children": []
+        },
+        {
+          "name": "ISMainThreadInvocationRecorder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SSVCookieStorage",
+      "parent": null,
+      "children": [
+        {
+          "name": "ISCookieStorage",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

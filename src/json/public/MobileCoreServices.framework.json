@@ -1,1 +1,45 @@
-{"name":"MobileCoreServices.framework","list":[{"father":"LSResourceProxy","childList":["LSApplicationProxy"]},{"father":"NSObject","childList":["LSApplicationWorkspaceObserver"]},{"father":"NSObject","childList":["LSApplicationWorkspace"]},{"father":"LSApplicationWorkspaceObserver","childList":["LSApplicationWorkspaceRemoteObserver"]},{"father":"LSResourceProxy","childList":["LSDocumentProxy"]},{"father":"NSObject","childList":["LSInstallProgressDelegate"]},{"father":"NSObject","childList":["LSInstallProgressList"]},{"father":"NSObject","childList":["LSObserverTimer"]},{"father":"NSOperation","childList":["LSOpenOperation"]},{"father":"NSObject","childList":["LSResourceProxy"]}]}
+{
+  "name": "MobileCoreServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "LSResourceProxy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "LSOpenOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "LSResourceProxy",
+      "parent": null,
+      "children": [
+        {
+          "name": "LSDocumentProxy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "LSApplicationWorkspaceObserver",
+      "parent": null,
+      "children": [
+        {
+          "name": "LSApplicationWorkspaceRemoteObserver",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

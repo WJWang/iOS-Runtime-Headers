@@ -1,1 +1,227 @@
-{"name":"IMFoundation.framework","list":[{"father":"NSProxy","childList":["Broadcaster"]},{"father":"NSObject","childList":["FZMessage"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_A_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_BODY_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_BR_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_B_Frame"]},{"father":"IMToSuperParserFrame","childList":["HTMLToSuper_Default_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_EM_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_FONT_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_I_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_SPAN_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_STRIKE_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_STRONG_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_S_Frame"]},{"father":"HTMLToSuper_Default_Frame","childList":["HTMLToSuper_U_Frame"]},{"father":"NSObject","childList":["IMAttributedStringParser"]},{"father":"NSObject","childList":["IMAttributedStringParserContext"]},{"father":"NSObject","childList":["IMCallMonitor"]},{"father":"IMInvocationTrampoline","childList":["IMCapturedInvocationTrampoline"]},{"father":"NSObject","childList":["IMConnectionMonitor"]},{"father":"IMInvocationTrampoline","childList":["IMDelayedInvocationTrampoline"]},{"father":"IMNetworkManager","childList":["IMDesktopNetworkManager"]},{"father":"NSObject","childList":["IMDirectlyObservableObject"]},{"father":"NSObject","childList":["IMFileCopier"]},{"father":"NSFileManager","childList":["IMFileManager"]},{"father":"NSObject","childList":["IMFileTransfer"]},{"father":"IMAttributedStringParserContext","childList":["IMFromSuperParserContext"]},{"father":"IMToSuperParserContext","childList":["IMHTMLToSuperParserContext"]},{"father":"NSObject","childList":["IMInvocationQueue"]},{"father":"NSObject","childList":["IMInvocationTrampoline"]},{"father":"NSObject","childList":["IMLocalObject"]},{"father":"NSObject","childList":["IMLocalObjectInternal"]},{"father":"NSObject","childList":["IMLockdownManager"]},{"father":"NSObject","childList":["IMLogging"]},{"father":"NSObject","childList":["IMMessageContext"]},{"father":"IMNetworkManager","childList":["IMMobileNetworkManager"]},{"father":"NSObject","childList":["IMMultiQueue"]},{"father":"NSObject","childList":["IMNetworkAvailability"]},{"father":"IMConnectionMonitor","childList":["IMNetworkConnectionMonitor"]},{"father":"NSObject","childList":["IMNetworkManager"]},{"father":"NSObject","childList":["IMNetworkReachability"]},{"father":"NSObject","childList":["IMPair"]},{"father":"NSObject","childList":["IMPingStatistics"]},{"father":"NSObject","childList":["IMPingTest"]},{"father":"NSObject","childList":["IMPowerAssertion"]},{"father":"NSObject","childList":["IMPurgableObject"]},{"father":"NSObject","childList":["IMReachability"]},{"father":"NSObject","childList":["IMRemoteObject"]},{"father":"NSObject","childList":["IMRemoteObjectBroadcaster"]},{"father":"NSObject","childList":["IMRemoteObjectInternal"]},{"father":"NSObject","childList":["IMRemoteURLConnection"]},{"father":"IMFromSuperParserContext","childList":["IMSuperToPlainParserContext"]},{"father":"IMFromSuperParserContext","childList":["IMSuperToSuperSanitizerContext"]},{"father":"NSObject","childList":["IMSystemMonitor"]},{"father":"NSObject","childList":["IMSystemProxySettingsFetcher"]},{"father":"IMInvocationTrampoline","childList":["IMThreadedInvocationTrampoline"]},{"father":"NSObject","childList":["IMTimer"]},{"father":"NSObject","childList":["IMTimingCollection"]},{"father":"IMXMLParserContext","childList":["IMToSuperParserContext"]},{"father":"IMXMLParserFrame","childList":["IMToSuperParserFrame"]},{"father":"NSObject","childList":["IMUserNotification"]},{"father":"NSObject","childList":["IMUserNotificationCenter"]},{"father":"NSObject","childList":["IMWeakArray"]},{"father":"NSObject","childList":["IMWeakObjectCache"]},{"father":"NSObject","childList":["IMWeakReference"]},{"father":"NSObject","childList":["IMXMLParser"]},{"father":"NSObject","childList":["IMXMLParserContext"]},{"father":"NSObject","childList":["IMXMLParserFrame"]},{"father":"NSObject","childList":["IMXMLReparser"]},{"father":"NSObject","childList":["IMXMLReparserContext"]},{"father":"NSObject","childList":["NetworkChangeNotifier"]},{"father":"NSObject","childList":["_IMLogFileCompressor"]},{"father":"NSObject","childList":["_IMNotificationObservationHelper"]},{"father":"NSObject","childList":["_IMPingPacketData"]},{"father":"NSObject","childList":["_IMPingStatisticsCollector"]},{"father":"NSObject","childList":["_IMTimingInstance"]}]}
+{
+  "name": "IMFoundation.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMUserNotification",
+          "children": []
+        },
+        {
+          "name": "IMUserNotificationCenter",
+          "children": []
+        },
+        {
+          "name": "IMWeakArray",
+          "children": []
+        },
+        {
+          "name": "IMWeakObjectCache",
+          "children": []
+        },
+        {
+          "name": "IMWeakReference",
+          "children": []
+        },
+        {
+          "name": "IMXMLParser",
+          "children": []
+        },
+        {
+          "name": "IMXMLParserContext",
+          "children": []
+        },
+        {
+          "name": "IMXMLParserFrame",
+          "children": []
+        },
+        {
+          "name": "IMXMLReparser",
+          "children": []
+        },
+        {
+          "name": "IMXMLReparserContext",
+          "children": []
+        },
+        {
+          "name": "NetworkChangeNotifier",
+          "children": []
+        },
+        {
+          "name": "_IMLogFileCompressor",
+          "children": []
+        },
+        {
+          "name": "_IMNotificationObservationHelper",
+          "children": []
+        },
+        {
+          "name": "_IMPingPacketData",
+          "children": []
+        },
+        {
+          "name": "_IMPingStatisticsCollector",
+          "children": []
+        },
+        {
+          "name": "_IMTimingInstance",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMXMLParserFrame",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMToSuperParserFrame",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMXMLParserContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMToSuperParserContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMInvocationTrampoline",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMThreadedInvocationTrampoline",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMFromSuperParserContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMSuperToPlainParserContext",
+          "children": []
+        },
+        {
+          "name": "IMSuperToSuperSanitizerContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMConnectionMonitor",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMNetworkConnectionMonitor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMNetworkManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMMobileNetworkManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMToSuperParserContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMHTMLToSuperParserContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMAttributedStringParserContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMFromSuperParserContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSFileManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMFileManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "HTMLToSuper_Default_Frame",
+      "parent": null,
+      "children": [
+        {
+          "name": "HTMLToSuper_EM_Frame",
+          "children": []
+        },
+        {
+          "name": "HTMLToSuper_FONT_Frame",
+          "children": []
+        },
+        {
+          "name": "HTMLToSuper_I_Frame",
+          "children": []
+        },
+        {
+          "name": "HTMLToSuper_SPAN_Frame",
+          "children": []
+        },
+        {
+          "name": "HTMLToSuper_STRIKE_Frame",
+          "children": []
+        },
+        {
+          "name": "HTMLToSuper_STRONG_Frame",
+          "children": []
+        },
+        {
+          "name": "HTMLToSuper_S_Frame",
+          "children": []
+        },
+        {
+          "name": "HTMLToSuper_U_Frame",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMToSuperParserFrame",
+      "parent": null,
+      "children": [
+        {
+          "name": "HTMLToSuper_Default_Frame",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSProxy",
+      "parent": null,
+      "children": [
+        {
+          "name": "Broadcaster",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

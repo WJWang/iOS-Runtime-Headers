@@ -1,1 +1,121 @@
-{"name":"CoreMediaStream.framework","list":[{"father":"NSObject","childList":["MMCSEngine"]},{"father":"NSObject","childList":["MMCSRequestorContext"]},{"father":"NSObject","childList":["MSASAlbum"]},{"father":"NSObject","childList":["MSASAlbumChange"]},{"father":"NSObject","childList":["MSASAssetCollection"]},{"father":"NSObject","childList":["MSASAssetCollectionChange"]},{"father":"MSASAssetTransferer","childList":["MSASAssetDownloader"]},{"father":"NSObject","childList":["MSASAssetInfoToReauthForDownload"]},{"father":"NSObject","childList":["MSASAssetTransferer"]},{"father":"MSASAssetTransferer","childList":["MSASAssetUploader"]},{"father":"NSObject","childList":["MSASComment"]},{"father":"NSObject","childList":["MSASCommentChange"]},{"father":"NSObject","childList":["MSASCommentCheckOperation"]},{"father":"MSASModelBase","childList":["MSASDaemonModel"]},{"father":"NSObject","childList":["MSASEnqueuedCommand"]},{"father":"NSObject","childList":["MSASGroupedQueue"]},{"father":"MSASSharingRelationship","childList":["MSASInvitation"]},{"father":"NSObject","childList":["MSASModelBase"]},{"father":"NSEnumerator","childList":["MSASModelEnumerator"]},{"father":"NSObject","childList":["MSASPConnectionGate"]},{"father":"NSObject","childList":["MSASPendingChanges"]},{"father":"NSObject","childList":["MSASPersonInfoManager"]},{"father":"MSASModelBase","childList":["MSASPersonModel"]},{"father":"NSObject","childList":["MSASPersonModelItem"]},{"father":"NSObject","childList":["MSASPhoneInvitations"]},{"father":"NSObject","childList":["MSASProtocol"]},{"father":"MSASModelBase","childList":["MSASServerSideModel"]},{"father":"MSASGroupedQueue","childList":["MSASServerSideModelGroupedCommandQueue"]},{"father":"NSObject","childList":["MSASSharingRelationship"]},{"father":"NSObject","childList":["MSASStateMachine"]},{"father":"MSDaemon","childList":["MSAlbumSharingDaemon"]},{"father":"NSObject","childList":["MSAsset"]},{"father":"NSObject","childList":["MSAssetCollection"]},{"father":"NSObject","childList":["MSBackoffManager"]},{"father":"NSObject","childList":["MSCupidStateMachine"]},{"father":"NSObject","childList":["MSDaemon"]},{"father":"MSStreamsProtocol","childList":["MSDeleteStreamsProtocol"]},{"father":"MSCupidStateMachine","childList":["MSDeleter"]},{"father":"NSObject","childList":["MSFileUtilities"]},{"father":"NSObject","childList":["MSImageScalingSpecification"]},{"father":"NSObject","childList":["MSInvitationResponse"]},{"father":"NSObject","childList":["MSInvitationStrings"]},{"father":"NSObject","childList":["MSMMCSProtocol"]},{"father":"MSDaemon","childList":["MSMediaStreamDaemon"]},{"father":"NSObject","childList":["MSObjectQueue"]},{"father":"NSObject","childList":["MSObjectWrapper"]},{"father":"MSASModelBase","childList":["MSPerformanceLogger"]},{"father":"NSObject","childList":["MSProtocolUtilities"]},{"father":"MSMMCSProtocol","childList":["MSPublishMMCSProtocol"]},{"father":"MSStreamsProtocol","childList":["MSPublishStreamsProtocol"]},{"father":"MSCupidStateMachine","childList":["MSPublisher"]},{"father":"MSStreamsProtocol","childList":["MSReauthorizationProtocol"]},{"father":"NSObject","childList":["MSResetServer"]},{"father":"MSStreamsProtocol","childList":["MSResetServerProtocol"]},{"father":"NSObject","childList":["MSServerSideConfigManager"]},{"father":"NSObject","childList":["MSServerSideConfigProtocol"]},{"father":"NSObject","childList":["MSShare"]},{"father":"NSObject","childList":["MSShareStateNotificationString"]},{"father":"NSObject","childList":["MSSharingManager"]},{"father":"NSObject","childList":["MSSharingProtocol"]},{"father":"NSObject","childList":["MSStreamsProtocol"]},{"father":"MSMMCSProtocol","childList":["MSSubscribeMMCSProtocol"]},{"father":"MSStreamsProtocol","childList":["MSSubscribeStreamsProtocol"]},{"father":"NSObject","childList":["MSSubscribedStream"]},{"father":"MSCupidStateMachine","childList":["MSSubscriber"]},{"father":"NSObject","childList":["MSTimerGate"]},{"father":"NSObject","childList":["MSVideoDerivativeSpecification"]}]}
+{
+  "name": "CoreMediaStream.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSTimerGate",
+          "children": []
+        },
+        {
+          "name": "MSVideoDerivativeSpecification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSCupidStateMachine",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSSubscriber",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSStreamsProtocol",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSSubscribeStreamsProtocol",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSMMCSProtocol",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSPublishMMCSProtocol",
+          "children": []
+        },
+        {
+          "name": "MSSubscribeMMCSProtocol",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSASModelBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSPerformanceLogger",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSDaemon",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSAlbumSharingDaemon",
+          "children": []
+        },
+        {
+          "name": "MSMediaStreamDaemon",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSASGroupedQueue",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSASServerSideModelGroupedCommandQueue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSASModelEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSASSharingRelationship",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSASInvitation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MSASAssetTransferer",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSASAssetDownloader",
+          "children": []
+        },
+        {
+          "name": "MSASAssetUploader",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

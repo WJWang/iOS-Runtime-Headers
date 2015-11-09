@@ -1,1 +1,85 @@
-{"name":"MultipeerConnectivity.framework","list":[{"father":"NSObject","childList":["MCAdvertiserAssistant"]},{"father":"UIViewController","childList":["MCBrowserViewController"]},{"father":"NSObject","childList":["MCNearbyDiscoveryPeer"]},{"father":"NSObject","childList":["MCNearbyDiscoveryPeerConnection"]},{"father":"UITableViewCell","childList":["MCNearbyPeerTableViewCell"]},{"father":"UIView","childList":["MCNearbyPeerTableViewHeader"]},{"father":"NSObject","childList":["MCNearbyServiceAdvertiser"]},{"father":"NSObject","childList":["MCNearbyServiceBrowser"]},{"father":"NSObject","childList":["MCNearbyServiceUtils"]},{"father":"NSObject","childList":["MCPeerID"]},{"father":"NSObject","childList":["MCPeerIDInternal"]},{"father":"NSObject","childList":["MCResourceDownloader"]},{"father":"NSObject","childList":["MCResourceProgressObserver"]},{"father":"NSObject","childList":["MCSession"]},{"father":"NSObject","childList":["MCSessionPeerConnectionData"]},{"father":"NSObject","childList":["MCSessionPeerState"]},{"father":"NSObject","childList":["MCSessionStream"]}]}
+{
+  "name": "MultipeerConnectivity.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCNearbyServiceAdvertiser",
+          "children": []
+        },
+        {
+          "name": "MCNearbyServiceBrowser",
+          "children": []
+        },
+        {
+          "name": "MCNearbyServiceUtils",
+          "children": []
+        },
+        {
+          "name": "MCPeerID",
+          "children": []
+        },
+        {
+          "name": "MCPeerIDInternal",
+          "children": []
+        },
+        {
+          "name": "MCResourceDownloader",
+          "children": []
+        },
+        {
+          "name": "MCResourceProgressObserver",
+          "children": []
+        },
+        {
+          "name": "MCSession",
+          "children": []
+        },
+        {
+          "name": "MCSessionPeerConnectionData",
+          "children": []
+        },
+        {
+          "name": "MCSessionPeerState",
+          "children": []
+        },
+        {
+          "name": "MCSessionStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCNearbyPeerTableViewHeader",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCNearbyPeerTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MCBrowserViewController",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

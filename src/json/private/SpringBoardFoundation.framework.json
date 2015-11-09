@@ -1,1 +1,169 @@
-{"name":"SpringBoardFoundation.framework","list":[{"father":"_UISettings","childList":["SBFAnimationCurveSettings"]},{"father":"NSObject","childList":["SBFAnimationFactory"]},{"father":"SBFAnimationCurveSettings","childList":["SBFAnimationSettings"]},{"father":"NSObject","childList":["SBFBackdropLegibilitySettingsProvider"]},{"father":"NSObject","childList":["SBFBackdropStatisticsProvider"]},{"father":"SBFWallpaperView","childList":["SBFBackdropWallpaperView"]},{"father":"SBFAnimationFactory","childList":["SBFBasicAnimationFactory"]},{"father":"NSObject","childList":["SBFDescriptionBuilder"]},{"father":"NSObject","childList":["SBFEqualsBuilder"]},{"father":"_UISettings","childList":["SBFGlintyStringSettings"]},{"father":"UIView","childList":["SBFGlintyStringView"]},{"father":"NSObject","childList":["SBFHashBuilder"]},{"father":"SBFWallpaperParallaxSettings","childList":["SBFHomeScreenWallpaperParallaxSettings"]},{"father":"UIView","childList":["SBFLockScreenDateView"]},{"father":"NSObject","childList":["SBFLockScreenMetrics"]},{"father":"NSObject","childList":["SBFLockScreenSimpleDateFormatter"]},{"father":"SBFWallpaperParallaxSettings","childList":["SBFLockScreenWallpaperParallaxSettings"]},{"father":"NSObject","childList":["SBFMappedImageCache"]},{"father":"SBFProceduralWallpaper","childList":["SBFMicaWallpaper"]},{"father":"_UISettings","childList":["SBFParallaxSettings"]},{"father":"UIView","childList":["SBFProceduralWallpaper"]},{"father":"SBFWallpaperView","childList":["SBFProceduralWallpaperView"]},{"father":"SBFStaticWallpaperView","childList":["SBFScrollableStaticWallpaperView"]},{"father":"SBFAnimationFactory","childList":["SBFSpringAnimationFactory"]},{"father":"SBFWallpaperView","childList":["SBFStaticWallpaperView"]},{"father":"SBFParallaxSettings","childList":["SBFWallpaperParallaxSettings"]},{"father":"UIView","childList":["SBFWallpaperPreviewView"]},{"father":"UIViewController","childList":["SBFWallpaperPreviewViewController"]},{"father":"_UISettings","childList":["SBFWallpaperSettings"]},{"father":"UIView","childList":["SBFWallpaperView"]},{"father":"PTSRow","childList":["SBReadonlyRow"]},{"father":"PTSRowTableViewCell","childList":["SBReadonlyTableViewCell"]},{"father":"UIImage","childList":["SBWallpaperImage"]},{"father":"SBFAnimationFactory","childList":["_SBFAnimationAttributesFactory"]},{"father":"UIViewController","childList":["_SBFMagicWallpaperPreviewViewController"]},{"father":"NSObject","childList":["_SBFVibrantSettings"]},{"father":"UITableViewCell","childList":["_SBFVibrantTableViewCell"]},{"father":"UITableViewHeaderFooterView","childList":["_SBFVibrantTableViewHeaderFooterView"]}]}
+{
+  "name": "SpringBoardFoundation.framework",
+  "list": [
+    {
+      "name": "UITableViewHeaderFooterView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SBFVibrantTableViewHeaderFooterView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SBFVibrantTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SBFVibrantSettings",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SBFMagicWallpaperPreviewViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBFAnimationFactory",
+      "parent": null,
+      "children": [
+        {
+          "name": "_SBFAnimationAttributesFactory",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImage",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBWallpaperImage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTSRowTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBReadonlyTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PTSRow",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBReadonlyRow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBFWallpaperView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UISettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBFWallpaperSettings",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBFParallaxSettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBFWallpaperParallaxSettings",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBFWallpaperView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBFStaticWallpaperView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBFStaticWallpaperView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBFScrollableStaticWallpaperView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBFProceduralWallpaper",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBFMicaWallpaper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBFWallpaperParallaxSettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBFHomeScreenWallpaperParallaxSettings",
+          "children": []
+        },
+        {
+          "name": "SBFLockScreenWallpaperParallaxSettings",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBFAnimationCurveSettings",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBFAnimationSettings",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -15,7 +15,7 @@ gracefulFs.readdir(PRIVATE_FRAMEWORKS_PATH, function(err, frameworkDirNameList) 
   } else {
     frameworkDirNameList.forEach(function(frameworkDirName) {
       Utils.getFrameworkInherit(PRIVATE_FRAMEWORKS_PATH + frameworkDirName, frameworkDirName, function(result) {
-        gracefulFs.writeFile(__dirname+'/src/json/private/' + frameworkDirName + ".json", JSON.stringify(result), 'utf8', function(err) {
+        gracefulFs.writeFile(__dirname+'/src/json/private/' + frameworkDirName + ".json", JSON.stringify(result, null, 2), 'utf8', function(err) {
           console.log("DONE ----- " +frameworkDirName+":" ,result);
         });
       });
@@ -29,7 +29,7 @@ gracefulFs.readdir(PUBLIC_FRAMEWORKS_PATH, function(err, frameworkDirNameList) {
   } else {
     frameworkDirNameList.forEach(function(frameworkDirName) {
       Utils.getFrameworkInherit(PUBLIC_FRAMEWORKS_PATH + frameworkDirName, frameworkDirName, function(result) {
-        gracefulFs.writeFile(__dirname+'/src/json/public/' + frameworkDirName + ".json", JSON.stringify(result), 'utf8', function(err) {
+        gracefulFs.writeFile(__dirname+'/src/json/public/' + frameworkDirName + ".json", JSON.stringify(result, null, 2), 'utf8', function(err) {
           console.log("DONE ----- " +frameworkDirName+":" ,result);
         });
       });

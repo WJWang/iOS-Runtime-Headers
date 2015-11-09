@@ -1,1 +1,15 @@
-{"name":"SafariServices.framework","list":[{"father":"NSObject","childList":["SSReadingList"]}]}
+{
+  "name": "SafariServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SSReadingList",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

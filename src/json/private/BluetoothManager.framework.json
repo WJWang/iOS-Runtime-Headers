@@ -1,1 +1,19 @@
-{"name":"BluetoothManager.framework","list":[{"father":"NSObject","childList":["BluetoothDevice"]},{"father":"NSObject","childList":["BluetoothManager"]}]}
+{
+  "name": "BluetoothManager.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "BluetoothDevice",
+          "children": []
+        },
+        {
+          "name": "BluetoothManager",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

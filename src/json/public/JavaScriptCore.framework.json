@@ -1,1 +1,43 @@
-{"name":"JavaScriptCore.framework","list":[{"father":"NSObject","childList":["JSContext"]},{"father":"NSObject","childList":["JSManagedValue"]},{"father":"NSObject","childList":["JSObjCClassInfo"]},{"father":"NSObject","childList":["JSVMWrapperCache"]},{"father":"NSObject","childList":["JSValue"]},{"father":"NSObject","childList":["JSVirtualMachine"]},{"father":"NSObject","childList":["JSWTFMainThreadCaller"]},{"father":"NSObject","childList":["JSWrapperMap"]}]}
+{
+  "name": "JavaScriptCore.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "JSContext",
+          "children": []
+        },
+        {
+          "name": "JSManagedValue",
+          "children": []
+        },
+        {
+          "name": "JSObjCClassInfo",
+          "children": []
+        },
+        {
+          "name": "JSVMWrapperCache",
+          "children": []
+        },
+        {
+          "name": "JSValue",
+          "children": []
+        },
+        {
+          "name": "JSVirtualMachine",
+          "children": []
+        },
+        {
+          "name": "JSWTFMainThreadCaller",
+          "children": []
+        },
+        {
+          "name": "JSWrapperMap",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

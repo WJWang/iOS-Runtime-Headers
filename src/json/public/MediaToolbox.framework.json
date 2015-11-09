@@ -1,1 +1,49 @@
-{"name":"MediaToolbox.framework","list":[{"father":"NSObject","childList":["CMNetworkActivityMonitor"]},{"father":"NSObject","childList":["CMNetworkActivityObserver"]},{"father":"NSObject","childList":["FigCPEFPAirPlaySession"]},{"father":"CALayer","childList":["FigCaptionLayer"]},{"father":"NSObject","childList":["FigCaptionLayerPrivate"]},{"father":"CALayer","childList":["FigCaptionRowLayer"]},{"father":"NSObject","childList":["FigDisplayMirroringChangeObserver"]},{"father":"CALayer","childList":["FigHUDGraphLayer"]},{"father":"CALayer","childList":["FigHUDLayer"]},{"father":"CALayer","childList":["FigVideoLayer"]},{"father":"NSObject","childList":["FigVideoLayerInternal"]},{"father":"NSObject","childList":["FigVirtualDisplayInhibitor"]},{"father":"NSObject","childList":["fmpcDummyThreadInvoker"]}]}
+{
+  "name": "MediaToolbox.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "FigVideoLayerInternal",
+          "children": []
+        },
+        {
+          "name": "FigVirtualDisplayInhibitor",
+          "children": []
+        },
+        {
+          "name": "fmpcDummyThreadInvoker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "FigCaptionLayer",
+          "children": []
+        },
+        {
+          "name": "FigCaptionRowLayer",
+          "children": []
+        },
+        {
+          "name": "FigHUDGraphLayer",
+          "children": []
+        },
+        {
+          "name": "FigHUDLayer",
+          "children": []
+        },
+        {
+          "name": "FigVideoLayer",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,153 @@
-{"name":"PassKit.framework","list":[{"father":"UIActivityItemProvider","childList":["PKActivityItemProvider"]},{"father":"UIViewController","childList":["PKAddPassesViewController"]},{"father":"UITableViewCell","childList":["PKBackFieldTableCell"]},{"father":"UIView","childList":["PKBarcodeStickerView"]},{"father":"CAReplicatorLayer","childList":["PKBoxLayer"]},{"father":"NSObject","childList":["PKCaptureSession"]},{"father":"UIViewController","childList":["PKCodeAcquisitionViewController"]},{"father":"UIView","childList":["PKDiffView"]},{"father":"UITableViewCell","childList":["PKInstalledAppTableViewCell"]},{"father":"UIView","childList":["PKLinkedAppUserRatingView"]},{"father":"UITableViewCell","childList":["PKLinkedAppView"]},{"father":"PKPassFaceView","childList":["PKPassBackFaceView"]},{"father":"PKPassBackFaceView","childList":["PKPassBoardingPassBackFaceView"]},{"father":"PKPassFrontFaceView","childList":["PKPassBoardingPassFrontFaceView"]},{"father":"NSObject","childList":["PKPassBucketTemplate"]},{"father":"UIView","childList":["PKPassBucketView"]},{"father":"NSObject","childList":["PKPassColorProfile"]},{"father":"PKPassBackFaceView","childList":["PKPassCouponBackFaceView"]},{"father":"PKPassFrontFaceView","childList":["PKPassCouponFrontFaceView"]},{"father":"NSObject","childList":["PKPassDeleteSheet"]},{"father":"PKPassBackFaceView","childList":["PKPassEventTicketBackFaceView"]},{"father":"PKPassFrontFaceView","childList":["PKPassEventTicketFrontFaceView"]},{"father":"NSObject","childList":["PKPassFaceTemplate"]},{"father":"WLEasyToHitCustomView","childList":["PKPassFaceView"]},{"father":"NSObject","childList":["PKPassFieldTemplate"]},{"father":"UIView","childList":["PKPassFieldView"]},{"father":"PKPassFaceView","childList":["PKPassFrontFaceView"]},{"father":"PKPassBackFaceView","childList":["PKPassGenericBackFaceView"]},{"father":"PKPassFrontFaceView","childList":["PKPassGenericFrontFaceView"]},{"father":"PKPassBackFaceView","childList":["PKPassGiftCardBackFaceView"]},{"father":"PKPassFrontFaceView","childList":["PKPassGiftCardFrontFaceView"]},{"father":"UIScrollView","childList":["PKPassGroupStackView"]},{"father":"UIView","childList":["PKPassGroupView"]},{"father":"NSObject","childList":["PKPassGroupViewVerticalPanAnimator"]},{"father":"UIViewController","childList":["PKPassGroupsViewController"]},{"father":"UIViewController","childList":["PKPassPickerViewController"]},{"father":"NSObject","childList":["PKPassSnapshotter"]},{"father":"UIView","childList":["PKPassView"]},{"father":"PKPassBackFaceView","childList":["PKPassWelcomeBackFaceView"]},{"father":"PKPassFrontFaceView","childList":["PKPassWelcomeFrontFaceView"]},{"father":"_UIRemoteViewController","childList":["PKRemoteAddPassesViewController"]},{"father":"NSObject","childList":["PKReusablePassViewQueue"]},{"father":"UIViewController","childList":["PKServiceAddPassesViewController"]},{"father":"UITableViewCell","childList":["PKSettingTableCell"]},{"father":"NSObject","childList":["PKTunablePref"]},{"father":"NSObject","childList":["PKTunablePrefs"]},{"father":"PKTunablePref","childList":["PKTunableSliderPref"]},{"father":"PKTunablePref","childList":["PKTunableSwitchPref"]},{"father":"UIButton","childList":["WLEasyToHitCustomButton"]},{"father":"UIView","childList":["WLEasyToHitCustomView"]}]}
+{
+  "name": "PassKit.framework",
+  "list": [
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "WLEasyToHitCustomView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "WLEasyToHitCustomButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PKTunablePref",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKTunableSliderPref",
+          "children": []
+        },
+        {
+          "name": "PKTunableSwitchPref",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKTunablePref",
+          "children": []
+        },
+        {
+          "name": "PKTunablePrefs",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKSettingTableCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKServiceAddPassesViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKRemoteAddPassesViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PKPassFrontFaceView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKPassWelcomeFrontFaceView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PKPassBackFaceView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKPassWelcomeBackFaceView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKPassGroupStackView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PKPassFaceView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKPassFrontFaceView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WLEasyToHitCustomView",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKPassFaceView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAReplicatorLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKBoxLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityItemProvider",
+      "parent": null,
+      "children": [
+        {
+          "name": "PKActivityItemProvider",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,81 @@
-{"name":"SportsTrainer.framework","list":[{"father":"UIView","childList":["STAnimatableButton"]},{"father":"UIView","childList":["STAnimatableButtonSlice"]},{"father":"NSObject","childList":["STEmpedLinkingManager"]},{"father":"UIView","childList":["STLinkingView"]},{"father":"UIView","childList":["STRoundedGradientBackroundView"]},{"father":"STValueUnitLabel","childList":["STRunCaloriesLabel"]},{"father":"STValueUnitLabel","childList":["STRunDistanceLabel"]},{"father":"STValueUnitLabel","childList":["STRunPaceLabel"]},{"father":"UIView","childList":["STRunProgressView"]},{"father":"STValueUnitLabel","childList":["STRunTimeLabel"]},{"father":"UIView","childList":["STRunView"]},{"father":"UIAnimation","childList":["STShadowBlurRadiusAnimation"]},{"father":"UILabel","childList":["STShadowLabel"]},{"father":"UIView","childList":["STTwoPartLabel"]},{"father":"UIView","childList":["STValueUnitLabel"]},{"father":"UIPickerView","childList":["STWeightPicker"]},{"father":"NSObject","childList":["STWorkoutController"]}]}
+{
+  "name": "SportsTrainer.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "STWorkoutController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPickerView",
+      "parent": null,
+      "children": [
+        {
+          "name": "STWeightPicker",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "STTwoPartLabel",
+          "children": []
+        },
+        {
+          "name": "STValueUnitLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "STShadowLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAnimation",
+      "parent": null,
+      "children": [
+        {
+          "name": "STShadowBlurRadiusAnimation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "STValueUnitLabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "STRunCaloriesLabel",
+          "children": []
+        },
+        {
+          "name": "STRunDistanceLabel",
+          "children": []
+        },
+        {
+          "name": "STRunPaceLabel",
+          "children": []
+        },
+        {
+          "name": "STRunTimeLabel",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,37 @@
-{"name":"ProtocolBuffer.framework","list":[{"father":"NSObject","childList":["PBCodable"]},{"father":"NSObject","childList":["PBDataReader"]},{"father":"NSObject","childList":["PBDataWriter"]},{"father":"NSObject","childList":["PBMessageStreamReader"]},{"father":"NSObject","childList":["PBMessageStreamWriter"]},{"father":"PBCodable","childList":["PBRequest"]},{"father":"NSObject","childList":["PBRequester"]},{"father":"NSObject","childList":["PBStreamReader"]},{"father":"NSObject","childList":["PBStreamWriter"]},{"father":"NSObject","childList":["PBUnknownFields"]}]}
+{
+  "name": "ProtocolBuffer.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PBRequester",
+          "children": []
+        },
+        {
+          "name": "PBStreamReader",
+          "children": []
+        },
+        {
+          "name": "PBStreamWriter",
+          "children": []
+        },
+        {
+          "name": "PBUnknownFields",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PBCodable",
+      "parent": null,
+      "children": [
+        {
+          "name": "PBRequest",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

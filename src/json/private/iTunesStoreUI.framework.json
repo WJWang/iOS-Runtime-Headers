@@ -1,1 +1,829 @@
-{"name":"iTunesStoreUI.framework","list":[{"father":"NSObject","childList":["ISUDownload"]},{"father":"MPAVItem","childList":["MSPlaceholderAVItem"]},{"father":"SUStorePageViewController","childList":["SUAccountViewController"]},{"father":"UIActivity","childList":["SUActivity"]},{"father":"UIActivityItemProvider","childList":["SUActivityItemProvider"]},{"father":"UIActivityViewController","childList":["SUActivityViewController"]},{"father":"SUTableDataSource","childList":["SUAggregateDataSource"]},{"father":"UIApplication","childList":["SUApplication"]},{"father":"SUCellConfiguration","childList":["SUArrayCellConfiguration"]},{"father":"SUImageModifier","childList":["SUArrayImageModifier"]},{"father":"SUArrayCellConfiguration","childList":["SUArtworkCellConfiguration"]},{"father":"SUCellConfigurationContext","childList":["SUArtworkCellContext"]},{"father":"NSObject","childList":["SUAudioPlayer"]},{"father":"NSObject","childList":["SUAudioPlayerSessionManager"]},{"father":"ISOperation","childList":["SUBackgroundTaskOperation"]},{"father":"SUTableCell","childList":["SUBannerCell"]},{"father":"SUItemCellConfiguration","childList":["SUBannerCellConfiguration"]},{"father":"UIBarButtonItem","childList":["SUBarButtonItem"]},{"father":"SUFilteringDataConsumer","childList":["SUBase64Encoder"]},{"father":"SUMaskProvider","childList":["SUBezierPathMaskProvider"]},{"father":"NSObject","childList":["SUBufferDataConsumer"]},{"father":"UIView","childList":["SUButtonAccessoryView"]},{"father":"NSObject","childList":["SUButtonAction"]},{"father":"SUItemCellConfiguration","childList":["SUButtonCellConfiguration"]},{"father":"SUMaskProvider","childList":["SUCanvasMaskProvider"]},{"father":"NSObject","childList":["SUCellConfiguration"]},{"father":"NSObject","childList":["SUCellConfigurationCache"]},{"father":"NSObject","childList":["SUCellConfigurationContext"]},{"father":"NSObject","childList":["SUClient"]},{"father":"SUClientController","childList":["SUClientApplicationController"]},{"father":"NSObject","childList":["SUClientController"]},{"father":"NSObject","childList":["SUClientDispatch"]},{"father":"NSObject","childList":["SUClientInterface"]},{"father":"NSObject","childList":["SUClientQueueSession"]},{"father":"SUImageModifier","childList":["SUClipCornersImageModifier"]},{"father":"SUArrayCellConfiguration","childList":["SUCompletionCellConfiguration"]},{"father":"ISDataProvider","childList":["SUCompletionDataProvider"]},{"father":"NSObject","childList":["SUCompletionItem"]},{"father":"NSObject","childList":["SUCompletionsResponse"]},{"father":"SUViewController","childList":["SUComposeReviewViewController"]},{"father":"NSObject","childList":["SUComposeTextFieldConfiguration"]},{"father":"NSObject","childList":["SUConcernItem"]},{"father":"ISDataProvider","childList":["SUConcernListDataProvider"]},{"father":"SUTableDataSource","childList":["SUConcernListDataSource"]},{"father":"NSObject","childList":["SUContinuation"]},{"father":"NSObject","childList":["SUControlAppearance"]},{"father":"NSObject","childList":["SUDOMElement"]},{"father":"NSObject","childList":["SUDataBufferConsumer"]},{"father":"SUInputSource","childList":["SUDataInputSource"]},{"father":"UIButton","childList":["SUDeferredUIButton"]},{"father":"UISearchField","childList":["SUDeferredUISearchField"]},{"father":"UISegmentedControl","childList":["SUDeferredUISegmentedControl"]},{"father":"SUNavigationItem","childList":["SUDelayedNavigationItem"]},{"father":"NSObject","childList":["SUDelayedQuitController"]},{"father":"NSObject","childList":["SUDialog"]},{"father":"NSObject","childList":["SUDialogManager"]},{"father":"NSObject","childList":["SUDocumentInteractionSession"]},{"father":"SUGridTableViewCell","childList":["SUDownloadCell"]},{"father":"SUArtworkCellConfiguration","childList":["SUDownloadCellConfiguration"]},{"father":"SUDownloadCellConfiguration","childList":["SUDownloadGridCellConfiguration"]},{"father":"SUImageModifier","childList":["SUDownloadGridImageModifier"]},{"father":"NSObject","childList":["SUDownloadManager"]},{"father":"SUTableDataSource","childList":["SUDownloadManagerDataSource"]},{"father":"SUDownloadManagerDataSource","childList":["SUDownloadManagerGridDataSource"]},{"father":"SUDownloadManagerDataSource","childList":["SUDownloadManagerTableDataSource"]},{"father":"SUGridTableViewCellBackgroundView","childList":["SUDownloadsGridCellBackgroundView"]},{"father":"UIView","childList":["SUDownloadsGridFooterView"]},{"father":"SUGridViewController","childList":["SUDownloadsGridViewController"]},{"father":"UIView","childList":["SUDownloadsPlaceholderView"]},{"father":"SUTableViewController","childList":["SUDownloadsTableViewController"]},{"father":"SUViewController","childList":["SUDownloadsViewController"]},{"father":"SUInputSource","childList":["SUFileInputSource"]},{"father":"NSObject","childList":["SUFilteringDataConsumer"]},{"father":"SUInputSource","childList":["SUFilteringInputSource"]},{"father":"UIView","childList":["SUFooterContainerView"]},{"father":"SUImageModifier","childList":["SUFrameAdjustmentImageModifier"]},{"father":"SUMediaItemCellConfiguration","childList":["SUFutureDownloadCellConfiguration"]},{"father":"NSObject","childList":["SUGradient"]},{"father":"UIButton","childList":["SUGradientButton"]},{"father":"NSObject","childList":["SUGradientColorStop"]},{"father":"UIView","childList":["SUGradientView"]},{"father":"UITableViewCell","childList":["SUGridRowTableViewCell"]},{"father":"UITableViewCellLayoutManager","childList":["SUGridRowTableViewCellLayoutManager"]},{"father":"UISwipeGestureRecognizer","childList":["SUGridSwipeGestureRecognizer"]},{"father":"SUTableCell","childList":["SUGridTableViewCell"]},{"father":"UIView","childList":["SUGridTableViewCellBackgroundView"]},{"father":"UIControl","childList":["SUGridTouchCaptureView"]},{"father":"UIView","childList":["SUGridView"]},{"father":"SUViewController","childList":["SUGridViewController"]},{"father":"UIView","childList":["SUHitTestView"]},{"father":"NSObject","childList":["SUImageCache"]},{"father":"NSObject","childList":["SUImageCacheKey"]},{"father":"ISDataProvider","childList":["SUImageDataProvider"]},{"father":"NSObject","childList":["SUImageModifier"]},{"father":"SUViewController","childList":["SUImageViewController"]},{"father":"UILabel","childList":["SUInnerShadowLabel"]},{"father":"NSObject","childList":["SUInputSource"]},{"father":"NSInputStream","childList":["SUInputSourceInputStream"]},{"father":"NSObject","childList":["SUItem"]},{"father":"SUArtworkCellConfiguration","childList":["SUItemCellConfiguration"]},{"father":"SUArtworkCellContext","childList":["SUItemCellContext"]},{"father":"NSObject","childList":["SUItemContentRating"]},{"father":"NSObject","childList":["SUItemDataSource"]},{"father":"NSObject","childList":["SUItemLink"]},{"father":"NSObject","childList":["SUItemList"]},{"father":"NSObject","childList":["SUItemListGroup"]},{"father":"UIButton","childList":["SUItemOfferButton"]},{"father":"NSObject","childList":["SUItemReviewStatistics"]},{"father":"SUTableViewController","childList":["SUItemTableViewController"]},{"father":"NSObject","childList":["SUItemValidator"]},{"father":"SUItemValidatorTest","childList":["SUItemValidatorRatingTest"]},{"father":"NSObject","childList":["SUItemValidatorTest"]},{"father":"UIControl","childList":["SULinkControl"]},{"father":"SUItemCellConfiguration","childList":["SULoadMoreCellConfiguration"]},{"father":"SUItemCellConfiguration","childList":["SULoadMoreMediaCellConfiguration"]},{"father":"ISOperation","childList":["SULoadNetworkSectionsOperation"]},{"father":"ISOperation","childList":["SULoadSectionsOperation"]},{"father":"UIView","childList":["SULoadingView"]},{"father":"UIView","childList":["SULockoutView"]},{"father":"SUViewController","childList":["SULockoutViewController"]},{"father":"SUTableCell","childList":["SUMarkupCell"]},{"father":"SUItemCellConfiguration","childList":["SUMarkupCellConfiguration"]},{"father":"SUItemCellContext","childList":["SUMarkupCellContext"]},{"father":"NSObject","childList":["SUMaskProvider"]},{"father":"UIView","childList":["SUMaskedView"]},{"father":"SUItemCellConfiguration","childList":["SUMediaItemCellConfiguration"]},{"father":"SUItemCellContext","childList":["SUMediaItemCellContext"]},{"father":"NSObject","childList":["SUMediaLibraryAdamIDCache"]},{"father":"NSObject","childList":["SUMediaPlayerItem"]},{"father":"MPMoviePlayerViewController","childList":["SUMediaPlayerViewController"]},{"father":"SUViewController","childList":["SUMenuViewController"]},{"father":"NSObject","childList":["SUMescalSession"]},{"father":"UIMoreListController","childList":["SUMoreListController"]},{"father":"UITableViewCell","childList":["SUMoreListTableViewCell"]},{"father":"UIMoreNavigationController","childList":["SUMoreNavigationController"]},{"father":"SUMenuViewController","childList":["SUNativeScriptMenuViewController"]},{"father":"UINavigationBar","childList":["SUNavigationBar"]},{"father":"UIView","childList":["SUNavigationBarBackgroundView"]},{"father":"UINavigationButton","childList":["SUNavigationButton"]},{"father":"UINavigationController","childList":["SUNavigationController"]},{"father":"NSObject","childList":["SUNavigationHistoryItem"]},{"father":"UINavigationItem","childList":["SUNavigationItem"]},{"father":"NSObject","childList":["SUNavigationMenu"]},{"father":"NSObject","childList":["SUNavigationMenuItem"]},{"father":"SUMenuViewController","childList":["SUNavigationMenuViewController"]},{"father":"SULockoutViewController","childList":["SUNetworkLockoutViewController"]},{"father":"NSObject","childList":["SUNetworkObserver"]},{"father":"SUTableCell","childList":["SUNowPlayingCell"]},{"father":"SUMediaItemCellConfiguration","childList":["SUNowPlayingTrackCellConfiguration"]},{"father":"NSObject","childList":["SUObjectPool"]},{"father":"NSObject","childList":["SUOverlayAction"]},{"father":"SUViewController","childList":["SUOverlayBackgroundViewController"]},{"father":"NSObject","childList":["SUOverlayConfiguration"]},{"father":"NSObject","childList":["SUOverlayTransition"]},{"father":"SUViewController","childList":["SUOverlayViewController"]},{"father":"NSObject","childList":["SUPageSection"]},{"father":"NSObject","childList":["SUPageSectionGroup"]},{"father":"ISOperation","childList":["SUPastisOperation"]},{"father":"SUViewController","childList":["SUPlaceholderViewController"]},{"father":"SUItemCellConfiguration","childList":["SUPlainTextCellConfiguration"]},{"father":"NSObject","childList":["SUPlayerStatus"]},{"father":"ISOperation","childList":["SUPostConcernOperation"]},{"father":"ISOperation","childList":["SUPrepareMediaItemOperation"]},{"father":"SUStorePageViewController","childList":["SUPreviewOverlayStorePageViewController"]},{"father":"SUViewController","childList":["SUPreviewOverlayViewController"]},{"father":"NSObject","childList":["SUProtocolButton"]},{"father":"NSObject","childList":["SUPurchaseAnimationDelegate"]},{"father":"NSObject","childList":["SUPurchaseAnimator"]},{"father":"NSObject","childList":["SUPurchaseBatch"]},{"father":"SUContinuation","childList":["SUPurchaseContinuation"]},{"father":"NSObject","childList":["SUPurchaseManager"]},{"father":"NSObject","childList":["SUQueueSessionManager"]},{"father":"SUImageModifier","childList":["SUReflectionImageModifier"]},{"father":"UIView","childList":["SUReflectionImageView"]},{"father":"UIView","childList":["SUReflectionView"]},{"father":"NSObject","childList":["SURemoteNotificationController"]},{"father":"SUTableViewController","childList":["SUReportConcernViewController"]},{"father":"ISInvocationRecorder","childList":["SUResponderChainInvocationRecorder"]},{"father":"SUItemCellConfiguration","childList":["SUReviewCellConfiguration"]},{"father":"SUGradientButton","childList":["SUReviewsButton"]},{"father":"SUItemCellConfiguration","childList":["SUReviewsHeaderCellConfiguration"]},{"father":"SUStructuredPageViewController","childList":["SUReviewsListingViewController"]},{"father":"NSObject","childList":["SURotationController"]},{"father":"SUImageModifier","childList":["SURotationImageModifier"]},{"father":"SUSubtitledButton","childList":["SURoundedCornersButton"]},{"father":"SUMaskProvider","childList":["SURoundedCornersMaskProvider"]},{"father":"SUViewController","childList":["SUSKUIStorePageViewController"]},{"father":"UIView","childList":["SUScalingFlipView"]},{"father":"SUScriptObject","childList":["SUScriptACClientAccessInfo"]},{"father":"NSObject","childList":["SUScriptAccessSecurity"]},{"father":"SUScriptObject","childList":["SUScriptAccount"]},{"father":"NSObject","childList":["SUScriptAccountManager"]},{"father":"SUScriptStorePageViewController","childList":["SUScriptAccountPageViewController"]},{"father":"SUScriptObject","childList":["SUScriptAction"]},{"father":"SUScriptObject","childList":["SUScriptActivity"]},{"father":"SUScriptObject","childList":["SUScriptActivityItemProvider"]},{"father":"SUScriptNativeObject","childList":["SUScriptActivityNativeObject"]},{"father":"SUScriptViewController","childList":["SUScriptActivityViewController"]},{"father":"SUScriptObject","childList":["SUScriptAppleAccount"]},{"father":"SUScriptObject","childList":["SUScriptAppleAccountCredential"]},{"father":"SUScriptObject","childList":["SUScriptAppleAccountStore"]},{"father":"SUScriptObject","childList":["SUScriptAppleAccountType"]},{"father":"SUScriptObject","childList":["SUScriptApplication"]},{"father":"SUScriptObject","childList":["SUScriptAudioPlayer"]},{"father":"ISOperation","childList":["SUScriptAuthenticationOperation"]},{"father":"SUScriptObject","childList":["SUScriptButton"]},{"father":"SUScriptNativeObject","childList":["SUScriptButtonNativeObject"]},{"father":"SUScriptObject","childList":["SUScriptCalloutView"]},{"father":"SUScriptObject","childList":["SUScriptCanvasContext"]},{"father":"SUScriptFunction","childList":["SUScriptCanvasFunction"]},{"father":"NSObject","childList":["SUScriptCanvasResult"]},{"father":"SUScriptObject","childList":["SUScriptColor"]},{"father":"SUScriptViewController","childList":["SUScriptComposeReviewViewController"]},{"father":"SUScriptObject","childList":["SUScriptDateFormatter"]},{"father":"SUScriptObject","childList":["SUScriptDevice"]},{"father":"SUScriptObject","childList":["SUScriptDialog"]},{"father":"UIActionSheet","childList":["SUScriptDialogActionSheet"]},{"father":"UIAlertView","childList":["SUScriptDialogAlertView"]},{"father":"SUScriptNativeObject","childList":["SUScriptDialogNativeObject"]},{"father":"NSObject","childList":["SUScriptDictionary"]},{"father":"SUScriptObject","childList":["SUScriptDocumentInteractionController"]},{"father":"SUScriptNativeObject","childList":["SUScriptDocumentInteractionControllerNativeObject"]},{"father":"SUScriptViewController","childList":["SUScriptDonationViewController"]},{"father":"SUScriptObject","childList":["SUScriptDownload"]},{"father":"SUScriptObject","childList":["SUScriptDownloadQueue"]},{"father":"SUScriptViewController","childList":["SUScriptDownloadsViewController"]},{"father":"SUScriptObject","childList":["SUScriptError"]},{"father":"NSObject","childList":["SUScriptEventListener"]},{"father":"NSObject","childList":["SUScriptExecutionContext"]},{"father":"SUScriptObject","childList":["SUScriptFacebookFriend"]},{"father":"SUScriptObject","childList":["SUScriptFacebookLikeStatus"]},{"father":"SUScriptObject","childList":["SUScriptFacebookRequest"]},{"father":"SUScriptObject","childList":["SUScriptFacebookResponse"]},{"father":"SUScriptObject","childList":["SUScriptFacebookSession"]},{"father":"SUScriptObject","childList":["SUScriptFairPlayContext"]},{"father":"NSObject","childList":["SUScriptFunction"]},{"father":"SUScriptViewController","childList":["SUScriptGiftViewController"]},{"father":"SUScriptObject","childList":["SUScriptGradient"]},{"father":"SUScriptObject","childList":["SUScriptInterface"]},{"father":"SUScriptObject","childList":["SUScriptKeyValueStore"]},{"father":"SUScriptObject","childList":["SUScriptLookupRequest"]},{"father":"SUScriptObject","childList":["SUScriptMediaItem"]},{"father":"SUScriptObject","childList":["SUScriptMediaItemCollection"]},{"father":"SUScriptObject","childList":["SUScriptMediaLibrary"]},{"father":"SUScriptNativeObject","childList":["SUScriptMediaLibraryNativeObject"]},{"father":"SUScriptViewController","childList":["SUScriptMediaPickerController"]},{"father":"SUScriptObject","childList":["SUScriptMediaPickerEvent"]},{"father":"SUScriptViewControllerNativeObject","childList":["SUScriptMediaPickerNativeObject"]},{"father":"SUScriptObject","childList":["SUScriptMediaPlayerItem"]},{"father":"SUScriptViewController","childList":["SUScriptMediaPlayerViewController"]},{"father":"SUScriptMediaItemCollection","childList":["SUScriptMediaPlaylist"]},{"father":"SUScriptObject","childList":["SUScriptMediaPropertyPredicate"]},{"father":"SUScriptObject","childList":["SUScriptMediaQuery"]},{"father":"SUScriptObject","childList":["SUScriptMenuItem"]},{"father":"SUScriptViewController","childList":["SUScriptMenuViewController"]},{"father":"NSObject","childList":["SUScriptModalDialog"]},{"father":"NSObject","childList":["SUScriptModalDialogResponse"]},{"father":"SUScriptObject","childList":["SUScriptMusicPlayerController"]},{"father":"SUScriptNativeObject","childList":["SUScriptMusicPlayerNativeObject"]},{"father":"NSObject","childList":["SUScriptNativeObject"]},{"father":"SUScriptButtonNativeObject","childList":["SUScriptNativeUIBarButtonItem"]},{"father":"SUScriptButtonNativeObject","childList":["SUScriptNativeUIButton"]},{"father":"SUScriptObject","childList":["SUScriptNavigationBar"]},{"father":"SUScriptViewController","childList":["SUScriptNavigationController"]},{"father":"SUScriptObject","childList":["SUScriptNavigationItem"]},{"father":"NSObject","childList":["SUScriptNotificationObserver"]},{"father":"SUScriptObject","childList":["SUScriptNumberFormatter"]},{"father":"NSObject","childList":["SUScriptObject"]},{"father":"NSObject","childList":["SUScriptObjectBatchProxy"]},{"father":"NSObject","childList":["SUScriptObjectInvocationBatch"]},{"father":"ISOperation","childList":["SUScriptOperation"]},{"father":"NSObject","childList":["SUScriptOperationDelegate"]},{"father":"SUScriptObject","childList":["SUScriptPopOver"]},{"father":"SUScriptNativeObject","childList":["SUScriptPopOverNativeObject"]},{"father":"SUScriptObject","childList":["SUScriptPreviewOverlay"]},{"father":"SUScriptObject","childList":["SUScriptProtocol"]},{"father":"SUScriptObject","childList":["SUScriptPurchaseManager"]},{"father":"SUScriptViewController","childList":["SUScriptRedeemViewController"]},{"father":"SUScriptViewController","childList":["SUScriptReportAProblemViewController"]},{"father":"SUScriptObject","childList":["SUScriptRequestPerformance"]},{"father":"SUScriptObject","childList":["SUScriptReview"]},{"father":"SUScriptObject","childList":["SUScriptSection"]},{"father":"SUScriptObject","childList":["SUScriptSectionsController"]},{"father":"SUScriptObject","childList":["SUScriptSegmentedControl"]},{"father":"SUScriptObject","childList":["SUScriptSegmentedControlItem"]},{"father":"SUScriptNativeObject","childList":["SUScriptSegmentedControlNativeObject"]},{"father":"SUScriptObject","childList":["SUScriptSoftwareApplication"]},{"father":"SUScriptViewController","childList":["SUScriptSplitViewController"]},{"father":"SUScriptViewControllerNativeObject","childList":["SUScriptStorePageNativeObject"]},{"father":"SUScriptViewController","childList":["SUScriptStorePageViewController"]},{"father":"SUScriptViewController","childList":["SUScriptStoreSheetViewController"]},{"father":"SUScriptObject","childList":["SUScriptTextField"]},{"father":"NSObject","childList":["SUScriptTextFieldDelegate"]},{"father":"SUScriptNativeObject","childList":["SUScriptTextFieldNativeObject"]},{"father":"SUScriptTextFieldNativeObject","childList":["SUScriptTextFieldNativeObjectUIBarButtonItem"]},{"father":"SUScriptTextFieldNativeObject","childList":["SUScriptTextFieldNativeObjectUISearchBar"]},{"father":"SUScriptTextFieldNativeObject","childList":["SUScriptTextFieldNativeObjectUITextField"]},{"father":"SUScriptViewController","childList":["SUScriptTweetComposeViewController"]},{"father":"SUScriptViewControllerNativeObject","childList":["SUScriptTweetComposeViewControllerNativeObject"]},{"father":"SUScriptObject","childList":["SUScriptURLRequest"]},{"father":"SUScriptObject","childList":["SUScriptViewController"]},{"father":"SUScriptNativeObject","childList":["SUScriptViewControllerNativeObject"]},{"father":"SUScriptViewController","childList":["SUScriptVolumeViewController"]},{"father":"SUScriptObject","childList":["SUScriptWindow"]},{"father":"NSObject","childList":["SUScriptWindowContext"]},{"father":"NSObject","childList":["SUScrollRequest"]},{"father":"NSObject","childList":["SUScrollViewScroller"]},{"father":"UISearchBar","childList":["SUSearchBar"]},{"father":"UISearchDisplayController","childList":["SUSearchDisplayController"]},{"father":"NSObject","childList":["SUSearchFieldConfiguration"]},{"father":"NSObject","childList":["SUSearchFieldController"]},{"father":"SUStorePageViewController","childList":["SUSearchRootStorePageViewController"]},{"father":"NSObject","childList":["SUSection"]},{"father":"NSObject","childList":["SUSectionButton"]},{"father":"NSObject","childList":["SUSectionsResponse"]},{"father":"UIControl","childList":["SUSegmentedControl"]},{"father":"NSObject","childList":["SUSegmentedControlAppearance"]},{"father":"UIView","childList":["SUSegmentedControlBar"]},{"father":"ISOperation","childList":["SUSetupMescalSessionOperation"]},{"father":"NSObject","childList":["SUShadow"]},{"father":"SUMediaItemCellConfiguration","childList":["SUShortLinkCellConfiguration"]},{"father":"SUViewController","childList":["SUShowcaseViewController"]},{"father":"SUMenuViewController","childList":["SUSimpleMenuViewController"]},{"father":"SUTableDataSource","childList":["SUSimpleTableDataSource"]},{"father":"UIView","childList":["SUSnapshotView"]},{"father":"UIView","childList":["SUSplitView"]},{"father":"SUViewController","childList":["SUSplitViewController"]},{"father":"SURotationController","childList":["SUSplitViewRotationController"]},{"father":"NSObject","childList":["SUStoreController"]},{"father":"ISDataProvider","childList":["SUStorePageDataProvider"]},{"father":"NSObject","childList":["SUStorePageProtocol"]},{"father":"SURotationController","childList":["SUStorePageRotationController"]},{"father":"UIView","childList":["SUStorePageView"]},{"father":"SUViewController","childList":["SUStorePageViewController"]},{"father":"SUImageModifier","childList":["SUStrokeEdgesImageModifier"]},{"father":"NSObject","childList":["SUStructuredPage"]},{"father":"SUStructuredPageTableDataSource","childList":["SUStructuredPageGroupedTableDataSource"]},{"father":"SUStructuredPageViewController","childList":["SUStructuredPageGroupedViewController"]},{"father":"SUTableDataSource","childList":["SUStructuredPageTableDataSource"]},{"father":"SUItemTableViewController","childList":["SUStructuredPageViewController"]},{"father":"UIButton","childList":["SUSubtitledButton"]},{"father":"NSObject","childList":["SUSubtitledButtonContent"]},{"father":"NSObject","childList":["SUTabBarAppearance"]},{"father":"UITabBarController","childList":["SUTabBarController"]},{"father":"UITableViewCell","childList":["SUTableCell"]},{"father":"UIView","childList":["SUTableCellContentOverlayView"]},{"father":"UIView","childList":["SUTableCellContentView"]},{"father":"UITableViewCellLayoutManager","childList":["SUTableCellLayoutManager"]},{"father":"NSObject","childList":["SUTableDataSource"]},{"father":"UIView","childList":["SUTableHeaderView"]},{"father":"UIView","childList":["SUTableTextFooterView"]},{"father":"UITableView","childList":["SUTableView"]},{"father":"SUViewController","childList":["SUTableViewController"]},{"father":"SUMediaItemCellConfiguration","childList":["SUTallLinkCellConfiguration"]},{"father":"UIView","childList":["SUTermsAndConditionsView"]},{"father":"UITextContentView","childList":["SUTextContentView"]},{"father":"SUTableCell","childList":["SUTextViewCell"]},{"father":"SUMediaItemCellConfiguration","childList":["SUThreeLineTrackCellConfiguration"]},{"father":"NSObject","childList":["SUToolbarAppearance"]},{"father":"UIControl","childList":["SUTouchCaptureView"]},{"father":"NSObject","childList":["SUTransitionSafetyDelegate"]},{"father":"ISInvocationRecorder","childList":["SUTransitionSafetyInvocationRecorder"]},{"father":"SUMediaItemCellConfiguration","childList":["SUTwoLineTrackCellConfiguration"]},{"father":"NSObject","childList":["SUUIAppearance"]},{"father":"UIView","childList":["SUUserRatingView"]},{"father":"NSObject","childList":["SUVariableCellConfigurationCache"]},{"father":"UIViewController","childList":["SUViewController"]},{"father":"NSObject","childList":["SUViewControllerContext"]},{"father":"NSObject","childList":["SUViewControllerFactory"]},{"father":"NSObject","childList":["SUViewControllerScriptProperties"]},{"father":"UIWebDocumentView","childList":["SUWebDocumentView"]},{"father":"UIWebView","childList":["SUWebView"]},{"father":"SUViewController","childList":["SUWebViewController"]},{"father":"NSObject","childList":["SUWebViewManager"]},{"father":"SURotationController","childList":["SUWebViewRotationController"]}]}
+{
+  "name": "iTunesStoreUI.framework",
+  "list": [
+    {
+      "name": "SURotationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUWebViewRotationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUWebViewManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUWebViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIWebView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUWebView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIWebDocumentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUWebDocumentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUUserRatingView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUMediaItemCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTwoLineTrackCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISInvocationRecorder",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTransitionSafetyInvocationRecorder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTouchCaptureView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUTableCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTextViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextContentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTextContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTableView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCellLayoutManager",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTableCellLayoutManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTableCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITabBarController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUTabBarController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUSubtitledButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUItemTableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUStructuredPageViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUTableDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUStructuredPageTableDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUStructuredPageViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUStructuredPageGroupedViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUStructuredPageTableDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUStructuredPageGroupedTableDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUImageModifier",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUStrokeEdgesImageModifier",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISDataProvider",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUStorePageDataProvider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUMenuViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUSimpleMenuViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUSetupMescalSessionOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUStorePageViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUSearchRootStorePageViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISearchDisplayController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUSearchDisplayController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISearchBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUSearchBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptWindow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptVolumeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptNativeObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptViewControllerNativeObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptViewControllerNativeObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptTweetComposeViewControllerNativeObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptTextFieldNativeObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptTextFieldNativeObjectUIBarButtonItem",
+          "children": []
+        },
+        {
+          "name": "SUScriptTextFieldNativeObjectUISearchBar",
+          "children": []
+        },
+        {
+          "name": "SUScriptTextFieldNativeObjectUITextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptButtonNativeObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptNativeUIBarButtonItem",
+          "children": []
+        },
+        {
+          "name": "SUScriptNativeUIButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptMediaItemCollection",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptMediaPlaylist",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAlertView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptDialogAlertView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActionSheet",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptDialogActionSheet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptFunction",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptCanvasFunction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUScriptStorePageViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUScriptAccountPageViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUMaskProvider",
+      "parent": null,
+      "children": [
+        {
+          "name": "SURoundedCornersMaskProvider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUSubtitledButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SURoundedCornersButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUItemCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUReviewsHeaderCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUGradientButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUReviewsButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUTableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUReportConcernViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUContinuation",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUPurchaseContinuation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SULockoutViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUNetworkLockoutViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUNavigationItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUNavigationButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUNavigationBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIMoreNavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUMoreNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIMoreListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUMoreListController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPMoviePlayerViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUMediaPlayerViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUItemCellContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUMarkupCellContext",
+          "children": []
+        },
+        {
+          "name": "SUMediaItemCellContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUItemValidatorTest",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUItemValidatorRatingTest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUArtworkCellContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUItemCellContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUArtworkCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUItemCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSInputStream",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUInputSourceInputStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUInnerShadowLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISwipeGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUGridSwipeGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUInputSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUFileInputSource",
+          "children": []
+        },
+        {
+          "name": "SUFilteringInputSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUGridViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUDownloadsGridViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUGridTableViewCellBackgroundView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUDownloadsGridCellBackgroundView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUDownloadManagerDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUDownloadManagerGridDataSource",
+          "children": []
+        },
+        {
+          "name": "SUDownloadManagerTableDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUDownloadCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUDownloadGridCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUGridTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUDownloadCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUNavigationItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUDelayedNavigationItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISegmentedControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUDeferredUISegmentedControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISearchField",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUDeferredUISearchField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUArrayCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUCompletionCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUClientController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUClientApplicationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUFilteringDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUBase64Encoder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIBarButtonItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUBarButtonItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUCellConfigurationContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUArtworkCellContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUArrayCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIApplication",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUApplication",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUActivityViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityItemProvider",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUActivityItemProvider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "SUActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPAVItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "MSPlaceholderAVItem",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

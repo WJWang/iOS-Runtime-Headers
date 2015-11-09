@@ -1,1 +1,1105 @@
-{"name":"GameKit.framework","list":[{"father":"GKABObject","childList":["GKABAddressBook"]},{"father":"GKABObject","childList":["GKABMultiValue"]},{"father":"GKABMultiValue","childList":["GKABMutableMultiValue"]},{"father":"NSObject","childList":["GKABObject"]},{"father":"GKABRecord","childList":["GKABPerson"]},{"father":"GKABObject","childList":["GKABRecord"]},{"father":"NSNumberFormatter","childList":["GKAbbreviatedNumberFormatter"]},{"father":"GKRemoteUIController","childList":["GKAccountRemoteUIController"]},{"father":"GKServiceInterface","childList":["GKAccountServiceInterface"]},{"father":"GKServiceInterface","childList":["GKAccountServicePrivateInterface"]},{"father":"NSObject","childList":["GKAchievement"]},{"father":"GKCollectionViewCell","childList":["GKAchievementCell"]},{"father":"GKChallenge","childList":["GKAchievementChallenge"]},{"father":"GKChallengeInternal","childList":["GKAchievementChallengeInternal"]},{"father":"NSObject","childList":["GKAchievementDescription"]},{"father":"GKAchievementInternal","childList":["GKAchievementDescriptionInternal"]},{"father":"UIImageView","childList":["GKAchievementIconView"]},{"father":"GKInternalRepresentation","childList":["GKAchievementInternal"]},{"father":"GKLeaderboardScoreRangeRequest","childList":["GKAchievementLeaderboardScoreRangeRequest"]},{"father":"NSObject","childList":["GKAchievementSharingInfo"]},{"father":"GKGameCenterViewController","childList":["GKAchievementViewController"]},{"father":"GKRemoteViewController","childList":["GKActivityProxyRemoteViewController"]},{"father":"ABSearchOperation","childList":["GKAddressBookSearchOperation"]},{"father":"NSObject","childList":["GKAggregateCollectionViewWrapper"]},{"father":"NSObject","childList":["GKAggregateMapping"]},{"father":"UIAlertView","childList":["GKAlertView"]},{"father":"UIViewController","childList":["GKAlertViewController"]},{"father":"GKSpecialPlayerInternal","childList":["GKAnonymousPlayerInternal"]},{"father":"NSObject","childList":["GKAppStoreManager"]},{"father":"GKInternalRepresentation","childList":["GKAuthenticateResponse"]},{"father":"GKSpecialPlayerInternal","childList":["GKAutomatchPlayerInternal"]},{"father":"UIImageView","childList":["GKBackgroundTileImageView"]},{"father":"GKThemeBrush","childList":["GKBadgedGameIconBrush"]},{"father":"GKLoadableContentViewController","childList":["GKBaseComposeController"]},{"father":"GKCollectionViewCell","childList":["GKBaseGameCell"]},{"father":"GKBaseGameCell","childList":["GKBaseGameTurnsCell"]},{"father":"GKCollectionViewCell","childList":["GKBasePlayerCell"]},{"father":"GKBasePlayerCell","childList":["GKBaseTurnParticipantCell"]},{"father":"GKCollectionViewController","childList":["GKBasicCollectionViewController"]},{"father":"GKCollectionViewDataSource","childList":["GKBasicCollectionViewDataSource"]},{"father":"NSObject","childList":["GKBrush"]},{"father":"GKThemeBrush","childList":["GKBrushList"]},{"father":"UIControl","childList":["GKBubbleControl"]},{"father":"GKViewController","childList":["GKBubbleDetailViewController"]},{"father":"NSObject","childList":["GKBubbleFlowAnimator"]},{"father":"GKValueWithCaptionBubbleControl","childList":["GKBubbleFlowBubbleControl"]},{"father":"UIView","childList":["GKBubbleFlowOverlayView"]},{"father":"GKViewController","childList":["GKBubbleFlowRootViewController"]},{"father":"NSObject","childList":["GKBubbleLayout"]},{"father":"NSObject","childList":["GKBubbleMeshAnimator"]},{"father":"NSObject","childList":["GKBubblePathAnimator"]},{"father":"NSObject","childList":["GKBubbleShape"]},{"father":"GKContiguousContainerView","childList":["GKBubbleStackedContentView"]},{"father":"UIView","childList":["GKBubbleView"]},{"father":"GKBubbleControl","childList":["GKBubbleWithStackedContent"]},{"father":"NSObject","childList":["GKBulletinController"]},{"father":"GKServiceInterface","childList":["GKBulletinServiceInterface"]},{"father":"GKServiceInterface","childList":["GKBulletinServicePrivateInterface"]},{"father":"UIButton","childList":["GKButton"]},{"father":"GKButton","childList":["GKButtonWithContentSizeCorrected2"]},{"father":"UIActivity","childList":["GKBuyGameActivity"]},{"father":"NSObject","childList":["GKCache"]},{"father":"NSObject","childList":["GKCachePair"]},{"father":"UITapGestureRecognizer","childList":["GKCancelSwipeToEditGestureRecognizer"]},{"father":"UIView","childList":["GKCellSelectedBackgroundView"]},{"father":"NSObject","childList":["GKChallenge"]},{"father":"GKSimpleComposeController","childList":["GKChallengeComposeController"]},{"father":"NSObject","childList":["GKChallengeEventHandler"]},{"father":"NSObject","childList":["GKChallengeEventHandlerUIDelegate"]},{"father":"GKInternalRepresentation","childList":["GKChallengeInternal"]},{"father":"GKServiceInterface","childList":["GKChallengeServiceInterface"]},{"father":"GKServiceInterface","childList":["GKChallengeServicePrivateInterface"]},{"father":"GKFriendsSplittingDataSource","childList":["GKChallengesPickerDataSource"]},{"father":"GKPlayerPickerViewController","childList":["GKChallengesPickerViewController"]},{"father":"GKImageBrush","childList":["GKCircleImageBrush"]},{"father":"NSXPCInterface","childList":["GKClientInterface"]},{"father":"GKCollectionViewDataSource","childList":["GKCollectionViewAggregateDataSource"]},{"father":"UICollectionViewCell","childList":["GKCollectionViewCell"]},{"father":"UICollectionViewController","childList":["GKCollectionViewController"]},{"father":"NSObject","childList":["GKCollectionViewDataSource"]},{"father":"UICollectionViewLayoutAttributes","childList":["GKCollectionViewLayoutAttributes"]},{"father":"UICollectionReusableView","childList":["GKCollectionViewPlaceholderView"]},{"father":"NSObject","childList":["GKColorPalette"]},{"father":"UICollectionReusableView","childList":["GKColumnDividerView"]},{"father":"GKInternalRepresentation","childList":["GKCompatibilityEntryInternal"]},{"father":"UIImageView","childList":["GKComposeHeaderField"]},{"father":"UIImageView","childList":["GKComposeHeaderFieldBackgroundView"]},{"father":"GKComposeHeaderField","childList":["GKComposeHeaderWithStaticRecipients"]},{"father":"GKHostedViewController","childList":["GKComposeHostedViewController"]},{"father":"GKRemoteViewController","childList":["GKComposeRemoteViewController"]},{"father":"GKImageBrush","childList":["GKComposedImageBrush"]},{"father":"GKBrush","childList":["GKConditionBrush"]},{"father":"UIView","childList":["GKContentView"]},{"father":"UIView","childList":["GKContiguousContainerView"]},{"father":"NSXPCInterface","childList":["GKDaemonInterface"]},{"father":"NSObject","childList":["GKDaemonProxy"]},{"father":"GKGridLayoutMetrics","childList":["GKDataSourceMetrics"]},{"father":"UIView","childList":["GKDebugHighlightView"]},{"father":"NSObject","childList":["GKDevice"]},{"father":"NSObject","childList":["GKDispatchGroup"]},{"father":"NSObject","childList":["GKDistributedNotificationCenter"]},{"father":"NSObject","childList":["GKDownloadObserver"]},{"father":"GKSectionMetrics","childList":["GKDynamicColumnSectionMetrics"]},{"father":"NSObject","childList":["GKEditAction"]},{"father":"UIView","childList":["GKEditActionsView"]},{"father":"NSObject","childList":["GKEventEmitter"]},{"father":"GKBubblePathAnimator","childList":["GKExplodeFrontToBackAnimator"]},{"father":"NSObject","childList":["GKFacebookAuthTokenHelper"]},{"father":"UIView","childList":["GKFacebookLikeButton"]},{"father":"NSObject","childList":["GKFacebookUtils"]},{"father":"UIView","childList":["GKFakeTableGroupView"]},{"father":"GKBubblePathAnimator","childList":["GKFallbackAnimator"]},{"father":"GKPlayerInternal","childList":["GKFamiliarPlayerInternal"]},{"father":"GKBubblePathAnimator","childList":["GKFishhookAnimator"]},{"father":"UIImageView","childList":["GKFixedSizeImageView"]},{"father":"GKBubblePathAnimator","childList":["GKFloatInAnimator"]},{"father":"GKBubblePathAnimator","childList":["GKForceBubbleAnimator"]},{"father":"GKBasePlayerCell","childList":["GKFriendOfPlayerCell"]},{"father":"GKBasePlayerCell","childList":["GKFriendPlayerCell"]},{"father":"GKFriendPlayerCell","childList":["GKFriendPlayerCell2Line"]},{"father":"GKFriendPlayerCell","childList":["GKFriendPlayerCell3Line"]},{"father":"GKFamiliarPlayerInternal","childList":["GKFriendPlayerInternal"]},{"father":"GKGameRecentPlayersDataSource","childList":["GKFriendPlayersDataSource"]},{"father":"GKBasePlayerCell","childList":["GKFriendRecommendationCell"]},{"father":"GKFamiliarPlayerInternal","childList":["GKFriendRecommendationInternal"]},{"father":"GKBasicCollectionViewDataSource","childList":["GKFriendRecommendationsDataSource"]},{"father":"GKBasePlayerCell","childList":["GKFriendRequestCell"]},{"father":"UINavigationController","childList":["GKFriendRequestComposeViewController"]},{"father":"GKFamiliarPlayerInternal","childList":["GKFriendRequestInternal"]},{"father":"GKCollectionViewCell","childList":["GKFriendRequestsCell"]},{"father":"GKServiceInterface","childList":["GKFriendServiceInterface"]},{"father":"GKServiceInterface","childList":["GKFriendServicePrivateInterface"]},{"father":"GKBasicCollectionViewDataSource","childList":["GKFriendsDataSource"]},{"father":"GKSplittingDataSource","childList":["GKFriendsSplittingDataSource"]},{"father":"NSObject","childList":["GKGame"]},{"father":"UINavigationController","childList":["GKGameCenterViewController"]},{"father":"GKInternalRepresentation","childList":["GKGameInternal"]},{"father":"GKSimpleComposeController","childList":["GKGameInviteComposeController"]},{"father":"GKImageBrush","childList":["GKGameListIconBrush"]},{"father":"NSObject","childList":["GKGameMatch"]},{"father":"GKBasicCollectionViewDataSource","childList":["GKGameRecentPlayersDataSource"]},{"father":"GKGameInternal","childList":["GKGameRecommendationInternal"]},{"father":"GKGame","childList":["GKGameRecord"]},{"father":"GKGameInternal","childList":["GKGameRecordInternal"]},{"father":"GKServiceInterface","childList":["GKGameServiceInterface"]},{"father":"GKServiceInterface","childList":["GKGameServicePrivateInterface"]},{"father":"NSObject","childList":["GKGameSharingInfo"]},{"father":"GKServiceInterface","childList":["GKGameStatServiceInterface"]},{"father":"GKServiceInterface","childList":["GKGameStatServicePrivateInterface"]},{"father":"NSObject","childList":["GKGameTurnInfo"]},{"father":"GKBaseGameTurnsCell","childList":["GKGameTurnsCell"]},{"father":"NSObject","childList":["GKGradient"]},{"father":"UICollectionViewLayout","childList":["GKGridLayout"]},{"father":"UICollectionViewLayoutInvalidationContext","childList":["GKGridLayoutInvalidationContext"]},{"father":"NSObject","childList":["GKGridLayoutMetrics"]},{"father":"UIView","childList":["GKHairlineView"]},{"father":"UICollectionReusableView","childList":["GKHeaderWithUnderlineView"]},{"father":"UIView","childList":["GKHorizontalBubbleControlsView"]},{"father":"GKReachability","childList":["GKHostReachability"]},{"father":"GKHostedViewController","childList":["GKHostedAuthenticateViewController"]},{"father":"GKHostedViewController","childList":["GKHostedChallengeIssueController"]},{"father":"GKHostedViewController","childList":["GKHostedGameCenterViewController"]},{"father":"GKHostedViewController","childList":["GKHostedMatchmakerViewController"]},{"father":"GKHostedViewController","childList":["GKHostedTurnBasedViewController"]},{"father":"GKViewController","childList":["GKHostedViewController"]},{"father":"GKThemeBrush","childList":["GKImageBrush"]},{"father":"GKColorPalette","childList":["GKImageColorPalette"]},{"father":"NSObject","childList":["GKImageKey"]},{"father":"NSObject","childList":["GKImageContext"]},{"father":"NSObject","childList":["GKImageSource"]},{"father":"GKPlayerGameCell","childList":["GKInCommonGameCell"]},{"father":"GKColorPalette","childList":["GKInGameColorPalette"]},{"father":"NSObject","childList":["GKInternalRepresentation"]},{"father":"NSObject","childList":["GKInvite"]},{"father":"GKInternalRepresentation","childList":["GKInviteInternal"]},{"father":"GKSegmentedSectionDataSource","childList":["GKInvitePickerDataSource"]},{"father":"GKPlayerPickerViewController","childList":["GKInvitePickerViewController"]},{"father":"GKSectionHeaderView","childList":["GKItemCountInStringSectionHeaderView"]},{"father":"GKSectionHeaderView","childList":["GKItemCountSectionHeaderView"]},{"father":"NSObject","childList":["GKJavascriptAccount"]},{"father":"NSObject","childList":["GKJavascriptButtonInfo"]},{"father":"NSObject","childList":["GKJavascriptEnvironment"]},{"father":"NSObject","childList":["GKJavascriptGame"]},{"father":"NSObject","childList":["GKJavascriptHost"]},{"father":"UILabel","childList":["GKLabel"]},{"father":"NSObject","childList":["GKLeaderboard"]},{"father":"GKInternalRepresentation","childList":["GKLeaderboardInternal"]},{"father":"NSObject","childList":["GKLeaderboardItem"]},{"father":"GKLeaderboardScoreRequest","childList":["GKLeaderboardScorePlayersRequest"]},{"father":"GKLeaderboardScoreRequest","childList":["GKLeaderboardScoreRangeRequest"]},{"father":"NSObject","childList":["GKLeaderboardScoreRequest"]},{"father":"NSObject","childList":["GKLeaderboardSet"]},{"father":"GKInternalRepresentation","childList":["GKLeaderboardSetInternal"]},{"father":"NSObject","childList":["GKLeaderboardUpdate"]},{"father":"GKGameCenterViewController","childList":["GKLeaderboardViewController"]},{"father":"GKServiceInterface","childList":["GKLinkedAccountsServiceInterface"]},{"father":"GKServiceInterface","childList":["GKLinkedAccountsServicePrivateInterface"]},{"father":"NSObject","childList":["GKLinkedList"]},{"father":"NSObject","childList":["GKListNode"]},{"father":"GKStateMachine","childList":["GKLoadableContentStateMachine"]},{"father":"GKViewController","childList":["GKLoadableContentViewController"]},{"father":"GKImageSource","childList":["GKLocalImageSource"]},{"father":"GKPlayer","childList":["GKLocalPlayer"]},{"father":"GKFriendPlayerInternal","childList":["GKLocalPlayerInternal"]},{"father":"UIAlertView","childList":["GKLoginAlertView"]},{"father":"GKImageBrush","childList":["GKMacGameIconBrush"]},{"father":"GKItemCountInStringSectionHeaderView","childList":["GKManualItemCountSectionHeaderView"]},{"father":"NSIndexPath","childList":["GKMappedIndexPath"]},{"father":"UISplitViewController","childList":["GKMasterDetailViewController"]},{"father":"NSObject","childList":["GKMatch"]},{"father":"NSObject","childList":["GKMatchEventQueue"]},{"father":"NSObject","childList":["GKMatchPacket"]},{"father":"NSObject","childList":["GKMatchRequest"]},{"father":"GKInternalRepresentation","childList":["GKMatchRequestInternal"]},{"father":"GKInternalRepresentation","childList":["GKMatchResponse"]},{"father":"NSObject","childList":["GKMatchmaker"]},{"father":"UINavigationController","childList":["GKMatchmakerViewController"]},{"father":"NSObject","childList":["GKMetricData"]},{"father":"UICollectionReusableView","childList":["GKMoreExistSectionFooterView"]},{"father":"GKThemeBrush","childList":["GKMultiCircleImageBrush"]},{"father":"UIView","childList":["GKMultiplayerActivityView"]},{"father":"UIView","childList":["GKMultiplayerBubbleView"]},{"father":"UICollectionViewLayout","childList":["GKMultiplayerCollectionLayout"]},{"father":"UICollectionViewCell","childList":["GKMultiplayerCollectionViewCell"]},{"father":"GKBasicCollectionViewDataSource","childList":["GKMultiplayerDataSource"]},{"father":"UICollectionReusableView","childList":["GKMultiplayerFooterView"]},{"father":"UICollectionReusableView","childList":["GKMultiplayerHeaderView"]},{"father":"GKMultiplayerViewController","childList":["GKMultiplayerP2PViewController"]},{"father":"NSObject","childList":["GKMultiplayerParticipant"]},{"father":"UICollectionReusableView","childList":["GKMultiplayerSeparatorView"]},{"father":"GKServiceInterface","childList":["GKMultiplayerServiceInterface"]},{"father":"GKServiceInterface","childList":["GKMultiplayerServicePrivateInterface"]},{"father":"GKCollectionViewController","childList":["GKMultiplayerViewController"]},{"father":"UINavigationController","childList":["GKNavigationController"]},{"father":"NSObject","childList":["GKNavigationControllerDeferredTransitionInfo"]},{"father":"NSObject","childList":["GKNearbyDevice"]},{"father":"GKBasicCollectionViewDataSource","childList":["GKNearbyPlayersDataSource"]},{"father":"GKImageSource","childList":["GKNetworkImageSource"]},{"father":"NSObject","childList":["GKNotificationBanner"]},{"father":"UIView","childList":["GKNotificationBannerView"]},{"father":"UIWindow","childList":["GKNotificationBannerWindow"]},{"father":"NSObject","childList":["GKObserverTrampoline"]},{"father":"NSObject","childList":["GKOpenGraphNode"]},{"father":"NSObject","childList":["GKPeerPickerController"]},{"father":"NSObject","childList":["GKPeerPickerControllerInternal"]},{"father":"UITableViewCell","childList":["GKPeerPickerTableViewCell"]},{"father":"UIViewController","childList":["GKPeerPickerViewController"]},{"father":"NSObject","childList":["GKPendingFriendRequest"]},{"father":"GKImageBrush","childList":["GKPhotoBrush"]},{"father":"GKStateMachine","childList":["GKPlaceholderContentStateMachine"]},{"father":"_UIContentUnavailableView","childList":["GKPlaceholderView"]},{"father":"UIActivity","childList":["GKPlayGameActivity"]},{"father":"NSObject","childList":["GKPlayer"]},{"father":"GKInternalRepresentation","childList":["GKPlayerEmailInternal"]},{"father":"GKBaseGameCell","childList":["GKPlayerGameCell"]},{"father":"GKInternalRepresentation","childList":["GKPlayerInternal"]},{"father":"UIImageView","childList":["GKPlayerMultiPhotoView"]},{"father":"GKRoundButton","childList":["GKPlayerPhotoButton"]},{"father":"UIImageView","childList":["GKPlayerPhotoView"]},{"father":"GKBasePlayerCell","childList":["GKPlayerPickerCell"]},{"father":"GKPlayerPickerCell","childList":["GKPlayerPickerCell2Line"]},{"father":"GKPlayerPickerCell","childList":["GKPlayerPickerCell3Line"]},{"father":"NSObject","childList":["GKPlayerPickerInfo"]},{"father":"GKCollectionViewController","childList":["GKPlayerPickerViewController"]},{"father":"UIView","childList":["GKPlayerWithSpeechBalloonView"]},{"father":"GKPlayerWithSpeechBalloonView","childList":["GKPlayerWithSpeechBalloonViewAndEditablePhoto"]},{"father":"NSObject","childList":["GKPreferences"]},{"father":"GKServiceInterface","childList":["GKProfileServiceInterface"]},{"father":"GKServiceInterface","childList":["GKProfileServicePrivateInterface"]},{"father":"GKBaseGameCell","childList":["GKPurchasableGameCell"]},{"father":"UIControl","childList":["GKRatingControl"]},{"father":"UIView","childList":["GKRatingView"]},{"father":"GKBasicCollectionViewDataSource","childList":["GKRawTurnsDataSource"]},{"father":"NSObject","childList":["GKReachability"]},{"father":"GKInternalRepresentation","childList":["GKRecentMatchInternal"]},{"father":"NSObject","childList":["GKRecoveryAttempter"]},{"father":"GKRemoteViewController","childList":["GKRemoteChallengeIssueViewController"]},{"father":"GKActivityProxyRemoteViewController","childList":["GKRemoteGameCenterViewController"]},{"father":"GKRemoteViewController","childList":["GKRemoteMatchmakerViewController"]},{"father":"GKRemoteViewController","childList":["GKRemoteSignInViewController"]},{"father":"GKRemoteViewController","childList":["GKRemoteTurnBasedViewController"]},{"father":"NSObject","childList":["GKRemoteUIController"]},{"father":"UIView","childList":["GKRemoteUIFooterView"]},{"father":"UIView","childList":["GKRemoteUIHeaderView"]},{"father":"UINavigationController","childList":["GKRemoteUINavigationController"]},{"father":"UIView","childList":["GKRemoteUITableFooterView"]},{"father":"UIView","childList":["GKRemoteUITableHeaderView"]},{"father":"_UIRemoteViewController","childList":["GKRemoteViewController"]},{"father":"GKRemoteUIController","childList":["GKReportProblemRemoteUIController"]},{"father":"NSObject","childList":["GKReporter"]},{"father":"NSObject","childList":["GKRequestIdentifier"]},{"father":"UIActivityViewController","childList":["GKRootlessActivityViewController"]},{"father":"GKButton","childList":["GKRoundButton"]},{"father":"NSObject","childList":["GKRoute"]},{"father":"NSObject","childList":["GKRouter"]},{"father":"GKBubblePathAnimator","childList":["GKScatterAnimator"]},{"father":"GKBubblePathAnimator","childList":["GKScatterBackToFrontAnimator"]},{"father":"NSObject","childList":["GKScore"]},{"father":"GKChallenge","childList":["GKScoreChallenge"]},{"father":"GKChallengeInternal","childList":["GKScoreChallengeInternal"]},{"father":"GKInternalRepresentation","childList":["GKScoreInternal"]},{"father":"GKLeaderboard","childList":["GKScoreLeaderboard"]},{"father":"NSObject","childList":["GKScoreSharingInfo"]},{"father":"UISearchBar","childList":["GKSearchBar"]},{"father":"UICollectionReusableView","childList":["GKSearchBarView"]},{"father":"GKHeaderWithUnderlineView","childList":["GKSectionHeaderView"]},{"father":"NSObject","childList":["GKSectionInfo"]},{"father":"GKGridLayoutMetrics","childList":["GKSectionMetrics"]},{"father":"NSObject","childList":["GKSectionPresentationData"]},{"father":"UICollectionReusableView","childList":["GKSectionSeparatorView"]},{"father":"NSObject","childList":["GKSegmentInfo"]},{"father":"GKCollectionViewDataSource","childList":["GKSegmentedSectionDataSource"]},{"father":"GKSegmentedSelectorView","childList":["GKSegmentedSectionHeaderView"]},{"father":"GKHeaderWithUnderlineView","childList":["GKSegmentedSelectorView"]},{"father":"NSObject","childList":["GKServiceInterface"]},{"father":"NSObject","childList":["GKSession"]},{"father":"UICollectionReusableView","childList":["GKShowMoreView"]},{"father":"UICollectionReusableView","childList":["GKShowcaseCellView"]},{"father":"UIView","childList":["GKSignInInputView"]},{"father":"GKViewController","childList":["GKSignInViewController"]},{"father":"GKBaseComposeController","childList":["GKSimpleComposeController"]},{"father":"GKBubblePathAnimator","childList":["GKSimpleSlideAnimator"]},{"father":"GKLeaderboard","childList":["GKSparseLeaderboard"]},{"father":"GKPlayerInternal","childList":["GKSpecialPlayerInternal"]},{"father":"UIView","childList":["GKSpeechBalloonBackgroundView"]},{"father":"GKCollectionViewDataSource","childList":["GKSplittingDataSource"]},{"father":"NSObject","childList":["GKStateMachine"]},{"father":"GKCollectionViewCell","childList":["GKStatusCell"]},{"father":"GKInternalRepresentation","childList":["GKStoreItemInternal"]},{"father":"NSObject","childList":["GKSupplementaryViewMetrics"]},{"father":"GKStateMachine","childList":["GKSwipeToEditStateMachine"]},{"father":"UITabBarController","childList":["GKTabBarController"]},{"father":"NSObject","childList":["GKTabBarTransitionAnimator"]},{"father":"GKValueWithCaptionBubbleControl","childList":["GKTextBubbleControl"]},{"father":"UITextField","childList":["GKTextField"]},{"father":"NSObject","childList":["GKTextStyle"]},{"father":"GKTextStyle","childList":["GKTextStylePad"]},{"father":"GKTextStyle","childList":["GKTextStylePhone"]},{"father":"GKTextStylePhone","childList":["GKTextStylePhoneInBubbleDetail"]},{"father":"UITextView","childList":["GKTextView"]},{"father":"GKBrush","childList":["GKThemeBrush"]},{"father":"NSObject","childList":["GKThreadsafeCache"]},{"father":"NSObject","childList":["GKThreadsafeDictionary"]},{"father":"UICollectionReusableView","childList":["GKTopClipView"]},{"father":"NSObject","childList":["GKTurnBasedEventHandler"]},{"father":"NSObject","childList":["GKTurnBasedExchange"]},{"father":"GKInternalRepresentation","childList":["GKTurnBasedExchangeInternal"]},{"father":"NSObject","childList":["GKTurnBasedExchangeReply"]},{"father":"GKInternalRepresentation","childList":["GKTurnBasedExchangeReplyInternal"]},{"father":"GKMultiplayerViewController","childList":["GKTurnBasedInviteViewController"]},{"father":"NSObject","childList":["GKTurnBasedMatch"]},{"father":"UICollectionReusableView","childList":["GKTurnBasedMatchDetailHeaderView"]},{"father":"GKBasicCollectionViewController","childList":["GKTurnBasedMatchDetailViewController"]},{"father":"GKInternalRepresentation","childList":["GKTurnBasedMatchInternal"]},{"father":"GKSplittingDataSource","childList":["GKTurnBasedMatchesDataSource"]},{"father":"GKCollectionViewController","childList":["GKTurnBasedMatchesViewController"]},{"father":"UINavigationController","childList":["GKTurnBasedMatchmakerViewController"]},{"father":"NSObject","childList":["GKTurnBasedParticipant"]},{"father":"GKInternalRepresentation","childList":["GKTurnBasedParticipantInternal"]},{"father":"GKBasicCollectionViewDataSource","childList":["GKTurnBasedParticipantsDataSource"]},{"father":"GKServiceInterface","childList":["GKTurnBasedServiceInterface"]},{"father":"GKServiceInterface","childList":["GKTurnBasedServicePrivateInterface"]},{"father":"GKBaseTurnParticipantCell","childList":["GKTurnParticipantCell"]},{"father":"GKBaseTurnParticipantCell","childList":["GKTurnParticipantDetailCell"]},{"father":"GKSplittingDataSource","childList":["GKTurnsDataSource"]},{"father":"GKCollectionViewController","childList":["GKTurnsViewController"]},{"father":"UIActionSheet","childList":["GKUIActionSheet"]},{"father":"UIAlertView","childList":["GKUIAlertView"]},{"father":"NSObject","childList":["GKUITheme"]},{"father":"GKLocalPlayerInternal","childList":["GKUnauthenticatedPlayerInternal"]},{"father":"GKSpecialPlayerInternal","childList":["GKUnknownPlayerInternal"]},{"father":"NSObject","childList":["GKUpdateGroup"]},{"father":"NSObject","childList":["GKUpdateGroupNotifier"]},{"father":"GKServiceInterface","childList":["GKUtilityServiceInterface"]},{"father":"GKServiceInterface","childList":["GKUtilityServicePrivateInterface"]},{"father":"GKBubbleWithStackedContent","childList":["GKValueWithCaptionBubbleControl"]},{"father":"UIViewController","childList":["GKViewController"]},{"father":"NSXPCInterface","childList":["GKViewServiceInterface"]},{"father":"NSObject","childList":["GKVoiceChat"]},{"father":"NSObject","childList":["GKVoiceChatService"]},{"father":"GKViewController","childList":["GKWelcomeViewController"]},{"father":"GKBubblePathAnimator","childList":["GKWiggleRotateAnimator"]},{"father":"UIApplication","childList":["GameCenterTest"]},{"father":"NSObject","childList":["SortHueEntry"]},{"father":"GKBubbleFlowRootViewController","childList":["_GKBubbleFlowOnDemandFormSheetViewController"]},{"father":"NSObject","childList":["_GKBubbleFlowPathTransitionInfo"]},{"father":"GKBubbleFlowRootViewController","childList":["_GKBubbleFlowPseudoModalViewController"]},{"father":"NSObject","childList":["_GKBubbleFlowTransitionInfo"]},{"father":"UIView","childList":["_GKCustomDrawnSpeechBalloonBackgroundView"]},{"father":"UIImageView","childList":["_GKImageSpeechBalloonBackgroundView"]},{"father":"GKViewController","childList":["_GKSplitViewDetailPlaceholderViewController"]},{"father":"NSObject","childList":["_GKURLRequestDictionaryKey"]}]}
+{
+  "name": "GameKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GKURLRequestDictionaryKey",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GKSplitViewDetailPlaceholderViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GKImageSpeechBalloonBackgroundView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GKCustomDrawnSpeechBalloonBackgroundView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBubbleFlowRootViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "_GKBubbleFlowOnDemandFormSheetViewController",
+          "children": []
+        },
+        {
+          "name": "_GKBubbleFlowPseudoModalViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIApplication",
+      "parent": null,
+      "children": [
+        {
+          "name": "GameCenterTest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBubblePathAnimator",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKWiggleRotateAnimator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSXPCInterface",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKViewServiceInterface",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBubbleWithStackedContent",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKValueWithCaptionBubbleControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKServiceInterface",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKUtilityServiceInterface",
+          "children": []
+        },
+        {
+          "name": "GKUtilityServicePrivateInterface",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKSpecialPlayerInternal",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKUnknownPlayerInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKLocalPlayerInternal",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKUnauthenticatedPlayerInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAlertView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKUIAlertView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActionSheet",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKUIActionSheet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKCollectionViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKSplittingDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnsDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBaseTurnParticipantCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnParticipantCell",
+          "children": []
+        },
+        {
+          "name": "GKTurnParticipantDetailCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBasicCollectionViewDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnBasedParticipantsDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKInternalRepresentation",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnBasedParticipantInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnBasedMatchmakerViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBasicCollectionViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnBasedMatchDetailViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionReusableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnBasedMatchDetailHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKMultiplayerViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTurnBasedInviteViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBrush",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKThemeBrush",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTextView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKTextStylePhone",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTextStylePhoneInBubbleDetail",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKTextStyle",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTextStylePad",
+          "children": []
+        },
+        {
+          "name": "GKTextStylePhone",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITextField",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTextField",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKValueWithCaptionBubbleControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTextBubbleControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITabBarController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKTabBarController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKStateMachine",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSwipeToEditStateMachine",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKCollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKStatusCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKCollectionViewDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSplittingDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKPlayerInternal",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSpecialPlayerInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKLeaderboard",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSparseLeaderboard",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBaseComposeController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSimpleComposeController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKHeaderWithUnderlineView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSegmentedSelectorView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKSegmentedSelectorView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSegmentedSectionHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKGridLayoutMetrics",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSectionMetrics",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISearchBar",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKSearchBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKChallengeInternal",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKScoreChallengeInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKChallenge",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKScoreChallenge",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKRoundButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivityViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKRootlessActivityViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKRemoteUIController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKReportProblemRemoteUIController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKRemoteViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKRemoteMatchmakerViewController",
+          "children": []
+        },
+        {
+          "name": "GKRemoteSignInViewController",
+          "children": []
+        },
+        {
+          "name": "GKRemoteTurnBasedViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKActivityProxyRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKRemoteGameCenterViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKRatingControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBaseGameCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPurchasableGameCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKPlayerWithSpeechBalloonView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPlayerWithSpeechBalloonViewAndEditablePhoto",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKPlayerPickerCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPlayerPickerCell2Line",
+          "children": []
+        },
+        {
+          "name": "GKPlayerPickerCell3Line",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBasePlayerCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPlayerPickerCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKRoundButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPlayerPhotoButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIActivity",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPlayGameActivity",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIContentUnavailableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPlaceholderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKImageBrush",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPhotoBrush",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKPeerPickerTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIWindow",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKNotificationBannerWindow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKImageSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKNetworkImageSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKMultiplayerCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKMultiplayerCollectionLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKThemeBrush",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKMultiCircleImageBrush",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UISplitViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKMasterDetailViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSIndexPath",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKMappedIndexPath",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKItemCountInStringSectionHeaderView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKManualItemCountSectionHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKFriendPlayerInternal",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKLocalPlayerInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKPlayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKLocalPlayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKGameCenterViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKLeaderboardViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKLeaderboardScoreRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKLeaderboardScorePlayersRequest",
+          "children": []
+        },
+        {
+          "name": "GKLeaderboardScoreRangeRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UILabel",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKLabel",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKSectionHeaderView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKItemCountInStringSectionHeaderView",
+          "children": []
+        },
+        {
+          "name": "GKItemCountSectionHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKPlayerPickerViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKInvitePickerViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKSegmentedSectionDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKInvitePickerDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKColorPalette",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKInGameColorPalette",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKPlayerGameCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKInCommonGameCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKHostedViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKHostedAuthenticateViewController",
+          "children": []
+        },
+        {
+          "name": "GKHostedChallengeIssueController",
+          "children": []
+        },
+        {
+          "name": "GKHostedGameCenterViewController",
+          "children": []
+        },
+        {
+          "name": "GKHostedMatchmakerViewController",
+          "children": []
+        },
+        {
+          "name": "GKHostedTurnBasedViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKReachability",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKHostReachability",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayoutInvalidationContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKGridLayoutInvalidationContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBaseGameTurnsCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKGameTurnsCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKGameInternal",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKGameRecordInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKGame",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKGameRecord",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKSimpleComposeController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKGameInviteComposeController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKFamiliarPlayerInternal",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKFriendRecommendationInternal",
+          "children": []
+        },
+        {
+          "name": "GKFriendRequestInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKGameRecentPlayersDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKFriendPlayersDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKFriendPlayerCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKFriendPlayerCell2Line",
+          "children": []
+        },
+        {
+          "name": "GKFriendPlayerCell3Line",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKSectionMetrics",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKDynamicColumnSectionMetrics",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKComposeHeaderField",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKComposeHeaderWithStaticRecipients",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewLayoutAttributes",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKCollectionViewLayoutAttributes",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKCollectionViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKFriendsSplittingDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKChallengesPickerDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITapGestureRecognizer",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKCancelSwipeToEditGestureRecognizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKBubbleControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKBubbleWithStackedContent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKContiguousContainerView",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKBubbleStackedContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKLoadableContentViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKBaseComposeController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ABSearchOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKAddressBookSearchOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKLeaderboardScoreRangeRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKAchievementLeaderboardScoreRangeRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKAchievementInternal",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKAchievementDescriptionInternal",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSNumberFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKAbbreviatedNumberFormatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKABObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKABRecord",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKABRecord",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKABPerson",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "GKABMultiValue",
+      "parent": null,
+      "children": [
+        {
+          "name": "GKABMutableMultiValue",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

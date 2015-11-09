@@ -1,1 +1,175 @@
-{"name":"MIME.framework","list":[{"father":"MFBaseFilterDataConsumer","childList":["MFBase64Decoder"]},{"father":"MFBaseFilterDataConsumer","childList":["MFBase64Encoder"]},{"father":"NSObject","childList":["MFBaseFilterDataConsumer"]},{"father":"NSObject","childList":["MFBufferedDataConsumer"]},{"father":"NSObject","childList":["MFByteSet"]},{"father":"NSConditionLock","childList":["MFConditionLock"]},{"father":"MFNullDataConsumer","childList":["MFCountingDataConsumer"]},{"father":"NSData","childList":["MFData"]},{"father":"MFMessageStore","childList":["MFDataMessageStore"]},{"father":"NSMutableSet","childList":["MFEmailSet"]},{"father":"NSObject","childList":["MFHTMLParser"]},{"father":"MFBaseFilterDataConsumer","childList":["MFLineEndingConverterFilter"]},{"father":"NSLock","childList":["MFLock"]},{"father":"NSObject","childList":["MFMessage"]},{"father":"NSObject","childList":["MFMessageBody"]},{"father":"NSObject","childList":["MFMessageDataContainer"]},{"father":"NSObject","childList":["MFMessageFileWrapper"]},{"father":"NSObject","childList":["MFMessageHeaders"]},{"father":"NSObject","childList":["MFMessageStore"]},{"father":"NSObject","childList":["MFMessageTextAttachment"]},{"father":"MFMessageBody","childList":["MFMimeBody"]},{"father":"NSObject","childList":["MFMimeCharset"]},{"father":"NSObject","childList":["MFMimePart"]},{"father":"MFMessageTextAttachment","childList":["MFMimeTextAttachment"]},{"father":"MFByteSet","childList":["MFMutableByteSet"]},{"father":"NSMutableData","childList":["MFMutableData"]},{"father":"MFBaseFilterDataConsumer","childList":["MFMutableFilterDataConsumer"]},{"father":"MFMessageHeaders","childList":["MFMutableMessageHeaders"]},{"father":"NSObject","childList":["MFNullDataConsumer"]},{"father":"NSObject","childList":["MFPartialNetworkData"]},{"father":"MFMessageFileWrapper","childList":["MFPlaceholderFileWrapper"]},{"father":"NSObject","childList":["MFPriorityDesignator"]},{"father":"MFBaseFilterDataConsumer","childList":["MFProgressFilterDataConsumer"]},{"father":"MFBaseFilterDataConsumer","childList":["MFQuotedPrintableDecoder"]},{"father":"MFBaseFilterDataConsumer","childList":["MFQuotedPrintableEncoder"]},{"father":"MFBaseFilterDataConsumer","childList":["MFRangedDataFilter"]},{"father":"NSRecursiveLock","childList":["MFRecursiveLock"]},{"father":"MFBaseFilterDataConsumer","childList":["MFUUDecoder"]},{"father":"NSMutableDictionary","childList":["MFWeakDictionary"]},{"father":"NSObject","childList":["MFWeakReferenceHolder"]},{"father":"NSMutableSet","childList":["MFWeakSet"]},{"father":"NSObject","childList":["_MFEmailSetEmail"]},{"father":"NSEnumerator","childList":["_MFEmailSetEnumerator"]}]}
+{
+  "name": "MIME.framework",
+  "list": [
+    {
+      "name": "NSEnumerator",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFEmailSetEnumerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MFEmailSetEmail",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFWeakSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableDictionary",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFWeakDictionary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFBaseFilterDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFUUDecoder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSRecursiveLock",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFRecursiveLock",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageFileWrapper",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFPlaceholderFileWrapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageHeaders",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMutableMessageHeaders",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableData",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMutableData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFByteSet",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMutableByteSet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageTextAttachment",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMimeTextAttachment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageBody",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFMimeBody",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSLock",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFLock",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFMessageStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFDataMessageStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSData",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MFNullDataConsumer",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFCountingDataConsumer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSConditionLock",
+      "parent": null,
+      "children": [
+        {
+          "name": "MFConditionLock",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

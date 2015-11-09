@@ -1,1 +1,749 @@
-{"name":"MusicUI.framework","list":[{"father":"UIView","childList":["MPHAlbumHeaderView"]},{"father":"UITableView","childList":["MPHAlbumTableView"]},{"father":"MusicTableViewCell","childList":["MPHAlbumTableViewCell"]},{"father":"MusicTableViewController","childList":["MPHCZAlbumTableViewController"]},{"father":"MusicAlbumTracksCellConfiguration","childList":["MPHCZAlbumTracksCellConfiguration"]},{"father":"MPMediaItemImageRequest","childList":["MPHCZMediaItemImageRequest"]},{"father":"MPTransportControls","childList":["MPHCZTransportControls"]},{"father":"MusicPlaylistsViewController","childList":["MPHPlaylistFolderViewController"]},{"father":"UIViewController","childList":["MPHRootViewController"]},{"father":"MPAVController","childList":["MusicAVPlayer"]},{"father":"MusicCellConfiguration","childList":["MusicAddPlaylistActionCellConfiguration"]},{"father":"MusicCellConfiguration","childList":["MusicAlbumCellConfiguration"]},{"father":"MusicSongCellConfiguration","childList":["MusicAlbumTracksCellConfiguration"]},{"father":"MusicQueryDataSource","childList":["MusicAlbumsDataSource"]},{"father":"UITableViewHeaderFooterView","childList":["MusicAlbumsDetailTableHeaderView"]},{"father":"MusicTableViewController","childList":["MusicAlbumsDetailViewController"]},{"father":"MusicTableViewController","childList":["MusicAlbumsViewController"]},{"father":"MusicQueryDataSource","childList":["MusicArtistAlbumsDataSource"]},{"father":"MusicCellConfiguration","childList":["MusicArtistCellConfiguration"]},{"father":"MusicShuffleActionCellConfiguration","childList":["MusicArtistShuffleActionCellConfiguration"]},{"father":"MusicQueryDataSource","childList":["MusicArtistsDataSource"]},{"father":"MusicTableViewController","childList":["MusicArtistsViewController"]},{"father":"MusicCellConfiguration","childList":["MusicAudiobookTrackCellConfiguration"]},{"father":"MusicQueryDataSource","childList":["MusicAudiobookTracksDataSource"]},{"father":"MusicPodcastCellConfiguration","childList":["MusicAudiobooksCellConfiguration"]},{"father":"MPUCellConfiguration","childList":["MusicCellConfiguration"]},{"father":"MusicQueryPlaybackContext","childList":["MusicCloudGeniusMixPlaybackContext"]},{"father":"UIView","childList":["MusicCloudLoadingView"]},{"father":"MusicSongTableViewCell","childList":["MusicCollectionTrackTableViewCell"]},{"father":"MusicAlbumCellConfiguration","childList":["MusicCompilationCellConfiguration"]},{"father":"MusicQueryDataSource","childList":["MusicCompilationsDataSource"]},{"father":"MusicArtistCellConfiguration","childList":["MusicComposerCellConfiguration"]},{"father":"MusicQueryDataSource","childList":["MusicComposersDataSource"]},{"father":"MusicArtistsViewController","childList":["MusicComposersViewController"]},{"father":"MusicDownloadAllCellConfiguration","childList":["MusicDownloadAllArtistCellConfiguration"]},{"father":"MusicCellConfiguration","childList":["MusicDownloadAllCellConfiguration"]},{"father":"MusicArtistAlbumsDataSource","childList":["MusicFlipsideAlbumDataSource"]},{"father":"UITableViewHeaderFooterView","childList":["MusicFlipsideAlbumDetailHeaderView"]},{"father":"MusicAlbumsDetailViewController","childList":["MusicFlipsideAlbumDetailViewController"]},{"father":"MusicCollectionTrackTableViewCell","childList":["MusicFlipsideAlbumTrackTableViewCell"]},{"father":"MusicAlbumTracksCellConfiguration","childList":["MusicFlipsideAlbumTracksCellConfiguration"]},{"father":"MusicPlaylistSongsDataSource","childList":["MusicFlipsidePlaylistDataSource"]},{"father":"_MusicSongListTableViewCellContentView","childList":["MusicFlipsidePlaylistTrackCellContentView"]},{"father":"_MusicSongListTableViewCell","childList":["MusicFlipsidePlaylistTrackTableViewCell"]},{"father":"MusicSongListCellConfiguration","childList":["MusicFlipsidePlaylistTracksCellConfiguration"]},{"father":"MusicPlaylistSongsViewController","childList":["MusicFlipsidePlaylistViewController"]},{"father":"MusicSongsDataSource","childList":["MusicFlipsideTracksDataSource"]},{"father":"UIViewController","childList":["MusicFlipsideTracksViewController"]},{"father":"MusicQueryPlaybackContext","childList":["MusicGeniusMixPlaybackContext"]},{"father":"MusicQueryQueueFeeder","childList":["MusicGeniusMixQueueFeeder"]},{"father":"MusicQueryDataSource","childList":["MusicGeniusMixesDataSource"]},{"father":"MPUDataSourceViewController","childList":["MusicGeniusMixesViewController"]},{"father":"MusicPickerOverlay","childList":["MusicGeniusPickerOverlay"]},{"father":"MusicCellConfiguration","childList":["MusicGeniusPlaylistActionCellConfiguration"]},{"father":"MusicAlbumCellConfiguration","childList":["MusicGenreCellConfiguration"]},{"father":"MPImageCacheRequest","childList":["MusicGenreImageRequest"]},{"father":"MusicQueryDataSource","childList":["MusicGenresDataSource"]},{"father":"MusicTableViewController","childList":["MusicGenresViewController"]},{"father":"MusicQueryDataSource","childList":["MusicITunesUTracksDataSource"]},{"father":"UIView","childList":["MusicLyricsView"]},{"father":"UITableViewController","childList":["MusicMiniPlayerActionsViewController"]},{"father":"NSObject","childList":["MusicMiniPlayerCoordinator"]},{"father":"MusicMiniPlayerTransportControls","childList":["MusicMiniPlayerMusicTransportControls"]},{"father":"MPPlaybackControlsView","childList":["MusicMiniPlayerPlaybackControlsView"]},{"father":"MusicMiniPlayerTransportControls","childList":["MusicMiniPlayerRadioAdTransportControls"]},{"father":"MusicMiniPlayerTransportControls","childList":["MusicMiniPlayerRadioTransportControls"]},{"father":"MPTransportControls","childList":["MusicMiniPlayerTransportControls"]},{"father":"UIMoreListController","childList":["MusicMoreListController"]},{"father":"UIMoreNavigationController","childList":["MusicMoreNavigationController"]},{"father":"UINavigationController","childList":["MusicNavigationController"]},{"father":"UIView","childList":["MusicNoContentView"]},{"father":"UIViewController","childList":["MusicNoContentViewController"]},{"father":"MPUNowPlayingIndicatorView","childList":["MusicNowPlayingIndicatorView"]},{"father":"NSObject","childList":["MusicNowPlayingObserver"]},{"father":"MPPlaybackControlsView","childList":["MusicNowPlayingPlaybackControlsView"]},{"father":"MPUNowPlayingTitlesView","childList":["MusicNowPlayingTitlesView"]},{"father":"MPTransportControls","childList":["MusicNowPlayingTransportControls"]},{"father":"UIViewController","childList":["MusicNowPlayingViewController"]},{"father":"MPVolumeSlider","childList":["MusicNowPlayingVolumeSlider"]},{"father":"UICollectionViewFlowLayout","childList":["MusicPagingCollectionViewFlowLayout"]},{"father":"NSObject","childList":["MusicPickerOverlay"]},{"father":"UITabBarController","childList":["MusicPickerTabBarController"]},{"father":"UICollectionViewFlowLayout","childList":["MusicPinningCollectionViewFlowLayout"]},{"father":"NSObject","childList":["MusicPlaybackContext"]},{"father":"NSObject","childList":["MusicPlayerServerDelegate"]},{"father":"UIView","childList":["MusicPlaylistActionsView"]},{"father":"MusicCellConfiguration","childList":["MusicPlaylistCellConfiguration"]},{"father":"MusicPickerOverlay","childList":["MusicPlaylistEditingPickerOverlay"]},{"father":"MusicShuffleActionCellConfiguration","childList":["MusicPlaylistShuffleActionCellConfiguration"]},{"father":"MusicSongListCellConfiguration","childList":["MusicPlaylistSongCellConfiguration"]},{"father":"MusicQueryDataSource","childList":["MusicPlaylistSongsDataSource"]},{"father":"MusicSongsViewController","childList":["MusicPlaylistSongsViewController"]},{"father":"MusicQueryDataSource","childList":["MusicPlaylistsDataSource"]},{"father":"MusicPlaylistsViewController","childList":["MusicPlaylistsListViewController"]},{"father":"MusicTableViewController","childList":["MusicPlaylistsViewController"]},{"father":"MusicCellConfiguration","childList":["MusicPodcastCellConfiguration"]},{"father":"MusicTableViewController","childList":["MusicPodcastDetailsViewController"]},{"father":"MusicCellConfiguration","childList":["MusicPodcastTrackCellConfiguration"]},{"father":"MusicQueryDataSource","childList":["MusicPodcastTracksDataSource"]},{"father":"MusicTableViewController","childList":["MusicPodcastsViewController"]},{"father":"NSObject","childList":["MusicProspectivePlaybackInformation"]},{"father":"MPUCompletionQueryDataSource","childList":["MusicQueryDataSource"]},{"father":"MPMediaQueryNowPlayingItem","childList":["MusicQueryNowPlayingItem"]},{"father":"MusicPlaybackContext","childList":["MusicQueryPlaybackContext"]},{"father":"MPMediaQueryQueueFeeder","childList":["MusicQueryQueueFeeder"]},{"father":"UICollectionView","childList":["MusicRadioCollectionView"]},{"father":"MPUDataSource","childList":["MusicRadioDataSource"]},{"father":"MusicRadioStationCollectionViewCell","childList":["MusicRadioFeaturedStationCollectionViewCell"]},{"father":"MusicPinningCollectionViewFlowLayout","childList":["MusicRadioFeaturedStationsCollectionViewLayout"]},{"father":"MusicRadioStationCollectionViewCell","childList":["MusicRadioMyStationCollectionViewCell"]},{"father":"UICollectionViewFlowLayout","childList":["MusicRadioMyStationsCollectionViewLayout"]},{"father":"MusicPlaybackContext","childList":["MusicRadioPlaybackContext"]},{"father":"NSObject","childList":["MusicRadioPlaybackCoordinator"]},{"father":"MPRadioQueueFeeder","childList":["MusicRadioQueueFeeder"]},{"father":"UICollectionViewCell","childList":["MusicRadioStationCollectionViewCell"]},{"father":"MPUDataSource","childList":["MusicRadioTrackHistoryDataSource"]},{"father":"MPUDataSourceViewController","childList":["MusicRadioViewController"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchAlbumCellConfiguration"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchArtistCellConfiguration"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchAudiobookCellConfiguration"]},{"father":"MusicCellConfiguration","childList":["MusicSearchCellConfiguration"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchCompilationCellConfiguration"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchComposerCellConfiguration"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchGenreCellConfiguration"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchPodcastCellConfiguration"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchPodcastEpisodeCellConfiguration"]},{"father":"MusicSearchCellConfiguration","childList":["MusicSearchSongCellConfiguration"]},{"father":"UIViewController","childList":["MusicSearchViewController"]},{"father":"UITableViewController","childList":["MusicSharedLibrariesViewController"]},{"father":"MusicCellConfiguration","childList":["MusicShuffleActionCellConfiguration"]},{"father":"MusicCellConfiguration","childList":["MusicSongCellConfiguration"]},{"father":"MusicSongCellConfiguration","childList":["MusicSongListCellConfiguration"]},{"father":"MusicTableViewCell","childList":["MusicSongTableViewCell"]},{"father":"MusicTableViewCellContentView","childList":["MusicSongTableViewCellContentView"]},{"father":"MusicQueryDataSource","childList":["MusicSongsDataSource"]},{"father":"MusicTableViewController","childList":["MusicSongsViewController"]},{"father":"SUClientController","childList":["MusicStoreClientController"]},{"father":"UITabBarController","childList":["MusicTabBarController"]},{"father":"UITableViewHeaderFooterView","childList":["MusicTableSectionHeaderView"]},{"father":"UITableView","childList":["MusicTableView"]},{"father":"UITableViewCell","childList":["MusicTableViewCell"]},{"father":"UIView","childList":["MusicTableViewCellContentView"]},{"father":"MPUTableViewController","childList":["MusicTableViewController"]},{"father":"MPUTheme","childList":["MusicTheme"]},{"father":"MPDetailSlider","childList":["MusicThinDetailSlider"]},{"father":"MPVideoViewController","childList":["MusicVideoViewController"]},{"father":"MusicTableViewCellContentView","childList":["_MPHAlbumTableViewCellContentView"]},{"father":"UITableViewCell","childList":["_MPHShuffleActionTableViewCell"]},{"father":"UITableViewCell","childList":["_MusicAddPlaylistActionTableViewCell"]},{"father":"MusicTableViewCell","childList":["_MusicArtistTableViewCell"]},{"father":"MusicTableViewCellContentView","childList":["_MusicArtistTableViewCellContentView"]},{"father":"UITableViewCell","childList":["_MusicAudiobookTrackTableViewCell"]},{"father":"UITableViewCell","childList":["_MusicDownloadAllTableViewCell"]},{"father":"UICollectionViewCell","childList":["_MusicGeniusMixCollectionViewCell"]},{"father":"UITableViewCell","childList":["_MusicGeniusPlaylistActionTableViewCell"]},{"father":"UITableViewCell","childList":["_MusicMiniPlayerActionTableViewCell"]},{"father":"UITableViewCell","childList":["_MusicPlaylistTableViewCell"]},{"father":"UITableViewCell","childList":["_MusicPodcastTableViewCell"]},{"father":"UITableViewCell","childList":["_MusicPodcastTrackTableViewCell"]},{"father":"UICollectionView","childList":["_MusicRadioCollectionView"]},{"father":"UIScrollView","childList":["_MusicRadioScrollView"]},{"father":"UITableViewCell","childList":["_MusicSearchTableViewCell"]},{"father":"MusicSongTableViewCell","childList":["_MusicSongListTableViewCell"]},{"father":"MusicSongTableViewCellContentView","childList":["_MusicSongListTableViewCellContentView"]},{"father":"SUViewControllerFactory","childList":["_MusicStoreViewControllerFactory"]},{"father":"NSObject","childList":["_MusicViewControllerNotificationObserver"]}]}
+{
+  "name": "MusicUI.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicViewControllerNotificationObserver",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUViewControllerFactory",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicStoreViewControllerFactory",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicSongTableViewCellContentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicSongListTableViewCellContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicSongTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicSongListTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicSearchTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicRadioScrollView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicRadioCollectionView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicGeniusMixCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicTableViewCellContentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicArtistTableViewCellContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "_MusicArtistTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPVideoViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicVideoViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPDetailSlider",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicThinDetailSlider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUTheme",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicTheme",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUTableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicTableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicTableViewCellContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicTableView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewHeaderFooterView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicTableSectionHeaderView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITabBarController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicTabBarController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SUClientController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicStoreClientController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicTableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicSongsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicQueryDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicSongsDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicSongCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicSongListCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicShuffleActionCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSongCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicSharedLibrariesViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicSearchViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicSearchCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicSearchAlbumCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSearchArtistCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSearchAudiobookCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSearchCompilationCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSearchComposerCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSearchGenreCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSearchPodcastCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSearchPodcastEpisodeCellConfiguration",
+          "children": []
+        },
+        {
+          "name": "MusicSearchSongCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUDataSourceViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicRadioViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicRadioTrackHistoryDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPRadioQueueFeeder",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicRadioQueueFeeder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicPlaybackContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicRadioPlaybackContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UICollectionViewFlowLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicRadioMyStationsCollectionViewLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicRadioStationCollectionViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicRadioMyStationCollectionViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicPinningCollectionViewFlowLayout",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicRadioFeaturedStationsCollectionViewLayout",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPMediaQueryQueueFeeder",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicQueryQueueFeeder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPMediaQueryNowPlayingItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicQueryNowPlayingItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUCompletionQueryDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicQueryDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicPlaylistsViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicPlaylistsListViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicSongsViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicPlaylistSongsViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicSongListCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicPlaylistSongCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicShuffleActionCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicPlaylistShuffleActionCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicPickerOverlay",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicPlaylistEditingPickerOverlay",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPVolumeSlider",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicNowPlayingVolumeSlider",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPTransportControls",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicNowPlayingTransportControls",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUNowPlayingTitlesView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicNowPlayingTitlesView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPPlaybackControlsView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicNowPlayingPlaybackControlsView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUNowPlayingIndicatorView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicNowPlayingIndicatorView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIMoreNavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicMoreNavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIMoreListController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicMoreListController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicMiniPlayerTransportControls",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicMiniPlayerMusicTransportControls",
+          "children": []
+        },
+        {
+          "name": "MusicMiniPlayerRadioAdTransportControls",
+          "children": []
+        },
+        {
+          "name": "MusicMiniPlayerRadioTransportControls",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPImageCacheRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicGenreImageRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicAlbumCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicGenreCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicQueryQueueFeeder",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicGeniusMixQueueFeeder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicQueryPlaybackContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicGeniusMixPlaybackContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicSongsDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsideTracksDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicPlaylistSongsViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsidePlaylistViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_MusicSongListTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsidePlaylistTrackTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_MusicSongListTableViewCellContentView",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsidePlaylistTrackCellContentView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicPlaylistSongsDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsidePlaylistDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicAlbumTracksCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsideAlbumTracksCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicCollectionTrackTableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsideAlbumTrackTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicAlbumsDetailViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsideAlbumDetailViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicArtistAlbumsDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicFlipsideAlbumDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicDownloadAllCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicDownloadAllArtistCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicArtistsViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicComposersViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicArtistCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicComposerCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPUCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MusicPodcastCellConfiguration",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicAudiobooksCellConfiguration",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPAVController",
+      "parent": null,
+      "children": [
+        {
+          "name": "MusicAVPlayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MPMediaItemImageRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "MPHCZMediaItemImageRequest",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

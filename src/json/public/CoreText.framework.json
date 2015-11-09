@@ -1,1 +1,39 @@
-{"name":"CoreText.framework","list":[{"father":"NSObject","childList":["CTGlyphStorageInterface"]},{"father":"NSObject","childList":["FontAssetDownloadManager"]},{"father":"NSArray","childList":["_CTFontFallbacksArray"]},{"father":"NSObject","childList":["_CTGlyphStorage"]},{"father":"_CTGlyphStorage","childList":["_CTMutableGlyphStorage"]},{"father":"_CTGlyphStorage","childList":["_CTNativeGlyphStorage"]}]}
+{
+  "name": "CoreText.framework",
+  "list": [
+    {
+      "name": "_CTGlyphStorage",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CTMutableGlyphStorage",
+          "children": []
+        },
+        {
+          "name": "_CTNativeGlyphStorage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CTGlyphStorage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "_CTFontFallbacksArray",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

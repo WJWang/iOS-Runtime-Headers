@@ -1,1 +1,105 @@
-{"name":"IMCore.framework","list":[{"father":"NSObject","childList":["IMAccount"]},{"father":"NSObject","childList":["IMAccountController"]},{"father":"NSObject","childList":["IMAddressBook"]},{"father":"NSObject","childList":["IMBatchIDStatusQueryController"]},{"father":"NSObject","childList":["IMChat"]},{"father":"NSObject","childList":["IMChatHistoryController"]},{"father":"NSObject","childList":["IMChatItem"]},{"father":"NSObject","childList":["IMChatRegistry"]},{"father":"NSObject","childList":["IMDDController"]},{"father":"NSObject","childList":["IMDaemonController"]},{"father":"NSObject","childList":["IMDaemonListener"]},{"father":"IMChatItem","childList":["IMDatestampChatItem"]},{"father":"NSObject","childList":["IMFileTransferCenter"]},{"father":"IMDirectlyObservableObject","childList":["IMHandle"]},{"father":"NSObject","childList":["IMHandleRegistrar"]},{"father":"NSObject","childList":["IMHandleRegistrarInternal"]},{"father":"IMChatItem","childList":["IMHeaderChatItem"]},{"father":"NSObject","childList":["IMIDStatusController"]},{"father":"IMChatItem","childList":["IMMarkChatItem"]},{"father":"NSObject","childList":["IMMe"]},{"father":"NSObject","childList":["IMMessage"]},{"father":"IMMessagePart","childList":["IMMessageAttachmentPart"]},{"father":"IMChatItem","childList":["IMMessageChatItem"]},{"father":"NSObject","childList":["IMMessagePart"]},{"father":"IMMessagePart","childList":["IMMessageTextPart"]},{"father":"NSObject","childList":["IMParentalControls"]},{"father":"NSObject","childList":["IMParentalControlsService"]},{"father":"NSObject","childList":["IMPeople"]},{"father":"NSObject","childList":["IMPerson"]},{"father":"NSObject","childList":["IMPersonRegistrar"]},{"father":"NSObject","childList":["IMSPIHandle"]},{"father":"NSObject","childList":["IMSPIMessage"]},{"father":"NSObject","childList":["IMService"]},{"father":"NSObject","childList":["IMServiceAgent"]},{"father":"IMServiceAgent","childList":["IMServiceAgentImpl"]},{"father":"IMService","childList":["IMServiceImpl"]},{"father":"IMChatItem","childList":["IMStatusChatItem"]},{"father":"IMChatItem","childList":["IMTimestampChatItem"]}]}
+{
+  "name": "IMCore.framework",
+  "list": [
+    {
+      "name": "IMChatItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMStatusChatItem",
+          "children": []
+        },
+        {
+          "name": "IMTimestampChatItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMService",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMServiceImpl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMServiceAgent",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMServiceAgentImpl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMParentalControls",
+          "children": []
+        },
+        {
+          "name": "IMParentalControlsService",
+          "children": []
+        },
+        {
+          "name": "IMPeople",
+          "children": []
+        },
+        {
+          "name": "IMPerson",
+          "children": []
+        },
+        {
+          "name": "IMPersonRegistrar",
+          "children": []
+        },
+        {
+          "name": "IMSPIHandle",
+          "children": []
+        },
+        {
+          "name": "IMSPIMessage",
+          "children": []
+        },
+        {
+          "name": "IMService",
+          "children": []
+        },
+        {
+          "name": "IMServiceAgent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMMessagePart",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMMessageAttachmentPart",
+          "children": []
+        },
+        {
+          "name": "IMMessageTextPart",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IMDirectlyObservableObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "IMHandle",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

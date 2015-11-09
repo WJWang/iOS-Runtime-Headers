@@ -1,1 +1,23 @@
-{"name":"FTClientServices.framework","list":[{"father":"NSObject","childList":["FTCServiceAvailabilityCenter"]},{"father":"NSObject","childList":["FTCServiceContainer"]},{"father":"NSObject","childList":["FTCServiceMonitor"]}]}
+{
+  "name": "FTClientServices.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "FTCServiceAvailabilityCenter",
+          "children": []
+        },
+        {
+          "name": "FTCServiceContainer",
+          "children": []
+        },
+        {
+          "name": "FTCServiceMonitor",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

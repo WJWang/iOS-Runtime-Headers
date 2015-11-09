@@ -1,1 +1,95 @@
-{"name":"StoreKit.framework","list":[{"father":"UIViewController","childList":["SKComposeReviewViewController"]},{"father":"NSObject","childList":["SKDownload"]},{"father":"NSObject","childList":["SKDownloadChangeset"]},{"father":"NSObject","childList":["SKInvocationQueueProxy"]},{"father":"SKPayment","childList":["SKMutablePayment"]},{"father":"NSObject","childList":["SKPayment"]},{"father":"NSObject","childList":["SKPaymentInternal"]},{"father":"NSObject","childList":["SKPaymentQueue"]},{"father":"NSObject","childList":["SKPaymentQueueClient"]},{"father":"NSObject","childList":["SKPaymentQueueInternal"]},{"father":"NSObject","childList":["SKPaymentTransaction"]},{"father":"NSObject","childList":["SKPaymentTransactionInternal"]},{"father":"NSObject","childList":["SKProduct"]},{"father":"NSObject","childList":["SKProductInternal"]},{"father":"SKRequest","childList":["SKProductsRequest"]},{"father":"NSObject","childList":["SKProductsRequestInternal"]},{"father":"NSObject","childList":["SKProductsResponse"]},{"father":"NSObject","childList":["SKProductsResponseInternal"]},{"father":"SKRequest","childList":["SKReceiptRefreshRequest"]},{"father":"_UIRemoteViewController","childList":["SKRemoteComposeReviewViewController"]},{"father":"_UIRemoteViewController","childList":["SKRemoteProductViewController"]},{"father":"_UIRemoteViewController","childList":["SKRemoteStorePageViewController"]},{"father":"NSObject","childList":["SKRequest"]},{"father":"NSObject","childList":["SKRequestInternal"]},{"father":"UIAlertView","childList":["SKStarRatingAlertView"]},{"father":"NSObject","childList":["SKStarRatingAlertViewDelegate"]},{"father":"UIControl","childList":["SKStarRatingControl"]},{"father":"NSObject","childList":["SKStorePageRequest"]},{"father":"UIViewController","childList":["SKStorePageViewController"]},{"father":"UIViewController","childList":["SKStoreProductViewController"]},{"father":"NSObject","childList":["SKWeakReference"]},{"father":"NSObject","childList":["SKXPCConnection"]}]}
+{
+  "name": "StoreKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKWeakReference",
+          "children": []
+        },
+        {
+          "name": "SKXPCConnection",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKStorePageViewController",
+          "children": []
+        },
+        {
+          "name": "SKStoreProductViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIControl",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKStarRatingControl",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIAlertView",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKStarRatingAlertView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_UIRemoteViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKRemoteComposeReviewViewController",
+          "children": []
+        },
+        {
+          "name": "SKRemoteProductViewController",
+          "children": []
+        },
+        {
+          "name": "SKRemoteStorePageViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKProductsRequest",
+          "children": []
+        },
+        {
+          "name": "SKReceiptRefreshRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SKPayment",
+      "parent": null,
+      "children": [
+        {
+          "name": "SKMutablePayment",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

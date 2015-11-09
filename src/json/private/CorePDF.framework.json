@@ -1,1 +1,195 @@
-{"name":"CorePDF.framework","list":[{"father":"NSObject","childList":["CPArchive"]},{"father":"CPZone","childList":["CPBody"]},{"father":"NSObject","childList":["CPBuilder"]},{"father":"NSObject","childList":["CPCharSequence"]},{"father":"CPObject","childList":["CPChunk"]},{"father":"NSObject","childList":["CPCluster"]},{"father":"CPRegion","childList":["CPColumn"]},{"father":"NSObject","childList":["CPColumnMaker"]},{"father":"CPGraphicObject","childList":["CPCompoundGraphic"]},{"father":"NSObject","childList":["CPCompoundGraphicMaker"]},{"father":"NSObject","childList":["CPDocument"]},{"father":"NSObject","childList":["CPFont"]},{"father":"NSObject","childList":["CPFontInfo"]},{"father":"NSObject","childList":["CPFontKerning"]},{"father":"NSObject","childList":["CPGenericVisitor"]},{"father":"NSObject","childList":["CPGraphicMaker"]},{"father":"CPChunk","childList":["CPGraphicObject"]},{"father":"CPRegion","childList":["CPGraphicRegion"]},{"father":"NSObject","childList":["CPGuideFinder"]},{"father":"NSObject","childList":["CPHighlighter"]},{"father":"NSObject","childList":["CPHitTest"]},{"father":"CPGraphicObject","childList":["CPImage"]},{"father":"CPGraphicRegion","childList":["CPImageRegion"]},{"father":"NSObject","childList":["CPInterval"]},{"father":"CPZone","childList":["CPIsland"]},{"father":"CPRegion","childList":["CPLayoutArea"]},{"father":"NSObject","childList":["CPLayoutMaker"]},{"father":"NSObject","childList":["CPLineBreaker"]},{"father":"NSObject","childList":["CPList"]},{"father":"NSObject","childList":["CPListItem"]},{"father":"NSObject","childList":["CPListMaker"]},{"father":"NSObject","childList":["CPMemoryOwner"]},{"father":"NSObject","childList":["CPObject"]},{"father":"NSObject","childList":["CPObjectUtility"]},{"father":"NSObject","childList":["CPPDFAnnotationParserDelegate"]},{"father":"CPChunk","childList":["CPPage"]},{"father":"CPRegion","childList":["CPParagraph"]},{"father":"NSObject","childList":["CPParagraphFlow"]},{"father":"NSObject","childList":["CPParagraphMaker"]},{"father":"NSObject","childList":["CPPreformatter"]},{"father":"NSObject","childList":["CPReadingModel"]},{"father":"CPChunk","childList":["CPRegion"]},{"father":"NSObject","childList":["CPRotatedText"]},{"father":"CPZone","childList":["CPRotation"]},{"father":"CPGraphicObject","childList":["CPShape"]},{"father":"CPGraphicRegion","childList":["CPShapeRegion"]},{"father":"NSObject","childList":["CPSpacerFinder"]},{"father":"CPChunk","childList":["CPTable"]},{"father":"CPChunk","childList":["CPTableCell"]},{"father":"NSObject","childList":["CPTableMaker"]},{"father":"CPRegion","childList":["CPTextBox"]},{"father":"NSObject","childList":["CPTextBoxMaker"]},{"father":"CPTextObject","childList":["CPTextLine"]},{"father":"NSObject","childList":["CPTextLineMaker"]},{"father":"NSObject","childList":["CPTextLineMerge"]},{"father":"NSObject","childList":["CPTextLineSplitter"]},{"father":"CPChunk","childList":["CPTextObject"]},{"father":"CPRegion","childList":["CPZone"]},{"father":"NSObject","childList":["CPZoneBorder"]},{"father":"NSObject","childList":["CPZoneBorderIntersection"]},{"father":"NSObject","childList":["CPZoneBorderNeighbor"]},{"father":"NSObject","childList":["CPZoneFilter"]},{"father":"NSObject","childList":["CPZoneMaker"]},{"father":"CALayer","childList":["SurfaceLayer"]},{"father":"NSObject","childList":["UIPDFAnnotation"]},{"father":"NSObject","childList":["UIPDFAnnotationController"]},{"father":"NSObject","childList":["UIPDFAnnotationParserDelegate"]},{"father":"UIView","childList":["UIPDFAnnotationView"]},{"father":"UIPDFSquareOrCircleAnnotation","childList":["UIPDFCircleAnnotation"]},{"father":"NSObject","childList":["UIPDFDocument"]},{"father":"UIPDFAnnotation","childList":["UIPDFFreeTextAnnotation"]},{"father":"UIPDFMarkupAnnotation","childList":["UIPDFHighlightAnnotation"]},{"father":"UIPDFAnnotationView","childList":["UIPDFHighlightAnnotationView"]},{"father":"CALayer","childList":["UIPDFHighlightLayer"]},{"father":"NSObject","childList":["UIPDFHighlighter"]},{"father":"UIPDFAnnotation","childList":["UIPDFLineAnnotation"]},{"father":"UIPDFMarkupAnnotation","childList":["UIPDFLinkAnnotation"]},{"father":"NSObject","childList":["UIPDFMagnifierController"]},{"father":"UIPDFAnnotation","childList":["UIPDFMarkupAnnotation"]},{"father":"NSObject","childList":["UIPDFPage"]},{"father":"NSObject","childList":["UIPDFPageContentDelegate"]},{"father":"CALayer","childList":["UIPDFPageContentLayer"]},{"father":"CATiledLayer","childList":["UIPDFPageContentTiledLayer"]},{"father":"NSObject","childList":["UIPDFPageImageCache"]},{"father":"NSObject","childList":["UIPDFPageRenderJob"]},{"father":"NSOperation","childList":["UIPDFPageRenderOperation"]},{"father":"UIView","childList":["UIPDFPageView"]},{"father":"NSObject","childList":["UIPDFParagraphWidget"]},{"father":"NSObject","childList":["UIPDFParserDelegate"]},{"father":"NSObject","childList":["UIPDFPlacementController"]},{"father":"UIPDFAnnotation","childList":["UIPDFPopupAnnotation"]},{"father":"UIPDFAnnotationView","childList":["UIPDFPopupAnnotationView"]},{"father":"NSObject","childList":["UIPDFSearchHighlightsController"]},{"father":"NSObject","childList":["UIPDFSelection"]},{"father":"NSObject","childList":["UIPDFSelectionController"]},{"father":"UIPDFSquareOrCircleAnnotation","childList":["UIPDFSquareAnnotation"]},{"father":"UIPDFAnnotation","childList":["UIPDFSquareOrCircleAnnotation"]},{"father":"UIPDFAnnotation","childList":["UIPDFStampAnnotation"]},{"father":"UIPDFMarkupAnnotation","childList":["UIPDFStrikeOutAnnotation"]},{"father":"UIPDFAnnotation","childList":["UIPDFTextAnnotation"]},{"father":"NSObject","childList":["UIPDFTextRangeWidget"]},{"father":"UIPDFMarkupAnnotation","childList":["UIPDFUnderlineAnnotation"]},{"father":"UIPDFAnnotationView","childList":["UIPDFUnderlineAnnotationView"]},{"father":"NSObject","childList":["UIPDFViewManager"]},{"father":"UIResponder","childList":["UIPDFViewTouchHandler"]}]}
+{
+  "name": "CorePDF.framework",
+  "list": [
+    {
+      "name": "UIResponder",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFViewTouchHandler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFViewManager",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPDFAnnotationView",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFUnderlineAnnotationView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPDFMarkupAnnotation",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFUnderlineAnnotation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPDFAnnotation",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFSquareOrCircleAnnotation",
+          "children": []
+        },
+        {
+          "name": "UIPDFStampAnnotation",
+          "children": []
+        },
+        {
+          "name": "UIPDFTextAnnotation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIPDFSquareOrCircleAnnotation",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFSquareAnnotation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFPageView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFPageRenderOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CATiledLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIPDFPageContentTiledLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "SurfaceLayer",
+          "children": []
+        },
+        {
+          "name": "UIPDFHighlightLayer",
+          "children": []
+        },
+        {
+          "name": "UIPDFPageContentLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPRegion",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPZone",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPChunk",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPTextObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPTextObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPTextLine",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPGraphicRegion",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPShapeRegion",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPGraphicObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPShape",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPZone",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPIsland",
+          "children": []
+        },
+        {
+          "name": "CPRotation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CPObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CPChunk",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

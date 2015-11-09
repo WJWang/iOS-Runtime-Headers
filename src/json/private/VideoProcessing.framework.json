@@ -1,1 +1,15 @@
-{"name":"VideoProcessing.framework","list":[{"father":"NSObject","childList":["VPCoreMotionDelegate"]}]}
+{
+  "name": "VideoProcessing.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "VPCoreMotionDelegate",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

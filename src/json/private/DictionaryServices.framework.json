@@ -1,1 +1,15 @@
-{"name":"DictionaryServices.framework","list":[{"father":"ASAssetQuery","childList":["DCSDictionaryAssetQuery"]}]}
+{
+  "name": "DictionaryServices.framework",
+  "list": [
+    {
+      "name": "ASAssetQuery",
+      "parent": null,
+      "children": [
+        {
+          "name": "DCSDictionaryAssetQuery",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

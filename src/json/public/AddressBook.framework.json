@@ -1,1 +1,99 @@
-{"name":"AddressBook.framework","list":[{"father":"ABPredicate","childList":["ABAnyValuePredicate"]},{"father":"NSObject","childList":["ABCCallbackInvoker"]},{"father":"NSObject","childList":["ABDynamicLoader"]},{"father":"NSObject","childList":["ABFavoritesEntry"]},{"father":"NSObject","childList":["ABFavoritesListManager"]},{"father":"NSObject","childList":["ABFavoritesLookupChangeRecord"]},{"father":"ABPredicate","childList":["ABGroupMembershipPredicate"]},{"father":"ABPredicate","childList":["ABNamePredicate"]},{"father":"NSObject","childList":["ABPersonLinker"]},{"father":"NSObject","childList":["ABPhoneFormatting"]},{"father":"ABPredicate","childList":["ABPhonePredicate"]},{"father":"NSPredicate","childList":["ABPredicate"]},{"father":"NSOperation","childList":["ABSearchOperation"]},{"father":"ABPredicate","childList":["ABServerSearchPredicate"]},{"father":"NSObject","childList":["ABTCC"]},{"father":"ABVCardExporter","childList":["ABVCardCardDAVExporter"]},{"father":"ABVCardParser","childList":["ABVCardCardDAVParser"]},{"father":"ABVCardRecord","childList":["ABVCardCardDAVRecord"]},{"father":"ABVCardPersonValueSetter","childList":["ABVCardCardDAVValueSetter"]},{"father":"NSObject","childList":["ABVCardExporter"]},{"father":"NSObject","childList":["ABVCardLexer"]},{"father":"NSObject","childList":["ABVCardParameter"]},{"father":"NSObject","childList":["ABVCardParser"]},{"father":"ABVCardValueSetter","childList":["ABVCardPersonValueSetter"]},{"father":"NSObject","childList":["ABVCardRecord"]},{"father":"NSObject","childList":["ABVCardValueSetter"]},{"father":"ABPredicate","childList":["ABValuePredicate"]}]}
+{
+  "name": "AddressBook.framework",
+  "list": [
+    {
+      "name": "ABPredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABValuePredicate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABVCardRecord",
+          "children": []
+        },
+        {
+          "name": "ABVCardValueSetter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ABVCardValueSetter",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABVCardPersonValueSetter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ABVCardPersonValueSetter",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABVCardCardDAVValueSetter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ABVCardRecord",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABVCardCardDAVRecord",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ABVCardParser",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABVCardCardDAVParser",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ABVCardExporter",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABVCardCardDAVExporter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABSearchOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "ABPredicate",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

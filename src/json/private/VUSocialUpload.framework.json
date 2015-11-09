@@ -1,1 +1,63 @@
-{"name":"VUSocialUpload.framework","list":[{"father":"UITableViewController","childList":["FlickrAudienceController"]},{"father":"SLComposeServiceViewController","childList":["FlickrComposeViewController"]},{"father":"NSObject","childList":["FlickrPhotoSet"]},{"father":"UITableViewController","childList":["FlickrPhotoSetController"]},{"father":"FlickrRequest","childList":["FlickrPhotoSetManager"]},{"father":"NSObject","childList":["FlickrPhotoSetResponse"]},{"father":"FlickrRequest","childList":["FlickrPost"]},{"father":"NSObject","childList":["FlickrRequest"]},{"father":"NSObject","childList":["FlickrResponse"]},{"father":"NSObject","childList":["FlickrUploadSession"]},{"father":"SLRemoteSession","childList":["VURemoteSession"]},{"father":"SLComposeServiceViewController","childList":["VimeoComposeViewController"]},{"father":"UITableViewController","childList":["VimeoDetailsController"]},{"father":"NSObject","childList":["VimeoPost"]},{"father":"NSObject","childList":["VimeoUploadSession"]}]}
+{
+  "name": "VUSocialUpload.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "VimeoPost",
+          "children": []
+        },
+        {
+          "name": "VimeoUploadSession",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "VimeoDetailsController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLComposeServiceViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "VimeoComposeViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SLRemoteSession",
+      "parent": null,
+      "children": [
+        {
+          "name": "VURemoteSession",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "FlickrRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "FlickrPhotoSetManager",
+          "children": []
+        },
+        {
+          "name": "FlickrPost",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

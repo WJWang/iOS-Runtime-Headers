@@ -1,1 +1,409 @@
-{"name":"PhotoLibraryServices.framework","list":[{"father":"NSObject","childList":["AssetCollectionInfo"]},{"father":"NSObject","childList":["PLAggregateAlbumList"]},{"father":"PLAssetContainerListChangeNotification","childList":["PLAggregateAlbumListChangeNotification"]},{"father":"PLChangeNotification","childList":["PLAssetChangeNotification"]},{"father":"PLContainerChangeNotification","childList":["PLAssetContainerChangeNotification"]},{"father":"PLContainerChangeNotification","childList":["PLAssetContainerListChangeNotification"]},{"father":"NSObject","childList":["PLAssetFormats"]},{"father":"NSObject","childList":["PLAssetSharingUtilities"]},{"father":"NSObject","childList":["PLAssetsSaver"]},{"father":"NSObject","childList":["PLAvalanche"]},{"father":"NSObject","childList":["PLBBBulletin"]},{"father":"NSObject","childList":["PLBBBulletinsManager"]},{"father":"NSObject","childList":["PLBBPendingBulletinsBatch"]},{"father":"PLDaemonJob","childList":["PLBulletinsTestDaemonJob"]},{"father":"NSObject","childList":["PLCIFilterUtilities"]},{"father":"UIImage","childList":["PLCachedImage"]},{"father":"PLChangeNotification","childList":["PLCameraPreviewImageWellChangeNotification"]},{"father":"NSObject","childList":["PLChangeNode"]},{"father":"NSNotification","childList":["PLChangeNotification"]},{"father":"NSObject","childList":["PLChangeNotificationCenter"]},{"father":"NSObject","childList":["PLClientServerTransaction"]},{"father":"PLContainerChangeNotification","childList":["PLCloudCommentsChangeNotification"]},{"father":"PLCloudFeedEntry","childList":["PLCloudFeedAssetsEntry"]},{"father":"PLCloudFeedEntry","childList":["PLCloudFeedCommentsEntry"]},{"father":"PLChangeNotification","childList":["PLCloudFeedEntriesChangeNotification"]},{"father":"NSObject","childList":["PLCloudFeedEntriesManager"]},{"father":"PLManagedObject","childList":["PLCloudFeedEntry"]},{"father":"PLManagedAlbum","childList":["PLCloudSharedAlbum"]},{"father":"PLManagedObject","childList":["PLCloudSharedAlbumInvitationRecord"]},{"father":"PLCloudSharingJob","childList":["PLCloudSharedAssetSaveJob"]},{"father":"PLManagedObject","childList":["PLCloudSharedComment"]},{"father":"PLCloudSharingJob","childList":["PLCloudSharedCommentsJob"]},{"father":"PLCloudSharingJob","childList":["PLCloudSharedDeleteAlbumsJob"]},{"father":"PLCloudSharingJob","childList":["PLCloudSharedUpdateAlbumMetadataJob"]},{"father":"PLCloudSharingJob","childList":["PLCloudSharingEnablingJob"]},{"father":"PLCloudSharingJob","childList":["PLCloudSharingInvitationChangeJob"]},{"father":"PLDaemonJob","childList":["PLCloudSharingJob"]},{"father":"PLCloudSharingJob","childList":["PLCloudSharingResetJob"]},{"father":"PLCloudSharingJob","childList":["PLCloudSharingViewedStateChangeJob"]},{"father":"PLChangeNotification","childList":["PLContainerChangeNotification"]},{"father":"NSObject","childList":["PLDaemonJob"]},{"father":"NSObject","childList":["PLDateRangeFormatter"]},{"father":"NSObject","childList":["PLDelayedFiledSystemDeletions"]},{"father":"PLManagedObjectContext","childList":["PLDisconnectedManagedObjectContext"]},{"father":"NSObject","childList":["PLDiskController"]},{"father":"NSObject","childList":["PLDupeManager"]},{"father":"NSObject","childList":["PLEmailAddressManager"]},{"father":"PLPhotoLibraryImageSource","childList":["PLFaceDetectingImageSource"]},{"father":"_PLFetchingAlbum","childList":["PLFetchingAlbum"]},{"father":"NSObject","childList":["PLFileSystemAssetImporter"]},{"father":"NSObject","childList":["PLFileSystemImportAsset"]},{"father":"NSObject","childList":["PLFileSystemPersistence"]},{"father":"NSObject","childList":["PLFileSystemPersistenceAttributes"]},{"father":"NSObject","childList":["PLFileSystemPersistenceBatchItem"]},{"father":"NSObject","childList":["PLFilesystemDeletionInfo"]},{"father":"NSObject","childList":["PLFilteredAlbum"]},{"father":"PLAssetContainerChangeNotification","childList":["PLFilteredAlbumChangeNotification"]},{"father":"NSObject","childList":["PLFilteredAlbumList"]},{"father":"PLAssetContainerListChangeNotification","childList":["PLFilteredAlbumListChangeNotification"]},{"father":"PLShuffledAlbum","childList":["PLFilteredShuffledAlbum"]},{"father":"_PLGenericAlbum","childList":["PLGenericAlbum"]},{"father":"NSData","childList":["PLIOSurfaceData"]},{"father":"NSObject","childList":["PLImageCache"]},{"father":"NSObject","childList":["PLImageCacheList"]},{"father":"NSObject","childList":["PLImageLoadRequest"]},{"father":"NSObject","childList":["PLImageLoadingQueue"]},{"father":"NSObject","childList":["PLImageLoadingThread"]},{"father":"NSObject","childList":["PLImageSource"]},{"father":"NSObject","childList":["PLImageTable"]},{"father":"NSObject","childList":["PLImageTableSegment"]},{"father":"NSObject","childList":["PLImageUtilities"]},{"father":"NSObject","childList":["PLImageWriter"]},{"father":"NSObject","childList":["PLImportFileManager"]},{"father":"NSObject","childList":["PLInFlightAssetsAlbum"]},{"father":"PLAssetContainerChangeNotification","childList":["PLInFlightAssetsAlbumChangeNotification"]},{"father":"NSObject","childList":["PLIndexMapper"]},{"father":"PLContainerChangeNotification","childList":["PLInvitationRecordsChangeNotification"]},{"father":"UIImage","childList":["PLJPEGDataImage"]},{"father":"NSObject","childList":["PLKeepDaemonAliveAssertion"]},{"father":"NSObject","childList":["PLLargeImageLoader"]},{"father":"NSObject","childList":["PLLoadRequestKey"]},{"father":"NSObject","childList":["PLLocationController"]},{"father":"NSObject","childList":["PLLocationUtils"]},{"father":"_PLManagedAdjustment","childList":["PLManagedAdjustment"]},{"father":"_PLManagedAlbum","childList":["PLManagedAlbum"]},{"father":"_PLManagedAlbumList","childList":["PLManagedAlbumList"]},{"father":"_PLManagedAsset","childList":["PLManagedAsset"]},{"father":"PLManagedObject","childList":["PLManagedFace"]},{"father":"PLManagedAlbum","childList":["PLManagedFaceAlbum"]},{"father":"_PLManagedKeyword","childList":["PLManagedKeyword"]},{"father":"NSManagedObject","childList":["PLManagedObject"]},{"father":"NSManagedObjectContext","childList":["PLManagedObjectContext"]},{"father":"NSMutableData","childList":["PLMappedImageData"]},{"father":"NSMergePolicy","childList":["PLMergePolicy"]},{"father":"NSObject","childList":["PLModelMigrator"]},{"father":"PLManagedObject","childList":["PLMoment"]},{"father":"NSObject","childList":["PLMomentAnalyzer"]},{"father":"NSObject","childList":["PLMomentAnalyzerGeoRequestInfo"]},{"father":"NSThread","childList":["PLMomentAnalyzerWorkThread"]},{"father":"NSObject","childList":["PLMomentCluster"]},{"father":"NSObject","childList":["PLMomentClustering"]},{"father":"NSObject","childList":["PLMomentGeneration"]},{"father":"PLManagedObject","childList":["PLMomentLibrary"]},{"father":"PLManagedObject","childList":["PLMomentList"]},{"father":"NSObject","childList":["PLMomentListCluster"]},{"father":"NSObject","childList":["PLMomentListClustering"]},{"father":"NSObject","childList":["PLMomentNode"]},{"father":"NSObject","childList":["PLMomentNodeCache"]},{"father":"NSObject","childList":["PLMomentTemporalSnapshot"]},{"father":"NSObject","childList":["PLObjectSnapshot"]},{"father":"NSObject","childList":["PLPTPdAssetEnumerator"]},{"father":"NSObject","childList":["PLPTPdAssetManager"]},{"father":"NSObject","childList":["PLPersistedAlbumMetadata"]},{"father":"NSObject","childList":["PLPersonInfoManager"]},{"father":"NSObject","childList":["PLPhotoBakedThumbnails"]},{"father":"NSObject","childList":["PLPhotoBakedThumbnailsCollection"]},{"father":"PLPhotoDCFObject","childList":["PLPhotoDCFDirectory"]},{"father":"PLPhotoDCFObject","childList":["PLPhotoDCFFileGroup"]},{"father":"NSObject","childList":["PLPhotoDCFObject"]},{"father":"NSObject","childList":["PLPhotoDCIMDirectory"]},{"father":"NSObject","childList":["PLPhotoDerivativeUtilities"]},{"father":"NSObject","childList":["PLPhotoLibrary"]},{"father":"PLImageSource","childList":["PLPhotoLibraryImageSource"]},{"father":"PLChangeNotification","childList":["PLPhotoLibraryShouldReloadNotification"]},{"father":"NSObject","childList":["PLPhotoSharingHelper"]},{"father":"PLManagedAlbum","childList":["PLPhotoStreamAlbum"]},{"father":"NSObject","childList":["PLPhotoStreamsHelper"]},{"father":"NSObject","childList":["PLPhotosStateLog"]},{"father":"PLAssetContainerChangeNotification","childList":["PLPlaceChangeNotification"]},{"father":"NSObject","childList":["PLPlaceholderThumbnailManager"]},{"father":"PLAssetContainerListChangeNotification","childList":["PLPlacesChangeNotification"]},{"father":"NSObject","childList":["PLPreheatItem"]},{"father":"NSObject","childList":["PLPrivacy"]},{"father":"NSObject","childList":["PLProgressStack"]},{"father":"NSValueTransformer","childList":["PLPropertyListFromDataTransformer"]},{"father":"PLCloudSharingJob","childList":["PLPublishCloudSharedAssetsJob"]},{"father":"NSValueTransformer","childList":["PLRectValueFromDataTransformer"]},{"father":"PLDaemonJob","childList":["PLReplaceAssetsWithCameraRollCopiesJob"]},{"father":"NSObject","childList":["PLRevGeoCompoundNameInfo"]},{"father":"NSObject","childList":["PLRevGeoLocationInfo"]},{"father":"NSObject","childList":["PLRevGeoPlace"]},{"father":"NSObject","childList":["PLRevGeoPlaceInfo"]},{"father":"NSObject","childList":["PLRevGeoRepresentativeNameInfo"]},{"father":"UIImage","childList":["PLRotatedImage"]},{"father":"PLManagedObjectContext","childList":["PLSharedManagedObjectContext"]},{"father":"PLPhotoLibrary","childList":["PLSharedPhotoLibrary"]},{"father":"NSObject","childList":["PLShuffledAlbum"]},{"father":"PLAssetContainerChangeNotification","childList":["PLShuffledAlbumChangeNotification"]},{"father":"_PLSidecarFile","childList":["PLSidecarFile"]},{"father":"NSObject","childList":["PLSimpleAlbumList"]},{"father":"NSObject","childList":["PLSimpleDCIMDirectory"]},{"father":"NSObject","childList":["PLSlalomConfiguration"]},{"father":"NSObject","childList":["PLSlalomRampConfiguration"]},{"father":"NSObject","childList":["PLSlalomRangeMapper"]},{"father":"NSObject","childList":["PLSlalomRangeMapperScaledRegion"]},{"father":"NSObject","childList":["PLSlalomUtilities"]},{"father":"NSObject","childList":["PLSortedAlbumList"]},{"father":"PLAssetContainerListChangeNotification","childList":["PLSortedAlbumListChangeNotification"]},{"father":"NSObject","childList":["PLSyncSaveJob"]},{"father":"NSObject","childList":["PLTemporaryImageTable"]},{"father":"NSObject","childList":["PLThumbFileManager"]},{"father":"NSObject","childList":["PLThumbnailIndexes"]},{"father":"NSObject","childList":["PLThumbnailManager"]},{"father":"PLManagedObjectContext","childList":["PLTransientManagedObjectContext"]},{"father":"NSValueTransformer","childList":["PLUUIDStringFromUUIDDataTransformer"]},{"father":"PLDaemonJob","childList":["PLUserActivityDaemonJob"]},{"father":"PLDaemonJob","childList":["PLUserActivityTrackerJob"]},{"father":"NSObject","childList":["PLVideoTranscoder"]},{"father":"PLManagedAlbum","childList":["PLWallpaperAlbum"]},{"father":"PLManagedAsset","childList":["PLWallpaperAsset"]},{"father":"NSObject","childList":["PLWallpaperImporter"]},{"father":"PLClientServerTransaction","childList":["_PLClientTransaction"]},{"father":"PLPreheatItem","childList":["_PLDataPreheatItem"]},{"father":"PLGenericAlbum","childList":["_PLFetchingAlbum"]},{"father":"PLManagedObject","childList":["_PLGenericAlbum"]},{"father":"PLPreheatItem","childList":["_PLJPEGPreheatItem"]},{"father":"PLPreheatItem","childList":["_PLLargeImagePreheatItem"]},{"father":"NSData","childList":["_PLLazyPreheatData"]},{"father":"PLManagedObject","childList":["_PLManagedAdjustment"]},{"father":"PLGenericAlbum","childList":["_PLManagedAlbum"]},{"father":"PLManagedObject","childList":["_PLManagedAlbumList"]},{"father":"PLManagedObject","childList":["_PLManagedAsset"]},{"father":"PLManagedObject","childList":["_PLManagedKeyword"]},{"father":"NSObject","childList":["_PLPhotoLibraryFileReservation"]},{"father":"NSObject","childList":["_PLPlaceholderThumbnailCachedData"]},{"father":"_PLClientTransaction","childList":["_PLServerTransaction"]},{"father":"PLManagedObject","childList":["_PLSidecarFile"]}]}
+{
+  "name": "PhotoLibraryServices.framework",
+  "list": [
+    {
+      "name": "PLManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PLSidecarFile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLClientTransaction",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PLServerTransaction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PLPhotoLibraryFileReservation",
+          "children": []
+        },
+        {
+          "name": "_PLPlaceholderThumbnailCachedData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLGenericAlbum",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PLManagedAlbum",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSData",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PLLazyPreheatData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLPreheatItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PLDataPreheatItem",
+          "children": []
+        },
+        {
+          "name": "_PLJPEGPreheatItem",
+          "children": []
+        },
+        {
+          "name": "_PLLargeImagePreheatItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLClientServerTransaction",
+      "parent": null,
+      "children": [
+        {
+          "name": "_PLClientTransaction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLManagedAsset",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLWallpaperAsset",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLManagedAlbum",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLWallpaperAlbum",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLDaemonJob",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLUserActivityDaemonJob",
+          "children": []
+        },
+        {
+          "name": "PLUserActivityTrackerJob",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSValueTransformer",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLUUIDStringFromUUIDDataTransformer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLManagedObjectContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLTransientManagedObjectContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLAssetContainerListChangeNotification",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLSortedAlbumListChangeNotification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLSidecarFile",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLSidecarFile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLAssetContainerChangeNotification",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLShuffledAlbumChangeNotification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLPhotoLibrary",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLSharedPhotoLibrary",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImage",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLRotatedImage",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLCloudSharingJob",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLPublishCloudSharedAssetsJob",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLChangeNotification",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLPhotoLibraryShouldReloadNotification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLImageSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLPhotoLibraryImageSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLPhotoDCFObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLPhotoDCFDirectory",
+          "children": []
+        },
+        {
+          "name": "PLPhotoDCFFileGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSThread",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLMomentAnalyzerWorkThread",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMergePolicy",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLMergePolicy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableData",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLMappedImageData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObjectContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLManagedObjectContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLManagedObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLManagedKeyword",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLManagedKeyword",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLManagedAsset",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLManagedAsset",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLManagedAlbumList",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLManagedAlbumList",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLManagedAlbum",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLManagedAlbum",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLManagedAdjustment",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLManagedAdjustment",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLContainerChangeNotification",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLInvitationRecordsChangeNotification",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLGenericAlbum",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLGenericAlbum",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLShuffledAlbum",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLFilteredShuffledAlbum",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "_PLFetchingAlbum",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLFetchingAlbum",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLPhotoLibraryImageSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLFaceDetectingImageSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "PLCloudFeedEntry",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLCloudFeedAssetsEntry",
+          "children": []
+        },
+        {
+          "name": "PLCloudFeedCommentsEntry",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSNotification",
+      "parent": null,
+      "children": [
+        {
+          "name": "PLChangeNotification",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

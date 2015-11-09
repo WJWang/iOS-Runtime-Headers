@@ -1,1 +1,119 @@
-{"name":"YouTube.framework","list":[{"father":"UIImageView","childList":["UIMovieBackgroundView"]},{"father":"NSObject","childList":["XMLSAXHTTPRequest"]},{"father":"NSObject","childList":["YTAccountAuthenticator"]},{"father":"YTFeedRequest","childList":["YTAccountFeedRequest"]},{"father":"NSObject","childList":["YTAuthenticatedAccountPost"]},{"father":"NSObject","childList":["YTAuthenticator"]},{"father":"NSObject","childList":["YTAuthenticatorDeferredRequest"]},{"father":"YTVideoDataSource","childList":["YTBookmarksVideoDataSource"]},{"father":"NSObject","childList":["YTCaptionTrack"]},{"father":"YTXMLHTTPRequest","childList":["YTCaptionTrackRequest"]},{"father":"NSObject","childList":["YTCaptioningCache"]},{"father":"YTXMLHTTPRequest","childList":["YTCaptionsRequest"]},{"father":"YTXMLHTTPRequest","childList":["YTCategoriesRequest"]},{"father":"YTXMLHTTPRequest","childList":["YTCommentsRequest"]},{"father":"NSObject","childList":["YTDeviceAuthenticator"]},{"father":"NSObject","childList":["YTFavoritesController"]},{"father":"YTVideoDataSource","childList":["YTFeaturedVideoDataSource"]},{"father":"YTXMLHTTPRequest","childList":["YTFeedRequest"]},{"father":"YTVideoDataSource","childList":["YTHistoryVideoDataSource"]},{"father":"NSObject","childList":["YTImageLoad"]},{"father":"NSObject","childList":["YTImageLoader"]},{"father":"YTVideoDataSource","childList":["YTMoreByAuthorVideoDataSource"]},{"father":"YTTimeQualifiedVideoDataSource","childList":["YTMostViewedVideoDataSource"]},{"father":"UIView","childList":["YTMovieView"]},{"father":"NSMutableURLRequest","childList":["YTMutableURLRequest"]},{"father":"YTVideoDataSource","childList":["YTMyVideosVideoDataSource"]},{"father":"NSObject","childList":["YTNetworkController"]},{"father":"NSObject","childList":["YTPersistentVideoList"]},{"father":"NSObject","childList":["YTProtectedDefaults"]},{"father":"YTVideoDataSource","childList":["YTRecentlyAddedVideoDataSource"]},{"father":"YTVideoDataSource","childList":["YTRelatedVideoDataSource"]},{"father":"YTFeedRequest","childList":["YTSearchRequest"]},{"father":"YTXMLHTTPRequest","childList":["YTSearchSuggestionsRequest"]},{"father":"YTVideoDataSource","childList":["YTSearchVideoDataSource"]},{"father":"YTXMLHTTPRequest","childList":["YTSubscriptionsRequest"]},{"father":"YTVideoDataSource","childList":["YTSubscriptionsVideoDataSource"]},{"father":"YTVideoDataSource","childList":["YTTestVideoDataSource"]},{"father":"YTVideoDataSource","childList":["YTTimeQualifiedVideoDataSource"]},{"father":"YTTimeQualifiedVideoDataSource","childList":["YTTopRatedVideoDataSource"]},{"father":"NSObject","childList":["YTUserProfile"]},{"father":"YTXMLHTTPRequest","childList":["YTUserProfileRequest"]},{"father":"NSObject","childList":["YTVideo"]},{"father":"NSObject","childList":["YTVideoDataSource"]},{"father":"NSObject","childList":["YTVideoReference"]},{"father":"NSObject","childList":["YTWebServiceConfig"]},{"father":"XMLSAXHTTPRequest","childList":["YTXMLHTTPRequest"]}]}
+{
+  "name": "YouTube.framework",
+  "list": [
+    {
+      "name": "XMLSAXHTTPRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "YTXMLHTTPRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "YTVideo",
+          "children": []
+        },
+        {
+          "name": "YTVideoDataSource",
+          "children": []
+        },
+        {
+          "name": "YTVideoReference",
+          "children": []
+        },
+        {
+          "name": "YTWebServiceConfig",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "YTXMLHTTPRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "YTUserProfileRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "YTTimeQualifiedVideoDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "YTTopRatedVideoDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "YTVideoDataSource",
+      "parent": null,
+      "children": [
+        {
+          "name": "YTSearchVideoDataSource",
+          "children": []
+        },
+        {
+          "name": "YTSubscriptionsVideoDataSource",
+          "children": []
+        },
+        {
+          "name": "YTTestVideoDataSource",
+          "children": []
+        },
+        {
+          "name": "YTTimeQualifiedVideoDataSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "YTFeedRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "YTSearchRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSMutableURLRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "YTMutableURLRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "YTMovieView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIImageView",
+      "parent": null,
+      "children": [
+        {
+          "name": "UIMovieBackgroundView",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

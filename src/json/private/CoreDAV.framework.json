@@ -1,1 +1,279 @@
-{"name":"CoreDAV.framework","list":[{"father":"CoreDAVContainer","childList":["CardDAVAddressBookContainer"]},{"father":"CoreDAVBulkChangeTask","childList":["CardDAVBulkChangeTask"]},{"father":"CoreDAVBulkUploadTaskGroup","childList":["CardDAVBulkUploadTaskGroup"]},{"father":"CoreDAVGetTask","childList":["CardDAVFolderGetTask"]},{"father":"CoreDAVContainerInfoTaskGroup","childList":["CardDAVFolderInfoTaskGroup"]},{"father":"CoreDAVContainerMultiGetTask","childList":["CardDAVFolderMultiGetTask"]},{"father":"CoreDAVContainerQueryTask","childList":["CardDAVFolderQueryTask"]},{"father":"CoreDAVContainerSyncTaskGroup","childList":["CardDAVFolderSyncTaskGroup"]},{"father":"CoreDAVGetAccountPropertiesTaskGroup","childList":["CardDAVGetAccountPropertiesTaskGroup"]},{"father":"CoreDAVMultiPutTask","childList":["CardDAVMultiPutTask"]},{"father":"CoreDAVTaskGroup","childList":["CardDAVUpdateMeCardTaskGroup"]},{"father":"CoreDAVItem","childList":["CoreDAVACEItem"]},{"father":"CoreDAVItem","childList":["CoreDAVACLItem"]},{"father":"CoreDAVTask","childList":["CoreDAVACLTask"]},{"father":"NSObject","childList":["CoreDAVAction"]},{"father":"CoreDAVTask","childList":["CoreDAVActionBackedTask"]},{"father":"CoreDAVTask","childList":["CoreDAVBulkChangeTask"]},{"father":"CoreDAVItem","childList":["CoreDAVBulkRequestsItem"]},{"father":"CoreDAVItem","childList":["CoreDAVBulkRequestsSetItem"]},{"father":"CoreDAVItem","childList":["CoreDAVBulkRequestsSupportedItem"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVBulkUploadTaskGroup"]},{"father":"CoreDAVItem","childList":["CoreDAVCalendarServerEmailAddressSetItem"]},{"father":"CoreDAVItem","childList":["CoreDAVCalendarServerPushTransportsItem"]},{"father":"CoreDAVItem","childList":["CoreDAVCalendarServerTransportItem"]},{"father":"NSObject","childList":["CoreDAVContainer"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVContainerInfoSyncTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVContainerInfoTaskGroup"]},{"father":"CoreDAVTask","childList":["CoreDAVContainerMultiGetTask"]},{"father":"CoreDAVTask","childList":["CoreDAVContainerQueryTask"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVContainerSyncTaskGroup"]},{"father":"CoreDAVTask","childList":["CoreDAVCopyOrMoveTask"]},{"father":"CoreDAVCopyOrMoveTask","childList":["CoreDAVCopyTask"]},{"father":"CoreDAVItem","childList":["CoreDAVCurrentUserPrincipalItem"]},{"father":"CoreDAVItem","childList":["CoreDAVCurrentUserPrivilegeSetItem"]},{"father":"CoreDAVActionBackedTask","childList":["CoreDAVDeleteTask"]},{"father":"CoreDAVItem","childList":["CoreDAVDenyItem"]},{"father":"NSObject","childList":["CoreDAVDiscoveryAccountInfo"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVDiscoveryTaskGroup"]},{"father":"CoreDAVItem","childList":["CoreDAVErrorItem"]},{"father":"CoreDAVPropertyFindBaseTask","childList":["CoreDAVExpandPropertiesTask"]},{"father":"NSObject","childList":["CoreDAVExpandProperty"]},{"father":"CoreDAVContainerMultiGetTask","childList":["CoreDAVFolderContentsMultiGetTask"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVGetAccountPropertiesTaskGroup"]},{"father":"CoreDAVTask","childList":["CoreDAVGetTask"]},{"father":"CoreDAVGetTask","childList":["CoreDAVGetToFileTask"]},{"father":"CoreDAVItem","childList":["CoreDAVGrantItem"]},{"father":"CoreDAVTask","childList":["CoreDAVHeadTask"]},{"father":"CoreDAVLeafItem","childList":["CoreDAVHrefItem"]},{"father":"CoreDAVItem","childList":["CoreDAVInvertItem"]},{"father":"NSObject","childList":["CoreDAVItem"]},{"father":"NSObject","childList":["CoreDAVItemParserMapping"]},{"father":"CoreDAVItem","childList":["CoreDAVItemWithHrefChildItem"]},{"father":"CoreDAVItemWithHrefChildItem","childList":["CoreDAVItemWithHrefChildItemTolerateBarePayload"]},{"father":"CoreDAVItem","childList":["CoreDAVItemWithHrefChildren"]},{"father":"CoreDAVItem","childList":["CoreDAVItemWithNoChildren"]},{"father":"NSObject","childList":["CoreDAVLeafDataPayload"]},{"father":"CoreDAVItem","childList":["CoreDAVLeafItem"]},{"father":"NSObject","childList":["CoreDAVLogging"]},{"father":"CoreDAVItem","childList":["CoreDAVMatchResultsItem"]},{"father":"CoreDAVItem","childList":["CoreDAVMkcolResponseItem"]},{"father":"CoreDAVActionBackedTask","childList":["CoreDAVMkcolTask"]},{"father":"CoreDAVCopyOrMoveTask","childList":["CoreDAVMoveTask"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVMoveWithFallbackTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVMultiGetWithFallbackTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVMultiMoveWithFallbackTaskGroup"]},{"father":"CoreDAVTask","childList":["CoreDAVMultiPutTask"]},{"father":"CoreDAVItem","childList":["CoreDAVMultiStatusItem"]},{"father":"NSObject","childList":["CoreDAVNullParser"]},{"father":"NSObject","childList":["CoreDAVOctetStreamParser"]},{"father":"CoreDAVOctetStreamParser","childList":["CoreDAVOctetStreamToFileParser"]},{"father":"CoreDAVTask","childList":["CoreDAVOptionsTask"]},{"father":"CoreDAVAction","childList":["CoreDAVOrderedAction"]},{"father":"NSObject","childList":["CoreDAVParseRule"]},{"father":"CoreDAVActionBackedTask","childList":["CoreDAVPostOrPutTask"]},{"father":"CoreDAVPostOrPutTask","childList":["CoreDAVPostTask"]},{"father":"CoreDAVItem","childList":["CoreDAVPrincipalItem"]},{"father":"CoreDAVPropertyFindBaseTask","childList":["CoreDAVPrincipalPropertySearchTask"]},{"father":"CoreDAVItem","childList":["CoreDAVPrincipalSearchPropertyItem"]},{"father":"CoreDAVItem","childList":["CoreDAVPrincipalSearchPropertySetItem"]},{"father":"CoreDAVTask","childList":["CoreDAVPrincipalSearchPropertySetTask"]},{"father":"CoreDAVItem","childList":["CoreDAVPropFindItem"]},{"father":"CoreDAVPropertyFindBaseTask","childList":["CoreDAVPropFindTask"]},{"father":"CoreDAVActionBackedTask","childList":["CoreDAVPropPatchTask"]},{"father":"CoreDAVItem","childList":["CoreDAVPropStatItem"]},{"father":"CoreDAVTask","childList":["CoreDAVPropertyFindBaseTask"]},{"father":"CoreDAVItem","childList":["CoreDAVPropertySearchItem"]},{"father":"CoreDAVItem","childList":["CoreDAVPropertyUpdateItem"]},{"father":"CoreDAVPutTask","childList":["CoreDAVPutStreamTask"]},{"father":"CoreDAVPostOrPutTask","childList":["CoreDAVPutTask"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVRecursiveContainerSyncTaskGroup"]},{"father":"CoreDAVItem","childList":["CoreDAVRemoveItem"]},{"father":"NSObject","childList":["CoreDAVRequestLogger"]},{"father":"CoreDAVItem","childList":["CoreDAVResourceTypeItem"]},{"father":"CoreDAVItem","childList":["CoreDAVResponseItem"]},{"father":"CoreDAVTask","childList":["CoreDAVSRVLookupTask"]},{"father":"NSObject","childList":["CoreDAVSRVResourceRecord"]},{"father":"CoreDAVItem","childList":["CoreDAVSetItem"]},{"father":"CoreDAVItem","childList":["CoreDAVSupportedReportItem"]},{"father":"CoreDAVItem","childList":["CoreDAVSupportedReportSetItem"]},{"father":"CoreDAVMultiStatusItem","childList":["CoreDAVSyncReportItem"]},{"father":"CoreDAVPropertyFindBaseTask","childList":["CoreDAVSyncReportTask"]},{"father":"NSObject","childList":["CoreDAVTask"]},{"father":"NSObject","childList":["CoreDAVTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVUpdateACLTaskGroup"]},{"father":"CoreDAVTaskGroup","childList":["CoreDAVValidatePrincipalsTaskGroup"]},{"father":"NSObject","childList":["CoreDAVXMLData"]},{"father":"NSObject","childList":["CoreDAVXMLElementAttribute"]},{"father":"NSObject","childList":["CoreDAVXMLElementGenerator"]},{"father":"NSXMLParser","childList":["CoreDAVXMLParser"]}]}
+{
+  "name": "CoreDAV.framework",
+  "list": [
+    {
+      "name": "NSXMLParser",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVXMLParser",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVXMLData",
+          "children": []
+        },
+        {
+          "name": "CoreDAVXMLElementAttribute",
+          "children": []
+        },
+        {
+          "name": "CoreDAVXMLElementGenerator",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVUpdateACLTaskGroup",
+          "children": []
+        },
+        {
+          "name": "CoreDAVValidatePrincipalsTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPropertyFindBaseTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVSyncReportTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVMultiStatusItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVSyncReportItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVSetItem",
+          "children": []
+        },
+        {
+          "name": "CoreDAVSupportedReportItem",
+          "children": []
+        },
+        {
+          "name": "CoreDAVSupportedReportSetItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVSRVLookupTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPostOrPutTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVPutTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVPutTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVPutStreamTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVActionBackedTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVPostOrPutTask",
+          "children": []
+        },
+        {
+          "name": "CoreDAVPropPatchTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVAction",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVOrderedAction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVOctetStreamParser",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVOctetStreamToFileParser",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVCopyOrMoveTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVMoveTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVItemWithHrefChildItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVItemWithHrefChildItemTolerateBarePayload",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVLeafItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVHrefItem",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVGetTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVGetToFileTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerMultiGetTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CoreDAVFolderContentsMultiGetTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVMultiPutTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CardDAVMultiPutTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVGetAccountPropertiesTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CardDAVGetAccountPropertiesTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerSyncTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CardDAVFolderSyncTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerQueryTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CardDAVFolderQueryTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainerInfoTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CardDAVFolderInfoTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVBulkUploadTaskGroup",
+      "parent": null,
+      "children": [
+        {
+          "name": "CardDAVBulkUploadTaskGroup",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVBulkChangeTask",
+      "parent": null,
+      "children": [
+        {
+          "name": "CardDAVBulkChangeTask",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CoreDAVContainer",
+      "parent": null,
+      "children": [
+        {
+          "name": "CardDAVAddressBookContainer",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,277 @@
-{"name":"AirPortAssistant.framework","list":[{"father":"NSFormatter","childList":["APFormatter"]},{"father":"APFormatter","childList":["ASCII7BitFormatter"]},{"father":"AUSetupController","childList":["AUMFiSetupController"]},{"father":"AssistantCallbackController","childList":["AUSetupController"]},{"father":"UITableViewController","childList":["AUUITableViewController"]},{"father":"NSObject","childList":["AirPortAssistantController"]},{"father":"UINavigationController","childList":["AirPortAssistantUINavigationController"]},{"father":"NSObject","childList":["AssistantCallbackController"]},{"father":"AssistantSubUIViewController","childList":["AssistantDiagsUsageStatsUIViewController"]},{"father":"AUUITableViewController","childList":["AssistantSubUIViewController"]},{"father":"NSObject","childList":["AssistantUIController"]},{"father":"AUUITableViewController","childList":["AssistantUIViewController"]},{"father":"AssistantCallbackController","childList":["AutoGuessController"]},{"father":"CALayer","childList":["BubbleTextLayer"]},{"father":"NSObject","childList":["ConfigChangeLogs"]},{"father":"UIViewController","childList":["DiagsPrivacyHelpViewController"]},{"father":"APFormatter","childList":["DomainNameFormatter"]},{"father":"UIScrollView","childList":["HorizontalViewScroller"]},{"father":"APFormatter","childList":["HostnameFormatter"]},{"father":"APFormatter","childList":["IPv4AddressFormatter"]},{"father":"IPv4AddressFormatter","childList":["IPv4AddressOctetFormatter"]},{"father":"IPv4AddressFormatter","childList":["IPv4AddressWithPrefixFormatter"]},{"father":"APFormatter","childList":["IPv6AddressFormatter"]},{"father":"NSObject","childList":["ImageStore"]},{"father":"AssistantSubUIViewController","childList":["InternetViewController"]},{"father":"NSObject","childList":["KeychainWrapper"]},{"father":"APFormatter","childList":["MACFormatter"]},{"father":"UITableViewCell","childList":["ManagedTableViewCell"]},{"father":"APFormatter","childList":["MinMaxIntFormatter"]},{"father":"NetTopoObjectLayer","childList":["NetTopoAirPortDeviceLayer"]},{"father":"NetTopoObjectLayer","childList":["NetTopoDeviceConnectionLayer"]},{"father":"NSObject","childList":["NetTopoMiniStaticLayout"]},{"father":"CALayer","childList":["NetTopoObjectLayer"]},{"father":"AssistantSubUIViewController","childList":["PPPoEConnectionUIViewController"]},{"father":"AssistantSubUIViewController","childList":["PPPoEViewController"]},{"father":"MinMaxIntFormatter","childList":["PrivateIPFormatter"]},{"father":"NSObject","childList":["RecommendationActionController"]},{"father":"NSThread","childList":["SelectorStringThread"]},{"father":"AssistantCallbackController","childList":["StepByStepController"]},{"father":"AssistantSubUIViewController","childList":["StepByStepUIViewController"]},{"father":"StepByStepUIViewController","childList":["StepByStepUIViewController_CreateExtendOrReplace"]},{"father":"StepByStepUIViewController","childList":["StepByStepUIViewController_Create_Config"]},{"father":"StepByStepUIViewController","childList":["StepByStepUIViewController_Create_Guest"]},{"father":"StepByStepUIViewController","childList":["StepByStepUIViewController_DevicePicker"]},{"father":"StepByStepUIViewController_ExtendWireless_Config","childList":["StepByStepUIViewController_ExtendWired_Config"]},{"father":"InternetViewController","childList":["StepByStepUIViewController_ExtendWired_Connections"]},{"father":"StepByStepUIViewController_DevicePicker","childList":["StepByStepUIViewController_ExtendWirelessNetworkChoice"]},{"father":"StepByStepUIViewController_DevicePicker","childList":["StepByStepUIViewController_ExtendWireless_Config"]},{"father":"StepByStepUIViewController_DevicePicker","childList":["StepByStepUIViewController_Join_Config"]},{"father":"StepByStepUIViewController_DevicePicker","childList":["StepByStepUIViewController_ReplaceBaseStation_Config"]},{"father":"StepByStepUIViewController","childList":["StepByStepUIViewController_ReplaceChoice"]},{"father":"StepByStepUIViewController_DevicePicker","childList":["StepByStepUIViewController_ReplaceNetworkChoice"]},{"father":"StepByStepUIViewController","childList":["StepByStepUIViewController_Restore_Config"]},{"father":"NSObject","childList":["StepByStepUtilities"]},{"father":"UINavigationController","childList":["TVMUINavigationController"]},{"father":"NSObject","childList":["TableViewManager"]},{"father":"UIButton","childList":["TextLinkButton"]},{"father":"CALayer","childList":["TopoNumberBadge"]},{"father":"CALayer","childList":["TopoProgressBar"]},{"father":"NSObject","childList":["UIAlertViewDelegateClass"]},{"father":"MinMaxIntFormatter","childList":["UInt16Formatter"]},{"father":"APFormatter","childList":["UTF8Formatter"]},{"father":"UIView","childList":["UnreadBubbleCount"]},{"father":"UIScrollView","childList":["ViewScroller"]},{"father":"UTF8Formatter","childList":["WEPKeyFormatter"]},{"father":"NSObject","childList":["WiFiUtils"]}]}
+{
+  "name": "AirPortAssistant.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WiFiUtils",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UTF8Formatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "WEPKeyFormatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIScrollView",
+      "parent": null,
+      "children": [
+        {
+          "name": "ViewScroller",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "UnreadBubbleCount",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "APFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "UTF8Formatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "MinMaxIntFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "UInt16Formatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "TopoNumberBadge",
+          "children": []
+        },
+        {
+          "name": "TopoProgressBar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIButton",
+      "parent": null,
+      "children": [
+        {
+          "name": "TextLinkButton",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UINavigationController",
+      "parent": null,
+      "children": [
+        {
+          "name": "TVMUINavigationController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "StepByStepUIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "StepByStepUIViewController_Restore_Config",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "StepByStepUIViewController_DevicePicker",
+      "parent": null,
+      "children": [
+        {
+          "name": "StepByStepUIViewController_ExtendWirelessNetworkChoice",
+          "children": []
+        },
+        {
+          "name": "StepByStepUIViewController_ExtendWireless_Config",
+          "children": []
+        },
+        {
+          "name": "StepByStepUIViewController_Join_Config",
+          "children": []
+        },
+        {
+          "name": "StepByStepUIViewController_ReplaceBaseStation_Config",
+          "children": []
+        },
+        {
+          "name": "StepByStepUIViewController_ReplaceNetworkChoice",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "InternetViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "StepByStepUIViewController_ExtendWired_Connections",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "StepByStepUIViewController_ExtendWireless_Config",
+      "parent": null,
+      "children": [
+        {
+          "name": "StepByStepUIViewController_ExtendWired_Config",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AssistantSubUIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "StepByStepUIViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AssistantCallbackController",
+      "parent": null,
+      "children": [
+        {
+          "name": "StepByStepController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSThread",
+      "parent": null,
+      "children": [
+        {
+          "name": "SelectorStringThread",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NetTopoObjectLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "NetTopoAirPortDeviceLayer",
+          "children": []
+        },
+        {
+          "name": "NetTopoDeviceConnectionLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewCell",
+      "parent": null,
+      "children": [
+        {
+          "name": "ManagedTableViewCell",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "IPv4AddressFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "IPv4AddressOctetFormatter",
+          "children": []
+        },
+        {
+          "name": "IPv4AddressWithPrefixFormatter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "DiagsPrivacyHelpViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AUUITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "AssistantSubUIViewController",
+          "children": []
+        },
+        {
+          "name": "AssistantUIViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UITableViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "AUUITableViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "AUSetupController",
+      "parent": null,
+      "children": [
+        {
+          "name": "AUMFiSetupController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSFormatter",
+      "parent": null,
+      "children": [
+        {
+          "name": "APFormatter",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,197 @@
-{"name":"EventKit.framework","list":[{"father":"NSObject","childList":["CalAlarmMetadata"]},{"father":"NSObject","childList":["CalItemMetadata"]},{"father":"NSObject","childList":["CalSearch"]},{"father":"NSObject","childList":["CalSpotlightSearch"]},{"father":"EKObject","childList":["EKAlarm"]},{"father":"NSObject","childList":["EKAlarmOccurrence"]},{"father":"NSObject","childList":["EKAlarmWrapper"]},{"father":"EKObject","childList":["EKAttachment"]},{"father":"EKParticipant","childList":["EKAttendee"]},{"father":"EKObject","childList":["EKCalendar"]},{"father":"NSObject","childList":["EKCalendarDate"]},{"father":"EKCalendarNotification","childList":["EKCalendarEventInvitationNotification"]},{"father":"NSObject","childList":["EKCalendarFilter"]},{"father":"EKCalendarNotification","childList":["EKCalendarInviteReplyNotification"]},{"father":"EKObject","childList":["EKCalendarItem"]},{"father":"NSObject","childList":["EKCalendarItemAlertInfo"]},{"father":"NSPredicate","childList":["EKCalendarItemsWithExternalIdentifierPredicate"]},{"father":"NSObject","childList":["EKCalendarNotification"]},{"father":"EKCalendarNotification","childList":["EKCalendarResourceChangeNotification"]},{"father":"EKCalendarNotification","childList":["EKCalendarSharedCalendarNotification"]},{"father":"NSObject","childList":["EKCollectableReplyHandler"]},{"father":"NSObject","childList":["EKDaemonConnection"]},{"father":"NSPredicate","childList":["EKDateRangePredicate"]},{"father":"EKCalendarItem","childList":["EKEvent"]},{"father":"EKPredicate","childList":["EKEventPredicate"]},{"father":"NSObject","childList":["EKEventStore"]},{"father":"EKObject","childList":["EKInviteReplyNotification"]},{"father":"EKPredicate","childList":["EKMasterEventsPredicate"]},{"father":"EKCalendarDate","childList":["EKMutableCalendarDate"]},{"father":"NSPredicate","childList":["EKNotifiableEventsPredicate"]},{"father":"NSPredicate","childList":["EKNotificationCenterVisibleEventsPredicate"]},{"father":"NSObject","childList":["EKObject"]},{"father":"NSObject","childList":["EKObjectID"]},{"father":"NSObject","childList":["EKObjectRelation"]},{"father":"EKObjectRelation","childList":["EKObjectToManyRelation"]},{"father":"EKObjectRelation","childList":["EKObjectToOneRelation"]},{"father":"NSObject","childList":["EKOccurrenceCacheSearch"]},{"father":"EKParticipant","childList":["EKOrganizer"]},{"father":"EKObject","childList":["EKParticipant"]},{"father":"EKPersistentObject","childList":["EKPersistentAlarm"]},{"father":"EKPersistentObject","childList":["EKPersistentAttachment"]},{"father":"EKPersistentParticipant","childList":["EKPersistentAttendee"]},{"father":"EKPersistentObject","childList":["EKPersistentCalendar"]},{"father":"EKPersistentObject","childList":["EKPersistentCalendarItem"]},{"father":"EKPersistentCalendarItem","childList":["EKPersistentEvent"]},{"father":"EKPersistentObject","childList":["EKPersistentEventAction"]},{"father":"EKPersistentObject","childList":["EKPersistentExceptionDate"]},{"father":"EKPersistentObject","childList":["EKPersistentInviteReplyNotification"]},{"father":"EKPersistentObject","childList":["EKPersistentLocation"]},{"father":"NSObject","childList":["EKPersistentObject"]},{"father":"EKPersistentParticipant","childList":["EKPersistentOrganizer"]},{"father":"EKPersistentObject","childList":["EKPersistentParticipant"]},{"father":"EKPersistentObject","childList":["EKPersistentRecurrenceRule"]},{"father":"EKPersistentCalendarItem","childList":["EKPersistentReminder"]},{"father":"EKPersistentObject","childList":["EKPersistentResourceChange"]},{"father":"EKPersistentObject","childList":["EKPersistentSharee"]},{"father":"EKPersistentObject","childList":["EKPersistentSource"]},{"father":"NSPredicate","childList":["EKPredicate"]},{"father":"NSObject","childList":["EKPredicateCount"]},{"father":"NSObject","childList":["EKPredicateSearch"]},{"father":"NSObject","childList":["EKRecurrenceDayOfWeek"]},{"father":"NSObject","childList":["EKRecurrenceEnd"]},{"father":"NSObject","childList":["EKRecurrenceGenerator"]},{"father":"NSObject","childList":["EKRecurrenceHelper"]},{"father":"EKObject","childList":["EKRecurrenceRule"]},{"father":"NSObject","childList":["EKRelation"]},{"father":"EKCalendarItem","childList":["EKReminder"]},{"father":"EKPredicate","childList":["EKReminderPredicate"]},{"father":"EKObject","childList":["EKResourceChange"]},{"father":"NSPredicate","childList":["EKRespondedEventsPredicate"]},{"father":"EKPredicate","childList":["EKScheduledReminderPredicate"]},{"father":"EKObject","childList":["EKSharee"]},{"father":"NSManagedObject","childList":["EKSideAlarm"]},{"father":"NSManagedObjectContext","childList":["EKSideTableContext"]},{"father":"NSObject","childList":["EKSocialURLSearchDelegate"]},{"father":"EKObject","childList":["EKSource"]},{"father":"NSObject","childList":["EKSourceConstraints"]},{"father":"EKObject","childList":["EKStructuredLocation"]},{"father":"NSObject","childList":["EKTimeZone"]},{"father":"NSPredicate","childList":["EKUnacknowledgedEventsPredicate"]},{"father":"NSPredicate","childList":["EKUnalertedEventsPredicate"]},{"father":"NSPredicate","childList":["EKUpcomingEventsPredicate"]},{"father":"NSObject","childList":["EKWatchdog"]},{"father":"NSObject","childList":["_EKAlarmEngine"]},{"father":"NSObject","childList":["_EKNotificationMonitor"]}]}
+{
+  "name": "EventKit.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKWatchdog",
+          "children": []
+        },
+        {
+          "name": "_EKAlarmEngine",
+          "children": []
+        },
+        {
+          "name": "_EKNotificationMonitor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSPredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKUnacknowledgedEventsPredicate",
+          "children": []
+        },
+        {
+          "name": "EKUnalertedEventsPredicate",
+          "children": []
+        },
+        {
+          "name": "EKUpcomingEventsPredicate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKSource",
+          "children": []
+        },
+        {
+          "name": "EKStructuredLocation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObjectContext",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKSideTableContext",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSManagedObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKSideAlarm",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKPredicate",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminderPredicate",
+          "children": []
+        },
+        {
+          "name": "EKScheduledReminderPredicate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKCalendarItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKReminder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKPersistentObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKPersistentResourceChange",
+          "children": []
+        },
+        {
+          "name": "EKPersistentSharee",
+          "children": []
+        },
+        {
+          "name": "EKPersistentSource",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKPersistentCalendarItem",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKPersistentReminder",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKPersistentParticipant",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKPersistentAttendee",
+          "children": []
+        },
+        {
+          "name": "EKPersistentOrganizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKParticipant",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKOrganizer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKObjectRelation",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKObjectToManyRelation",
+          "children": []
+        },
+        {
+          "name": "EKObjectToOneRelation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKCalendarDate",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKMutableCalendarDate",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "EKCalendarNotification",
+      "parent": null,
+      "children": [
+        {
+          "name": "EKCalendarEventInvitationNotification",
+          "children": []
+        },
+        {
+          "name": "EKCalendarInviteReplyNotification",
+          "children": []
+        },
+        {
+          "name": "EKCalendarResourceChangeNotification",
+          "children": []
+        },
+        {
+          "name": "EKCalendarSharedCalendarNotification",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

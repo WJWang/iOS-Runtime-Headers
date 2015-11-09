@@ -1,1 +1,47 @@
-{"name":"CoreRoutine.framework","list":[{"father":"NSObject","childList":["RTBatchGeocoder"]},{"father":"NSObject","childList":["RTGeocoder"]},{"father":"NSObject","childList":["RTLOIDisplayInfo"]},{"father":"NSObject","childList":["RTLOIETA"]},{"father":"NSObject","childList":["RTLocationOfInterest"]},{"father":"NSObject","childList":["RTLocationOfInterestVisit"]},{"father":"NSObject","childList":["RTRoutineManager"]},{"father":"NSObject","childList":["_RTBatchSliceGeocoder"]},{"father":"NSObject","childList":["_RTRoutineManagerProxy"]}]}
+{
+  "name": "CoreRoutine.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "RTBatchGeocoder",
+          "children": []
+        },
+        {
+          "name": "RTGeocoder",
+          "children": []
+        },
+        {
+          "name": "RTLOIDisplayInfo",
+          "children": []
+        },
+        {
+          "name": "RTLOIETA",
+          "children": []
+        },
+        {
+          "name": "RTLocationOfInterest",
+          "children": []
+        },
+        {
+          "name": "RTLocationOfInterestVisit",
+          "children": []
+        },
+        {
+          "name": "RTRoutineManager",
+          "children": []
+        },
+        {
+          "name": "_RTBatchSliceGeocoder",
+          "children": []
+        },
+        {
+          "name": "_RTRoutineManagerProxy",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

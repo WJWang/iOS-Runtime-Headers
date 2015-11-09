@@ -1,1 +1,129 @@
-{"name":"StoreBookkeeper.framework","list":[{"father":"SBKUniversalPlaybackPositionMetadata","childList":["MZUniversalPlaybackPositionMetadata"]},{"father":"SBKUniversalPlaybackPositionStore","childList":["MZUniversalPlaybackPositionStore"]},{"father":"NSObject","childList":["SBKAlertDialog"]},{"father":"NSObject","childList":["SBKAsynchronousTask"]},{"father":"SBKSyncRequestHandler","childList":["SBKLoadDomainVersionRequestHandler"]},{"father":"NSObject","childList":["SBKLogger"]},{"father":"SBKSyncRequestHandler","childList":["SBKPlaybackPositionSyncRequestHandler"]},{"father":"NSObject","childList":["SBKPreferences"]},{"father":"NSObject","childList":["SBKProcessAssertion"]},{"father":"NSObject","childList":["SBKRequest"]},{"father":"NSObject","childList":["SBKRequestHandler"]},{"father":"NSObject","childList":["SBKResponse"]},{"father":"NSObject","childList":["SBKResponseStatus"]},{"father":"NSObject","childList":["SBKStoreAuthenticationController"]},{"father":"NSObject","childList":["SBKStoreClampsController"]},{"father":"NSError","childList":["SBKStoreError"]},{"father":"NSObject","childList":["SBKSyncBagContext"]},{"father":"SBKRequest","childList":["SBKSyncRequest"]},{"father":"NSObject","childList":["SBKSyncRequestData"]},{"father":"SBKRequestHandler","childList":["SBKSyncRequestHandler"]},{"father":"SBKResponse","childList":["SBKSyncResponse"]},{"father":"NSObject","childList":["SBKSyncResponseData"]},{"father":"NSObject","childList":["SBKSyncResponseDataKeyEnumerator"]},{"father":"SBKTransaction","childList":["SBKSyncTransaction"]},{"father":"ISStoreURLOperation","childList":["SBKSyncTransactionURLOperation"]},{"father":"NSObject","childList":["SBKTaskAssertion"]},{"father":"NSObject","childList":["SBKTransaction"]},{"father":"NSObject","childList":["SBKTransactionController"]},{"father":"NSObject","childList":["SBKUniversalPlaybackPositionMetadata"]},{"father":"NSObject","childList":["SBKUniversalPlaybackPositionStore"]},{"father":"NSObject","childList":["SBKZipDeflateMemoryOutputStream"]}]}
+{
+  "name": "StoreBookkeeper.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBKTaskAssertion",
+          "children": []
+        },
+        {
+          "name": "SBKTransaction",
+          "children": []
+        },
+        {
+          "name": "SBKTransactionController",
+          "children": []
+        },
+        {
+          "name": "SBKUniversalPlaybackPositionMetadata",
+          "children": []
+        },
+        {
+          "name": "SBKUniversalPlaybackPositionStore",
+          "children": []
+        },
+        {
+          "name": "SBKZipDeflateMemoryOutputStream",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "ISStoreURLOperation",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBKSyncTransactionURLOperation",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBKTransaction",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBKSyncTransaction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBKResponse",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBKSyncResponse",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBKRequestHandler",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBKSyncRequestHandler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBKRequest",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBKSyncRequest",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSError",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBKStoreError",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBKSyncRequestHandler",
+      "parent": null,
+      "children": [
+        {
+          "name": "SBKLoadDomainVersionRequestHandler",
+          "children": []
+        },
+        {
+          "name": "SBKPlaybackPositionSyncRequestHandler",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBKUniversalPlaybackPositionStore",
+      "parent": null,
+      "children": [
+        {
+          "name": "MZUniversalPlaybackPositionStore",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "SBKUniversalPlaybackPositionMetadata",
+      "parent": null,
+      "children": [
+        {
+          "name": "MZUniversalPlaybackPositionMetadata",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

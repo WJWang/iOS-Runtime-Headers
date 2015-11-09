@@ -1,1 +1,37 @@
-{"name":"XPCObjects.framework","list":[{"father":"NSCoder","childList":["XPCDecoder"]},{"father":"NSObject","childList":["XPCDetailedSignature"]},{"father":"NSCoder","childList":["XPCEncoder"]},{"father":"NSObject","childList":["XPCEndpoint"]},{"father":"NSObject","childList":["XPCMachSendRight"]},{"father":"NSObject","childList":["XPCProxy"]}]}
+{
+  "name": "XPCObjects.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "XPCEndpoint",
+          "children": []
+        },
+        {
+          "name": "XPCMachSendRight",
+          "children": []
+        },
+        {
+          "name": "XPCProxy",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSCoder",
+      "parent": null,
+      "children": [
+        {
+          "name": "XPCDecoder",
+          "children": []
+        },
+        {
+          "name": "XPCEncoder",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

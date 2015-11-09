@@ -1,1 +1,461 @@
-{"name":"WebCore.framework","list":[{"father":"DOMObject","childList":["DOMAbstractView"]},{"father":"DOMNode","childList":["DOMAttr"]},{"father":"DOMEvent","childList":["DOMBeforeLoadEvent"]},{"father":"DOMObject","childList":["DOMBlob"]},{"father":"DOMText","childList":["DOMCDATASection"]},{"father":"DOMCSSRule","childList":["DOMCSSCharsetRule"]},{"father":"DOMCSSRule","childList":["DOMCSSFontFaceRule"]},{"father":"DOMCSSRule","childList":["DOMCSSImportRule"]},{"father":"DOMCSSRule","childList":["DOMCSSMediaRule"]},{"father":"DOMCSSRule","childList":["DOMCSSPageRule"]},{"father":"DOMCSSValue","childList":["DOMCSSPrimitiveValue"]},{"father":"DOMObject","childList":["DOMCSSRule"]},{"father":"DOMObject","childList":["DOMCSSRuleList"]},{"father":"DOMObject","childList":["DOMCSSStyleDeclaration"]},{"father":"DOMCSSRule","childList":["DOMCSSStyleRule"]},{"father":"DOMStyleSheet","childList":["DOMCSSStyleSheet"]},{"father":"DOMCSSRule","childList":["DOMCSSUnknownRule"]},{"father":"DOMObject","childList":["DOMCSSValue"]},{"father":"DOMCSSValue","childList":["DOMCSSValueList"]},{"father":"DOMNode","childList":["DOMCharacterData"]},{"father":"DOMCharacterData","childList":["DOMComment"]},{"father":"DOMObject","childList":["DOMCounter"]},{"father":"DOMObject","childList":["DOMDOMNamedFlowCollection"]},{"father":"DOMObject","childList":["DOMDOMTokenList"]},{"father":"DOMNode","childList":["DOMDocument"]},{"father":"DOMNode","childList":["DOMDocumentFragment"]},{"father":"DOMNode","childList":["DOMDocumentType"]},{"father":"DOMNode","childList":["DOMElement"]},{"father":"DOMNode","childList":["DOMEntity"]},{"father":"DOMNode","childList":["DOMEntityReference"]},{"father":"DOMObject","childList":["DOMEvent"]},{"father":"DOMBlob","childList":["DOMFile"]},{"father":"DOMObject","childList":["DOMFileError"]},{"father":"DOMObject","childList":["DOMFileList"]},{"father":"DOMUIEvent","childList":["DOMGestureEvent"]},{"father":"DOMHTMLElement","childList":["DOMHTMLAnchorElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLAppletElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLAreaElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLBRElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLBaseElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLBaseFontElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLBodyElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLButtonElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLCanvasElement"]},{"father":"DOMObject","childList":["DOMHTMLCollection"]},{"father":"DOMHTMLElement","childList":["DOMHTMLDListElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLDetailsElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLDirectoryElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLDivElement"]},{"father":"DOMDocument","childList":["DOMHTMLDocument"]},{"father":"DOMElement","childList":["DOMHTMLElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLEmbedElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLFieldSetElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLFontElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLFormElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLFrameElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLFrameSetElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLHRElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLHeadElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLHeadingElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLHtmlElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLIFrameElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLImageElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLInputElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLKeygenElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLLIElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLLabelElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLLegendElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLLinkElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLMapElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLMarqueeElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLMenuElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLMetaElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLModElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLOListElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLObjectElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLOptGroupElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLOptionElement"]},{"father":"DOMObject","childList":["DOMHTMLOptionsCollection"]},{"father":"DOMHTMLElement","childList":["DOMHTMLParagraphElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLParamElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLPreElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLProgressElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLQuoteElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLScriptElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLSelectElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLStyleElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLTableCaptionElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLTableCellElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLTableColElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLTableElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLTableRowElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLTableSectionElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLTextAreaElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLTitleElement"]},{"father":"DOMHTMLElement","childList":["DOMHTMLUListElement"]},{"father":"DOMObject","childList":["DOMImplementation"]},{"father":"DOMUIEvent","childList":["DOMKeyboardEvent"]},{"father":"DOMObject","childList":["DOMMediaList"]},{"father":"DOMEvent","childList":["DOMMessageEvent"]},{"father":"DOMObject","childList":["DOMMessagePort"]},{"father":"DOMUIEvent","childList":["DOMMouseEvent"]},{"father":"DOMEvent","childList":["DOMMutationEvent"]},{"father":"DOMObject","childList":["DOMNamedNodeMap"]},{"father":"DOMObject","childList":["DOMNativeXPathNSResolver"]},{"father":"DOMObject","childList":["DOMNode"]},{"father":"DOMObject","childList":["DOMNodeFilter"]},{"father":"DOMObject","childList":["DOMNodeIterator"]},{"father":"DOMObject","childList":["DOMNodeList"]},{"father":"DOMNode","childList":["DOMNotation"]},{"father":"WebScriptObject","childList":["DOMObject"]},{"father":"DOMEvent","childList":["DOMOverflowEvent"]},{"father":"DOMEvent","childList":["DOMPageTransitionEvent"]},{"father":"DOMNode","childList":["DOMProcessingInstruction"]},{"father":"DOMEvent","childList":["DOMProgressEvent"]},{"father":"DOMObject","childList":["DOMRGBColor"]},{"father":"DOMObject","childList":["DOMRange"]},{"father":"DOMObject","childList":["DOMRect"]},{"father":"DOMObject","childList":["DOMStyleMedia"]},{"father":"DOMObject","childList":["DOMStyleSheet"]},{"father":"DOMObject","childList":["DOMStyleSheetList"]},{"father":"DOMCharacterData","childList":["DOMText"]},{"father":"DOMUIEvent","childList":["DOMTextEvent"]},{"father":"DOMObject","childList":["DOMTouch"]},{"father":"DOMUIEvent","childList":["DOMTouchEvent"]},{"father":"DOMObject","childList":["DOMTouchList"]},{"father":"DOMEvent","childList":["DOMTransitionEvent"]},{"father":"DOMObject","childList":["DOMTreeWalker"]},{"father":"DOMEvent","childList":["DOMUIEvent"]},{"father":"DOMObject","childList":["DOMValidityState"]},{"father":"DOMEvent","childList":["DOMWebKitAnimationEvent"]},{"father":"DOMCSSValueList","childList":["DOMWebKitCSSFilterValue"]},{"father":"DOMCSSRule","childList":["DOMWebKitCSSKeyframeRule"]},{"father":"DOMCSSRule","childList":["DOMWebKitCSSKeyframesRule"]},{"father":"DOMObject","childList":["DOMWebKitCSSMatrix"]},{"father":"DOMCSSRule","childList":["DOMWebKitCSSRegionRule"]},{"father":"DOMCSSValueList","childList":["DOMWebKitCSSTransformValue"]},{"father":"DOMObject","childList":["DOMWebKitNamedFlow"]},{"father":"DOMEvent","childList":["DOMWebKitTransitionEvent"]},{"father":"DOMMouseEvent","childList":["DOMWheelEvent"]},{"father":"DOMObject","childList":["DOMXPathExpression"]},{"father":"DOMObject","childList":["DOMXPathResult"]},{"father":"NSObject","childList":["NSCursor"]},{"father":"NSObject","childList":["TileCacheTombstone"]},{"father":"CALayer","childList":["TileHostLayer"]},{"father":"CALayer","childList":["TileLayer"]},{"father":"WAKView","childList":["WAKClipView"]},{"father":"NSObject","childList":["WAKResponder"]},{"father":"WAKView","childList":["WAKScrollView"]},{"father":"WAKResponder","childList":["WAKView"]},{"father":"WAKResponder","childList":["WAKWindow"]},{"father":"NSObject","childList":["WKQuadObject"]},{"father":"WebAccessibilityObjectWrapperBase","childList":["WebAccessibilityObjectWrapper"]},{"father":"NSObject","childList":["WebAccessibilityObjectWrapperBase"]},{"father":"NSObject","childList":["WebAccessibilityTextMarker"]},{"father":"NSObject","childList":["WebAnimationDelegate"]},{"father":"NSObject","childList":["WebAudioSessionHelper"]},{"father":"NSArray","childList":["WebCascadeList"]},{"father":"NSObject","childList":["WebCookieStorageObjCAdapter"]},{"father":"NSObject","childList":["WebCoreAudioBundleClass"]},{"father":"NSObject","childList":["WebCoreAuthenticationClientAsChallengeSender"]},{"father":"NSObject","childList":["WebCoreBundleFinder"]},{"father":"NSObject","childList":["WebCoreMediaPlayerNotificationHelper"]},{"father":"NSObject","childList":["WebCoreMotionManager"]},{"father":"NSData","childList":["WebCoreSharedBufferData"]},{"father":"NSObject","childList":["WebCoreTextTrackRepresentationIOSHelper"]},{"father":"NSError","childList":["WebCustomNSURLError"]},{"father":"NSObject","childList":["WebDisplayLinkHandler"]},{"father":"NSObject","childList":["WebEvent"]},{"father":"NSObject","childList":["WebEventRegion"]},{"father":"CAEAGLLayer","childList":["WebGLLayer"]},{"father":"NSObject","childList":["WebLanguageChangeObserver"]},{"father":"CALayer","childList":["WebLayer"]},{"father":"NSObject","childList":["WebQuickLookHandleAsDelegate"]},{"father":"NSObject","childList":["WebScriptObject"]},{"father":"NSObject","childList":["WebScriptObjectPrivate"]},{"father":"NSObject","childList":["WebSpeechSynthesisWrapper"]},{"father":"CALayer","childList":["WebTileLayer"]},{"father":"CALayer","childList":["WebTiledBackingLayer"]},{"father":"CATiledLayer","childList":["WebTiledLayer"]},{"father":"CALayer","childList":["WebTiledScrollingIndicatorLayer"]},{"father":"NSObject","childList":["WebUndefined"]}]}
+{
+  "name": "WebCore.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebUndefined",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CALayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebTiledScrollingIndicatorLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CATiledLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebTiledLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "CAEAGLLayer",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebGLLayer",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSError",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebCustomNSURLError",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSData",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebCoreSharedBufferData",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "NSArray",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebCascadeList",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WebAccessibilityObjectWrapperBase",
+      "parent": null,
+      "children": [
+        {
+          "name": "WebAccessibilityObjectWrapper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WAKResponder",
+      "parent": null,
+      "children": [
+        {
+          "name": "WAKView",
+          "children": []
+        },
+        {
+          "name": "WAKWindow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WAKView",
+      "parent": null,
+      "children": [
+        {
+          "name": "WAKClipView",
+          "children": []
+        },
+        {
+          "name": "WAKScrollView",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMXPathExpression",
+          "children": []
+        },
+        {
+          "name": "DOMXPathResult",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMMouseEvent",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMWheelEvent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMEvent",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMWebKitTransitionEvent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMCSSValueList",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMWebKitCSSTransformValue",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMCSSRule",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMWebKitCSSKeyframeRule",
+          "children": []
+        },
+        {
+          "name": "DOMWebKitCSSKeyframesRule",
+          "children": []
+        },
+        {
+          "name": "DOMWebKitCSSRegionRule",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMUIEvent",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMTextEvent",
+          "children": []
+        },
+        {
+          "name": "DOMTouchEvent",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMCharacterData",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMText",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMNode",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMProcessingInstruction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "WebScriptObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMObject",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMHTMLElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMHTMLEmbedElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLFieldSetElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLFontElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLFormElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLFrameElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLFrameSetElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLHRElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLHeadElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLHeadingElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLHtmlElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLIFrameElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLImageElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLInputElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLKeygenElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLLIElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLLabelElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLLegendElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLLinkElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLMapElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLMarqueeElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLMenuElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLMetaElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLModElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLOListElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLObjectElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLOptGroupElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLOptionElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLParagraphElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLParamElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLPreElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLProgressElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLQuoteElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLScriptElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLSelectElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLStyleElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLTableCaptionElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLTableCellElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLTableColElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLTableElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLTableRowElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLTableSectionElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLTextAreaElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLTitleElement",
+          "children": []
+        },
+        {
+          "name": "DOMHTMLUListElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMElement",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMHTMLElement",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMDocument",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMHTMLDocument",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMBlob",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMFile",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMCSSValue",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMCSSValueList",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMStyleSheet",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMCSSStyleSheet",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "DOMText",
+      "parent": null,
+      "children": [
+        {
+          "name": "DOMCDATASection",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,57 @@
-{"name":"AccessibilityUIService.framework","list":[{"father":"UIView","childList":["AXUIAlert"]},{"father":"NSObject","childList":["AXUIAlertContext"]},{"father":"NSObject","childList":["AXUIAlertStyleProvider"]},{"father":"NSObject","childList":["AXUIDisplayManager"]},{"father":"NSObject","childList":["AXUIMessageContext"]},{"father":"NSObject","childList":["AXUIMessageReplyHandler"]},{"father":"NSObject","childList":["AXUIMessageSender"]},{"father":"UIWindow","childList":["AXUIPassiveWindow"]},{"father":"UIViewController","childList":["AXUIRootViewController"]},{"father":"NSObject","childList":["AXUIServiceContext"]},{"father":"NSObject","childList":["AXUIServiceEntitlementChecker"]},{"father":"NSObject","childList":["AXUIServiceManager"]},{"father":"NSObject","childList":["AXUIUtilities"]}]}
+{
+  "name": "AccessibilityUIService.framework",
+  "list": [
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXUIServiceContext",
+          "children": []
+        },
+        {
+          "name": "AXUIServiceEntitlementChecker",
+          "children": []
+        },
+        {
+          "name": "AXUIServiceManager",
+          "children": []
+        },
+        {
+          "name": "AXUIUtilities",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIViewController",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXUIRootViewController",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIWindow",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXUIPassiveWindow",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "UIView",
+      "parent": null,
+      "children": [
+        {
+          "name": "AXUIAlert",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
