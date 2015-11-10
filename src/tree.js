@@ -20,7 +20,7 @@ Tree.prototype.setChildNode = function(childNodeIdx, newNode) {
   this.children[childNodeIdx].children.push(newNode);
 };
 
-Tree.merge = function(tree1, tree2, cb) {
+Tree.prototype.traversal = function(node, cb) {
   //traversal tree1
     //treversal tree2
       //compare node name

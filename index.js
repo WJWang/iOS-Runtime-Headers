@@ -10,18 +10,15 @@ var uid = require('uid');
 var Tree = require('./src/tree.js');
 var recursive = require('recursive-readdir');
 
-var Weather = require('./src/json/private/Weather.framework.json');
+//1. Get all files and turn all list element
+// to Tree and maintain in one array "OTL"
 
-
-var WeatherInheritList = Weather.list;
-var treeList = WeatherInheritList.map(function(element) {
-  return new Tree(element);
-});
-
-var tree = new Tree(WeatherInheritList[0]);
-// console.log(tree);
-tree.findChild('WeatherXMLHTTPRequest', function(data) {
-  // console.log(data);
-  tree.setChildNode(data[0].index, {name:'test'});
-  console.log(tree);
-});
+//2. Set recursive function should to the folling things by itertate
+// the OTL
+// 0.new List
+//    recursive()
+//     1.do reduce and return new Merge tree and remove trees in OTL or
+//      origin tree and 0 remove trees in OTL
+// 1.push redurn element in new List
+// and remove trees in OTL use remain OTL do second recursive
+// 2.DONE rule whel OTL length = 0;
