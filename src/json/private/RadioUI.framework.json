@@ -1,5 +1,5 @@
 {
-  "name": "RadioUI.framework",
+  "name": "RadioUI",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_RUWelcomeTicker",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_RUWelcomeNavigationController",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "_RUTrackActionsTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         },
         {
           "name": "_RUTrackCancelTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "_RUTrackActionsModalItemContentView",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "_RUTrackActionsHeaderView",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -61,7 +67,8 @@
       "children": [
         {
           "name": "_RUTermsTextView",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -71,7 +78,8 @@
       "children": [
         {
           "name": "_RUStationSettingsTextField",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "_RUStationSettingsTableView",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -91,11 +100,13 @@
       "children": [
         {
           "name": "_RUGenreChildListTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         },
         {
           "name": "_RUGenreRootListTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -105,7 +116,8 @@
       "children": [
         {
           "name": "_RUAddGenreButton",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -115,7 +127,8 @@
       "children": [
         {
           "name": "RUWelcomeViewController",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -125,7 +138,8 @@
       "children": [
         {
           "name": "RUWelcomeCollectionViewLayout",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -135,7 +149,8 @@
       "children": [
         {
           "name": "RUWelcomeCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -145,7 +160,8 @@
       "children": [
         {
           "name": "RUTrackActionsModalItem",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -155,7 +171,8 @@
       "children": [
         {
           "name": "RUTrackActionSheet",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -165,7 +182,8 @@
       "children": [
         {
           "name": "RUTableSectionHeaderView",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -175,7 +193,8 @@
       "children": [
         {
           "name": "RUStationTuningSlider",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -185,7 +204,8 @@
       "children": [
         {
           "name": "RUStationOverlayView",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -195,7 +215,8 @@
       "children": [
         {
           "name": "RUProxyTableView",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -205,7 +226,8 @@
       "children": [
         {
           "name": "RUParallelScrollView",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -215,7 +237,8 @@
       "children": [
         {
           "name": "RUMetricsController",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -225,11 +248,13 @@
       "children": [
         {
           "name": "RUGradientLabel",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         },
         {
           "name": "RULabel",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -239,7 +264,8 @@
       "children": [
         {
           "name": "RUFocusedTouchGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -249,7 +275,8 @@
       "children": [
         {
           "name": "RUCountdownFillLayer",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     },
@@ -259,7 +286,8 @@
       "children": [
         {
           "name": "RUActivityViewController",
-          "children": []
+          "children": [],
+          "framework": "RadioUI"
         }
       ]
     }

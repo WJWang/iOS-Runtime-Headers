@@ -1,5 +1,5 @@
 {
-  "name": "AppLaunchStats.framework",
+  "name": "AppLaunchStats",
   "list": [
     {
       "name": "NSObject",
@@ -7,83 +7,103 @@
       "children": [
         {
           "name": "AppLaunchStats",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsAppWorkSpace",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsComputation",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsDelayLaunch",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsDiag",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsLaunchObject",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsLaunchQueue",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsLogFormater",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsREventHandler",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsSBMonitor",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsSBSettings",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsSaveAndRestore",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsScheduler",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsState",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsStateHandler",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsStateHandlerQueue",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "AppLaunchStatsWhiteListManager",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "HistogramElement",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "RankElement",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         },
         {
           "name": "ReservationStationObject",
-          "children": []
+          "children": [],
+          "framework": "AppLaunchStats"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "XPCKit.framework",
+  "name": "XPCKit",
   "list": [
     {
       "name": "NSObject",
@@ -7,35 +7,43 @@
       "children": [
         {
           "name": "XPCClientConnection",
-          "children": []
+          "children": [],
+          "framework": "XPCKit"
         },
         {
           "name": "XPCNSClientConnection",
-          "children": []
+          "children": [],
+          "framework": "XPCKit"
         },
         {
           "name": "XPCNSRequest",
-          "children": []
+          "children": [],
+          "framework": "XPCKit"
         },
         {
           "name": "XPCNSServiceConnection",
-          "children": []
+          "children": [],
+          "framework": "XPCKit"
         },
         {
           "name": "XPCNSServiceListener",
-          "children": []
+          "children": [],
+          "framework": "XPCKit"
         },
         {
           "name": "XPCRequest",
-          "children": []
+          "children": [],
+          "framework": "XPCKit"
         },
         {
           "name": "XPCServiceConnection",
-          "children": []
+          "children": [],
+          "framework": "XPCKit"
         },
         {
           "name": "XPCServiceListener",
-          "children": []
+          "children": [],
+          "framework": "XPCKit"
         }
       ]
     }

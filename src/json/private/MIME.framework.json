@@ -1,5 +1,5 @@
 {
-  "name": "MIME.framework",
+  "name": "MIME",
   "list": [
     {
       "name": "NSEnumerator",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_MFEmailSetEnumerator",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_MFEmailSetEmail",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "MFWeakSet",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "MFWeakDictionary",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "MFUUDecoder",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "MFRecursiveLock",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "MFPlaceholderFileWrapper",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "MFMutableMessageHeaders",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "MFMutableData",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "MFMutableByteSet",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "MFMimeTextAttachment",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -117,7 +128,8 @@
       "children": [
         {
           "name": "MFMimeBody",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -127,7 +139,8 @@
       "children": [
         {
           "name": "MFLock",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -137,7 +150,8 @@
       "children": [
         {
           "name": "MFDataMessageStore",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -147,7 +161,8 @@
       "children": [
         {
           "name": "MFData",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -157,7 +172,8 @@
       "children": [
         {
           "name": "MFCountingDataConsumer",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     },
@@ -167,7 +183,8 @@
       "children": [
         {
           "name": "MFConditionLock",
-          "children": []
+          "children": [],
+          "framework": "MIME"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "StoreBookkeeper.framework",
+  "name": "StoreBookkeeper",
   "list": [
     {
       "name": "NSObject",
@@ -7,27 +7,33 @@
       "children": [
         {
           "name": "SBKTaskAssertion",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         },
         {
           "name": "SBKTransaction",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         },
         {
           "name": "SBKTransactionController",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         },
         {
           "name": "SBKUniversalPlaybackPositionMetadata",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         },
         {
           "name": "SBKUniversalPlaybackPositionStore",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         },
         {
           "name": "SBKZipDeflateMemoryOutputStream",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -37,7 +43,8 @@
       "children": [
         {
           "name": "SBKSyncTransactionURLOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -47,7 +54,8 @@
       "children": [
         {
           "name": "SBKSyncTransaction",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -57,7 +65,8 @@
       "children": [
         {
           "name": "SBKSyncResponse",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -67,7 +76,8 @@
       "children": [
         {
           "name": "SBKSyncRequestHandler",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -77,7 +87,8 @@
       "children": [
         {
           "name": "SBKSyncRequest",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -87,7 +98,8 @@
       "children": [
         {
           "name": "SBKStoreError",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -97,11 +109,13 @@
       "children": [
         {
           "name": "SBKLoadDomainVersionRequestHandler",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         },
         {
           "name": "SBKPlaybackPositionSyncRequestHandler",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -111,7 +125,8 @@
       "children": [
         {
           "name": "MZUniversalPlaybackPositionStore",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     },
@@ -121,7 +136,8 @@
       "children": [
         {
           "name": "MZUniversalPlaybackPositionMetadata",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeper"
         }
       ]
     }

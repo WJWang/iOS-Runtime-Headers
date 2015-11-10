@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "RTF_OIXMLNode",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "children": [
         {
           "name": "RTF_OIXMLDocument",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         },
         {
           "name": "RTF_OIXMLElement",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -31,11 +34,13 @@
       "children": [
         {
           "name": "RTF_CMDictArchiveManager",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         },
         {
           "name": "RTF_CMProgressiveArchiveManager",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -45,11 +50,13 @@
       "children": [
         {
           "name": "RTFTextTable",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         },
         {
           "name": "RTFTextTableBlock",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "RTFNSMutableParagraphStyle",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "RTFCPZException",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "QLWordProcessorPrintPageRenderer",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -89,7 +99,8 @@
       "children": [
         {
           "name": "QLWebViewDisplayBundle",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -99,7 +110,8 @@
       "children": [
         {
           "name": "QLThumbnailView",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -109,7 +121,8 @@
       "children": [
         {
           "name": "QLThumbnailOperation",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -119,7 +132,8 @@
       "children": [
         {
           "name": "QLServicePreviewContentController",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -129,7 +143,8 @@
       "children": [
         {
           "name": "QLRemotePreviewContentController",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -139,7 +154,8 @@
       "children": [
         {
           "name": "QLPrintPageRenderer",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -149,7 +165,8 @@
       "children": [
         {
           "name": "QLPreviewZoomTransitionAnimator",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -159,7 +176,8 @@
       "children": [
         {
           "name": "QLPreviewURLProtocol",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -169,7 +187,8 @@
       "children": [
         {
           "name": "QLPreviewPageViewController",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -179,11 +198,13 @@
       "children": [
         {
           "name": "QLHTMLThumbnailOperation",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         },
         {
           "name": "QLPDFThumbnailOperation",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -193,7 +214,8 @@
       "children": [
         {
           "name": "QLDelayedScrollView",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -203,7 +225,8 @@
       "children": [
         {
           "name": "QLBasePreviewParts",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -213,7 +236,8 @@
       "children": [
         {
           "name": "QLArchiveTableViewController",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     },
@@ -223,7 +247,8 @@
       "children": [
         {
           "name": "QLArchiveTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "QuickLook.framework"
         }
       ]
     }

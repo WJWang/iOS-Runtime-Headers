@@ -1,5 +1,5 @@
 {
-  "name": "Symptoms.framework",
+  "name": "Symptoms",
   "list": [
     {
       "name": "NSManagedObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WiFiData",
-          "children": []
+          "children": [],
+          "framework": "Symptoms"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "UsageFeed",
-          "children": []
+          "children": [],
+          "framework": "Symptoms"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "ProcessAnalytics",
-          "children": []
+          "children": [],
+          "framework": "Symptoms"
         },
         {
           "name": "UsageAnalytics",
-          "children": []
+          "children": [],
+          "framework": "Symptoms"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "AppAnalytics",
-          "children": []
+          "children": [],
+          "framework": "Symptoms"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "App",
-          "children": []
+          "children": [],
+          "framework": "Symptoms"
         }
       ]
     }

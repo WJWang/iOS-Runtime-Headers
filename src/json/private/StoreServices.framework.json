@@ -1,5 +1,5 @@
 {
-  "name": "StoreServices.framework",
+  "name": "StoreServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "SSXPCServer",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSXPCServerObserver",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "SSXPCData",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "SSWishlistItemEntity",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -41,15 +45,18 @@
       "children": [
         {
           "name": "SSVURLConnectionConsumer",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSVURLLookupResponseConsumer",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSVURLProtocolConsumer",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "SSVPushNotificationRequest",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -69,15 +77,18 @@
       "children": [
         {
           "name": "SSVLoadNearbyAppsOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSVLoadURLOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSVPlatformRequestOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -87,7 +98,8 @@
       "children": [
         {
           "name": "SSUpdatesDatabaseTransaction",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -97,7 +109,8 @@
       "children": [
         {
           "name": "SSUpdateMemoryEntity",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -107,7 +120,8 @@
       "children": [
         {
           "name": "SSTonePurchase",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -117,7 +131,8 @@
       "children": [
         {
           "name": "SSSystemVersionCondition",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -127,7 +142,8 @@
       "children": [
         {
           "name": "SSSQLitePropertyPredicate",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -137,15 +153,18 @@
       "children": [
         {
           "name": "SSSQLiteComparisonPredicate",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSSQLiteContainsPredicate",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSSQLiteNullPredicate",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -155,7 +174,8 @@
       "children": [
         {
           "name": "SSRingtonePurchase",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -165,7 +185,8 @@
       "children": [
         {
           "name": "SSPurchasableAppItem",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -175,7 +196,8 @@
       "children": [
         {
           "name": "SSMutableURLRequestProperties",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -185,7 +207,8 @@
       "children": [
         {
           "name": "SSMutableSoftwareUpdatesContext",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -195,7 +218,8 @@
       "children": [
         {
           "name": "SSMutableAuthenticationContext",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -205,15 +229,18 @@
       "children": [
         {
           "name": "SSMetricsPageEvent",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSMetricsPurchaseEvent",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSMetricsSearchEvent",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -223,7 +250,8 @@
       "children": [
         {
           "name": "SSMetricsMutableEvent",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -233,7 +261,8 @@
       "children": [
         {
           "name": "SSMetricsEventController",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -243,7 +272,8 @@
       "children": [
         {
           "name": "SSMetricsBaseEvent",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -253,7 +283,8 @@
       "children": [
         {
           "name": "SSKeyValueStoreTransaction",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -263,7 +294,8 @@
       "children": [
         {
           "name": "SSGzipOutputStream",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -273,11 +305,13 @@
       "children": [
         {
           "name": "SSDownloadAuthenticationSession",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSDownloadHandlerSession",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -287,11 +321,13 @@
       "children": [
         {
           "name": "SSDownload",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         },
         {
           "name": "SSDownloadAsset",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -301,7 +337,8 @@
       "children": [
         {
           "name": "SSClientAccountStore",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     },
@@ -311,7 +348,8 @@
       "children": [
         {
           "name": "SSAppImageDatabaseCacheEntry",
-          "children": []
+          "children": [],
+          "framework": "StoreServices"
         }
       ]
     }

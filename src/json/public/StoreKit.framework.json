@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "SKWeakReference",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         },
         {
           "name": "SKXPCConnection",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         }
       ]
     },
@@ -21,11 +23,13 @@
       "children": [
         {
           "name": "SKStorePageViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         },
         {
           "name": "SKStoreProductViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "SKStarRatingControl",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "SKStarRatingAlertView",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         }
       ]
     },
@@ -55,15 +61,18 @@
       "children": [
         {
           "name": "SKRemoteComposeReviewViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         },
         {
           "name": "SKRemoteProductViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         },
         {
           "name": "SKRemoteStorePageViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         }
       ]
     },
@@ -73,11 +82,13 @@
       "children": [
         {
           "name": "SKProductsRequest",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         },
         {
           "name": "SKReceiptRefreshRequest",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         }
       ]
     },
@@ -87,7 +98,8 @@
       "children": [
         {
           "name": "SKMutablePayment",
-          "children": []
+          "children": [],
+          "framework": "StoreKit.framework"
         }
       ]
     }

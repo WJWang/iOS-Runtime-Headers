@@ -1,5 +1,5 @@
 {
-  "name": "ScreenReaderCore.framework",
+  "name": "ScreenReaderCore",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_SCRCThreadTask",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_SCRCStackQueueEnumerator",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "SCRCTargetSelectorTimer",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -37,19 +40,23 @@
       "children": [
         {
           "name": "SCRCPhotoEvaluatorResultBlur",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         },
         {
           "name": "SCRCPhotoEvaluatorResultColor",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         },
         {
           "name": "SCRCPhotoEvaluatorResultLuminance",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         },
         {
           "name": "SCRCPhotoEvaluatorResultPeople",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -59,19 +66,23 @@
       "children": [
         {
           "name": "SCRCPhotoEvaluatorBlur",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         },
         {
           "name": "SCRCPhotoEvaluatorColor",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         },
         {
           "name": "SCRCPhotoEvaluatorLuminance",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         },
         {
           "name": "SCRCPhotoEvaluatorPeople",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -81,7 +92,8 @@
       "children": [
         {
           "name": "SCRCMathUnderOverExpression",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -91,7 +103,8 @@
       "children": [
         {
           "name": "SCRCMathTextExpression",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -101,11 +114,13 @@
       "children": [
         {
           "name": "SCRCMathTableExpression",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         },
         {
           "name": "SCRCMathTableRowExpression",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -115,11 +130,13 @@
       "children": [
         {
           "name": "SCRCMathFencedExpression",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         },
         {
           "name": "SCRCMathTableCellExpression",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     },
@@ -129,7 +146,8 @@
       "children": [
         {
           "name": "SCRCArgumentParser",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderCore"
         }
       ]
     }

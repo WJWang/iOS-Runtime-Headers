@@ -1,5 +1,5 @@
 {
-  "name": "ScreenReaderOutput.framework",
+  "name": "ScreenReaderOutput",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "SCROConnection",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutput"
         },
         {
           "name": "SCROMobileBrailleDisplayInputManager",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutput"
         },
         {
           "name": "SCROMobileBrailleDisplayInputManagerCacheObject",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutput"
         },
         {
           "name": "SCROScriptClient",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutput"
         }
       ]
     },
@@ -29,7 +33,8 @@
       "children": [
         {
           "name": "SCROBrailleClient",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutput"
         }
       ]
     }

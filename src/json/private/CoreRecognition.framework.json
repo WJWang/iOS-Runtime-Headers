@@ -1,5 +1,5 @@
 {
-  "name": "CoreRecognition.framework",
+  "name": "CoreRecognition",
   "list": [
     {
       "name": "CALayer",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "DiagnosticHUDLayer",
-          "children": []
+          "children": [],
+          "framework": "CoreRecognition"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "CaptureSessionManager",
-          "children": []
+          "children": [],
+          "framework": "CoreRecognition"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "CRCodeRedeemerController",
-          "children": []
+          "children": [],
+          "framework": "CoreRecognition"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "CRBoxLayer",
-          "children": []
+          "children": [],
+          "framework": "CoreRecognition"
         }
       ]
     }

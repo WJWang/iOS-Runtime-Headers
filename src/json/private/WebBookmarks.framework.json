@@ -1,5 +1,5 @@
 {
-  "name": "WebBookmarks.framework",
+  "name": "WebBookmarks",
   "list": [
     {
       "name": "NSObject",
@@ -7,59 +7,73 @@
       "children": [
         {
           "name": "BABookmarkItem",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "BAChangeRecord",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "CloudTabServices",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "SafariFetcherServerProxy",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WBReadingList",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WBReadingListPrivate",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WebBookmark",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WebBookmarkCollection",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WebBookmarkList",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WebBookmarkTitleWordTokenizer",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WebBookmarksSettingsGateway",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WebBookmarksXPCConnection",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WebBookmarksXPCListener",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         },
         {
           "name": "WebReadingList",
-          "children": []
+          "children": [],
+          "framework": "WebBookmarks"
         }
       ]
     }

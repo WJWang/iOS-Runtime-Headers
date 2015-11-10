@@ -1,5 +1,5 @@
 {
-  "name": "SportsTrainer.framework",
+  "name": "SportsTrainer",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "STWorkoutController",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "STWeightPicker",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "STTwoPartLabel",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         },
         {
           "name": "STValueUnitLabel",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "STShadowLabel",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "STShadowBlurRadiusAnimation",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         }
       ]
     },
@@ -61,19 +67,23 @@
       "children": [
         {
           "name": "STRunCaloriesLabel",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         },
         {
           "name": "STRunDistanceLabel",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         },
         {
           "name": "STRunPaceLabel",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         },
         {
           "name": "STRunTimeLabel",
-          "children": []
+          "children": [],
+          "framework": "SportsTrainer"
         }
       ]
     }

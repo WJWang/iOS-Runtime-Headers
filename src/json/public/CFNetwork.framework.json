@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "__NSCFURLSessionUploadTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "__NSCFURLSessionTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "__NSCFURLSessionDataTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         },
         {
           "name": "__NSCFURLSessionDownloadTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "__NSCFLocalUploadTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "__NSCFLocalSessionBridge",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         }
       ]
     },
@@ -61,11 +67,13 @@
       "children": [
         {
           "name": "__NSCFLocalDataTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         },
         {
           "name": "__NSCFLocalDownloadTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "__NSCFBackgroundUploadTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         }
       ]
     },
@@ -85,11 +94,13 @@
       "children": [
         {
           "name": "__NSCFBackgroundDataTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         },
         {
           "name": "__NSCFBackgroundDownloadTask",
-          "children": []
+          "children": [],
+          "framework": "CFNetwork.framework"
         }
       ]
     }

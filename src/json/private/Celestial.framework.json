@@ -1,5 +1,5 @@
 {
-  "name": "Celestial.framework",
+  "name": "Celestial",
   "list": [
     {
       "name": "NSObject",
@@ -7,31 +7,38 @@
       "children": [
         {
           "name": "AVSystemController",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         },
         {
           "name": "AVTimeMarkerObservation",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         },
         {
           "name": "AVValue",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         },
         {
           "name": "EventSystemManager",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         },
         {
           "name": "FigAccelerometerDelegate",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         },
         {
           "name": "FigCoreMotionDelegate",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         },
         {
           "name": "FigIOHIDMotionDelegate",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         }
       ]
     },
@@ -41,7 +48,8 @@
       "children": [
         {
           "name": "AVSubtitleLayerUsingWebKit",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         }
       ]
     },
@@ -51,15 +59,18 @@
       "children": [
         {
           "name": "AVControllerFig",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         },
         {
           "name": "AVControllerRemoteFig",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         },
         {
           "name": "AVControllerRemoteFigStream",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         }
       ]
     },
@@ -69,7 +80,8 @@
       "children": [
         {
           "name": "AVArrayQueueFeeder",
-          "children": []
+          "children": [],
+          "framework": "Celestial"
         }
       ]
     }

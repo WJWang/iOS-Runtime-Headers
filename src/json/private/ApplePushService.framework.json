@@ -1,5 +1,5 @@
 {
-  "name": "ApplePushService.framework",
+  "name": "ApplePushService",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_APSLogFileCompressor",
-          "children": []
+          "children": [],
+          "framework": "ApplePushService"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "children": [
         {
           "name": "APSIncomingMessage",
-          "children": []
+          "children": [],
+          "framework": "ApplePushService"
         },
         {
           "name": "APSOutgoingMessage",
-          "children": []
+          "children": [],
+          "framework": "ApplePushService"
         }
       ]
     }

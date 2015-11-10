@@ -1,5 +1,5 @@
 {
-  "name": "IDS.framework",
+  "name": "IDS",
   "list": [
     {
       "name": "NSObject",
@@ -7,83 +7,103 @@
       "children": [
         {
           "name": "IDSAccount",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSAccountController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSBatchIDQueryController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSConnection",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSDaemonController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSDaemonListener",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSDevice",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSIDQueryController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSInternalQueueController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSService",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSServiceAvailabilityController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSServiceContainer",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "IDSServiceMonitor",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "_IDSAccount",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "_IDSAccountController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "_IDSBatchIDQueryController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "_IDSConnection",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "_IDSDevice",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "_IDSIDQueryController",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         },
         {
           "name": "_IDSService",
-          "children": []
+          "children": [],
+          "framework": "IDS"
         }
       ]
     }

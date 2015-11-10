@@ -1,5 +1,5 @@
 {
-  "name": "ScreenReaderBrailleDriver.framework",
+  "name": "ScreenReaderBrailleDriver",
   "list": [
     {
       "name": "NSObject",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "SCRDFileReader",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderBrailleDriver"
         },
         {
           "name": "SCRDKGSPacket",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderBrailleDriver"
         },
         {
           "name": "SCRDUSBDevice",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderBrailleDriver"
         }
       ]
     }

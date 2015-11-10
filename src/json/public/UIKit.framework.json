@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "_XPCProxyReplyHandlerAwaitingProxy",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_XPCProxyReplyHandlerQueueRedirectingProxy",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -21,11 +23,13 @@
       "children": [
         {
           "name": "_UIWindowAnchoringConstraint",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIWindowAutoresizingConstraint",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -35,15 +39,18 @@
       "children": [
         {
           "name": "_UIWebViewScrollViewDelegateForwarder",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIWebViewSettings",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIWebViewportHandler",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -53,7 +60,8 @@
       "children": [
         {
           "name": "_UIWebViewScrollView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -63,7 +71,8 @@
       "children": [
         {
           "name": "_UIWebViewController",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -73,7 +82,8 @@
       "children": [
         {
           "name": "_UIWebHighlightLongPressGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -83,7 +93,8 @@
       "children": [
         {
           "name": "_UIWebFindOnPageHighlightBubbleView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -93,7 +104,8 @@
       "children": [
         {
           "name": "_UIWebDocumentViewRotationLayer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -103,7 +115,8 @@
       "children": [
         {
           "name": "_UIViewServiceXPCProxy",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -113,7 +126,8 @@
       "children": [
         {
           "name": "_UIViewServiceSession_XPCObjects",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "_UIViewServiceSessionManager_XPCObjects",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -133,7 +148,8 @@
       "children": [
         {
           "name": "_UIViewServiceReplyAwaitingTrampoline",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -143,7 +159,8 @@
       "children": [
         {
           "name": "_UIViewServiceInterface_XPCObjects",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -153,7 +170,8 @@
       "children": [
         {
           "name": "_UIViewServiceInterfaceConnectionRequest_XPCObjects",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -163,7 +181,8 @@
       "children": [
         {
           "name": "_UIViewServiceFencingControlProxy",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -173,7 +192,8 @@
       "children": [
         {
           "name": "_UIViewServiceDummyPopoverView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -183,7 +203,8 @@
       "children": [
         {
           "name": "_UIViewServiceDummyPopoverController",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -193,7 +214,8 @@
       "children": [
         {
           "name": "_UIViewServiceDummyPopoverBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -203,7 +225,8 @@
       "children": [
         {
           "name": "_UIViewControllerOneToOneTransitionContext",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -213,7 +236,8 @@
       "children": [
         {
           "name": "_UIUserNotificationAlertView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -223,7 +247,8 @@
       "children": [
         {
           "name": "_UIToolbarNavigationButton",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -233,7 +258,8 @@
       "children": [
         {
           "name": "_UIToolbarBackground",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -243,7 +269,8 @@
       "children": [
         {
           "name": "_UIToolbarAppearanceStorage",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -253,7 +280,8 @@
       "children": [
         {
           "name": "_UITiltMotionEffect",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -263,11 +291,13 @@
       "children": [
         {
           "name": "_UITextViewInteractableAttachment",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UITextViewInteractableLink",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -277,15 +307,18 @@
       "children": [
         {
           "name": "_UITextUndoOperationReplace",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UITextUndoOperationSetAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UITextUndoOperationTyping",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -295,7 +328,8 @@
       "children": [
         {
           "name": "_UITextUndoManager",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -305,7 +339,8 @@
       "children": [
         {
           "name": "_UITextKitTextRange",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -315,7 +350,8 @@
       "children": [
         {
           "name": "_UITextKitTextPosition",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -325,7 +361,8 @@
       "children": [
         {
           "name": "_UITextKitSelectionRect",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -335,7 +372,8 @@
       "children": [
         {
           "name": "_UITextInputControllerTokenizer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -345,7 +383,8 @@
       "children": [
         {
           "name": "_UITextFieldRoundedRectBackgroundViewNeue",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -355,7 +394,8 @@
       "children": [
         {
           "name": "_UITextFieldPasscodeCutoutLabel",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -365,7 +405,8 @@
       "children": [
         {
           "name": "_UITextFieldPasscodeCutoutBackground",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -375,7 +416,8 @@
       "children": [
         {
           "name": "_UITextEffectsRemoteView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -385,7 +427,8 @@
       "children": [
         {
           "name": "_UITargetedProxy",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -395,7 +438,8 @@
       "children": [
         {
           "name": "_UITableViewHeaderFooterViewLabel",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -405,7 +449,8 @@
       "children": [
         {
           "name": "_UITableViewCellRemoveControl",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -415,11 +460,13 @@
       "children": [
         {
           "name": "_UITableViewCellDeleteConfirmationControl_Legacy",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UITableViewCellGrabber",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -429,7 +476,8 @@
       "children": [
         {
           "name": "_UITabBarItemAppearanceStorage",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -439,7 +487,8 @@
       "children": [
         {
           "name": "_UISystemGestureGateGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -449,7 +498,8 @@
       "children": [
         {
           "name": "_UIStepperButton",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -459,7 +509,8 @@
       "children": [
         {
           "name": "_UISnapshotWindow",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -469,7 +520,8 @@
       "children": [
         {
           "name": "_UISlidingPopoverLayoutInfo",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -479,7 +531,8 @@
       "children": [
         {
           "name": "_UISettingsGroup",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -489,7 +542,8 @@
       "children": [
         {
           "name": "_UIServiceWebView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -499,7 +553,8 @@
       "children": [
         {
           "name": "_UISearchBarSearchFieldBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -509,7 +564,8 @@
       "children": [
         {
           "name": "_UISearchBarNavigationItem",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -519,7 +575,8 @@
       "children": [
         {
           "name": "_UIRotatingActionSheet",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -529,7 +586,8 @@
       "children": [
         {
           "name": "_UIResizableImage",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -539,7 +597,8 @@
       "children": [
         {
           "name": "_UIRemoteWebViewController",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -549,7 +608,8 @@
       "children": [
         {
           "name": "_UIRemoteDictionaryViewController",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -559,11 +619,13 @@
       "children": [
         {
           "name": "_UIRefreshControlDefaultContentView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIRefreshControlModernContentView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -573,7 +635,8 @@
       "children": [
         {
           "name": "_UIQuickLookActivity",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -583,7 +646,8 @@
       "children": [
         {
           "name": "_UIQueuingScrollViewState",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -593,7 +657,8 @@
       "children": [
         {
           "name": "_UIQueuingScrollView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -603,7 +668,8 @@
       "children": [
         {
           "name": "_UIPropertyBasedAppearance",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -613,7 +679,8 @@
       "children": [
         {
           "name": "_UIPopoverShadowlessSlidingChromeView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -623,7 +690,8 @@
       "children": [
         {
           "name": "_UIOpenInNavigationController",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -633,7 +701,8 @@
       "children": [
         {
           "name": "_UIOldSliderAnimation",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -643,7 +712,8 @@
       "children": [
         {
           "name": "_UINavigationInteractiveTransitionBase",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -653,7 +723,8 @@
       "children": [
         {
           "name": "_UINavigationInteractiveTransition",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -663,7 +734,8 @@
       "children": [
         {
           "name": "_UIModalItemTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -673,7 +745,8 @@
       "children": [
         {
           "name": "_UIModalItemAlertContentView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -683,11 +756,13 @@
       "children": [
         {
           "name": "_UIModalItemActionSheetBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIModalItemAlertBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -697,7 +772,8 @@
       "children": [
         {
           "name": "_UILegibilityLabel",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -707,7 +783,8 @@
       "children": [
         {
           "name": "_UILayoutSupportConstraint",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -717,7 +794,8 @@
       "children": [
         {
           "name": "_UIHostedTextServiceSession",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -727,7 +805,8 @@
       "children": [
         {
           "name": "_UIGetAssetThread",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -737,7 +816,8 @@
       "children": [
         {
           "name": "_UIFieldEditorLayoutManager",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -747,7 +827,8 @@
       "children": [
         {
           "name": "_UIEmojiPageControl",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -757,11 +838,13 @@
       "children": [
         {
           "name": "_UIDynamicAnimationGroup",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIDynamicValueAnimation",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -771,7 +854,8 @@
       "children": [
         {
           "name": "_UIDocumentActivityViewController",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -781,7 +865,8 @@
       "children": [
         {
           "name": "_UIDocumentActivityItemProvider",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -791,7 +876,8 @@
       "children": [
         {
           "name": "_UIDismissCurlUpTapGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -801,7 +887,8 @@
       "children": [
         {
           "name": "_UIDictationAttachment",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -811,7 +898,8 @@
       "children": [
         {
           "name": "_UIDatePickerView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -821,7 +909,8 @@
       "children": [
         {
           "name": "_UIDatePickerMode_YearMonth",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -831,23 +920,28 @@
       "children": [
         {
           "name": "_UIDatePickerMode_Custom",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIDatePickerMode_Date",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIDatePickerMode_DateAndTime",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIDatePickerMode_Time",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIDatePickerMode_TimeInterval",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -857,7 +951,8 @@
       "children": [
         {
           "name": "_UICompatibilityTextViewPrintFormatter",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -867,7 +962,8 @@
       "children": [
         {
           "name": "_UICollectionSnapshotView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -877,7 +973,8 @@
       "children": [
         {
           "name": "_UICascadingTextStorage",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -887,7 +984,8 @@
       "children": [
         {
           "name": "_UIBackdropViewSettingsUltraLight",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -897,7 +995,8 @@
       "children": [
         {
           "name": "_UIBackdropViewSettingsUltraDark",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -907,11 +1006,13 @@
       "children": [
         {
           "name": "_UIBackdropViewSettingsLightLow",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIBackdropViewSettingsSemiLight",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -921,11 +1022,13 @@
       "children": [
         {
           "name": "_UIBackdropViewSettingsDarkLow",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "_UIBackdropViewSettingsDarkWithZoom",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -935,7 +1038,8 @@
       "children": [
         {
           "name": "_UIAlertSheetTable",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -945,7 +1049,8 @@
       "children": [
         {
           "name": "_UIAlertNormalizingOverlayWindow",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -955,7 +1060,8 @@
       "children": [
         {
           "name": "_UIActivityGroupActivityCell",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -965,7 +1071,8 @@
       "children": [
         {
           "name": "_UIActionSheetBlendingSeparatorView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -975,7 +1082,8 @@
       "children": [
         {
           "name": "WebPDFNSNumberFormatter",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -985,7 +1093,8 @@
       "children": [
         {
           "name": "UIZoomButtonWindow",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -995,7 +1104,8 @@
       "children": [
         {
           "name": "UIWheelEvent",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1005,7 +1115,8 @@
       "children": [
         {
           "name": "UIWebTextView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1015,7 +1126,8 @@
       "children": [
         {
           "name": "UIWebSelectPopover",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1025,7 +1137,8 @@
       "children": [
         {
           "name": "UIWebRotatingSheet",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1035,7 +1148,8 @@
       "children": [
         {
           "name": "UIWebPlugInView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1045,7 +1159,8 @@
       "children": [
         {
           "name": "UIWebPDFSearchOperation",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1055,7 +1170,8 @@
       "children": [
         {
           "name": "UIWebFormRotatingAccessoryPopover",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1065,7 +1181,8 @@
       "children": [
         {
           "name": "UIWebFormAccessory",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1075,7 +1192,8 @@
       "children": [
         {
           "name": "UIWebDocumentViewPrintFormatter",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1085,7 +1203,8 @@
       "children": [
         {
           "name": "UIWebDocumentView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1095,7 +1214,8 @@
       "children": [
         {
           "name": "UIWKTextInteractionAssistant",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1105,7 +1225,8 @@
       "children": [
         {
           "name": "UIViewSpringAnimationState",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1115,7 +1236,8 @@
       "children": [
         {
           "name": "UIViewPrintFormatter",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1125,11 +1247,13 @@
       "children": [
         {
           "name": "UIView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIViewController",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1139,7 +1263,8 @@
       "children": [
         {
           "name": "UIToolbarTextButton",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1149,7 +1274,8 @@
       "children": [
         {
           "name": "UITextMagnifierRangedRenderer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1159,11 +1285,13 @@
       "children": [
         {
           "name": "UITextMagnifierCaret",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UITextMagnifierRanged",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1173,7 +1301,8 @@
       "children": [
         {
           "name": "UITextEffectsWindowNoAbove",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1183,7 +1312,8 @@
       "children": [
         {
           "name": "UITextEffectsWindow",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1193,11 +1323,13 @@
       "children": [
         {
           "name": "UITestOneAppearanceContainer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UITestTwoAppearanceContainer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1207,7 +1339,8 @@
       "children": [
         {
           "name": "UITableViewVisibleCells",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1217,19 +1350,23 @@
       "children": [
         {
           "name": "UITableViewCellLayoutManagerEditable1",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UITableViewCellLayoutManagerSubtitle",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UITableViewCellLayoutManagerValue1",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UITableViewCellLayoutManagerValue2",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1239,7 +1376,8 @@
       "children": [
         {
           "name": "UITabBarItem",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1249,11 +1387,13 @@
       "children": [
         {
           "name": "UIStoryboardReplaceSegueTemplate",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStoryboardUnwindSegueTemplate",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1263,23 +1403,28 @@
       "children": [
         {
           "name": "UIStoryboardEmbedSegue",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStoryboardModalSegue",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStoryboardPopoverSegue",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStoryboardPushSegue",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStoryboardReplaceSegue",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1289,7 +1434,8 @@
       "children": [
         {
           "name": "UIStatusBarWhiteOnBlackShadowForegroundStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1299,7 +1445,8 @@
       "children": [
         {
           "name": "UIStatusBarWhiteOnBlackEtchForegroundStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1309,7 +1456,8 @@
       "children": [
         {
           "name": "UIStatusBarVideoConferenceDoubleHeightStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1319,11 +1467,13 @@
       "children": [
         {
           "name": "UIStatusBarThermalColorItemView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStatusBarTimeItemView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1333,7 +1483,8 @@
       "children": [
         {
           "name": "UIStatusBarTetheringStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1343,7 +1494,8 @@
       "children": [
         {
           "name": "UIStatusBarStyleAnimationParameters",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1353,11 +1505,13 @@
       "children": [
         {
           "name": "UIStatusBarReturnToCallItemView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStatusBarReturnToNavigationItemView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1367,7 +1521,8 @@
       "children": [
         {
           "name": "UIStatusBarReturnToAppItemView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1377,7 +1532,8 @@
       "children": [
         {
           "name": "UIStatusBarQuietModeItemView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1387,7 +1543,8 @@
       "children": [
         {
           "name": "UIStatusBarNewUIStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1397,11 +1554,13 @@
       "children": [
         {
           "name": "UIStatusBarLockScreenStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStatusBarNewUIDoubleHeightStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1411,7 +1570,8 @@
       "children": [
         {
           "name": "UIStatusBarLockScreenForegroundStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1421,15 +1581,18 @@
       "children": [
         {
           "name": "UIStatusBarExternalInCallForegroundStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStatusBarExternalNavigationForegroundStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIStatusBarExternalTranslucentForegroundStyleAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1439,7 +1602,8 @@
       "children": [
         {
           "name": "UIStatusBar",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1449,7 +1613,8 @@
       "children": [
         {
           "name": "UIStateRestorationKeyedUnarchiver",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1459,7 +1624,8 @@
       "children": [
         {
           "name": "UISnapBehavior",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1469,7 +1635,8 @@
       "children": [
         {
           "name": "UISelectionTapRecognizer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1479,11 +1646,13 @@
       "children": [
         {
           "name": "UISearchBarTextField",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UISearchField",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1493,7 +1662,8 @@
       "children": [
         {
           "name": "UIScrubberControl",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1503,7 +1673,8 @@
       "children": [
         {
           "name": "UIScrollViewPinchGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1513,11 +1684,13 @@
       "children": [
         {
           "name": "UIScreenEdgePanGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIScrollViewPanGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1527,15 +1700,18 @@
       "children": [
         {
           "name": "UIRuntimeEventConnection",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIRuntimeOutletCollectionConnection",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIRuntimeOutletConnection",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1545,7 +1721,8 @@
       "children": [
         {
           "name": "UIRowMoveUpdateItem",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1555,7 +1732,8 @@
       "children": [
         {
           "name": "UIRemoveControlTextFrameAnimation",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1565,7 +1743,8 @@
       "children": [
         {
           "name": "UIRemoveControlMultiSelectButton",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1575,7 +1754,8 @@
       "children": [
         {
           "name": "UIProgressIndicator",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1585,7 +1765,8 @@
       "children": [
         {
           "name": "UIPlaceholderColor",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1595,11 +1776,13 @@
       "children": [
         {
           "name": "UIPickerTableViewTitledCell",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIPickerTableViewWrapperCell",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1609,7 +1792,8 @@
       "children": [
         {
           "name": "UIPhysicalKeyboardEvent",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1619,7 +1803,8 @@
       "children": [
         {
           "name": "UINibDecoder",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1629,7 +1814,8 @@
       "children": [
         {
           "name": "UINavigationItemButtonView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1639,7 +1825,8 @@
       "children": [
         {
           "name": "UINavigationControllerKeyboardAnimationStyle",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1649,7 +1836,8 @@
       "children": [
         {
           "name": "UIMutableStatusBarStyleRequest",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1659,7 +1847,8 @@
       "children": [
         {
           "name": "UIMutableIndexPath",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1669,7 +1858,8 @@
       "children": [
         {
           "name": "UIManagedDocument",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1679,7 +1869,8 @@
       "children": [
         {
           "name": "UIKeyboardSuggestedInputMode",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1689,7 +1880,8 @@
       "children": [
         {
           "name": "UIKeyboardSplitControlMenu",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1699,11 +1891,13 @@
       "children": [
         {
           "name": "UIKeyboardLayoutDictation",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardLayoutStar",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1713,7 +1907,8 @@
       "children": [
         {
           "name": "UIKeyboardLayoutCursor",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1723,7 +1918,8 @@
       "children": [
         {
           "name": "UIKeyboardInputMode",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1733,11 +1929,13 @@
       "children": [
         {
           "name": "UIKeyboardEmojiSplitCategoryPicker",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardEmojiSplitCharacterPicker",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1747,15 +1945,18 @@
       "children": [
         {
           "name": "UIKeyboardEmojiPicker",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardEmojiScrollView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardEmojiSplit",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1765,11 +1966,13 @@
       "children": [
         {
           "name": "UIKeyboardEmojiCategoryPicker",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardEmojiCharacterPicker",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1779,11 +1982,13 @@
       "children": [
         {
           "name": "UIKeyboardEmojiCategoryBar_iPad",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardEmojiCategoryBar_iPhone",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1793,11 +1998,13 @@
       "children": [
         {
           "name": "UIKeyboardCandidateView_iPhone_Bar",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardCandidateView_iPhone_Floating",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1807,15 +2014,18 @@
       "children": [
         {
           "name": "UIKeyboardCandidateView_Floating",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardCandidateView_iPad",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardCandidateView_iPhone",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1825,11 +2035,13 @@
       "children": [
         {
           "name": "UIKeyboardCandidateSplitKeyboardToggleButton",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKeyboardCandidateUnsplitKeyboardToggleButton",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1839,7 +2051,8 @@
       "children": [
         {
           "name": "UIKeyboardCandidateGridSecondaryCandidatesLayout",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1849,7 +2062,8 @@
       "children": [
         {
           "name": "UIKeyboardCandidateGridOverlayBackgroundViewAttributes",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1859,7 +2073,8 @@
       "children": [
         {
           "name": "UIKeyboardCandidateGridLayout",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1869,7 +2084,8 @@
       "children": [
         {
           "name": "UIKeyboardCandidateGridCollectionView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1879,7 +2095,8 @@
       "children": [
         {
           "name": "UIKeyboardCandidateBarSegmentControl",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1889,7 +2106,8 @@
       "children": [
         {
           "name": "UIKeyboardCandidateBarCell_SecondaryCandidate",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1899,7 +2117,8 @@
       "children": [
         {
           "name": "UIKeyboardBehaviors_Handwriting",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1909,7 +2128,8 @@
       "children": [
         {
           "name": "UIKeyboardAutomatic",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1919,7 +2139,8 @@
       "children": [
         {
           "name": "UIKBTree_Compile",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1929,7 +2150,8 @@
       "children": [
         {
           "name": "UIKBTreeLocalizedKeylistEnumerator",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1939,7 +2161,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryiPhoneLegacy",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1949,7 +2172,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryiPhoneLandscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1959,11 +2183,13 @@
       "children": [
         {
           "name": "UIKBRenderFactoryiPadLandscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKBRenderFactoryiPadSplit",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1973,7 +2199,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryiPadHWR_Portrait",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1983,7 +2210,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryiPadHWR_Landscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -1993,7 +2221,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryiPad10Key_Portrait",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2003,7 +2232,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryiPad10Key_Landscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2013,7 +2243,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryNumberPadLandscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2023,7 +2254,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryHWR_Landscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2033,11 +2265,13 @@
       "children": [
         {
           "name": "UIKBRenderFactoryEmoji_iPad_Split",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKBRenderFactoryEmoji_iPhone",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2047,7 +2281,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryEmoji_iPad_Landscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2057,7 +2292,8 @@
       "children": [
         {
           "name": "UIKBRenderFactoryEmoji_iPad",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2067,7 +2303,8 @@
       "children": [
         {
           "name": "UIKBRenderFactory50On_Landscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2077,7 +2314,8 @@
       "children": [
         {
           "name": "UIKBRenderFactory10Key_Landscape",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2087,7 +2325,8 @@
       "children": [
         {
           "name": "UIKBKeyplaneView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2097,15 +2336,18 @@
       "children": [
         {
           "name": "UIKBHandwritingBoxcarFilterPointFIFO",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKBHandwritingQuadCurvePointFIFO",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKBHandwritingStrokePointFIFO",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2115,7 +2357,8 @@
       "children": [
         {
           "name": "UIKBColorGradient",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2125,7 +2368,8 @@
       "children": [
         {
           "name": "UIKBCandidateCollectionView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2135,7 +2379,8 @@
       "children": [
         {
           "name": "UIKBCacheToken_Keyplane",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2145,15 +2390,18 @@
       "children": [
         {
           "name": "UIKBCacheToken_KeyFilledTemplate",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKBCacheToken_KeyMask",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIKBCacheToken_KeyTemplate",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2163,7 +2411,8 @@
       "children": [
         {
           "name": "UIKBBackdropView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2173,7 +2422,8 @@
       "children": [
         {
           "name": "UIInternalEvent",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2183,11 +2433,13 @@
       "children": [
         {
           "name": "UIInputViewRotateTransition",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIInputViewSlideTransition",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2197,7 +2449,8 @@
       "children": [
         {
           "name": "UIImageTableArtwork",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2207,11 +2460,13 @@
       "children": [
         {
           "name": "UIDictationiPadLayoutView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIDictationiPhoneLayoutView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2221,7 +2476,8 @@
       "children": [
         {
           "name": "UIDictationStreamingOperation",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2231,7 +2487,8 @@
       "children": [
         {
           "name": "UIDelayedControlTargetAction",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2241,7 +2498,8 @@
       "children": [
         {
           "name": "UIDOMHTMLOptionPickerCell",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2251,7 +2509,8 @@
       "children": [
         {
           "name": "UIDOMHTMLOptGroupCell",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2261,7 +2520,8 @@
       "children": [
         {
           "name": "UIConcreteLocalNotification",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2271,7 +2531,8 @@
       "children": [
         {
           "name": "UICollectionViewFlowLayoutInvalidationContext",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2281,7 +2542,8 @@
       "children": [
         {
           "name": "UICachedDeviceWhiteColor",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2291,7 +2553,8 @@
       "children": [
         {
           "name": "UICachedDeviceRGBColor",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2301,7 +2564,8 @@
       "children": [
         {
           "name": "UICachedDevicePatternColor",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2311,7 +2575,8 @@
       "children": [
         {
           "name": "UIAlertTextView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2321,11 +2586,13 @@
       "children": [
         {
           "name": "UIAlertLabeledButton",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         },
         {
           "name": "UIAlertMediaButton",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2335,7 +2602,8 @@
       "children": [
         {
           "name": "UIActivityViewPopoverBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2345,7 +2613,8 @@
       "children": [
         {
           "name": "UIActivityGroupViewController",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2355,7 +2624,8 @@
       "children": [
         {
           "name": "PKExtendedPhysicsWorld",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     },
@@ -2365,7 +2635,8 @@
       "children": [
         {
           "name": "PKExtendedPhysicsBody",
-          "children": []
+          "children": [],
+          "framework": "UIKit.framework"
         }
       ]
     }

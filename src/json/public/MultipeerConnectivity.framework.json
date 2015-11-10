@@ -7,47 +7,58 @@
       "children": [
         {
           "name": "MCNearbyServiceAdvertiser",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCNearbyServiceBrowser",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCNearbyServiceUtils",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCPeerID",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCPeerIDInternal",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCResourceDownloader",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCResourceProgressObserver",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCSession",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCSessionPeerConnectionData",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCSessionPeerState",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         },
         {
           "name": "MCSessionStream",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         }
       ]
     },
@@ -57,7 +68,8 @@
       "children": [
         {
           "name": "MCNearbyPeerTableViewHeader",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         }
       ]
     },
@@ -67,7 +79,8 @@
       "children": [
         {
           "name": "MCNearbyPeerTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         }
       ]
     },
@@ -77,7 +90,8 @@
       "children": [
         {
           "name": "MCBrowserViewController",
-          "children": []
+          "children": [],
+          "framework": "MultipeerConnectivity.framework"
         }
       ]
     }

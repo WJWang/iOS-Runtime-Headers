@@ -1,5 +1,5 @@
 {
-  "name": "PowerlogCoreLoggers.framework",
+  "name": "PowerlogCoreLoggers",
   "list": [
     {
       "name": "PLLogger",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "PLWiFiLogger",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLXPCLogger",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         }
       ]
     },
@@ -21,11 +23,13 @@
       "children": [
         {
           "name": "PLSleepWakeLogger",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLTelephonyLogger",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         }
       ]
     },
@@ -35,31 +39,38 @@
       "children": [
         {
           "name": "PLPacketDecoder",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLPerAppDataUsageSnapshot",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLPowerSnapshot",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLPowerSnapshotList",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLProcessNetworkInfo",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLProcessNetworkStat",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLProcessPortMap",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         }
       ]
     },
@@ -69,7 +80,8 @@
       "children": [
         {
           "name": "PLMav7BasebandHardwareMessage",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         }
       ]
     },
@@ -79,7 +91,8 @@
       "children": [
         {
           "name": "PLMav5BasebandHardwareMessage",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         }
       ]
     },
@@ -89,11 +102,13 @@
       "children": [
         {
           "name": "PLMav2BasebandHardwareMessage",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLMav4BasebandHardwareMessage",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         }
       ]
     },
@@ -103,11 +118,13 @@
       "children": [
         {
           "name": "PLEurekaBasebandLogger",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLICEBasebandLogger",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         }
       ]
     },
@@ -117,19 +134,23 @@
       "children": [
         {
           "name": "PLBasebandEurekaLogMessage",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLBasebandEurekaMessage",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLBasebandHardwareMessage",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         },
         {
           "name": "PLBasebandMavLogMessage",
-          "children": []
+          "children": [],
+          "framework": "PowerlogCoreLoggers"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "UserFS.framework",
+  "name": "UserFS",
   "list": [
     {
       "name": "NSObject",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "UserFSItem",
-          "children": []
+          "children": [],
+          "framework": "UserFS"
         },
         {
           "name": "UserFSStream",
-          "children": []
+          "children": [],
+          "framework": "UserFS"
         },
         {
           "name": "UserFSVolume",
-          "children": []
+          "children": [],
+          "framework": "UserFS"
         }
       ]
     },
@@ -25,11 +28,13 @@
       "children": [
         {
           "name": "UserFSFile",
-          "children": []
+          "children": [],
+          "framework": "UserFS"
         },
         {
           "name": "UserFSFolder",
-          "children": []
+          "children": [],
+          "framework": "UserFS"
         }
       ]
     }

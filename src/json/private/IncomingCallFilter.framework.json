@@ -1,5 +1,5 @@
 {
-  "name": "IncomingCallFilter.framework",
+  "name": "IncomingCallFilter",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "ICFCallServer",
-          "children": []
+          "children": [],
+          "framework": "IncomingCallFilter"
         }
       ]
     }

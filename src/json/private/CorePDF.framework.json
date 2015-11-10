@@ -1,5 +1,5 @@
 {
-  "name": "CorePDF.framework",
+  "name": "CorePDF",
   "list": [
     {
       "name": "UIResponder",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "UIPDFViewTouchHandler",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "UIPDFViewManager",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "UIPDFUnderlineAnnotationView",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "UIPDFUnderlineAnnotation",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -47,15 +51,18 @@
       "children": [
         {
           "name": "UIPDFSquareOrCircleAnnotation",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         },
         {
           "name": "UIPDFStampAnnotation",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         },
         {
           "name": "UIPDFTextAnnotation",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "UIPDFSquareAnnotation",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "UIPDFPageView",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -85,7 +94,8 @@
       "children": [
         {
           "name": "UIPDFPageRenderOperation",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -95,7 +105,8 @@
       "children": [
         {
           "name": "UIPDFPageContentTiledLayer",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -105,15 +116,18 @@
       "children": [
         {
           "name": "SurfaceLayer",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         },
         {
           "name": "UIPDFHighlightLayer",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         },
         {
           "name": "UIPDFPageContentLayer",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "CPZone",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -133,7 +148,8 @@
       "children": [
         {
           "name": "CPTextObject",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -143,7 +159,8 @@
       "children": [
         {
           "name": "CPTextLine",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -153,7 +170,8 @@
       "children": [
         {
           "name": "CPShapeRegion",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -163,7 +181,8 @@
       "children": [
         {
           "name": "CPShape",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -173,11 +192,13 @@
       "children": [
         {
           "name": "CPIsland",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         },
         {
           "name": "CPRotation",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     },
@@ -187,7 +208,8 @@
       "children": [
         {
           "name": "CPChunk",
-          "children": []
+          "children": [],
+          "framework": "CorePDF"
         }
       ]
     }

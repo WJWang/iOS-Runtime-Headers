@@ -13,8 +13,10 @@ gracefulFs.readdir(PRIVATE_FRAMEWORKS_PATH, function(err, frameworkDirNameList) 
   if(err) {
     throw err;
   } else {
+
     frameworkDirNameList.forEach(function(frameworkDirName) {
-      Utils.getFrameworkInherit(PRIVATE_FRAMEWORKS_PATH + frameworkDirName, frameworkDirName, function(result) {
+      var tmp = frameworkDirName.split(".");
+      Utils.getFrameworkInherit(PRIVATE_FRAMEWORKS_PATH + frameworkDirName, tmp[0], function(result) {
         gracefulFs.writeFile(__dirname+'/src/json/private/' + frameworkDirName + ".json", JSON.stringify(result, null, 2), 'utf8', function(err) {
           console.log("DONE ----- " +frameworkDirName+":" ,result);
         });

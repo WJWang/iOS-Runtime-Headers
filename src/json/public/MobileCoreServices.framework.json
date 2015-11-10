@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "LSResourceProxy",
-          "children": []
+          "children": [],
+          "framework": "MobileCoreServices.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "LSOpenOperation",
-          "children": []
+          "children": [],
+          "framework": "MobileCoreServices.framework"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "LSDocumentProxy",
-          "children": []
+          "children": [],
+          "framework": "MobileCoreServices.framework"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "LSApplicationWorkspaceRemoteObserver",
-          "children": []
+          "children": [],
+          "framework": "MobileCoreServices.framework"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "PassKitCore.framework",
+  "name": "PassKitCore",
   "list": [
     {
       "name": "PKPassImages",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WLCardPreviewImages",
-          "children": []
+          "children": [],
+          "framework": "PassKitCore"
         }
       ]
     },
@@ -17,15 +18,18 @@
       "children": [
         {
           "name": "PKUsageNotificationClient",
-          "children": []
+          "children": [],
+          "framework": "PassKitCore"
         },
         {
           "name": "PKUsageNotificationServer",
-          "children": []
+          "children": [],
+          "framework": "PassKitCore"
         },
         {
           "name": "PKZipArchiver",
-          "children": []
+          "children": [],
+          "framework": "PassKitCore"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "PKRemotePass",
-          "children": []
+          "children": [],
+          "framework": "PassKitCore"
         }
       ]
     },
@@ -45,11 +50,13 @@
       "children": [
         {
           "name": "PKPassDateField",
-          "children": []
+          "children": [],
+          "framework": "PassKitCore"
         },
         {
           "name": "PKPassNumberField",
-          "children": []
+          "children": [],
+          "framework": "PassKitCore"
         }
       ]
     }

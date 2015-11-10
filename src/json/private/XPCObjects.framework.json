@@ -1,5 +1,5 @@
 {
-  "name": "XPCObjects.framework",
+  "name": "XPCObjects",
   "list": [
     {
       "name": "NSObject",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "XPCEndpoint",
-          "children": []
+          "children": [],
+          "framework": "XPCObjects"
         },
         {
           "name": "XPCMachSendRight",
-          "children": []
+          "children": [],
+          "framework": "XPCObjects"
         },
         {
           "name": "XPCProxy",
-          "children": []
+          "children": [],
+          "framework": "XPCObjects"
         }
       ]
     },
@@ -25,11 +28,13 @@
       "children": [
         {
           "name": "XPCDecoder",
-          "children": []
+          "children": [],
+          "framework": "XPCObjects"
         },
         {
           "name": "XPCEncoder",
-          "children": []
+          "children": [],
+          "framework": "XPCObjects"
         }
       ]
     }

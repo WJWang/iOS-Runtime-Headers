@@ -1,5 +1,5 @@
 {
-  "name": "AppSupport.framework",
+  "name": "AppSupport",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_ReachabilityRequest",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_CPPowerAssertionThread",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "_CPBundleIdentifierString",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         }
       ]
     },
@@ -37,19 +40,23 @@
       "children": [
         {
           "name": "CapturedInvocationTrampoline",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         },
         {
           "name": "DelayedInvocationTrampoline",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         },
         {
           "name": "OperationQueueInvocationTrampoline",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         },
         {
           "name": "ThreadedInvocationTrampoline",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "CPDistributedMessagingAsyncOperation",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "CPBitmapStoreSQL",
-          "children": []
+          "children": [],
+          "framework": "AppSupport"
         }
       ]
     }

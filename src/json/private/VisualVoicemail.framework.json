@@ -1,5 +1,5 @@
 {
-  "name": "VisualVoicemail.framework",
+  "name": "VisualVoicemail",
   "list": [
     {
       "name": "NSObject",
@@ -7,35 +7,43 @@
       "children": [
         {
           "name": "VMAccount",
-          "children": []
+          "children": [],
+          "framework": "VisualVoicemail"
         },
         {
           "name": "VMServiceClient",
-          "children": []
+          "children": [],
+          "framework": "VisualVoicemail"
         },
         {
           "name": "VMVoicemail",
-          "children": []
+          "children": [],
+          "framework": "VisualVoicemail"
         },
         {
           "name": "VMXPCMessageResult",
-          "children": []
+          "children": [],
+          "framework": "VisualVoicemail"
         },
         {
           "name": "VVCarrierParameters",
-          "children": []
+          "children": [],
+          "framework": "VisualVoicemail"
         },
         {
           "name": "VVNotificationInterpreter",
-          "children": []
+          "children": [],
+          "framework": "VisualVoicemail"
         },
         {
           "name": "VVService",
-          "children": []
+          "children": [],
+          "framework": "VisualVoicemail"
         },
         {
           "name": "VVVerifier",
-          "children": []
+          "children": [],
+          "framework": "VisualVoicemail"
         }
       ]
     }

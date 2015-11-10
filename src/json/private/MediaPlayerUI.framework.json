@@ -1,5 +1,5 @@
 {
-  "name": "MediaPlayerUI.framework",
+  "name": "MediaPlayerUI",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "_MPUViewControllerCreationInformation",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         },
         {
           "name": "_MPUViewControllerRestoration",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "_MPUSystemMediaControlsView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "_MPUSearchOperation",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "_MPUDetailSlider",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "_MPUControlCenterDetailSlider",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -61,7 +67,8 @@
       "children": [
         {
           "name": "MPUTransportControlCenterButton",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -71,7 +78,8 @@
       "children": [
         {
           "name": "MPUTableViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "MPUSystemMediaControlsViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -91,7 +100,8 @@
       "children": [
         {
           "name": "MPUStandardImageStackItemView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -101,7 +111,8 @@
       "children": [
         {
           "name": "MPUSpringAnimationFactory",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -111,7 +122,8 @@
       "children": [
         {
           "name": "MPUSearchDataSource",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -121,7 +133,8 @@
       "children": [
         {
           "name": "MPURatingControl",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -131,7 +144,8 @@
       "children": [
         {
           "name": "MPURadioStationActionsClientViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -141,7 +155,8 @@
       "children": [
         {
           "name": "MPUQueryDataSource",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -151,7 +166,8 @@
       "children": [
         {
           "name": "MPUOperationLIFOQueue",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -161,7 +177,8 @@
       "children": [
         {
           "name": "MPUMediaControlsTitlesView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -171,7 +188,8 @@
       "children": [
         {
           "name": "MPUMediaControlsControlCenterTitlesView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -181,7 +199,8 @@
       "children": [
         {
           "name": "MPULongPressButton",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -191,7 +210,8 @@
       "children": [
         {
           "name": "MPUItemOfferButton",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -201,7 +221,8 @@
       "children": [
         {
           "name": "MPUCompletionFooterView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -211,7 +232,8 @@
       "children": [
         {
           "name": "MPUCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     },
@@ -221,7 +243,8 @@
       "children": [
         {
           "name": "MPUCZCollectionView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayerUI"
         }
       ]
     }

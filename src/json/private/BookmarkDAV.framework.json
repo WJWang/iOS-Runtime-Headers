@@ -1,5 +1,5 @@
 {
-  "name": "BookmarkDAV.framework",
+  "name": "BookmarkDAV",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "BookmarkDAVSyncData",
-          "children": []
+          "children": [],
+          "framework": "BookmarkDAV"
         },
         {
           "name": "BookmarkDAVSyncDriver",
-          "children": []
+          "children": [],
+          "framework": "BookmarkDAV"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "BookmarkDAVRecursiveContainerSyncTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "BookmarkDAV"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "BookmarkDAVMultiGetTask",
-          "children": []
+          "children": [],
+          "framework": "BookmarkDAV"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "BookmarkDAVGetAccountPropertiesTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "BookmarkDAV"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "BookmarkDAVFolderMultiGetTask",
-          "children": []
+          "children": [],
+          "framework": "BookmarkDAV"
         }
       ]
     },
@@ -61,7 +67,8 @@
       "children": [
         {
           "name": "BookmarkDAVFolder",
-          "children": []
+          "children": [],
+          "framework": "BookmarkDAV"
         }
       ]
     },
@@ -71,7 +78,8 @@
       "children": [
         {
           "name": "BookmarkDAVBulkPostTask",
-          "children": []
+          "children": [],
+          "framework": "BookmarkDAV"
         }
       ]
     }

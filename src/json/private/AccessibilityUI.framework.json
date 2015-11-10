@@ -1,17 +1,19 @@
 {
-  "name": "AccessibilityUI.framework",
+  "name": "AccessibilityUI",
   "list": [
     {
       "name": "NSObject",
       "parent": null,
       "children": [
         {
-          "name": "AXUIClientConnection",
-          "children": []
+          "name": "AXUIClient",
+          "children": [],
+          "framework": "AccessibilityUI"
         },
         {
-          "name": "AXUIClient",
-          "children": []
+          "name": "AXUIClientConnection",
+          "children": [],
+          "framework": "AccessibilityUI"
         }
       ]
     }

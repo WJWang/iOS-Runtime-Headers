@@ -1,5 +1,5 @@
 {
-  "name": "SpringBoardServices.framework",
+  "name": "SpringBoardServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,35 +7,43 @@
       "children": [
         {
           "name": "SBAppLaunchUtilities",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardServices"
         },
         {
           "name": "SBLaunchAppListener",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardServices"
         },
         {
           "name": "SBSAccelerometer",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardServices"
         },
         {
           "name": "SBSCardItem",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardServices"
         },
         {
           "name": "SBSCardItemsController",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardServices"
         },
         {
           "name": "SBSLocalNotificationClient",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardServices"
         },
         {
           "name": "SBSRemoteNotificationClient",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardServices"
         },
         {
           "name": "_SBSDisplayIdentifiersCache",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardServices"
         }
       ]
     }

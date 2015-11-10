@@ -1,5 +1,5 @@
 {
-  "name": "Preferences.framework",
+  "name": "Preferences",
   "list": [
     {
       "name": "PSTableCell",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_PSDeleteButtonCell",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "TextFilePane",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "RegionFormatSampleView",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "QuietHoursStateController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "ProblemReportingTableView",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "ProblemReportingController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "ProblemReportingAboutDiagnosticsController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "PrefsUILinkLabel",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "PopBackListItemsController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "PSUsageBundleDetailController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "PSTextView",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -117,7 +128,8 @@
       "children": [
         {
           "name": "PSTextFieldSpecifier",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -127,11 +139,13 @@
       "children": [
         {
           "name": "PSTableCell",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         },
         {
           "name": "PSTextEditingCell",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -141,7 +155,8 @@
       "children": [
         {
           "name": "PSSwitchTableCell",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -151,7 +166,8 @@
       "children": [
         {
           "name": "PSSubtitleSwitchTableCell",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -161,7 +177,8 @@
       "children": [
         {
           "name": "PSSplitViewController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -171,7 +188,8 @@
       "children": [
         {
           "name": "PSSetupController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -181,7 +199,8 @@
       "children": [
         {
           "name": "PSRootController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -191,7 +210,8 @@
       "children": [
         {
           "name": "PSPhoneNumberTableCell",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -201,7 +221,8 @@
       "children": [
         {
           "name": "PSPhoneNumberSpecifier",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -211,7 +232,8 @@
       "children": [
         {
           "name": "PSNonMovableTapGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -221,7 +243,8 @@
       "children": [
         {
           "name": "PSListController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -231,7 +254,8 @@
       "children": [
         {
           "name": "PSInternationalLanguageSetupController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -241,7 +265,8 @@
       "children": [
         {
           "name": "PSExpandableAppListGroupController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -251,7 +276,8 @@
       "children": [
         {
           "name": "PSDiscreteSlider",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -261,7 +287,8 @@
       "children": [
         {
           "name": "PSBarButtonSpinnerView",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -271,7 +298,8 @@
       "children": [
         {
           "name": "NumericPINView",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -281,7 +309,8 @@
       "children": [
         {
           "name": "KeychainSyncTextEntryController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -291,15 +320,18 @@
       "children": [
         {
           "name": "KeychainSyncDevicePINController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         },
         {
           "name": "KeychainSyncSMSVerificationController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         },
         {
           "name": "KeychainSyncSecurityCodeController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -309,7 +341,8 @@
       "children": [
         {
           "name": "FontSizeSliderCell",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -319,7 +352,8 @@
       "children": [
         {
           "name": "FailureBarView",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -329,7 +363,8 @@
       "children": [
         {
           "name": "DevicePINKeypad",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -339,7 +374,8 @@
       "children": [
         {
           "name": "DevicePINController",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     },
@@ -349,7 +385,8 @@
       "children": [
         {
           "name": "AlphanumericPINTextField",
-          "children": []
+          "children": [],
+          "framework": "Preferences"
         }
       ]
     }

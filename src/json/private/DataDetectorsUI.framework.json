@@ -1,5 +1,5 @@
 {
-  "name": "DataDetectorsUI.framework",
+  "name": "DataDetectorsUI",
   "list": [
     {
       "name": "DDOperation",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "DDWebKitOperation",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "DDTrackShipmentAction",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "DDTextMessageAction",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "DDResultTracker",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "DDRemoteActionViewController",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "DDOperation",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "DDFallbackController",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "DDAddToContactsViewController",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "DDAddToAddressBookAction",
-          "children": []
+          "children": [],
+          "framework": "DataDetectorsUI"
         }
       ]
     }

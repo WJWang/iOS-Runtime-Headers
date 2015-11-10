@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "ALAssetsGroupPrivate",
-          "children": []
+          "children": [],
+          "framework": "AssetsLibrary.framework"
         },
         {
           "name": "ALAssetsLibrary",
-          "children": []
+          "children": [],
+          "framework": "AssetsLibrary.framework"
         },
         {
           "name": "ALAssetsLibraryPrivate",
-          "children": []
+          "children": [],
+          "framework": "AssetsLibrary.framework"
         }
       ]
     },
@@ -25,7 +28,8 @@
       "children": [
         {
           "name": "ALAssetsGroupList",
-          "children": []
+          "children": [],
+          "framework": "AssetsLibrary.framework"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "PhotoLibraryServices.framework",
+  "name": "PhotoLibraryServices",
   "list": [
     {
       "name": "PLManagedObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_PLSidecarFile",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_PLServerTransaction",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "_PLPhotoLibraryFileReservation",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         },
         {
           "name": "_PLPlaceholderThumbnailCachedData",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "_PLManagedAlbum",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "_PLLazyPreheatData",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -61,15 +67,18 @@
       "children": [
         {
           "name": "_PLDataPreheatItem",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         },
         {
           "name": "_PLJPEGPreheatItem",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         },
         {
           "name": "_PLLargeImagePreheatItem",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "_PLClientTransaction",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -89,7 +99,8 @@
       "children": [
         {
           "name": "PLWallpaperAsset",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -99,7 +110,8 @@
       "children": [
         {
           "name": "PLWallpaperAlbum",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -109,11 +121,13 @@
       "children": [
         {
           "name": "PLUserActivityDaemonJob",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         },
         {
           "name": "PLUserActivityTrackerJob",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "PLUUIDStringFromUUIDDataTransformer",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -133,7 +148,8 @@
       "children": [
         {
           "name": "PLTransientManagedObjectContext",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -143,7 +159,8 @@
       "children": [
         {
           "name": "PLSortedAlbumListChangeNotification",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -153,7 +170,8 @@
       "children": [
         {
           "name": "PLSidecarFile",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -163,7 +181,8 @@
       "children": [
         {
           "name": "PLShuffledAlbumChangeNotification",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -173,7 +192,8 @@
       "children": [
         {
           "name": "PLSharedPhotoLibrary",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -183,7 +203,8 @@
       "children": [
         {
           "name": "PLRotatedImage",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -193,7 +214,8 @@
       "children": [
         {
           "name": "PLPublishCloudSharedAssetsJob",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -203,7 +225,8 @@
       "children": [
         {
           "name": "PLPhotoLibraryShouldReloadNotification",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -213,7 +236,8 @@
       "children": [
         {
           "name": "PLPhotoLibraryImageSource",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -223,11 +247,13 @@
       "children": [
         {
           "name": "PLPhotoDCFDirectory",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         },
         {
           "name": "PLPhotoDCFFileGroup",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -237,7 +263,8 @@
       "children": [
         {
           "name": "PLMomentAnalyzerWorkThread",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -247,7 +274,8 @@
       "children": [
         {
           "name": "PLMergePolicy",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -257,7 +285,8 @@
       "children": [
         {
           "name": "PLMappedImageData",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -267,7 +296,8 @@
       "children": [
         {
           "name": "PLManagedObjectContext",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -277,7 +307,8 @@
       "children": [
         {
           "name": "PLManagedObject",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -287,7 +318,8 @@
       "children": [
         {
           "name": "PLManagedKeyword",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -297,7 +329,8 @@
       "children": [
         {
           "name": "PLManagedAsset",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -307,7 +340,8 @@
       "children": [
         {
           "name": "PLManagedAlbumList",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -317,7 +351,8 @@
       "children": [
         {
           "name": "PLManagedAlbum",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -327,7 +362,8 @@
       "children": [
         {
           "name": "PLManagedAdjustment",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -337,7 +373,8 @@
       "children": [
         {
           "name": "PLInvitationRecordsChangeNotification",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -347,7 +384,8 @@
       "children": [
         {
           "name": "PLGenericAlbum",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -357,7 +395,8 @@
       "children": [
         {
           "name": "PLFilteredShuffledAlbum",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -367,7 +406,8 @@
       "children": [
         {
           "name": "PLFetchingAlbum",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -377,7 +417,8 @@
       "children": [
         {
           "name": "PLFaceDetectingImageSource",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -387,11 +428,13 @@
       "children": [
         {
           "name": "PLCloudFeedAssetsEntry",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         },
         {
           "name": "PLCloudFeedCommentsEntry",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     },
@@ -401,7 +444,8 @@
       "children": [
         {
           "name": "PLChangeNotification",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibraryServices"
         }
       ]
     }

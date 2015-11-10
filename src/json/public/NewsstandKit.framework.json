@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "NKAssetDownload",
-          "children": []
+          "children": [],
+          "framework": "NewsstandKit.framework"
         },
         {
           "name": "NKIssue",
-          "children": []
+          "children": [],
+          "framework": "NewsstandKit.framework"
         },
         {
           "name": "NKLibrary",
-          "children": []
+          "children": [],
+          "framework": "NewsstandKit.framework"
         }
       ]
     }

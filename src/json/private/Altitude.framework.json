@@ -1,5 +1,5 @@
 {
-  "name": "Altitude.framework",
+  "name": "Altitude",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "AltTileFetcher",
-          "children": []
+          "children": [],
+          "framework": "Altitude"
         },
         {
           "name": "AltitudeGEOResourceObserver",
-          "children": []
+          "children": [],
+          "framework": "Altitude"
         },
         {
           "name": "AltitudeNetworkRunLoop",
-          "children": []
+          "children": [],
+          "framework": "Altitude"
         },
         {
           "name": "PipelineJPEGDecoder",
-          "children": []
+          "children": [],
+          "framework": "Altitude"
         }
       ]
     }

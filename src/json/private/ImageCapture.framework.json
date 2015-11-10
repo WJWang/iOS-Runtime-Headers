@@ -1,5 +1,5 @@
 {
-  "name": "ImageCapture.framework",
+  "name": "ImageCapture",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "PTPTransport",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         },
         {
           "name": "PTPWrappedBytes",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -21,11 +23,13 @@
       "children": [
         {
           "name": "PTPHostUSBTransport",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         },
         {
           "name": "PTPTCPIPTransport",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "PTPCameraStorage",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "PTPCameraFolder",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "PTPCameraFile",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "PTPCameraDeviceManager",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -75,11 +83,13 @@
       "children": [
         {
           "name": "MSCameraDevice",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         },
         {
           "name": "PTPCameraDevice",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -89,11 +99,13 @@
       "children": [
         {
           "name": "ICCameraFile",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         },
         {
           "name": "ICCameraFolder",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -103,7 +115,8 @@
       "children": [
         {
           "name": "ICCameraDevice",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     },
@@ -113,7 +126,8 @@
       "children": [
         {
           "name": "DeviceManagerThread",
-          "children": []
+          "children": [],
+          "framework": "ImageCapture"
         }
       ]
     }

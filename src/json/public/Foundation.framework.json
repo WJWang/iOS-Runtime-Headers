@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "__NSObserver",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "__NSOperationInternal",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "__NSOperationQueueInternal",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -25,7 +28,8 @@
       "children": [
         {
           "name": "__NSLocalizedString",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "__NSConcreteUUID",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "__NSConcreteURLComponents",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "_NSZeroData",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "_NSXPCDistantObjectWithUserInfoAndError",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "_NSXPCDistantObjectWithError",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -85,19 +94,23 @@
       "children": [
         {
           "name": "_NSUndoBeginMark",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "_NSUndoEndMark",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "_NSUndoInvocation",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "_NSUndoLightInvocation",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -107,7 +120,8 @@
       "children": [
         {
           "name": "_NSUnarchiveFromDataTransformer",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -117,7 +131,8 @@
       "children": [
         {
           "name": "_NSStdIOFileHandle",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -127,7 +142,8 @@
       "children": [
         {
           "name": "_NSSharedValueTransformer",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -137,7 +153,8 @@
       "children": [
         {
           "name": "_NSPlaceholderCharacterSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -147,7 +164,8 @@
       "children": [
         {
           "name": "_NSNestedDictionary",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -157,11 +175,13 @@
       "children": [
         {
           "name": "_NSMetadataQueryResultArray",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "_NSMetadataQueryResultGroupArray",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -171,7 +191,8 @@
       "children": [
         {
           "name": "_NSLocalNotificationCenter",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -181,11 +202,13 @@
       "children": [
         {
           "name": "_NSIsNilTransformer",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "_NSIsNotNilTransformer",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -195,7 +218,8 @@
       "children": [
         {
           "name": "_NSIndexSetEnumerator",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -205,7 +229,8 @@
       "children": [
         {
           "name": "_NSCFURLProtocolBridgeWithTrampoline",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -215,11 +240,13 @@
       "children": [
         {
           "name": "NSXPCDecoder",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSXPCEncoder",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -229,7 +256,8 @@
       "children": [
         {
           "name": "NSXPCCoder",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -239,7 +267,8 @@
       "children": [
         {
           "name": "NSWeakPointerValue",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -249,11 +278,13 @@
       "children": [
         {
           "name": "NSVariableAssignmentExpression",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSVariableExpression",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -263,7 +294,8 @@
       "children": [
         {
           "name": "NSUndoManagerProxy",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -273,7 +305,8 @@
       "children": [
         {
           "name": "NSURLSessionUploadTask",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -283,11 +316,13 @@
       "children": [
         {
           "name": "NSURLSessionDataTask",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSURLSessionDownloadTask",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -297,7 +332,8 @@
       "children": [
         {
           "name": "NSURLError",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -307,7 +343,8 @@
       "children": [
         {
           "name": "NSURLDirectoryEnumerator",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -317,11 +354,13 @@
       "children": [
         {
           "name": "NSURLConnectionInternalBackgroundDownload",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSURLConnectionInternalConnection",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -331,7 +370,8 @@
       "children": [
         {
           "name": "NSTruePredicate",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -341,7 +381,8 @@
       "children": [
         {
           "name": "NSTransitInformationCheckingResult",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -351,11 +392,13 @@
       "children": [
         {
           "name": "NSSubstringPredicateOperator",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSTokenMatchingPredicateOperator",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -365,7 +408,8 @@
       "children": [
         {
           "name": "NSStringPredicateOperator",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -375,7 +419,8 @@
       "children": [
         {
           "name": "NSSimpleRegularExpressionCheckingResult",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -385,7 +430,8 @@
       "children": [
         {
           "name": "NSSimpleOrthography",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -395,7 +441,8 @@
       "children": [
         {
           "name": "NSSimpleCString",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -405,7 +452,8 @@
       "children": [
         {
           "name": "NSSimpleAttributeDictionary",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -415,11 +463,13 @@
       "children": [
         {
           "name": "NSQuoteCheckingResult",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSReplacementCheckingResult",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -429,7 +479,8 @@
       "children": [
         {
           "name": "NSPurgeableData",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -444,7 +495,8 @@
       "children": [
         {
           "name": "NSProgressProxy",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -454,7 +506,8 @@
       "children": [
         {
           "name": "NSPlaceholderValue",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -464,7 +517,8 @@
       "children": [
         {
           "name": "NSPlaceholderNumber",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -474,7 +528,8 @@
       "children": [
         {
           "name": "NSNumberFormatter",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -484,7 +539,8 @@
       "children": [
         {
           "name": "NSNullFileHandle",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -494,7 +550,8 @@
       "children": [
         {
           "name": "NSMutableURLRequest",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -504,7 +561,8 @@
       "children": [
         {
           "name": "NSMutableRLEArray",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -514,7 +572,8 @@
       "children": [
         {
           "name": "NSMutableIndexSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -524,7 +583,8 @@
       "children": [
         {
           "name": "NSMutableAttributedString",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -534,7 +594,8 @@
       "children": [
         {
           "name": "NSMessagePortNameServer",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -544,11 +605,13 @@
       "children": [
         {
           "name": "NSMachPort",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSMessagePort",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -558,7 +621,8 @@
       "children": [
         {
           "name": "NSLikePredicateOperator",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -568,7 +632,8 @@
       "children": [
         {
           "name": "NSKeyValueUnnestedProperty",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -578,7 +643,8 @@
       "children": [
         {
           "name": "NSKeyValueUndefinedSetter",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -588,7 +654,8 @@
       "children": [
         {
           "name": "NSKeyValueUndefinedGetter",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -598,7 +665,8 @@
       "children": [
         {
           "name": "NSKeyValueSlowMutableSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -608,7 +676,8 @@
       "children": [
         {
           "name": "NSKeyValueSlowMutableOrderedSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -618,7 +687,8 @@
       "children": [
         {
           "name": "NSKeyValueSlowMutableCollectionGetter",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -628,7 +698,8 @@
       "children": [
         {
           "name": "NSKeyValueSlowMutableArray",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -638,7 +709,8 @@
       "children": [
         {
           "name": "NSKeyValueShareableObservanceKey",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -648,7 +720,8 @@
       "children": [
         {
           "name": "NSKeyValueSetter",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -658,7 +731,8 @@
       "children": [
         {
           "name": "NSKeyValueSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -668,7 +742,8 @@
       "children": [
         {
           "name": "NSKeyValueOrderedSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -678,7 +753,8 @@
       "children": [
         {
           "name": "NSKeyValueObservance",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -688,15 +764,18 @@
       "children": [
         {
           "name": "NSKeyValueNonmutatingArrayMethodSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSKeyValueNonmutatingOrderedSetMethodSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSKeyValueNonmutatingSetMethodSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -706,15 +785,18 @@
       "children": [
         {
           "name": "NSKeyValueMutatingArrayMethodSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSKeyValueMutatingOrderedSetMethodSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSKeyValueMutatingSetMethodSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -724,7 +806,8 @@
       "children": [
         {
           "name": "NSKeyValueMutableSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -734,7 +817,8 @@
       "children": [
         {
           "name": "NSKeyValueMutableOrderedSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -744,7 +828,8 @@
       "children": [
         {
           "name": "NSKeyValueMutableArray",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -754,11 +839,13 @@
       "children": [
         {
           "name": "NSKeyValueFastMutableSet1",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSKeyValueFastMutableSet2",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -768,11 +855,13 @@
       "children": [
         {
           "name": "NSKeyValueFastMutableOrderedSet1",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSKeyValueFastMutableOrderedSet2",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -782,11 +871,13 @@
       "children": [
         {
           "name": "NSKeyValueFastMutableArray1",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSKeyValueFastMutableArray2",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -796,7 +887,8 @@
       "children": [
         {
           "name": "NSKeyPathExpression",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -806,7 +898,8 @@
       "children": [
         {
           "name": "NSInvocationOperation",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -816,31 +909,38 @@
       "children": [
         {
           "name": "NSISInlineStorageVariable",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSISRestrictedToNonNegativeMarkerVariable",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSISRestrictedToNonNegativeMarkerVariableToBeMinimized",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSISRestrictedToNonNegativeVariable",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSISRestrictedToNonNegativeVariableToBeMinimized",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSISRestrictedToZeroMarkerVariable",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSISUnrestrictedVariable",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -850,7 +950,8 @@
       "children": [
         {
           "name": "NSIBPrototypingLayoutConstraint",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -860,7 +961,8 @@
       "children": [
         {
           "name": "NSHTTPURLResponse",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -870,7 +972,8 @@
       "children": [
         {
           "name": "NSFilesystemItemLinkOperation",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -880,7 +983,8 @@
       "children": [
         {
           "name": "NSFilesystemItemCopyOperation",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -890,23 +994,28 @@
       "children": [
         {
           "name": "NSFileReadingClaim",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSFileReadingWritingClaim",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSFileSubarbitrationClaim",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSFileWritingClaim",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSFileWritingWritingClaim",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -916,11 +1025,13 @@
       "children": [
         {
           "name": "NSFilePresenterProxy",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSFileProviderProxy",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -930,7 +1041,8 @@
       "children": [
         {
           "name": "NSDocumentSerializer",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -940,7 +1052,8 @@
       "children": [
         {
           "name": "NSDocumentDeserializer",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -950,7 +1063,8 @@
       "children": [
         {
           "name": "NSDistributedNotificationCenter",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -960,7 +1074,8 @@
       "children": [
         {
           "name": "NSDecimalNumberPlaceholder",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -970,7 +1085,8 @@
       "children": [
         {
           "name": "NSDataDetector",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -980,7 +1096,8 @@
       "children": [
         {
           "name": "NSConstantString",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -990,7 +1107,8 @@
       "children": [
         {
           "name": "NSConcreteTask",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1000,7 +1118,8 @@
       "children": [
         {
           "name": "NSConcreteScanner",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1010,7 +1129,8 @@
       "children": [
         {
           "name": "NSConcreteProtocolChecker",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1020,7 +1140,8 @@
       "children": [
         {
           "name": "NSConcretePointerFunctions",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1030,7 +1151,8 @@
       "children": [
         {
           "name": "NSConcretePointerArray",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1040,7 +1162,8 @@
       "children": [
         {
           "name": "NSConcretePipe",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1050,7 +1173,8 @@
       "children": [
         {
           "name": "NSConcreteNotification",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1060,7 +1184,8 @@
       "children": [
         {
           "name": "NSConcreteMutableAttributedString",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1070,7 +1195,8 @@
       "children": [
         {
           "name": "NSConcreteMapTable",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1080,11 +1206,13 @@
       "children": [
         {
           "name": "NSClassicHashTable",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         },
         {
           "name": "NSConcreteHashTable",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1094,7 +1222,8 @@
       "children": [
         {
           "name": "NSCalendarDate",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1104,7 +1233,8 @@
       "children": [
         {
           "name": "NSCFURLProtocol",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1114,7 +1244,8 @@
       "children": [
         {
           "name": "NSCFTimer",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1124,7 +1255,8 @@
       "children": [
         {
           "name": "NSCFOutputStream",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1134,7 +1266,8 @@
       "children": [
         {
           "name": "NSCFInputStream",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1144,7 +1277,8 @@
       "children": [
         {
           "name": "NSCFCharacterSet",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1154,7 +1288,8 @@
       "children": [
         {
           "name": "NSAutoLocale",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     },
@@ -1164,7 +1299,8 @@
       "children": [
         {
           "name": "NSAutoCalendar",
-          "children": []
+          "children": [],
+          "framework": "Foundation.framework"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "CoreThemeDefinition.framework",
+  "name": "CoreThemeDefinition",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "TDThreadMOCOrganizer",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -17,43 +18,53 @@
       "children": [
         {
           "name": "TDThemeDirection",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeDrawingLayer",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeElement",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeIdiom",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeLook",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemePart",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemePresentationState",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeSize",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeState",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeValue",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -63,15 +74,18 @@
       "children": [
         {
           "name": "TDSlice",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeBitSource",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDThemeConstant",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -81,7 +95,8 @@
       "children": [
         {
           "name": "TDSimpleArtworkRenditionSpec",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -91,7 +106,8 @@
       "children": [
         {
           "name": "TDSimpleArtworkElementProduction",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -101,7 +117,8 @@
       "children": [
         {
           "name": "TDSchemaRenditionSpec",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -111,7 +128,8 @@
       "children": [
         {
           "name": "TDSchemaElementProduction",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -121,11 +139,13 @@
       "children": [
         {
           "name": "TDSchemaEffectDefinition",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDSchemaElementDefinition",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -135,7 +155,8 @@
       "children": [
         {
           "name": "TDProMergeableCommonAssetStorage",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -145,11 +166,13 @@
       "children": [
         {
           "name": "TDPNGAsset",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         },
         {
           "name": "TDPhotoshopAsset",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -159,7 +182,8 @@
       "children": [
         {
           "name": "TDNamedEffectProduction",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -169,7 +193,8 @@
       "children": [
         {
           "name": "TDCursorPhotoshopProduction",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -179,7 +204,8 @@
       "children": [
         {
           "name": "TDCursorFacetDefinition",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -189,7 +215,8 @@
       "children": [
         {
           "name": "CoreThemeRenditionKeyMigrationPolicy",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -199,7 +226,8 @@
       "children": [
         {
           "name": "CoreThemeDocument",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     },
@@ -209,7 +237,8 @@
       "children": [
         {
           "name": "CTDPSDPreviewRef",
-          "children": []
+          "children": [],
+          "framework": "CoreThemeDefinition"
         }
       ]
     }

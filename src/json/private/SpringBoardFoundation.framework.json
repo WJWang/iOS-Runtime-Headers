@@ -1,5 +1,5 @@
 {
-  "name": "SpringBoardFoundation.framework",
+  "name": "SpringBoardFoundation",
   "list": [
     {
       "name": "UITableViewHeaderFooterView",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_SBFVibrantTableViewHeaderFooterView",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_SBFVibrantTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "_SBFVibrantSettings",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "_SBFMagicWallpaperPreviewViewController",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "_SBFAnimationAttributesFactory",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "SBWallpaperImage",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "SBReadonlyTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "SBReadonlyRow",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "SBFWallpaperView",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "SBFWallpaperSettings",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "SBFWallpaperParallaxSettings",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -117,7 +128,8 @@
       "children": [
         {
           "name": "SBFStaticWallpaperView",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -127,7 +139,8 @@
       "children": [
         {
           "name": "SBFScrollableStaticWallpaperView",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -137,7 +150,8 @@
       "children": [
         {
           "name": "SBFMicaWallpaper",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -147,11 +161,13 @@
       "children": [
         {
           "name": "SBFHomeScreenWallpaperParallaxSettings",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         },
         {
           "name": "SBFLockScreenWallpaperParallaxSettings",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     },
@@ -161,7 +177,8 @@
       "children": [
         {
           "name": "SBFAnimationSettings",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardFoundation"
         }
       ]
     }

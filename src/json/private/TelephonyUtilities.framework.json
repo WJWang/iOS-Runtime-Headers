@@ -1,5 +1,5 @@
 {
-  "name": "TelephonyUtilities.framework",
+  "name": "TelephonyUtilities",
   "list": [
     {
       "name": "TUCallModel",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "TUTelephonyCallModel",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "TUTelephonyCall",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "TUTelephonyAudioController",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         }
       ]
     },
@@ -37,63 +40,78 @@
       "children": [
         {
           "name": "TUAudioController",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUAudioPlayer",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUBasicLogger",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUCall",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUCallCenter",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUCallModel",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUInMemoryAppender",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUPhoneLogger",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUPhoneNumber",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUPrivacyManager",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUPrivacyRule",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TURemoteAppender",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUReplyWithMessageStore",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TURollingFileAppender",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         },
         {
           "name": "TUSimpleBacktrace",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUtilities"
         }
       ]
     }

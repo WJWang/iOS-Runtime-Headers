@@ -1,5 +1,5 @@
 {
-  "name": "ProofReader.framework",
+  "name": "ProofReader",
   "list": [
     {
       "name": "PRModification",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "PRZhuyinModification",
-          "children": []
+          "children": [],
+          "framework": "ProofReader"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "PRZhuyinContext",
-          "children": []
+          "children": [],
+          "framework": "ProofReader"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "PRPinyinString",
-          "children": []
+          "children": [],
+          "framework": "ProofReader"
         }
       ]
     },
@@ -37,15 +40,18 @@
       "children": [
         {
           "name": "AppleSpell",
-          "children": []
+          "children": [],
+          "framework": "ProofReader"
         },
         {
           "name": "PRAutocorrectionContext",
-          "children": []
+          "children": [],
+          "framework": "ProofReader"
         },
         {
           "name": "PRModification",
-          "children": []
+          "children": [],
+          "framework": "ProofReader"
         }
       ]
     }

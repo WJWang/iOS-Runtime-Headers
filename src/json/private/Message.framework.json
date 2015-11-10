@@ -1,5 +1,5 @@
 {
-  "name": "Message.framework",
+  "name": "Message",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "_MFSelectMailboxReplayContextTransformation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFSocket",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFTransferFailureReplayContextTransformation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFTranslateTemporaryIDReplayContextTransformation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -29,7 +33,8 @@
       "children": [
         {
           "name": "_MFSecDataMessageStore",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -39,7 +44,8 @@
       "children": [
         {
           "name": "_MFSecCMSEncoder",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "_MFRootlessMailboxUid",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "_MFPlainAuthenticator",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "_MFOutgoingMessageBody",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -79,11 +88,13 @@
       "children": [
         {
           "name": "_MFMailboxUidChildrenEnumerator",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFMailboxUidEnumerator",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -93,7 +104,8 @@
       "children": [
         {
           "name": "_MFDAMessageStoreSetFlagsRequest",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -103,7 +115,8 @@
       "children": [
         {
           "name": "_MFDAMessageStoreGetUpdatesRequest",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -113,7 +126,8 @@
       "children": [
         {
           "name": "_MFDAMessageStoreFetchRequest",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "_MFDAMessageStoreDeleteRequest",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -133,7 +148,8 @@
       "children": [
         {
           "name": "_MFDAMessageFetchAttachmentConsumer",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -143,11 +159,13 @@
       "children": [
         {
           "name": "_MFDAMSSearchResponseConsumer",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFDAMSUpdateConsumer",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -157,7 +175,8 @@
       "children": [
         {
           "name": "_MFDAMSBasicConsumer",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -167,27 +186,33 @@
       "children": [
         {
           "name": "_MFDADeferredDeleteMailboxOperation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFDADeferredDeleteMessageOperation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFDADeferredModifyMailboxOperation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFDADeferredNewMailboxOperation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFDADeferredSelectMailboxOperation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "_MFDADeferredSetFlagsOperation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -197,7 +222,8 @@
       "children": [
         {
           "name": "SMTPAccount",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -207,7 +233,8 @@
       "children": [
         {
           "name": "MailAccount",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -217,7 +244,8 @@
       "children": [
         {
           "name": "MFWebMessageDocument",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -227,7 +255,8 @@
       "children": [
         {
           "name": "MFSMTPDelivery",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -237,7 +266,8 @@
       "children": [
         {
           "name": "MFSMTPConnection",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -247,7 +277,8 @@
       "children": [
         {
           "name": "MFProtectedSQLiteConnection",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -257,7 +288,8 @@
       "children": [
         {
           "name": "MFPlainAuthScheme",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -267,7 +299,8 @@
       "children": [
         {
           "name": "MFOutgoingMessage",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -277,7 +310,8 @@
       "children": [
         {
           "name": "MFMonitoredInvocation",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -287,7 +321,8 @@
       "children": [
         {
           "name": "MFMessageURLProtocol",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -297,7 +332,8 @@
       "children": [
         {
           "name": "MFMessageNotificationCenter",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -307,7 +343,8 @@
       "children": [
         {
           "name": "MFMailMimeTextAttachment",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -317,7 +354,8 @@
       "children": [
         {
           "name": "MFMailMimePart",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -327,7 +365,8 @@
       "children": [
         {
           "name": "MFMailMessageStore",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -337,7 +376,8 @@
       "children": [
         {
           "name": "MFMailMessageLibrary",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -347,7 +387,8 @@
       "children": [
         {
           "name": "MFMailMessage",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -357,7 +398,8 @@
       "children": [
         {
           "name": "MFLocalizedMessageHeaders",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -367,7 +409,8 @@
       "children": [
         {
           "name": "MFLibraryStore",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -377,7 +420,8 @@
       "children": [
         {
           "name": "MFError",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -387,7 +431,8 @@
       "children": [
         {
           "name": "MFDARequestQueue",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -397,7 +442,8 @@
       "children": [
         {
           "name": "MFDAOfflineCache",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -407,7 +453,8 @@
       "children": [
         {
           "name": "MFDAMessageStore",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -417,7 +464,8 @@
       "children": [
         {
           "name": "MFActivityMonitor",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     },
@@ -427,11 +475,13 @@
       "children": [
         {
           "name": "DAMailAccount",
-          "children": []
+          "children": [],
+          "framework": "Message"
         },
         {
           "name": "LocalAccount",
-          "children": []
+          "children": [],
+          "framework": "Message"
         }
       ]
     }

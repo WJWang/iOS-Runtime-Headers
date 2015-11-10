@@ -1,5 +1,5 @@
 {
-  "name": "AccountsDaemon.framework",
+  "name": "AccountsDaemon",
   "list": [
     {
       "name": "ACDServer",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_ACDTestServer",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         }
       ]
     },
@@ -17,103 +18,128 @@
       "children": [
         {
           "name": "ACDAccountStoreFilter",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDAuthenticationDialogManager",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDAuthenticationDialogRequest",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDAuthenticationHandlerQueueManager",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDAuthenticationPluginManager",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDClient",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDClientAuthorization",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDClientAuthorizationManager",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDDatabase",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDDatabaseInitializer",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDDatabaseMigrator",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDDataclassOwnersManager",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDDataclassOwnersManagerInterface",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDKeychain",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDKeychainManager",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDOAuthSigner",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDPluginLoader",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDPreferences",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDQueueDictionary",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDServer",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDTCCUtilities",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDTelemetryData",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDTelemetryWatchdog",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDTestManager",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         },
         {
           "name": "ACDUserNotification",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         }
       ]
     },
@@ -123,7 +149,8 @@
       "children": [
         {
           "name": "ACDAccountStore",
-          "children": []
+          "children": [],
+          "framework": "AccountsDaemon"
         }
       ]
     }

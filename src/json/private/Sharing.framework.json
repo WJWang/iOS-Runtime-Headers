@@ -1,5 +1,5 @@
 {
-  "name": "Sharing.framework",
+  "name": "Sharing",
   "list": [
     {
       "name": "UIImageView",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_SFPersonImageView",
-          "children": []
+          "children": [],
+          "framework": "Sharing"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "SFWirelessSettingsController",
-          "children": []
+          "children": [],
+          "framework": "Sharing"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "SFPersonCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "Sharing"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "SFCollectionViewFlowLayout",
-          "children": []
+          "children": [],
+          "framework": "Sharing"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "SFCircleProgressView",
-          "children": []
+          "children": [],
+          "framework": "Sharing"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "SFCircleProgressLayer",
-          "children": []
+          "children": [],
+          "framework": "Sharing"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "SFAirDropIconView",
-          "children": []
+          "children": [],
+          "framework": "Sharing"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "SFAirDropActivityViewController",
-          "children": []
+          "children": [],
+          "framework": "Sharing"
         }
       ]
     }

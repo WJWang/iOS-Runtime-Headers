@@ -1,5 +1,5 @@
 {
-  "name": "DictionaryServices.framework",
+  "name": "DictionaryServices",
   "list": [
     {
       "name": "ASAssetQuery",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "DCSDictionaryAssetQuery",
-          "children": []
+          "children": [],
+          "framework": "DictionaryServices"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "MusicCarDisplayUI.framework",
+  "name": "MusicCarDisplayUI",
   "list": [
     {
       "name": "MSSectionedTableViewController",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "MSiTunesUTableViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "MSiTunesUEpisodesTableViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "MSTransportControlViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "MSTransportControlView",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "MSTableViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "MSRootController",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "MSPlaylistSongsTableViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "MSNowPlayingButton",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "MSNowPlayingBackSideTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "MSGeniusMixesViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "MSBrowserViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicCarDisplayUI"
         }
       ]
     }

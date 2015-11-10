@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "CMOnBodyStatusManager",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CMStepCounter",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         }
       ]
     },
@@ -21,35 +23,43 @@
       "children": [
         {
           "name": "CMAccelerometerData",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CMActivity",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CMDeviceMotion",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CMDeviceOrientation",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CMGyroData",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CMMagnetometerData",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CMMotionActivity",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CMOnBodyStatus",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         }
       ]
     },
@@ -59,7 +69,8 @@
       "children": [
         {
           "name": "CLNotifierServiceAdapter",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         }
       ]
     },
@@ -69,7 +80,8 @@
       "children": [
         {
           "name": "CLIntersiloProxy",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         }
       ]
     },
@@ -79,11 +91,13 @@
       "children": [
         {
           "name": "CLGeomagneticModelProviderAdapter",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         },
         {
           "name": "CLGyroCalibrationDatabaseAdapter",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         }
       ]
     },
@@ -93,7 +107,8 @@
       "children": [
         {
           "name": "CLDispatchSilo",
-          "children": []
+          "children": [],
+          "framework": "CoreMotion.framework"
         }
       ]
     }

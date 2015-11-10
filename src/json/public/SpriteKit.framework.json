@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "SKWait",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "SKView",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "SKVideoNode",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -37,43 +40,53 @@
       "children": [
         {
           "name": "SKSoundBuffer",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKSoundContext",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKSoundSource",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKTexture",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKTextureAtlas",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKTextureCache",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKThreadSafeMapTable",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKThreadSafeMutableArray",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKThreadSafeMutableDictionary",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKTransition",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -83,7 +96,8 @@
       "children": [
         {
           "name": "SKScene",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -93,23 +107,28 @@
       "children": [
         {
           "name": "SKPhysicsJointFixed",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKPhysicsJointLimit",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKPhysicsJointPin",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKPhysicsJointSliding",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         },
         {
           "name": "SKPhysicsJointSpring",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -119,7 +138,8 @@
       "children": [
         {
           "name": "SKNode",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -129,7 +149,8 @@
       "children": [
         {
           "name": "SKKeyedUnarchiver",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -139,7 +160,8 @@
       "children": [
         {
           "name": "SKButtonNodeSprite",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     },
@@ -149,7 +171,8 @@
       "children": [
         {
           "name": "SKButtonNode",
-          "children": []
+          "children": [],
+          "framework": "SpriteKit.framework"
         }
       ]
     }

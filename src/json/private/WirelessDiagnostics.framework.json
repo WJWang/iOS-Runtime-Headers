@@ -1,5 +1,5 @@
 {
-  "name": "WirelessDiagnostics.framework",
+  "name": "WirelessDiagnostics",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "AWDMetricContainer",
-          "children": []
+          "children": [],
+          "framework": "WirelessDiagnostics"
         },
         {
           "name": "AWDServerConnection",
-          "children": []
+          "children": [],
+          "framework": "WirelessDiagnostics"
         }
       ]
     }

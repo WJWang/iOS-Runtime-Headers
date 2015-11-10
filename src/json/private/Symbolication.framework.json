@@ -1,5 +1,5 @@
 {
-  "name": "Symbolication.framework",
+  "name": "Symbolication",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "VMUVMRegion",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUVMRegionIdentifier",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "_VMUDWARFAbbrevDecl",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "_VMUDWARFAttribute",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -29,7 +33,8 @@
       "children": [
         {
           "name": "VMUUUIDLoadCommand",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -39,7 +44,8 @@
       "children": [
         {
           "name": "VMUSymbol",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "VMUStabsExtractor",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -59,11 +66,13 @@
       "children": [
         {
           "name": "VMUSegment32LoadCommand",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUSegment64LoadCommand",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -73,11 +82,13 @@
       "children": [
         {
           "name": "VMUSection32",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUSection64",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -87,7 +98,8 @@
       "children": [
         {
           "name": "VMUObjectGraph",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -97,7 +109,8 @@
       "children": [
         {
           "name": "VMUNonOverlappingRangeArray",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -107,19 +120,23 @@
       "children": [
         {
           "name": "VMUMemory_File",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUMemory_Handle",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUMemory_NonContiguousTask",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUMemory_Task",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -129,11 +146,13 @@
       "children": [
         {
           "name": "VMUMemoryView_Swapped32",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUMemoryView_Swapped64",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -143,11 +162,13 @@
       "children": [
         {
           "name": "VMUMemoryView_Native32",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUMemoryView_Native64",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -157,7 +178,8 @@
       "children": [
         {
           "name": "VMUMachOHeader",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -167,11 +189,13 @@
       "children": [
         {
           "name": "VMUMachO32Header",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUMachO64Header",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -181,7 +205,8 @@
       "children": [
         {
           "name": "VMUIDDyLibLoadCommand",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     },
@@ -191,15 +216,18 @@
       "children": [
         {
           "name": "VMUCallTreeLeafNode",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUCallTreePseudoNode",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         },
         {
           "name": "VMUCallTreeRoot",
-          "children": []
+          "children": [],
+          "framework": "Symbolication"
         }
       ]
     }

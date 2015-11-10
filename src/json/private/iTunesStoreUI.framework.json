@@ -1,5 +1,5 @@
 {
-  "name": "iTunesStoreUI.framework",
+  "name": "iTunesStoreUI",
   "list": [
     {
       "name": "SURotationController",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "SUWebViewRotationController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "SUWebViewManager",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "SUWebViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "SUWebView",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "SUWebDocumentView",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "SUViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "SUUserRatingView",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "SUTwoLineTrackCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "SUTransitionSafetyInvocationRecorder",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "SUTouchCaptureView",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "SUTextViewCell",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -117,7 +128,8 @@
       "children": [
         {
           "name": "SUTextContentView",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -127,7 +139,8 @@
       "children": [
         {
           "name": "SUTableView",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -137,7 +150,8 @@
       "children": [
         {
           "name": "SUTableCellLayoutManager",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -147,7 +161,8 @@
       "children": [
         {
           "name": "SUTableCell",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -157,7 +172,8 @@
       "children": [
         {
           "name": "SUTabBarController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -167,7 +183,8 @@
       "children": [
         {
           "name": "SUSubtitledButton",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -177,7 +194,8 @@
       "children": [
         {
           "name": "SUStructuredPageViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -187,7 +205,8 @@
       "children": [
         {
           "name": "SUStructuredPageTableDataSource",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -197,7 +216,8 @@
       "children": [
         {
           "name": "SUStructuredPageGroupedViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -207,7 +227,8 @@
       "children": [
         {
           "name": "SUStructuredPageGroupedTableDataSource",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -217,7 +238,8 @@
       "children": [
         {
           "name": "SUStrokeEdgesImageModifier",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -227,7 +249,8 @@
       "children": [
         {
           "name": "SUStorePageDataProvider",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -237,7 +260,8 @@
       "children": [
         {
           "name": "SUSimpleMenuViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -247,7 +271,8 @@
       "children": [
         {
           "name": "SUSetupMescalSessionOperation",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -257,7 +282,8 @@
       "children": [
         {
           "name": "SUSearchRootStorePageViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -267,7 +293,8 @@
       "children": [
         {
           "name": "SUSearchDisplayController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -277,7 +304,8 @@
       "children": [
         {
           "name": "SUSearchBar",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -287,7 +315,8 @@
       "children": [
         {
           "name": "SUScriptWindow",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -297,7 +326,8 @@
       "children": [
         {
           "name": "SUScriptVolumeViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -307,7 +337,8 @@
       "children": [
         {
           "name": "SUScriptViewControllerNativeObject",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -317,7 +348,8 @@
       "children": [
         {
           "name": "SUScriptTweetComposeViewControllerNativeObject",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -327,15 +359,18 @@
       "children": [
         {
           "name": "SUScriptTextFieldNativeObjectUIBarButtonItem",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         },
         {
           "name": "SUScriptTextFieldNativeObjectUISearchBar",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         },
         {
           "name": "SUScriptTextFieldNativeObjectUITextField",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -345,11 +380,13 @@
       "children": [
         {
           "name": "SUScriptNativeUIBarButtonItem",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         },
         {
           "name": "SUScriptNativeUIButton",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -359,7 +396,8 @@
       "children": [
         {
           "name": "SUScriptMediaPlaylist",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -369,7 +407,8 @@
       "children": [
         {
           "name": "SUScriptDialogAlertView",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -379,7 +418,8 @@
       "children": [
         {
           "name": "SUScriptDialogActionSheet",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -389,7 +429,8 @@
       "children": [
         {
           "name": "SUScriptCanvasFunction",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -399,7 +440,8 @@
       "children": [
         {
           "name": "SUScriptAccountPageViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -409,7 +451,8 @@
       "children": [
         {
           "name": "SURoundedCornersMaskProvider",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -419,7 +462,8 @@
       "children": [
         {
           "name": "SURoundedCornersButton",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -429,7 +473,8 @@
       "children": [
         {
           "name": "SUReviewsHeaderCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -439,7 +484,8 @@
       "children": [
         {
           "name": "SUReviewsButton",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -449,7 +495,8 @@
       "children": [
         {
           "name": "SUReportConcernViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -459,7 +506,8 @@
       "children": [
         {
           "name": "SUPurchaseContinuation",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -469,7 +517,8 @@
       "children": [
         {
           "name": "SUNetworkLockoutViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -479,7 +528,8 @@
       "children": [
         {
           "name": "SUNavigationItem",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -489,7 +539,8 @@
       "children": [
         {
           "name": "SUNavigationController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -499,7 +550,8 @@
       "children": [
         {
           "name": "SUNavigationButton",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -509,7 +561,8 @@
       "children": [
         {
           "name": "SUNavigationBar",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -519,7 +572,8 @@
       "children": [
         {
           "name": "SUMoreNavigationController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -529,7 +583,8 @@
       "children": [
         {
           "name": "SUMoreListController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -539,7 +594,8 @@
       "children": [
         {
           "name": "SUMediaPlayerViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -549,11 +605,13 @@
       "children": [
         {
           "name": "SUMarkupCellContext",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         },
         {
           "name": "SUMediaItemCellContext",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -563,7 +621,8 @@
       "children": [
         {
           "name": "SUItemValidatorRatingTest",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -573,7 +632,8 @@
       "children": [
         {
           "name": "SUItemCellContext",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -583,7 +643,8 @@
       "children": [
         {
           "name": "SUItemCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -593,7 +654,8 @@
       "children": [
         {
           "name": "SUInputSourceInputStream",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -603,7 +665,8 @@
       "children": [
         {
           "name": "SUInnerShadowLabel",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -613,7 +676,8 @@
       "children": [
         {
           "name": "SUGridSwipeGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -623,11 +687,13 @@
       "children": [
         {
           "name": "SUFileInputSource",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         },
         {
           "name": "SUFilteringInputSource",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -637,7 +703,8 @@
       "children": [
         {
           "name": "SUDownloadsGridViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -647,7 +714,8 @@
       "children": [
         {
           "name": "SUDownloadsGridCellBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -657,11 +725,13 @@
       "children": [
         {
           "name": "SUDownloadManagerGridDataSource",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         },
         {
           "name": "SUDownloadManagerTableDataSource",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -671,7 +741,8 @@
       "children": [
         {
           "name": "SUDownloadGridCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -681,7 +752,8 @@
       "children": [
         {
           "name": "SUDownloadCell",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -691,7 +763,8 @@
       "children": [
         {
           "name": "SUDelayedNavigationItem",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -701,7 +774,8 @@
       "children": [
         {
           "name": "SUDeferredUISegmentedControl",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -711,7 +785,8 @@
       "children": [
         {
           "name": "SUDeferredUISearchField",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -721,7 +796,8 @@
       "children": [
         {
           "name": "SUCompletionCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -731,7 +807,8 @@
       "children": [
         {
           "name": "SUClientApplicationController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -741,7 +818,8 @@
       "children": [
         {
           "name": "SUBase64Encoder",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -751,7 +829,8 @@
       "children": [
         {
           "name": "SUBarButtonItem",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -761,7 +840,8 @@
       "children": [
         {
           "name": "SUArtworkCellContext",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -771,7 +851,8 @@
       "children": [
         {
           "name": "SUArrayCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -781,7 +862,8 @@
       "children": [
         {
           "name": "SUApplication",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -791,7 +873,8 @@
       "children": [
         {
           "name": "SUActivityViewController",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -801,7 +884,8 @@
       "children": [
         {
           "name": "SUActivityItemProvider",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -811,7 +895,8 @@
       "children": [
         {
           "name": "SUActivity",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     },
@@ -821,7 +906,8 @@
       "children": [
         {
           "name": "MSPlaceholderAVItem",
-          "children": []
+          "children": [],
+          "framework": "iTunesStoreUI"
         }
       ]
     }

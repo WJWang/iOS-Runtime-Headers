@@ -1,5 +1,5 @@
 {
-  "name": "Conference.framework",
+  "name": "Conference",
   "list": [
     {
       "name": "UIControl",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "CNFVideoGroupView",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "CNFUIUtilities",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "CNFStatusBarGradientView",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         },
         {
           "name": "CNFTextView",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         }
       ]
     },
@@ -41,15 +45,18 @@
       "children": [
         {
           "name": "CNFInternalAccountListViewController",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         },
         {
           "name": "CNFInternalAccountViewController",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         },
         {
           "name": "CNFInternalProcessListController",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         }
       ]
     },
@@ -59,11 +66,13 @@
       "children": [
         {
           "name": "CNFCallViewController",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         },
         {
           "name": "CNFDisplayController",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         }
       ]
     },
@@ -73,7 +82,8 @@
       "children": [
         {
           "name": "CNFAlertView",
-          "children": []
+          "children": [],
+          "framework": "Conference"
         }
       ]
     }

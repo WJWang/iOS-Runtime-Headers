@@ -1,5 +1,5 @@
 {
-  "name": "WirelessProximity.framework",
+  "name": "WirelessProximity",
   "list": [
     {
       "name": "NSObject",
@@ -7,35 +7,43 @@
       "children": [
         {
           "name": "WPAWDL",
-          "children": []
+          "children": [],
+          "framework": "WirelessProximity"
         },
         {
           "name": "WPAdvertising",
-          "children": []
+          "children": [],
+          "framework": "WirelessProximity"
         },
         {
           "name": "WPDeviceScanner",
-          "children": []
+          "children": [],
+          "framework": "WirelessProximity"
         },
         {
           "name": "WPTap",
-          "children": []
+          "children": [],
+          "framework": "WirelessProximity"
         },
         {
           "name": "WPTransfer",
-          "children": []
+          "children": [],
+          "framework": "WirelessProximity"
         },
         {
           "name": "WPZoneTracker",
-          "children": []
+          "children": [],
+          "framework": "WirelessProximity"
         },
         {
           "name": "WirelessProximity",
-          "children": []
+          "children": [],
+          "framework": "WirelessProximity"
         },
         {
           "name": "XPCClient",
-          "children": []
+          "children": [],
+          "framework": "WirelessProximity"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "TextToSpeech.framework",
+  "name": "TextToSpeech",
   "list": [
     {
       "name": "NSObject",
@@ -7,43 +7,53 @@
       "children": [
         {
           "name": "TTSAudioSession",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSFormatArgument",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSSpeechClient",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSSpeechConnection",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSSpeechConnectionDelegateWrapper",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSSpeechRequest",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSSpeechServer",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSSpeechSynthesizer",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSVoiceAsset",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         },
         {
           "name": "TTSVoiceAssetManager",
-          "children": []
+          "children": [],
+          "framework": "TextToSpeech"
         }
       ]
     }

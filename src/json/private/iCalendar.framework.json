@@ -1,5 +1,5 @@
 {
-  "name": "iCalendar.framework",
+  "name": "iCalendar",
   "list": [
     {
       "name": "ICSProperty",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "ICSTravelDuration",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         },
         {
           "name": "ICSTrigger",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         },
         {
           "name": "ICSUserAddress",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         }
       ]
     },
@@ -25,7 +28,8 @@
       "children": [
         {
           "name": "ICSTransparencyValue",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "ICSTokenizer",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "ICSTodo",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         }
       ]
     },
@@ -55,11 +61,13 @@
       "children": [
         {
           "name": "ICSTimeZoneDaylightBlock",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         },
         {
           "name": "ICSTimeZoneStandardBlock",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "ICSPredefinedValue",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "ICSDateTimeValue",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         }
       ]
     },
@@ -89,7 +99,8 @@
       "children": [
         {
           "name": "ICSDateTimeUTCValue",
-          "children": []
+          "children": [],
+          "framework": "iCalendar"
         }
       ]
     }

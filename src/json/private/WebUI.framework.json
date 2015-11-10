@@ -1,5 +1,5 @@
 {
-  "name": "WebUI.framework",
+  "name": "WebUI",
   "list": [
     {
       "name": "NSObject",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "_WBSFieldLabelPatternMatcherFactory",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         },
         {
           "name": "_WBUDynamicMeCard",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         },
         {
           "name": "_WBUPolicyDecisionListener",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -25,7 +28,8 @@
       "children": [
         {
           "name": "WebUIModalAlertView",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "WBUPolicyDelegate",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "WBUFormMetadataController",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "WBUFormDataController",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "WBUCreditCardDataController",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "WBSUserTypedFormString",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -85,7 +94,8 @@
       "children": [
         {
           "name": "WBSCreditCardFormatter",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -95,7 +105,8 @@
       "children": [
         {
           "name": "WBSBookmarkAndHistoryCompletionMatch",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -105,7 +116,8 @@
       "children": [
         {
           "name": "WBSAutomaticReadingListTwitterSource",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -115,11 +127,13 @@
       "children": [
         {
           "name": "WBSAutomaticReadingListSinaWeiboItem",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         },
         {
           "name": "WBSAutomaticReadingListTwitterItem",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     },
@@ -129,7 +143,8 @@
       "children": [
         {
           "name": "BrowserPrintPageRenderer",
-          "children": []
+          "children": [],
+          "framework": "WebUI"
         }
       ]
     }

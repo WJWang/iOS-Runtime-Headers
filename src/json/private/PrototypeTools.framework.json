@@ -1,5 +1,5 @@
 {
-  "name": "PrototypeTools.framework",
+  "name": "PrototypeTools",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_PTSAppearanceCondition",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "PTXParallaxView",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "PTXParallaxSettings",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "PTXParallaxImageView",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "PTSwitch",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "PTSliderIncrementButton",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "PTSlider",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "PTSettingsController",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "PTSToggleButton",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "PTSSwitchRowTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -107,11 +117,13 @@
       "children": [
         {
           "name": "PTSSliderRow",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         },
         {
           "name": "PTSSwitchRow",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -121,7 +133,8 @@
       "children": [
         {
           "name": "PTSRowTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -131,11 +144,13 @@
       "children": [
         {
           "name": "PTSPushViewControllerRowAction",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         },
         {
           "name": "PTSRestoreDefaultSettingsRowAction",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -145,7 +160,8 @@
       "children": [
         {
           "name": "PTSPushImagePickerRowAction",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -155,7 +171,8 @@
       "children": [
         {
           "name": "PTSModuleController",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -165,7 +182,8 @@
       "children": [
         {
           "name": "PTSInfoLabel",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -175,7 +193,8 @@
       "children": [
         {
           "name": "PTSHUDSettingsDetailViewController",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -185,7 +204,8 @@
       "children": [
         {
           "name": "PTSGraphView",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -195,11 +215,13 @@
       "children": [
         {
           "name": "PTSEditFloatRowTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         },
         {
           "name": "PTSEditStringRowTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -209,7 +231,8 @@
       "children": [
         {
           "name": "PTSDuplicateRowsActivity",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     },
@@ -219,11 +242,13 @@
       "children": [
         {
           "name": "PTLegibleTextAssistantSettingsForDarkText",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         },
         {
           "name": "PTLegibleTextAssistantSettingsForLightText",
-          "children": []
+          "children": [],
+          "framework": "PrototypeTools"
         }
       ]
     }

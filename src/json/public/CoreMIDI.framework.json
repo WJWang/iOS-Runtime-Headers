@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "MIDINetworkConnection",
-          "children": []
+          "children": [],
+          "framework": "CoreMIDI.framework"
         },
         {
           "name": "MIDINetworkHost",
-          "children": []
+          "children": [],
+          "framework": "CoreMIDI.framework"
         },
         {
           "name": "MIDINetworkSession",
-          "children": []
+          "children": [],
+          "framework": "CoreMIDI.framework"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "VisualAlert.framework",
+  "name": "VisualAlert",
   "list": [
     {
       "name": "UIAccessibilitySafeCategory",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "AXVisualAlertSBSystemLocalNotificationAlert_super",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "AXVisualAlertSBSystemLocalNotificationAlert",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "AXVisualAlertSBCCQuickLaunchSectionController",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "AXVisualAlertSBBulletinSoundController",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "AXVisualAlertManager",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         }
       ]
     },
@@ -57,15 +62,18 @@
       "children": [
         {
           "name": "AXDistributedNotificationHandler",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         },
         {
           "name": "AXLocalNotificationHandler",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         },
         {
           "name": "AXTelephonyNotificationHandler",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "AXAutoForwardingLocalNotificationHandler",
-          "children": []
+          "children": [],
+          "framework": "VisualAlert"
         }
       ]
     }

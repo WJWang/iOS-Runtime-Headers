@@ -1,5 +1,5 @@
 {
-  "name": "TouchRemote.framework",
+  "name": "TouchRemote",
   "list": [
     {
       "name": "NSObject",
@@ -7,39 +7,48 @@
       "children": [
         {
           "name": "TRServer",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRService",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRTCPConnection",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRTCPConnectionStream",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRTransferBrowser",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRTransferServer",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRXPCClient",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "_TRConnectionTargetAction",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "_TRUserNotfication",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         }
       ]
     },
@@ -49,7 +58,8 @@
       "children": [
         {
           "name": "TRSClientConnection",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         }
       ]
     },
@@ -59,19 +69,23 @@
       "children": [
         {
           "name": "TRNowPlayingArtworkUpdatePacketEvent",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRNowPlayingControlPacketEvent",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRNowPlayingInfoUpdatePacketEvent",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         },
         {
           "name": "TRResendPacketEvent",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         }
       ]
     },
@@ -81,7 +95,8 @@
       "children": [
         {
           "name": "TRMutableAdvertisingInfo",
-          "children": []
+          "children": [],
+          "framework": "TouchRemote"
         }
       ]
     }

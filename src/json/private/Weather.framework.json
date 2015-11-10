@@ -1,5 +1,5 @@
 {
-  "name": "Weather.framework",
+  "name": "Weather",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WeatherXMLHTTPRequest",
-          "children": []
+          "children": [],
+          "framework": "Weather"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "WeatherView",
-          "children": []
+          "children": [],
+          "framework": "Weather"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "WeatherUpdater",
-          "children": []
+          "children": [],
+          "framework": "Weather"
         },
         {
           "name": "WeatherValidator",
-          "children": []
+          "children": [],
+          "framework": "Weather"
         }
       ]
     },
@@ -41,11 +45,13 @@
       "children": [
         {
           "name": "LocationUpdater",
-          "children": []
+          "children": [],
+          "framework": "Weather"
         },
         {
           "name": "WeatherIdentifierUpdater",
-          "children": []
+          "children": [],
+          "framework": "Weather"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "ToneKit.framework",
+  "name": "ToneKit",
   "list": [
     {
       "name": "UIView",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "TLDividerView",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "TLDividerTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "TKVibratorController",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "TKVibrationRecorderViewController",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "TKVibrationRecorderTouchSurface",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "TKVibrationRecorderRippleRingLayer",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "TKVibrationRecorderProgressDotImageView",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "TKVibrationRecorderContentViewController",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "TKVibrationPickerViewController",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "TKVibrationPickerTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "ToneKit"
         }
       ]
     }

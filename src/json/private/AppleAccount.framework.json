@@ -1,5 +1,5 @@
 {
-  "name": "AppleAccount.framework",
+  "name": "AppleAccount",
   "list": [
     {
       "name": "AAResponse",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "ATVHighSecurityAccountVerifyCodeResponse",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "ATVHighSecurityAccountVerifyCode",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "ATVHighSecurityAccountDeviceList",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         },
         {
           "name": "ATVHighSecurityAccountSendCode",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "AAiCloudTermsStringResponse",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -51,11 +56,13 @@
       "children": [
         {
           "name": "AAiCloudTermsAgreeRequest",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         },
         {
           "name": "AAiCloudTermsStringRequest",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -65,15 +72,18 @@
       "children": [
         {
           "name": "AASigningSession",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         },
         {
           "name": "AAURLConfiguration",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         },
         {
           "name": "AAUserNotification",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -83,7 +93,8 @@
       "children": [
         {
           "name": "AASetupAssistantUpdateRequest",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -93,7 +104,8 @@
       "children": [
         {
           "name": "AASetupAssistantConfigRequest",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -103,7 +115,8 @@
       "children": [
         {
           "name": "AASetupAssistantAuthenticateRequest",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -113,7 +126,8 @@
       "children": [
         {
           "name": "AARequester",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "AAProvisioningResponse",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     },
@@ -133,11 +148,13 @@
       "children": [
         {
           "name": "AACompleteEmailVettingRequest",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         },
         {
           "name": "AAInitiateEmailVettingRequest",
-          "children": []
+          "children": [],
+          "framework": "AppleAccount"
         }
       ]
     }

@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_MPStorePlayWhileDownloadAVURLAsset",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -17,23 +18,28 @@
       "children": [
         {
           "name": "_MPMotionManagerClient",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         },
         {
           "name": "_MPNonRetainingDelayedPerformContext",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         },
         {
           "name": "_MPRadioPlayEventStationInfo",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         },
         {
           "name": "_MPRadioStaticProfileConnectionObserver",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         },
         {
           "name": "_MPStoreDownloadBlockObserver",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -43,7 +49,8 @@
       "children": [
         {
           "name": "_MPMediaSearchStringPredicate",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -53,7 +60,8 @@
       "children": [
         {
           "name": "_MPGlowLabel",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -63,11 +71,13 @@
       "children": [
         {
           "name": "_MPAnisotropicDetailThumbView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         },
         {
           "name": "_MPAnisotropicVolumeThumbView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -77,7 +87,8 @@
       "children": [
         {
           "name": "UIMovieView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -87,7 +98,8 @@
       "children": [
         {
           "name": "UICoverFlowPlaceholderImage",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -97,7 +109,8 @@
       "children": [
         {
           "name": "QueryCriteriaResultsCache",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -107,7 +120,8 @@
       "children": [
         {
           "name": "MPVolumeSlider",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -117,7 +131,8 @@
       "children": [
         {
           "name": "MPVolumeSettingsController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -127,7 +142,8 @@
       "children": [
         {
           "name": "MPVolumeAlertView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -137,7 +153,8 @@
       "children": [
         {
           "name": "MPViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -147,11 +164,13 @@
       "children": [
         {
           "name": "MPVideoChaptersViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         },
         {
           "name": "MPVideoViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -161,7 +180,8 @@
       "children": [
         {
           "name": "MPVideoChapterFlipTransitionController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -171,7 +191,8 @@
       "children": [
         {
           "name": "MPVideoChapterCell",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -181,7 +202,8 @@
       "children": [
         {
           "name": "MPURLImageCacheRequest",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -191,7 +213,8 @@
       "children": [
         {
           "name": "MPTransportButton",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -201,7 +224,8 @@
       "children": [
         {
           "name": "MPTapGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -211,7 +235,8 @@
       "children": [
         {
           "name": "MPTVOutWindow",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -221,7 +246,8 @@
       "children": [
         {
           "name": "MPStoreOfferMediaItemCollection",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -231,7 +257,8 @@
       "children": [
         {
           "name": "MPStoreOfferMediaItemArtwork",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -241,7 +268,8 @@
       "children": [
         {
           "name": "MPStoreOfferMediaItem",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -251,7 +279,8 @@
       "children": [
         {
           "name": "MPStoreOfferButton",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -261,7 +290,8 @@
       "children": [
         {
           "name": "MPRemoteMediaPickerController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -271,7 +301,8 @@
       "children": [
         {
           "name": "MPReflectionImageView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -281,7 +312,8 @@
       "children": [
         {
           "name": "MPRadioStreamAVItem",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -291,7 +323,8 @@
       "children": [
         {
           "name": "MPRadioQueueFeeder",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -301,7 +334,8 @@
       "children": [
         {
           "name": "MPRadioImageCache",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -311,7 +345,8 @@
       "children": [
         {
           "name": "MPRadioAdImageCacheRequest",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -321,7 +356,8 @@
       "children": [
         {
           "name": "MPRadioAdAVItem",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -331,7 +367,8 @@
       "children": [
         {
           "name": "MPPrepareRadioPlaybackOperation",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -341,7 +378,8 @@
       "children": [
         {
           "name": "MPPlaybackTitlesView",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -351,7 +389,8 @@
       "children": [
         {
           "name": "MPNondurableMediaItem",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -361,7 +400,8 @@
       "children": [
         {
           "name": "MPMusicPlayerControllerServerInternal",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -371,7 +411,8 @@
       "children": [
         {
           "name": "MPMusicPlayerControllerInternal",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -381,7 +422,8 @@
       "children": [
         {
           "name": "MPMediaQueryMutableSectionInfo",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -391,7 +433,8 @@
       "children": [
         {
           "name": "MPMediaLibraryDataProviderSystemML3",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -401,7 +444,8 @@
       "children": [
         {
           "name": "MPMediaItemCollection",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -411,7 +455,8 @@
       "children": [
         {
           "name": "MPMediaItemChapterImageRequest",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -421,7 +466,8 @@
       "children": [
         {
           "name": "MPMediaEntityResultSetArray",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -431,11 +477,13 @@
       "children": [
         {
           "name": "MPMediaCompoundAllPredicate",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         },
         {
           "name": "MPMediaCompoundAnyPredicate",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -445,7 +493,8 @@
       "children": [
         {
           "name": "MPMediaCollectionDownloadObserver",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -455,7 +504,8 @@
       "children": [
         {
           "name": "MPMediaChapterTimeMarker",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -465,7 +515,8 @@
       "children": [
         {
           "name": "MPMediaArray",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -475,7 +526,8 @@
       "children": [
         {
           "name": "MPML3ErrorResolver",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -485,11 +537,13 @@
       "children": [
         {
           "name": "MPInlineAudioTransportControls",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         },
         {
           "name": "MPInlineTransportControls",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -499,7 +553,8 @@
       "children": [
         {
           "name": "MPInlineAudioOverlay",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -509,7 +564,8 @@
       "children": [
         {
           "name": "MPHomeSharingURLProtocol",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -519,7 +575,8 @@
       "children": [
         {
           "name": "MPFloatingAirPlayDebugViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -529,7 +586,8 @@
       "children": [
         {
           "name": "MPFlipTransitionController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -539,7 +597,8 @@
       "children": [
         {
           "name": "MPConcreteMediaPlaylist",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -549,7 +608,8 @@
       "children": [
         {
           "name": "MPAudioVideoRoutingTableViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -559,7 +619,8 @@
       "children": [
         {
           "name": "MPAudioVideoRoutingTableViewCellLayoutManager",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -569,7 +630,8 @@
       "children": [
         {
           "name": "MPAudioVideoRoutingPopoverController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -579,7 +641,8 @@
       "children": [
         {
           "name": "MPAudioVideoRoutingActionSheet",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -589,7 +652,8 @@
       "children": [
         {
           "name": "MPAudioRouteCell",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -599,7 +663,8 @@
       "children": [
         {
           "name": "MPAlternateTracksViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -609,7 +674,8 @@
       "children": [
         {
           "name": "MPAlternateTextTrack",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     },
@@ -619,7 +685,8 @@
       "children": [
         {
           "name": "MPAbstractFullScreenVideoViewController",
-          "children": []
+          "children": [],
+          "framework": "MediaPlayer.framework"
         }
       ]
     }

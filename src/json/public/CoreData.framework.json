@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "_PFUbiquityRecordsExporter",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "_PFUbiquityRecordsImporter",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "_PFUbiquityStack",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "_PFWeakReference",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "_PFZipFileArchive",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -33,7 +38,8 @@
       "children": [
         {
           "name": "_PFUbiquityRecordImportOperation",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -43,7 +49,8 @@
       "children": [
         {
           "name": "_PFString",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -53,7 +60,8 @@
       "children": [
         {
           "name": "_PFMutableProxyArray",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -63,7 +71,8 @@
       "children": [
         {
           "name": "_PFFetchedResultOrderedSetWrapper",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -73,7 +82,8 @@
       "children": [
         {
           "name": "_PFExternalReferenceData",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -83,7 +93,8 @@
       "children": [
         {
           "name": "_PFEncodedString",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -93,7 +104,8 @@
       "children": [
         {
           "name": "_PFEncodedArray",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -103,7 +115,8 @@
       "children": [
         {
           "name": "_PFCachedNumber",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -113,7 +126,8 @@
       "children": [
         {
           "name": "_NSTemporaryObjectID2",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "_NSScalarObjectID",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -133,7 +148,8 @@
       "children": [
         {
           "name": "_NSProxyWrapperMutableSet",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -143,7 +159,8 @@
       "children": [
         {
           "name": "_NSProxyWrapperMutableOrderedSet",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -153,7 +170,8 @@
       "children": [
         {
           "name": "_NSPropertyDescriptionProxy2",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -163,11 +181,13 @@
       "children": [
         {
           "name": "_NSOrderedSetDiffInsert",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "_NSOrderedSetDiffMove",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -177,11 +197,13 @@
       "children": [
         {
           "name": "_NSOrderedSetDiffChange",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "_NSOrderedSetDiffDelete",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -191,7 +213,8 @@
       "children": [
         {
           "name": "_NSNotifyingWrapperMutableSet",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -201,7 +224,8 @@
       "children": [
         {
           "name": "_NSNotifyingWrapperMutableOrderedSet",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -211,7 +235,8 @@
       "children": [
         {
           "name": "_NSKnownKeysEnumerator",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -221,7 +246,8 @@
       "children": [
         {
           "name": "_NSCoreManagedObjectID",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -231,11 +257,13 @@
       "children": [
         {
           "name": "_NSCoreDataException",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "_NSCoreDataOptimisticLockingException",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -245,19 +273,23 @@
       "children": [
         {
           "name": "PFUbiquityPeerState",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "PFUbiquityRemotePeerState",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "PFUbiquityStoreMetadata",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "PFUbiquityTransactionEntry",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -267,7 +299,8 @@
       "children": [
         {
           "name": "PFUbiquityPeerReceipt",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -277,7 +310,8 @@
       "children": [
         {
           "name": "PFUbiquityMergePolicy",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -287,7 +321,8 @@
       "children": [
         {
           "name": "PFUbiquityMergeConflict",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -297,7 +332,8 @@
       "children": [
         {
           "name": "PFUbiquityImportOperation",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -307,7 +343,8 @@
       "children": [
         {
           "name": "PFUbiquityFileCoordinator",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -317,7 +354,8 @@
       "children": [
         {
           "name": "PFUbiquityBaselineRollResponseOperation",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -327,11 +365,13 @@
       "children": [
         {
           "name": "PFUbiquityBaselineRecoveryOperation",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "PFUbiquityBaselineRollOperation",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -341,11 +381,13 @@
       "children": [
         {
           "name": "NSScalarObjectID48",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "NSScalarObjectID64",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -355,7 +397,8 @@
       "children": [
         {
           "name": "NSSaveChangesRequest",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -365,7 +408,8 @@
       "children": [
         {
           "name": "NSSQLiteStatement",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -375,7 +419,8 @@
       "children": [
         {
           "name": "NSSQLiteInPlaceMigrationManager",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -385,7 +430,8 @@
       "children": [
         {
           "name": "NSSQLiteConnection",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -395,7 +441,8 @@
       "children": [
         {
           "name": "NSSQLiteAdapter",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -405,7 +452,8 @@
       "children": [
         {
           "name": "NSSQLWhereIntermediate",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -415,11 +463,13 @@
       "children": [
         {
           "name": "NSSQLToMany",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "NSSQLToOne",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -429,11 +479,13 @@
       "children": [
         {
           "name": "NSSQLSubqueryExpressionIntermediate",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "NSSQLTernaryExpressionIntermediate",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -443,7 +495,8 @@
       "children": [
         {
           "name": "NSSQLSimpleWhereIntermediate",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -453,7 +506,8 @@
       "children": [
         {
           "name": "NSSQLRowCache",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -463,7 +517,8 @@
       "children": [
         {
           "name": "NSSQLRow",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -473,7 +528,8 @@
       "children": [
         {
           "name": "NSSQLRelationship",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -483,7 +539,8 @@
       "children": [
         {
           "name": "NSSQLReadOnlySelectIntermediate",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -493,7 +550,8 @@
       "children": [
         {
           "name": "NSSQLProperty",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -503,15 +561,18 @@
       "children": [
         {
           "name": "NSSQLForeignOrderKey",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "NSSQLOptLockKey",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         },
         {
           "name": "NSSQLPrimaryKey",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -521,7 +582,8 @@
       "children": [
         {
           "name": "NSSQLForeignKeyIntermediate",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -531,7 +593,8 @@
       "children": [
         {
           "name": "NSSQLFetchCountIntermediate",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -541,7 +604,8 @@
       "children": [
         {
           "name": "NSSQLCore",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -551,7 +615,8 @@
       "children": [
         {
           "name": "NSRelationshipStoreMapping",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -561,7 +626,8 @@
       "children": [
         {
           "name": "NSRelationshipDescription",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -571,7 +637,8 @@
       "children": [
         {
           "name": "NSMergedPolicyLocalizationPolicy",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -581,7 +648,8 @@
       "children": [
         {
           "name": "NSMemoryStoreInPredicateOperator",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -591,7 +659,8 @@
       "children": [
         {
           "name": "NSMemoryStoreEqualityPredicateOperator",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -601,7 +670,8 @@
       "children": [
         {
           "name": "NSMemoryObjectStore",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -611,7 +681,8 @@
       "children": [
         {
           "name": "NSKnownKeysMappingStrategy2",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -621,7 +692,8 @@
       "children": [
         {
           "name": "NSKnownKeysMappingStrategy1",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -631,7 +703,8 @@
       "children": [
         {
           "name": "NSKnownKeysDictionary2",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -641,7 +714,8 @@
       "children": [
         {
           "name": "NSKnownKeysDictionary1",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -651,7 +725,8 @@
       "children": [
         {
           "name": "NSKnownKeysDictionary",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -661,7 +736,8 @@
       "children": [
         {
           "name": "NSFetchRequestExpression",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -671,7 +747,8 @@
       "children": [
         {
           "name": "NSDictionaryStoreMap",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     },
@@ -681,7 +758,8 @@
       "children": [
         {
           "name": "NSDictionaryMapNode",
-          "children": []
+          "children": [],
+          "framework": "CoreData.framework"
         }
       ]
     }

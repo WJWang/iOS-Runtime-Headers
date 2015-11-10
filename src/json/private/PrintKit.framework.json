@@ -1,5 +1,5 @@
 {
-  "name": "PrintKit.framework",
+  "name": "PrintKit",
   "list": [
     {
       "name": "NSObject",
@@ -7,35 +7,43 @@
       "children": [
         {
           "name": "DNSServiceRefWrapper",
-          "children": []
+          "children": [],
+          "framework": "PrintKit"
         },
         {
           "name": "PKDefaults",
-          "children": []
+          "children": [],
+          "framework": "PrintKit"
         },
         {
           "name": "PKJob",
-          "children": []
+          "children": [],
+          "framework": "PrintKit"
         },
         {
           "name": "PKMediaName",
-          "children": []
+          "children": [],
+          "framework": "PrintKit"
         },
         {
           "name": "PKPaper",
-          "children": []
+          "children": [],
+          "framework": "PrintKit"
         },
         {
           "name": "PKPrintSettings",
-          "children": []
+          "children": [],
+          "framework": "PrintKit"
         },
         {
           "name": "PKPrinter",
-          "children": []
+          "children": [],
+          "framework": "PrintKit"
         },
         {
           "name": "PKPrinterBrowser",
-          "children": []
+          "children": [],
+          "framework": "PrintKit"
         }
       ]
     }

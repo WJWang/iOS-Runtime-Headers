@@ -1,5 +1,5 @@
 {
-  "name": "PhotosUI.framework",
+  "name": "PhotosUI",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "__PUObject",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_PUZoomRotateGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "PUZoomableGridViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUZoomableGridViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "PUZoomableGridViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "PUZoomTransitionLayout",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -61,11 +67,13 @@
       "children": [
         {
           "name": "PUYouTubeActivity",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUYoukuActivity",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "PUYearsZoomLevelInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -85,7 +94,8 @@
       "children": [
         {
           "name": "PUWallpaperNavigationController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -95,7 +105,8 @@
       "children": [
         {
           "name": "PUWallpaperActivity",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -105,7 +116,8 @@
       "children": [
         {
           "name": "PUVerticalTiledLayoutGenerator",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -115,7 +127,8 @@
       "children": [
         {
           "name": "PUUIPhotosAlbumViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -125,7 +138,8 @@
       "children": [
         {
           "name": "PUUIAlbumListViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -135,7 +149,8 @@
       "children": [
         {
           "name": "PUTopLevelNavigationBar",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -145,7 +160,8 @@
       "children": [
         {
           "name": "PUThresholdCrossingCountValueFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -155,11 +171,13 @@
       "children": [
         {
           "name": "PUTabbedLibraryViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUTabbedLibraryViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -169,7 +187,8 @@
       "children": [
         {
           "name": "PUTabbedLibraryViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -179,7 +198,8 @@
       "children": [
         {
           "name": "PUSwitcherBanner",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -189,7 +209,8 @@
       "children": [
         {
           "name": "PUStackedAlbumTransition",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -199,7 +220,8 @@
       "children": [
         {
           "name": "PUStackedAlbumLayout",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -209,7 +231,8 @@
       "children": [
         {
           "name": "PUStackView",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -219,7 +242,8 @@
       "children": [
         {
           "name": "PUSectionedGridLayoutInvalidationContext",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -229,7 +253,8 @@
       "children": [
         {
           "name": "PUSectionedGridLayoutAttributes",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -239,7 +264,8 @@
       "children": [
         {
           "name": "PUSaveToCameraRollActivity",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -249,7 +275,8 @@
       "children": [
         {
           "name": "PUReviewScrubberCell",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -259,7 +286,8 @@
       "children": [
         {
           "name": "PUReviewScrubber",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -269,11 +297,13 @@
       "children": [
         {
           "name": "PUProtoSettingsDetailViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUProtoSettingsViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -283,7 +313,8 @@
       "children": [
         {
           "name": "PUPresentationContextNavigationController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -293,7 +324,8 @@
       "children": [
         {
           "name": "PUPopoverController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -303,7 +335,8 @@
       "children": [
         {
           "name": "PUPlacesViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -313,7 +346,8 @@
       "children": [
         {
           "name": "PUPhotosZoomingSharingGridCell",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -323,11 +357,13 @@
       "children": [
         {
           "name": "PUPhotosSharingViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUPhotosSharingViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -337,7 +373,8 @@
       "children": [
         {
           "name": "PUPhotosSharingTransition",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -347,7 +384,8 @@
       "children": [
         {
           "name": "PUPhotosSharingSelectionView",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -357,7 +395,8 @@
       "children": [
         {
           "name": "PUPhotosSharingCollectionViewLayout",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -367,11 +406,13 @@
       "children": [
         {
           "name": "PUPhotosPickerViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUPhotosPickerViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -381,7 +422,8 @@
       "children": [
         {
           "name": "PUPhotosPickerSessionInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -391,11 +433,13 @@
       "children": [
         {
           "name": "PUPhotosPanoramaViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUPhotosPanoramaViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -405,7 +449,8 @@
       "children": [
         {
           "name": "PUPhotosMapGridViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -415,7 +460,8 @@
       "children": [
         {
           "name": "PUPhotosMapGridViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -425,11 +471,13 @@
       "children": [
         {
           "name": "PUPhotosGridViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUPhotosGridViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -439,7 +487,8 @@
       "children": [
         {
           "name": "PUPhotosGridViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -449,7 +498,8 @@
       "children": [
         {
           "name": "PUPhotoStreamComposeServiceViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -459,7 +509,8 @@
       "children": [
         {
           "name": "PUPhotoStreamAlbumTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -469,7 +520,8 @@
       "children": [
         {
           "name": "PUPhotoBrowserControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -479,7 +531,8 @@
       "children": [
         {
           "name": "PUPhotoBrowserControllerPhoneCameraSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -489,7 +542,8 @@
       "children": [
         {
           "name": "PUPhotoBrowserControllerPadCameraSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -499,7 +553,8 @@
       "children": [
         {
           "name": "PUOffsetTextField",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -509,11 +564,13 @@
       "children": [
         {
           "name": "PUModalTransition",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUNavigationTransition",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -523,7 +580,8 @@
       "children": [
         {
           "name": "PUMessageActivity",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -533,7 +591,8 @@
       "children": [
         {
           "name": "PUMaximumChangeRateValueFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -543,11 +602,13 @@
       "children": [
         {
           "name": "PUMapViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUMapViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -557,7 +618,8 @@
       "children": [
         {
           "name": "PUMapAssetItem",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -567,7 +629,8 @@
       "children": [
         {
           "name": "PUMapAnnotationQuadtreeMultiAddress",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -577,7 +640,8 @@
       "children": [
         {
           "name": "PUMailActivity",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -587,11 +651,13 @@
       "children": [
         {
           "name": "PULayoutSectionListSampler",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PULayoutSectionSimpleSampler",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -601,7 +667,8 @@
       "children": [
         {
           "name": "PULayoutSampledSectioning",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -611,7 +678,8 @@
       "children": [
         {
           "name": "PUInterpolatingLayoutAttributes",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -621,7 +689,8 @@
       "children": [
         {
           "name": "PUGridZoomTransitionAnimationController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -631,7 +700,8 @@
       "children": [
         {
           "name": "PUFeedViewControllerPopoverSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -641,11 +711,13 @@
       "children": [
         {
           "name": "PUFeedViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUFeedViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -655,7 +727,8 @@
       "children": [
         {
           "name": "PUFeedTextCell",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -665,7 +738,8 @@
       "children": [
         {
           "name": "PUFeedSubscriptionSectionInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -675,23 +749,28 @@
       "children": [
         {
           "name": "PUFeedAlbumCreatedSectionInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUFeedAssetsSectionInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUFeedCommentsSectionInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUFeedInvitationResponseSectionInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUFeedInvitationSectionInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -701,7 +780,8 @@
       "children": [
         {
           "name": "PUCollectionViewTransition",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -711,7 +791,8 @@
       "children": [
         {
           "name": "PUCollectionViewFlowLayout",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -721,7 +802,8 @@
       "children": [
         {
           "name": "PUCollectionView",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -731,7 +813,8 @@
       "children": [
         {
           "name": "PUAvalancheReviewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -741,7 +824,8 @@
       "children": [
         {
           "name": "PUAvalancheReviewCollectionViewLayout",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -751,7 +835,8 @@
       "children": [
         {
           "name": "PUAssignToContactActivity",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -761,7 +846,8 @@
       "children": [
         {
           "name": "PUAlertView",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -771,11 +857,13 @@
       "children": [
         {
           "name": "PUAlbumPickerViewControllerPadSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUAlbumPickerViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -785,7 +873,8 @@
       "children": [
         {
           "name": "PUAlbumListViewControllerPhoneSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -795,11 +884,13 @@
       "children": [
         {
           "name": "PUAlbumListViewControllerPadImagePickerSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUAlbumListViewControllerPhoneImagePickerSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -809,11 +900,13 @@
       "children": [
         {
           "name": "PUAlbumListGridViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "PUAlbumListTableViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -823,7 +916,8 @@
       "children": [
         {
           "name": "PUActivityViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -833,7 +927,8 @@
       "children": [
         {
           "name": "PUActivityItemSourceOperation",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -843,7 +938,8 @@
       "children": [
         {
           "name": "PUActivity",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -853,7 +949,8 @@
       "children": [
         {
           "name": "PUActionSheet",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     },
@@ -863,11 +960,13 @@
       "children": [
         {
           "name": "CAMPadCameraRollSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         },
         {
           "name": "CAMPhoneCameraRollSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotosUI"
         }
       ]
     }

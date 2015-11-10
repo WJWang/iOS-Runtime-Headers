@@ -1,5 +1,5 @@
 {
-  "name": "UIFoundation.framework",
+  "name": "UIFoundation",
   "list": [
     {
       "name": "NSString",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "__NSATSStringSegment",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "children": [
         {
           "name": "_UITextTiledLayer",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         },
         {
           "name": "_UITileLayer",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -31,15 +34,18 @@
       "children": [
         {
           "name": "_NSTextStorageSideData",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         },
         {
           "name": "_UICache",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         },
         {
           "name": "_UIFontCacheKey",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "_NSCachedAttributedString",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "UICTFontDescriptor",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "UICTFont",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -79,11 +88,13 @@
       "children": [
         {
           "name": "NSTextTable",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         },
         {
           "name": "NSTextTableBlock",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -93,7 +104,8 @@
       "children": [
         {
           "name": "NSTempAttributeDictionary",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -103,7 +115,8 @@
       "children": [
         {
           "name": "NSStringDrawingTextStorage",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -113,7 +126,8 @@
       "children": [
         {
           "name": "NSSortedArray",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "NSSingleLineTypesetter",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -133,7 +148,8 @@
       "children": [
         {
           "name": "NSMutableParagraphStyle",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -143,7 +159,8 @@
       "children": [
         {
           "name": "NSIdentityGlyphInfo",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -153,7 +170,8 @@
       "children": [
         {
           "name": "NSIdRunStorage",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -163,7 +181,8 @@
       "children": [
         {
           "name": "NSGlyphNameGlyphInfo",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -173,7 +192,8 @@
       "children": [
         {
           "name": "NSConcreteNotifyingMutableAttributedString",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -183,7 +203,8 @@
       "children": [
         {
           "name": "NSConcreteGlyphGenerator",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -193,7 +214,8 @@
       "children": [
         {
           "name": "NSAttributeDictionaryEnumerator",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -203,7 +225,8 @@
       "children": [
         {
           "name": "NSAttributeDictionary",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -213,7 +236,8 @@
       "children": [
         {
           "name": "NSATSTypesetter",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     },
@@ -223,7 +247,8 @@
       "children": [
         {
           "name": "NSATSGlyphStorage",
-          "children": []
+          "children": [],
+          "framework": "UIFoundation"
         }
       ]
     }

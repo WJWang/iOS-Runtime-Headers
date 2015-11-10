@@ -1,5 +1,5 @@
 {
-  "name": "IMDaemonCore.framework",
+  "name": "IMDaemonCore",
   "list": [
     {
       "name": "NSObject",
@@ -7,27 +7,33 @@
       "children": [
         {
           "name": "IMDInvocationForwarder",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         },
         {
           "name": "IMDMessageStore",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         },
         {
           "name": "IMDService",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         },
         {
           "name": "IMDServiceController",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         },
         {
           "name": "IMDServiceSession",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         },
         {
           "name": "IMTunesController",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         }
       ]
     },
@@ -37,7 +43,8 @@
       "children": [
         {
           "name": "IMDIDSService",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         }
       ]
     },
@@ -47,7 +54,8 @@
       "children": [
         {
           "name": "IMDIDSAccount",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         }
       ]
     },
@@ -57,7 +65,8 @@
       "children": [
         {
           "name": "IMDAppleServiceSession",
-          "children": []
+          "children": [],
+          "framework": "IMDaemonCore"
         }
       ]
     }

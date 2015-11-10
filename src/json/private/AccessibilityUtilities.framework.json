@@ -1,5 +1,5 @@
 {
-  "name": "AccessibilityUtilities.framework",
+  "name": "AccessibilityUtilities",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "AXZoomListenerContainer",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "children": [
         {
           "name": "AXWordDescriptionManager_ja",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXWordDescriptionManager_zh",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "AXVoiceOverServer",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         }
       ]
     },
@@ -41,43 +45,53 @@
       "children": [
         {
           "name": "AXSubsystemAXCompareGeometry",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemAXIPC",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemBBServer",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemGAX",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemGAXAppLaunching",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemGAXIntegrity",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemSBServer",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemUnitTesting",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemVOTHandwriting",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         },
         {
           "name": "AXSubsystemValidations",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUtilities"
         }
       ]
     }

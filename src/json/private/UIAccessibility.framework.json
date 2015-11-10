@@ -1,5 +1,5 @@
 {
-  "name": "UIAccessibility.framework",
+  "name": "UIAccessibility",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "UIAccessibilityRemoteElement",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "UIAccessibilityPresentingViewController",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "UIAccessibilityMathWebView",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "UIAccessibilityMathNavigationBar",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "UIAccessibilityElementSuperCategory_super",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "UIAccessibilityElementSuperCategory",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "UIAccessibilityAggregateElement",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "UIAXTouchEvent",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "NSObjectAccessibility",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "NSBundleAccessibility",
-          "children": []
+          "children": [],
+          "framework": "UIAccessibility"
         }
       ]
     }

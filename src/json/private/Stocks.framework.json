@@ -1,5 +1,5 @@
 {
-  "name": "Stocks.framework",
+  "name": "Stocks",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "XMLHTTPRequest",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         },
         {
           "name": "YQLRequest",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         },
         {
           "name": "YahooCompensator",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         },
         {
           "name": "YahooDoppelganger",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         }
       ]
     },
@@ -29,7 +33,8 @@
       "children": [
         {
           "name": "XMLChartUpdater",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         }
       ]
     },
@@ -39,19 +44,23 @@
       "children": [
         {
           "name": "LineGraphView",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         },
         {
           "name": "StockGraphView",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         },
         {
           "name": "TintedView",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         },
         {
           "name": "VolumeGraphView",
-          "children": []
+          "children": [],
+          "framework": "Stocks"
         }
       ]
     }

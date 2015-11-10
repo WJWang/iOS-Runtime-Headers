@@ -1,5 +1,5 @@
 {
-  "name": "MobileAsset.framework",
+  "name": "MobileAsset",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "ASAsset",
-          "children": []
+          "children": [],
+          "framework": "MobileAsset"
         },
         {
           "name": "ASAssetQuery",
-          "children": []
+          "children": [],
+          "framework": "MobileAsset"
         }
       ]
     }

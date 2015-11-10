@@ -1,5 +1,5 @@
 {
-  "name": "PhotoLibrary.framework",
+  "name": "PhotoLibrary",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_PLLibraryTabInfo",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "TrimVideoNavigationItem",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "TPCameraButton",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "PLYellowButtonItem",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "PLWallpaperImageViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "PLWallpaperButton",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "PLWPhotoBrowserController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -77,19 +84,23 @@
       "children": [
         {
           "name": "PLVideoOverlayButton",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLVideoPosterFrameView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLVideoPreviewView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLVideoView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -99,7 +110,8 @@
       "children": [
         {
           "name": "PLVideoOutBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -109,11 +121,13 @@
       "children": [
         {
           "name": "PLUIImageViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLUIPrivacyViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -123,11 +137,13 @@
       "children": [
         {
           "name": "PLUIEditImageViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLUIEditVideoViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -137,7 +153,8 @@
       "children": [
         {
           "name": "PLUICameraViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -147,7 +164,8 @@
       "children": [
         {
           "name": "PLTouchGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -157,7 +175,8 @@
       "children": [
         {
           "name": "PLToolbar",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -167,7 +186,8 @@
       "children": [
         {
           "name": "PLTextView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -177,7 +197,8 @@
       "children": [
         {
           "name": "PLTableViewEditableTagCell",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -187,7 +208,8 @@
       "children": [
         {
           "name": "PLTableViewEditableCell",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -197,7 +219,8 @@
       "children": [
         {
           "name": "PLTabbedLibraryViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -207,7 +230,8 @@
       "children": [
         {
           "name": "PLTVOutWindow",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -217,7 +241,8 @@
       "children": [
         {
           "name": "PLStaticWallpaperImageViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -227,7 +252,8 @@
       "children": [
         {
           "name": "PLSlalomRegionEditor",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -237,7 +263,8 @@
       "children": [
         {
           "name": "PLPolaroidImageView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -247,7 +274,8 @@
       "children": [
         {
           "name": "PLPictureFramePlugin",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -257,7 +285,8 @@
       "children": [
         {
           "name": "PLPhotosApplication",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -267,7 +296,8 @@
       "children": [
         {
           "name": "PLPhonePhotoScrollerViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -277,11 +307,13 @@
       "children": [
         {
           "name": "PLLowDiskSpaceAlertView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLPasswordAlertView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -291,7 +323,8 @@
       "children": [
         {
           "name": "PLLabel",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -301,11 +334,13 @@
       "children": [
         {
           "name": "PLImageView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLImageViewWithAnimatedAnchor",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -315,7 +350,8 @@
       "children": [
         {
           "name": "PLImageScrollView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -325,7 +361,8 @@
       "children": [
         {
           "name": "PLExpandableImageView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -335,11 +372,13 @@
       "children": [
         {
           "name": "PLEffectsFullsizeView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLEffectsGridView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -349,7 +388,8 @@
       "children": [
         {
           "name": "PLEffectPreviewView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -359,7 +399,8 @@
       "children": [
         {
           "name": "PLDebugViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -369,11 +410,13 @@
       "children": [
         {
           "name": "PLDebugDefaultDetailTableViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLDebugTableViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -383,7 +426,8 @@
       "children": [
         {
           "name": "PLDataArrayInputStream",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -393,15 +437,18 @@
       "children": [
         {
           "name": "PLCameraOptionsButton",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLCameraToggleButton",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLCameraVideoStillCaptureButton",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -411,15 +458,18 @@
       "children": [
         {
           "name": "PLCameraFaceTrackingView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLCameraFocusLockView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "PLCameraFocusPointView",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -429,7 +479,8 @@
       "children": [
         {
           "name": "PLAlbumTextField",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -439,7 +490,8 @@
       "children": [
         {
           "name": "PLAirTunesButton",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -449,7 +501,8 @@
       "children": [
         {
           "name": "NoRasterization",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -459,7 +512,8 @@
       "children": [
         {
           "name": "DeferredPUApplicationCameraViewController",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -469,7 +523,8 @@
       "children": [
         {
           "name": "DeferredCAMCameraRollSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -479,7 +534,8 @@
       "children": [
         {
           "name": "CAMZoomSlider",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -489,7 +545,8 @@
       "children": [
         {
           "name": "CAMPhoneImagePickerSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -499,11 +556,13 @@
       "children": [
         {
           "name": "CAMPadApplicationSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "CAMPhoneApplicationSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     },
@@ -513,11 +572,13 @@
       "children": [
         {
           "name": "CAMApplicationSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         },
         {
           "name": "CAMImagePickerSpec",
-          "children": []
+          "children": [],
+          "framework": "PhotoLibrary"
         }
       ]
     }

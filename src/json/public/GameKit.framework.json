@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_GKURLRequestDictionaryKey",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_GKSplitViewDetailPlaceholderViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "_GKImageSpeechBalloonBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "_GKCustomDrawnSpeechBalloonBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -47,11 +51,13 @@
       "children": [
         {
           "name": "_GKBubbleFlowOnDemandFormSheetViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "_GKBubbleFlowPseudoModalViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -61,7 +67,8 @@
       "children": [
         {
           "name": "GameCenterTest",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -71,7 +78,8 @@
       "children": [
         {
           "name": "GKWiggleRotateAnimator",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "GKViewServiceInterface",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -91,7 +100,8 @@
       "children": [
         {
           "name": "GKViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -101,7 +111,8 @@
       "children": [
         {
           "name": "GKValueWithCaptionBubbleControl",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -111,11 +122,13 @@
       "children": [
         {
           "name": "GKUtilityServiceInterface",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKUtilityServicePrivateInterface",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -125,7 +138,8 @@
       "children": [
         {
           "name": "GKUnknownPlayerInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -135,7 +149,8 @@
       "children": [
         {
           "name": "GKUnauthenticatedPlayerInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -145,7 +160,8 @@
       "children": [
         {
           "name": "GKUIAlertView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -155,7 +171,8 @@
       "children": [
         {
           "name": "GKUIActionSheet",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -165,7 +182,8 @@
       "children": [
         {
           "name": "GKTurnsViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -175,7 +193,8 @@
       "children": [
         {
           "name": "GKTurnsDataSource",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -185,11 +204,13 @@
       "children": [
         {
           "name": "GKTurnParticipantCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKTurnParticipantDetailCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -199,7 +220,8 @@
       "children": [
         {
           "name": "GKTurnBasedParticipantsDataSource",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -209,7 +231,8 @@
       "children": [
         {
           "name": "GKTurnBasedParticipantInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -219,7 +242,8 @@
       "children": [
         {
           "name": "GKTurnBasedMatchmakerViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -229,7 +253,8 @@
       "children": [
         {
           "name": "GKTurnBasedMatchDetailViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -239,7 +264,8 @@
       "children": [
         {
           "name": "GKTurnBasedMatchDetailHeaderView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -249,7 +275,8 @@
       "children": [
         {
           "name": "GKTurnBasedInviteViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -259,7 +286,8 @@
       "children": [
         {
           "name": "GKThemeBrush",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -269,7 +297,8 @@
       "children": [
         {
           "name": "GKTextView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -279,7 +308,8 @@
       "children": [
         {
           "name": "GKTextStylePhoneInBubbleDetail",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -289,11 +319,13 @@
       "children": [
         {
           "name": "GKTextStylePad",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKTextStylePhone",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -303,7 +335,8 @@
       "children": [
         {
           "name": "GKTextField",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -313,7 +346,8 @@
       "children": [
         {
           "name": "GKTextBubbleControl",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -323,7 +357,8 @@
       "children": [
         {
           "name": "GKTabBarController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -333,7 +368,8 @@
       "children": [
         {
           "name": "GKSwipeToEditStateMachine",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -343,7 +379,8 @@
       "children": [
         {
           "name": "GKStatusCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -353,7 +390,8 @@
       "children": [
         {
           "name": "GKSplittingDataSource",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -363,7 +401,8 @@
       "children": [
         {
           "name": "GKSpecialPlayerInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -373,7 +412,8 @@
       "children": [
         {
           "name": "GKSparseLeaderboard",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -383,7 +423,8 @@
       "children": [
         {
           "name": "GKSimpleComposeController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -393,7 +434,8 @@
       "children": [
         {
           "name": "GKSegmentedSelectorView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -403,7 +445,8 @@
       "children": [
         {
           "name": "GKSegmentedSectionHeaderView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -413,7 +456,8 @@
       "children": [
         {
           "name": "GKSectionMetrics",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -423,7 +467,8 @@
       "children": [
         {
           "name": "GKSearchBar",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -433,7 +478,8 @@
       "children": [
         {
           "name": "GKScoreChallengeInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -443,7 +489,8 @@
       "children": [
         {
           "name": "GKScoreChallenge",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -453,7 +500,8 @@
       "children": [
         {
           "name": "GKRoundButton",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -463,7 +511,8 @@
       "children": [
         {
           "name": "GKRootlessActivityViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -473,7 +522,8 @@
       "children": [
         {
           "name": "GKReportProblemRemoteUIController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -483,7 +533,8 @@
       "children": [
         {
           "name": "GKRemoteViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -493,15 +544,18 @@
       "children": [
         {
           "name": "GKRemoteMatchmakerViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKRemoteSignInViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKRemoteTurnBasedViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -511,7 +565,8 @@
       "children": [
         {
           "name": "GKRemoteGameCenterViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -521,7 +576,8 @@
       "children": [
         {
           "name": "GKRatingControl",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -531,7 +587,8 @@
       "children": [
         {
           "name": "GKPurchasableGameCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -541,7 +598,8 @@
       "children": [
         {
           "name": "GKPlayerWithSpeechBalloonViewAndEditablePhoto",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -551,11 +609,13 @@
       "children": [
         {
           "name": "GKPlayerPickerCell2Line",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKPlayerPickerCell3Line",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -565,7 +625,8 @@
       "children": [
         {
           "name": "GKPlayerPickerCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -575,7 +636,8 @@
       "children": [
         {
           "name": "GKPlayerPhotoButton",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -585,7 +647,8 @@
       "children": [
         {
           "name": "GKPlayGameActivity",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -595,7 +658,8 @@
       "children": [
         {
           "name": "GKPlaceholderView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -605,7 +669,8 @@
       "children": [
         {
           "name": "GKPhotoBrush",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -615,7 +680,8 @@
       "children": [
         {
           "name": "GKPeerPickerTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -625,7 +691,8 @@
       "children": [
         {
           "name": "GKNotificationBannerWindow",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -635,7 +702,8 @@
       "children": [
         {
           "name": "GKNetworkImageSource",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -645,7 +713,8 @@
       "children": [
         {
           "name": "GKMultiplayerCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -655,7 +724,8 @@
       "children": [
         {
           "name": "GKMultiplayerCollectionLayout",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -665,7 +735,8 @@
       "children": [
         {
           "name": "GKMultiCircleImageBrush",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -675,7 +746,8 @@
       "children": [
         {
           "name": "GKMasterDetailViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -685,7 +757,8 @@
       "children": [
         {
           "name": "GKMappedIndexPath",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -695,7 +768,8 @@
       "children": [
         {
           "name": "GKManualItemCountSectionHeaderView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -705,7 +779,8 @@
       "children": [
         {
           "name": "GKLocalPlayerInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -715,7 +790,8 @@
       "children": [
         {
           "name": "GKLocalPlayer",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -725,7 +801,8 @@
       "children": [
         {
           "name": "GKLeaderboardViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -735,11 +812,13 @@
       "children": [
         {
           "name": "GKLeaderboardScorePlayersRequest",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKLeaderboardScoreRangeRequest",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -749,7 +828,8 @@
       "children": [
         {
           "name": "GKLabel",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -759,11 +839,13 @@
       "children": [
         {
           "name": "GKItemCountInStringSectionHeaderView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKItemCountSectionHeaderView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -773,7 +855,8 @@
       "children": [
         {
           "name": "GKInvitePickerViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -783,7 +866,8 @@
       "children": [
         {
           "name": "GKInvitePickerDataSource",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -793,7 +877,8 @@
       "children": [
         {
           "name": "GKInGameColorPalette",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -803,7 +888,8 @@
       "children": [
         {
           "name": "GKInCommonGameCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -813,23 +899,28 @@
       "children": [
         {
           "name": "GKHostedAuthenticateViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKHostedChallengeIssueController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKHostedGameCenterViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKHostedMatchmakerViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKHostedTurnBasedViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -839,7 +930,8 @@
       "children": [
         {
           "name": "GKHostReachability",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -849,7 +941,8 @@
       "children": [
         {
           "name": "GKGridLayoutInvalidationContext",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -859,7 +952,8 @@
       "children": [
         {
           "name": "GKGameTurnsCell",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -869,7 +963,8 @@
       "children": [
         {
           "name": "GKGameRecordInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -879,7 +974,8 @@
       "children": [
         {
           "name": "GKGameRecord",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -889,7 +985,8 @@
       "children": [
         {
           "name": "GKGameInviteComposeController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -899,11 +996,13 @@
       "children": [
         {
           "name": "GKFriendRecommendationInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKFriendRequestInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -913,7 +1012,8 @@
       "children": [
         {
           "name": "GKFriendPlayersDataSource",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -923,11 +1023,13 @@
       "children": [
         {
           "name": "GKFriendPlayerCell2Line",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         },
         {
           "name": "GKFriendPlayerCell3Line",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -937,7 +1039,8 @@
       "children": [
         {
           "name": "GKDynamicColumnSectionMetrics",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -947,7 +1050,8 @@
       "children": [
         {
           "name": "GKComposeHeaderWithStaticRecipients",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -957,7 +1061,8 @@
       "children": [
         {
           "name": "GKCollectionViewLayoutAttributes",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -967,7 +1072,8 @@
       "children": [
         {
           "name": "GKCollectionViewController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -977,7 +1083,8 @@
       "children": [
         {
           "name": "GKChallengesPickerDataSource",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -987,7 +1094,8 @@
       "children": [
         {
           "name": "GKCancelSwipeToEditGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -997,7 +1105,8 @@
       "children": [
         {
           "name": "GKButton",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1007,7 +1116,8 @@
       "children": [
         {
           "name": "GKBubbleWithStackedContent",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1017,7 +1127,8 @@
       "children": [
         {
           "name": "GKBubbleStackedContentView",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1027,7 +1138,8 @@
       "children": [
         {
           "name": "GKBaseComposeController",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1037,7 +1149,8 @@
       "children": [
         {
           "name": "GKAddressBookSearchOperation",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1047,7 +1160,8 @@
       "children": [
         {
           "name": "GKAchievementLeaderboardScoreRangeRequest",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1057,7 +1171,8 @@
       "children": [
         {
           "name": "GKAchievementDescriptionInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1067,7 +1182,8 @@
       "children": [
         {
           "name": "GKAbbreviatedNumberFormatter",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1077,7 +1193,8 @@
       "children": [
         {
           "name": "GKABRecord",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1087,7 +1204,8 @@
       "children": [
         {
           "name": "GKABPerson",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     },
@@ -1097,7 +1215,8 @@
       "children": [
         {
           "name": "GKABMutableMultiValue",
-          "children": []
+          "children": [],
+          "framework": "GameKit.framework"
         }
       ]
     }

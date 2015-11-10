@@ -1,5 +1,5 @@
 {
-  "name": "Contacts.framework",
+  "name": "Contacts",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "CNUuidIdentifierProvider",
-          "children": []
+          "children": [],
+          "framework": "Contacts"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "CNMutablePhoneNumber",
-          "children": []
+          "children": [],
+          "framework": "Contacts"
         }
       ]
     }

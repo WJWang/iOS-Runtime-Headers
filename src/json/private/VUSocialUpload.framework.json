@@ -1,5 +1,5 @@
 {
-  "name": "VUSocialUpload.framework",
+  "name": "VUSocialUpload",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "VimeoPost",
-          "children": []
+          "children": [],
+          "framework": "VUSocialUpload"
         },
         {
           "name": "VimeoUploadSession",
-          "children": []
+          "children": [],
+          "framework": "VUSocialUpload"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "VimeoDetailsController",
-          "children": []
+          "children": [],
+          "framework": "VUSocialUpload"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "VimeoComposeViewController",
-          "children": []
+          "children": [],
+          "framework": "VUSocialUpload"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "VURemoteSession",
-          "children": []
+          "children": [],
+          "framework": "VUSocialUpload"
         }
       ]
     },
@@ -51,11 +56,13 @@
       "children": [
         {
           "name": "FlickrPhotoSetManager",
-          "children": []
+          "children": [],
+          "framework": "VUSocialUpload"
         },
         {
           "name": "FlickrPost",
-          "children": []
+          "children": [],
+          "framework": "VUSocialUpload"
         }
       ]
     }

@@ -7,63 +7,78 @@
       "children": [
         {
           "name": "CLGeocoder",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLGeocoderInternal",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLHeading",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLHeadingInternal",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLLocation",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLLocationInternal",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLLocationManager",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLLocationManagerInternal",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLLocationManagerRoutine",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLPlacemark",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLPlacemarkInternal",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLRegion",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLSimulationManager",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLTilesManagerClient",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "_CLLocationManagerRoutineProxy",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         }
       ]
     },
@@ -73,11 +88,13 @@
       "children": [
         {
           "name": "CLBeaconRegion",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         },
         {
           "name": "CLCircularRegion",
-          "children": []
+          "children": [],
+          "framework": "CoreLocation.framework"
         }
       ]
     }

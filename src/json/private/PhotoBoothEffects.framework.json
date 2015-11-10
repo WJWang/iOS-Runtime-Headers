@@ -1,5 +1,5 @@
 {
-  "name": "PhotoBoothEffects.framework",
+  "name": "PhotoBoothEffects",
   "list": [
     {
       "name": "PBFilter",
@@ -7,39 +7,48 @@
       "children": [
         {
           "name": "PBKaleidoscopeFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBLightTunnelFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBMirrorFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBNormalFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBSqueezeFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBStretchFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBThermalFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBTwirlFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBXRayFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         }
       ]
     },
@@ -49,11 +58,13 @@
       "children": [
         {
           "name": "PBFilter",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         },
         {
           "name": "PBFilterClassDescription",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         }
       ]
     },
@@ -63,7 +74,8 @@
       "children": [
         {
           "name": "PBCoreImageContext",
-          "children": []
+          "children": [],
+          "framework": "PhotoBoothEffects"
         }
       ]
     }

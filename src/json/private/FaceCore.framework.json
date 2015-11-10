@@ -1,5 +1,5 @@
 {
-  "name": "FaceCore.framework",
+  "name": "FaceCore",
   "list": [
     {
       "name": "NSObject",
@@ -7,31 +7,38 @@
       "children": [
         {
           "name": "AEVConversionUtils",
-          "children": []
+          "children": [],
+          "framework": "FaceCore"
         },
         {
           "name": "FCRExceptionUtils",
-          "children": []
+          "children": [],
+          "framework": "FaceCore"
         },
         {
           "name": "FCRFace",
-          "children": []
+          "children": [],
+          "framework": "FaceCore"
         },
         {
           "name": "FCRFaceDetector",
-          "children": []
+          "children": [],
+          "framework": "FaceCore"
         },
         {
           "name": "FCRImage",
-          "children": []
+          "children": [],
+          "framework": "FaceCore"
         },
         {
           "name": "FCRImageConversionUtils",
-          "children": []
+          "children": [],
+          "framework": "FaceCore"
         },
         {
           "name": "FCRLandmark",
-          "children": []
+          "children": [],
+          "framework": "FaceCore"
         }
       ]
     }

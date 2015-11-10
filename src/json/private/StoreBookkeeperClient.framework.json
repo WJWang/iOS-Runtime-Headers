@@ -1,5 +1,5 @@
 {
-  "name": "StoreBookkeeperClient.framework",
+  "name": "StoreBookkeeperClient",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "SBCXPCServiceProxy",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeperClient"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "SBCPlaybackPositionServiceProxy",
-          "children": []
+          "children": [],
+          "framework": "StoreBookkeeperClient"
         }
       ]
     }

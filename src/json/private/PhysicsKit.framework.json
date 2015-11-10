@@ -1,5 +1,5 @@
 {
-  "name": "PhysicsKit.framework",
+  "name": "PhysicsKit",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "PKPhysicsWorld",
-          "children": []
+          "children": [],
+          "framework": "PhysicsKit"
         }
       ]
     },
@@ -17,23 +18,28 @@
       "children": [
         {
           "name": "PKPhysicsJointDistance",
-          "children": []
+          "children": [],
+          "framework": "PhysicsKit"
         },
         {
           "name": "PKPhysicsJointPrismatic",
-          "children": []
+          "children": [],
+          "framework": "PhysicsKit"
         },
         {
           "name": "PKPhysicsJointRevolute",
-          "children": []
+          "children": [],
+          "framework": "PhysicsKit"
         },
         {
           "name": "PKPhysicsJointRope",
-          "children": []
+          "children": [],
+          "framework": "PhysicsKit"
         },
         {
           "name": "PKPhysicsJointWeld",
-          "children": []
+          "children": [],
+          "framework": "PhysicsKit"
         }
       ]
     }

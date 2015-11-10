@@ -1,5 +1,5 @@
 {
-  "name": "IDSCore.framework",
+  "name": "IDSCore",
   "list": [
     {
       "name": "IDSBaseMessage",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "IDSValidationCertificateMessage",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "IDSServerMessage",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "IDSRegistrationPushHandler",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "IDSRegistrationMessage",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         }
       ]
     },
@@ -47,27 +51,33 @@
       "children": [
         {
           "name": "IDSProfileAuthenticationMessage",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         },
         {
           "name": "IDSProfileGetDefaultInvitationContext",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         },
         {
           "name": "IDSProfileLinkHandleMessage",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         },
         {
           "name": "IDSProfileUnlinkHandleMessage",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         },
         {
           "name": "IDSProfileValidateHandleMessage",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         },
         {
           "name": "IDSProfileValidateInvitationContext",
-          "children": []
+          "children": [],
+          "framework": "IDSCore"
         }
       ]
     }

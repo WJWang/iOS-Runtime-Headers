@@ -1,5 +1,5 @@
 {
-  "name": "Librarian.framework",
+  "name": "Librarian",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "LBFSEventsWatcher",
-          "children": []
+          "children": [],
+          "framework": "Librarian"
         },
         {
           "name": "LBItem",
-          "children": []
+          "children": [],
+          "framework": "Librarian"
         },
         {
           "name": "LBQuery",
-          "children": []
+          "children": [],
+          "framework": "Librarian"
         },
         {
           "name": "_LBFSMessage",
-          "children": []
+          "children": [],
+          "framework": "Librarian"
         }
       ]
     }

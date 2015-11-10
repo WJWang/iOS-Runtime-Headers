@@ -1,5 +1,5 @@
 {
-  "name": "YouTube.framework",
+  "name": "YouTube",
   "list": [
     {
       "name": "XMLSAXHTTPRequest",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "YTXMLHTTPRequest",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     },
@@ -17,19 +18,23 @@
       "children": [
         {
           "name": "YTVideo",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         },
         {
           "name": "YTVideoDataSource",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         },
         {
           "name": "YTVideoReference",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         },
         {
           "name": "YTWebServiceConfig",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     },
@@ -39,7 +44,8 @@
       "children": [
         {
           "name": "YTUserProfileRequest",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "YTTopRatedVideoDataSource",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     },
@@ -59,19 +66,23 @@
       "children": [
         {
           "name": "YTSearchVideoDataSource",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         },
         {
           "name": "YTSubscriptionsVideoDataSource",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         },
         {
           "name": "YTTestVideoDataSource",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         },
         {
           "name": "YTTimeQualifiedVideoDataSource",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     },
@@ -81,7 +92,8 @@
       "children": [
         {
           "name": "YTSearchRequest",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     },
@@ -91,7 +103,8 @@
       "children": [
         {
           "name": "YTMutableURLRequest",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     },
@@ -101,7 +114,8 @@
       "children": [
         {
           "name": "YTMovieView",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     },
@@ -111,7 +125,8 @@
       "children": [
         {
           "name": "UIMovieBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "YouTube"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "PowerlogLoggerSupport.framework",
+  "name": "PowerlogLoggerSupport",
   "list": [
     {
       "name": "NSObject",
@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "PLTelephonyConnection",
-          "children": []
+          "children": [],
+          "framework": "PowerlogLoggerSupport"
         },
         {
           "name": "PLTimeSnapshot",
-          "children": []
+          "children": [],
+          "framework": "PowerlogLoggerSupport"
         },
         {
           "name": "PLUtilities",
-          "children": []
+          "children": [],
+          "framework": "PowerlogLoggerSupport"
         },
         {
           "name": "PLValue",
-          "children": []
+          "children": [],
+          "framework": "PowerlogLoggerSupport"
         },
         {
           "name": "PLWatchdogTimer",
-          "children": []
+          "children": [],
+          "framework": "PowerlogLoggerSupport"
         }
       ]
     },
@@ -33,7 +38,8 @@
       "children": [
         {
           "name": "PLTelephonyConnectedLogger",
-          "children": []
+          "children": [],
+          "framework": "PowerlogLoggerSupport"
         }
       ]
     },
@@ -43,7 +49,8 @@
       "children": [
         {
           "name": "PLBatteryPropertiesEntry",
-          "children": []
+          "children": [],
+          "framework": "PowerlogLoggerSupport"
         }
       ]
     }

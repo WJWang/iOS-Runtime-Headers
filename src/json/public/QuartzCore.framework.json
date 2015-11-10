@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "LKCGColorCodingProxy",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "LKCGImageCodingProxy",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "LKNSArrayCodingProxy",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "LKNSDictionaryCodingProxy",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "LKNSValueCodingProxy",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -33,15 +38,18 @@
       "children": [
         {
           "name": "CAValueFunction",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CAWindowServer",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CAWindowServerDisplay",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -51,7 +59,8 @@
       "children": [
         {
           "name": "CATransition",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -61,15 +70,18 @@
       "children": [
         {
           "name": "CATextLayer",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CATiledLayer",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CATransformLayer",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -79,23 +91,28 @@
       "children": [
         {
           "name": "CAStateAddAnimation",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CAStateAddElement",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CAStateRemoveAnimation",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CAStateRemoveElement",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CAStateSetValue",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -105,7 +122,8 @@
       "children": [
         {
           "name": "CASpringAnimation",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -115,7 +133,8 @@
       "children": [
         {
           "name": "CASmoothedTextLayer",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -125,11 +144,13 @@
       "children": [
         {
           "name": "CAMeshInterpolator",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         },
         {
           "name": "CAMutableMeshTransform",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -139,7 +160,8 @@
       "children": [
         {
           "name": "CAMediaTimingFunctionBuiltin",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -149,7 +171,8 @@
       "children": [
         {
           "name": "CALayerArray",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -159,7 +182,8 @@
       "children": [
         {
           "name": "CAKeyframeAnimation",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -169,7 +193,8 @@
       "children": [
         {
           "name": "CADynamicsBehavior",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     },
@@ -179,7 +204,8 @@
       "children": [
         {
           "name": "CAContextImpl",
-          "children": []
+          "children": [],
+          "framework": "QuartzCore.framework"
         }
       ]
     }

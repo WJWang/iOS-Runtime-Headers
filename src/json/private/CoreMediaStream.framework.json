@@ -1,5 +1,5 @@
 {
-  "name": "CoreMediaStream.framework",
+  "name": "CoreMediaStream",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "MSTimerGate",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         },
         {
           "name": "MSVideoDerivativeSpecification",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "MSSubscriber",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "MSSubscribeStreamsProtocol",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -41,11 +45,13 @@
       "children": [
         {
           "name": "MSPublishMMCSProtocol",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         },
         {
           "name": "MSSubscribeMMCSProtocol",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "MSPerformanceLogger",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -65,11 +72,13 @@
       "children": [
         {
           "name": "MSAlbumSharingDaemon",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         },
         {
           "name": "MSMediaStreamDaemon",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "MSASServerSideModelGroupedCommandQueue",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -89,7 +99,8 @@
       "children": [
         {
           "name": "MSASModelEnumerator",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -99,7 +110,8 @@
       "children": [
         {
           "name": "MSASInvitation",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     },
@@ -109,11 +121,13 @@
       "children": [
         {
           "name": "MSASAssetDownloader",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         },
         {
           "name": "MSASAssetUploader",
-          "children": []
+          "children": [],
+          "framework": "CoreMediaStream"
         }
       ]
     }

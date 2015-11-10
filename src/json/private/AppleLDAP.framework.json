@@ -1,5 +1,5 @@
 {
-  "name": "AppleLDAP.framework",
+  "name": "AppleLDAP",
   "list": [
     {
       "name": "OS_object",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "OS_ldap_connection",
-          "children": []
+          "children": [],
+          "framework": "AppleLDAP"
         },
         {
           "name": "OS_ldap_operation",
-          "children": []
+          "children": [],
+          "framework": "AppleLDAP"
         }
       ]
     }

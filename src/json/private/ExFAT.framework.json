@@ -1,5 +1,5 @@
 {
-  "name": "ExFAT.framework",
+  "name": "ExFAT",
   "list": [
     {
       "name": "NSObject",
@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "ExFATItem",
-          "children": []
+          "children": [],
+          "framework": "ExFAT"
         },
         {
           "name": "ExFATStream",
-          "children": []
+          "children": [],
+          "framework": "ExFAT"
         },
         {
           "name": "ExFATVolume",
-          "children": []
+          "children": [],
+          "framework": "ExFAT"
         },
         {
           "name": "UserFSBuffer",
-          "children": []
+          "children": [],
+          "framework": "ExFAT"
         },
         {
           "name": "UserFSBufferCache",
-          "children": []
+          "children": [],
+          "framework": "ExFAT"
         }
       ]
     },
@@ -33,11 +38,13 @@
       "children": [
         {
           "name": "ExFATFile",
-          "children": []
+          "children": [],
+          "framework": "ExFAT"
         },
         {
           "name": "ExFATFolder",
-          "children": []
+          "children": [],
+          "framework": "ExFAT"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "MobileBackup.framework",
+  "name": "MobileBackup",
   "list": [
     {
       "name": "NSObject",
@@ -7,27 +7,33 @@
       "children": [
         {
           "name": "MBMessage",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         },
         {
           "name": "MBProperties",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         },
         {
           "name": "MBRestoreFailure",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         },
         {
           "name": "MBRestoreInfo",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         },
         {
           "name": "MBSnapshot",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         },
         {
           "name": "MBStateInfo",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         }
       ]
     },
@@ -37,7 +43,8 @@
       "children": [
         {
           "name": "MBManagerClient",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         }
       ]
     },
@@ -47,7 +54,8 @@
       "children": [
         {
           "name": "MBException",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         }
       ]
     },
@@ -57,7 +65,8 @@
       "children": [
         {
           "name": "MBDigestSHA1",
-          "children": []
+          "children": [],
+          "framework": "MobileBackup"
         }
       ]
     }

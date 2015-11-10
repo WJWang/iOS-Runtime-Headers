@@ -1,5 +1,5 @@
 {
-  "name": "AccountSettings.framework",
+  "name": "AccountSettings",
   "list": [
     {
       "name": "BasicAccount",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "DeviceLocalAccount",
-          "children": []
+          "children": [],
+          "framework": "AccountSettings"
         }
       ]
     },
@@ -17,15 +18,18 @@
       "children": [
         {
           "name": "ASRuntimeFixMailAccount",
-          "children": []
+          "children": [],
+          "framework": "AccountSettings"
         },
         {
           "name": "AccountsManager",
-          "children": []
+          "children": [],
+          "framework": "AccountSettings"
         },
         {
           "name": "BasicAccount",
-          "children": []
+          "children": [],
+          "framework": "AccountSettings"
         }
       ]
     }

@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_ABPeoplePickerNavigationController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -17,15 +18,18 @@
       "children": [
         {
           "name": "CNPhoneNumber",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "CNPostalAddress",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "CNSocialProfile",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "CNMutableSocialProfile",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "CNMutablePostalAddress",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "CNMutableContact",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "ABVibrationPickerViewController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -75,11 +83,13 @@
       "children": [
         {
           "name": "ABUnknownPersonViewController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABUnknownPersonViewController_Modern",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -89,7 +99,8 @@
       "children": [
         {
           "name": "ABUITextView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -99,7 +110,8 @@
       "children": [
         {
           "name": "ABUILabelWithPlaceholder",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -109,7 +121,8 @@
       "children": [
         {
           "name": "ABTransportButton",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -119,11 +132,13 @@
       "children": [
         {
           "name": "ABStarkStyleProvider",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABTabletStyleProvider",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -133,7 +148,8 @@
       "children": [
         {
           "name": "ABStarkGroupsViewController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -143,7 +159,8 @@
       "children": [
         {
           "name": "ABStarkGroupTableCell",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -153,7 +170,8 @@
       "children": [
         {
           "name": "ABStarkContactViewController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -163,11 +181,13 @@
       "children": [
         {
           "name": "ABStarkContactAddressPropertyCell",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABStarkContactPropertyCell",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -177,7 +197,8 @@
       "children": [
         {
           "name": "ABSplitTextFieldCell",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -187,7 +208,8 @@
       "children": [
         {
           "name": "ABSpacerGroupItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -197,7 +219,8 @@
       "children": [
         {
           "name": "ABSocialProfileServicePickerViewController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -207,7 +230,8 @@
       "children": [
         {
           "name": "ABSocialProfileServicePickerController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -217,7 +241,8 @@
       "children": [
         {
           "name": "ABSectionListVibrantHeaderView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -227,7 +252,8 @@
       "children": [
         {
           "name": "ABSectionListHeaderView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -237,11 +263,13 @@
       "children": [
         {
           "name": "ABPropertySocialProfileCell",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyURLAddressCell",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -251,7 +279,8 @@
       "children": [
         {
           "name": "ABPropertySendMessageAction",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -261,11 +290,13 @@
       "children": [
         {
           "name": "ABPropertyNameCell",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyPlaceholderCell",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -275,39 +306,48 @@
       "children": [
         {
           "name": "ABPropertyGroupAlertItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyGroupDateItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyGroupEmailAddressItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyGroupInstantMessageItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyGroupNoteItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyGroupPhoneItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyGroupPostalAddressItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyGroupSocialProfileItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPropertyGroupURLAddressItem",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -317,7 +357,8 @@
       "children": [
         {
           "name": "ABPropertyGroup",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -327,7 +368,8 @@
       "children": [
         {
           "name": "ABPropertyDisambiguationSheet",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -337,7 +379,8 @@
       "children": [
         {
           "name": "ABPropertyAction",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -347,7 +390,8 @@
       "children": [
         {
           "name": "ABPostalAddressEditorView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -357,7 +401,8 @@
       "children": [
         {
           "name": "ABPersonTableView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -367,7 +412,8 @@
       "children": [
         {
           "name": "ABPersonOverlayingContainerView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -377,11 +423,13 @@
       "children": [
         {
           "name": "ABPersonImageView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABPersonNameDisplayView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -391,7 +439,8 @@
       "children": [
         {
           "name": "ABPersonCellLayoutManager",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -401,7 +450,8 @@
       "children": [
         {
           "name": "ABPeoplePickerServiceViewController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -411,7 +461,8 @@
       "children": [
         {
           "name": "ABPeoplePickerHostViewControllerProxy",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -421,7 +472,8 @@
       "children": [
         {
           "name": "ABPeoplePickerHostViewController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -431,7 +483,8 @@
       "children": [
         {
           "name": "ABPadFaceTimeGroupedCellBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -441,7 +494,8 @@
       "children": [
         {
           "name": "ABMultiCellContentView_SocialProfile",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -451,11 +505,13 @@
       "children": [
         {
           "name": "ABMultiCellContentView_Rows",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABMultiCellContentView_Simple",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -465,7 +521,8 @@
       "children": [
         {
           "name": "ABMultiCellContentView_RelatedName",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -475,11 +532,13 @@
       "children": [
         {
           "name": "ABMultiCellContentView_DisplayAlternate",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABMultiCellContentView_Name",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -489,7 +548,8 @@
       "children": [
         {
           "name": "ABMultiCellContentView",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -499,7 +559,8 @@
       "children": [
         {
           "name": "ABMembersViewController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -509,7 +570,8 @@
       "children": [
         {
           "name": "ABMembersSearchDisplayController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -519,7 +581,8 @@
       "children": [
         {
           "name": "ABMembersController",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -529,7 +592,8 @@
       "children": [
         {
           "name": "ABMapsTabletStyleProvider",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -539,7 +603,8 @@
       "children": [
         {
           "name": "ABHighlightingTextField",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -549,11 +614,13 @@
       "children": [
         {
           "name": "ABDirectoryGroupWrapper",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABGlobalGroupWrapper",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -563,7 +630,8 @@
       "children": [
         {
           "name": "ABDateField",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -573,15 +641,18 @@
       "children": [
         {
           "name": "ABCardFaceTimeGroup",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABCardLinkedCardsGroup",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         },
         {
           "name": "ABCardPropertyGroup",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     },
@@ -591,7 +662,8 @@
       "children": [
         {
           "name": "ABActionSheet",
-          "children": []
+          "children": [],
+          "framework": "AddressBookUI.framework"
         }
       ]
     }

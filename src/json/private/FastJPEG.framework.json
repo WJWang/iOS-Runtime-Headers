@@ -1,5 +1,5 @@
 {
-  "name": "FastJPEG.framework",
+  "name": "FastJPEG",
   "list": [
     {
       "name": "CALayer",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "FJTiledLayer",
-          "children": []
+          "children": [],
+          "framework": "FastJPEG"
         }
       ]
     },
@@ -17,15 +18,18 @@
       "children": [
         {
           "name": "FJCache",
-          "children": []
+          "children": [],
+          "framework": "FastJPEG"
         },
         {
           "name": "FJCacheEntry",
-          "children": []
+          "children": [],
+          "framework": "FastJPEG"
         },
         {
           "name": "FJTile",
-          "children": []
+          "children": [],
+          "framework": "FastJPEG"
         }
       ]
     }

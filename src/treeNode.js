@@ -1,8 +1,6 @@
 var treeNode = function(options) {
   this.name = options.name;
-  this.data = options.data;
-  this.parent = options.parent;
-  this.childList = [];
+  this.children = [];
 };
 
 treeNode.prototype.setParent = function(node) {

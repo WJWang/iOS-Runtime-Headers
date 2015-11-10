@@ -1,5 +1,5 @@
 {
-  "name": "Radio.framework",
+  "name": "Radio",
   "list": [
     {
       "name": "RadioSyncRequest",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "RadioUpdateSortOrderRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         },
         {
           "name": "RadioUpdateStationRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "RadioURLConnectionRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "RadioTracksArray",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -41,15 +45,18 @@
       "children": [
         {
           "name": "RadioTrack",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         },
         {
           "name": "RadioTrackHistory",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         },
         {
           "name": "RadioTrackHistorySectionInfo",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -59,27 +66,33 @@
       "children": [
         {
           "name": "RadioSearchRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         },
         {
           "name": "RadioSearchResultAccessedRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         },
         {
           "name": "RadioShareInfoRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         },
         {
           "name": "RadioStationMatchRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         },
         {
           "name": "RadioSyncRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         },
         {
           "name": "RadioTermsCheckRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -89,7 +102,8 @@
       "children": [
         {
           "name": "RadioRevision",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -99,7 +113,8 @@
       "children": [
         {
           "name": "RadioMutableTrackHistorySectionInfo",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -109,7 +124,8 @@
       "children": [
         {
           "name": "RadioManagedAudioClip",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -119,7 +135,8 @@
       "children": [
         {
           "name": "RadioGenresRequest",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     },
@@ -129,7 +146,8 @@
       "children": [
         {
           "name": "RadioAudioClip",
-          "children": []
+          "children": [],
+          "framework": "Radio"
         }
       ]
     }

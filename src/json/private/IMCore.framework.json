@@ -1,5 +1,5 @@
 {
-  "name": "IMCore.framework",
+  "name": "IMCore",
   "list": [
     {
       "name": "IMChatItem",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "IMStatusChatItem",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMTimestampChatItem",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "IMServiceImpl",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "IMServiceAgentImpl",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         }
       ]
     },
@@ -41,39 +45,48 @@
       "children": [
         {
           "name": "IMParentalControls",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMParentalControlsService",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMPeople",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMPerson",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMPersonRegistrar",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMSPIHandle",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMSPIMessage",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMService",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMServiceAgent",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         }
       ]
     },
@@ -83,11 +96,13 @@
       "children": [
         {
           "name": "IMMessageAttachmentPart",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         },
         {
           "name": "IMMessageTextPart",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         }
       ]
     },
@@ -97,7 +112,8 @@
       "children": [
         {
           "name": "IMHandle",
-          "children": []
+          "children": [],
+          "framework": "IMCore"
         }
       ]
     }

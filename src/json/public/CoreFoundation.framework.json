@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "__NSTimeZone",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "__NSStackBlock",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "__NSSetM",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "__NSSetI",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "__NSSKGraph",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "__NSPlaceholderOrderedSet",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "__NSPlaceholderFileSecurity",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "__NSPlaceholderDictionary",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "__NSPlaceholderDate",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "__NSPlaceholderArray",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "__NSOrderedSetReversed",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -117,7 +128,8 @@
       "children": [
         {
           "name": "__NSOrderedSetReverseEnumerator",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -127,7 +139,8 @@
       "children": [
         {
           "name": "__NSOrderedSetArrayProxy",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -142,7 +155,8 @@
       "children": [
         {
           "name": "__NSFinalizingBlock",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -152,7 +166,8 @@
       "children": [
         {
           "name": "__NSDictionaryObjectEnumerator",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -162,7 +177,8 @@
       "children": [
         {
           "name": "__NSDictionaryI",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -172,7 +188,8 @@
       "children": [
         {
           "name": "__NSCFTimer",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -182,7 +199,8 @@
       "children": [
         {
           "name": "__NSCFString",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -192,7 +210,8 @@
       "children": [
         {
           "name": "__NSCFOutputStream",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -202,7 +221,8 @@
       "children": [
         {
           "name": "__NSCFNumber",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -212,7 +232,8 @@
       "children": [
         {
           "name": "__NSCFLocale",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -222,7 +243,8 @@
       "children": [
         {
           "name": "__NSCFInputStream",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -232,7 +254,8 @@
       "children": [
         {
           "name": "__NSCFError",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -242,7 +265,8 @@
       "children": [
         {
           "name": "__NSCFData",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -252,7 +276,8 @@
       "children": [
         {
           "name": "__NSCFConstantString",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -262,7 +287,8 @@
       "children": [
         {
           "name": "__NSCFCharacterSet",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -272,7 +298,8 @@
       "children": [
         {
           "name": "__NSCFCalendar",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -282,7 +309,8 @@
       "children": [
         {
           "name": "__NSCFAttributedString",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -292,7 +320,8 @@
       "children": [
         {
           "name": "__CFNotification",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -302,7 +331,8 @@
       "children": [
         {
           "name": "NSOutputStream",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -312,7 +342,8 @@
       "children": [
         {
           "name": "NSMutableData",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -322,7 +353,8 @@
       "children": [
         {
           "name": "NSBlockInvocation",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -332,11 +364,13 @@
       "children": [
         {
           "name": "CFXPreferencesPropertyListSource",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         },
         {
           "name": "CFXPreferencesSearchListSource",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     },
@@ -346,7 +380,8 @@
       "children": [
         {
           "name": "CFXPreferencesManagedSource",
-          "children": []
+          "children": [],
+          "framework": "CoreFoundation.framework"
         }
       ]
     }

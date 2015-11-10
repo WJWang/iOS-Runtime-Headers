@@ -1,5 +1,5 @@
 {
-  "name": "CommunicationsFilter.framework",
+  "name": "CommunicationsFilter",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "CommunicationFilterItem",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsFilter"
         },
         {
           "name": "CommunicationFilterItemCache",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsFilter"
         },
         {
           "name": "CommunicationsFilterBlockList",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsFilter"
         },
         {
           "name": "CommunicationsFilterBlockListCache",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsFilter"
         }
       ]
     }

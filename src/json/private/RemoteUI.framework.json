@@ -1,5 +1,5 @@
 {
-  "name": "RemoteUI.framework",
+  "name": "RemoteUI",
   "list": [
     {
       "name": "UIView",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WebContainerView",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "RemoteUIWebViewController",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "RemoteUITableViewSubtitleAndValueLayoutManager",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "RemoteUITableViewSubtitleAndValueCell",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "RemoteUITableViewCell",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "RUIWebView",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "RUITableViewShowAllRow",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -77,19 +84,23 @@
       "children": [
         {
           "name": "RUINavBarSpinnerManager",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         },
         {
           "name": "RUIObjectModel",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         },
         {
           "name": "RUIParser",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         },
         {
           "name": "RUISelectOption",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -99,7 +110,8 @@
       "children": [
         {
           "name": "RUILoader",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     },
@@ -109,7 +121,8 @@
       "children": [
         {
           "name": "RUIBarButtonSpinnerView",
-          "children": []
+          "children": [],
+          "framework": "RemoteUI"
         }
       ]
     }

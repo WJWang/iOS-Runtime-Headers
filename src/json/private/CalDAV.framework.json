@@ -1,5 +1,5 @@
 {
-  "name": "CalDAV.framework",
+  "name": "CalDAV",
   "list": [
     {
       "name": "CalDAVConcreteServerVersion",
@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "CalendarServerVersion",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         },
         {
           "name": "GoogleCalDAVServerVersion",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         },
         {
           "name": "MobileMeCalDAVServerVersion",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         },
         {
           "name": "YahooCalDAVServerVersion",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         },
         {
           "name": "iCloudCalDAVServerVersion",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -33,7 +38,8 @@
       "children": [
         {
           "name": "CalDAVUtils",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -43,7 +49,8 @@
       "children": [
         {
           "name": "CalDAVUpdateOwnerItem",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -53,15 +60,18 @@
       "children": [
         {
           "name": "CalDAVSetOfficeHoursTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         },
         {
           "name": "CalDAVUpdateFreeBusySetTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         },
         {
           "name": "CalDAVUpdateGrantedDelegatesTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -71,7 +81,8 @@
       "children": [
         {
           "name": "CalDAVScheduleTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -81,7 +92,8 @@
       "children": [
         {
           "name": "CalDAVResourceTypeItem",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -91,7 +103,8 @@
       "children": [
         {
           "name": "CalDAVPutCalendarItemTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -101,7 +114,8 @@
       "children": [
         {
           "name": "CalDAVPrincipalPropertySearchTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -111,7 +125,8 @@
       "children": [
         {
           "name": "CalDAVNotificationItemData",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -121,7 +136,8 @@
       "children": [
         {
           "name": "CalDAVNotificationContainerSyncTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -131,7 +147,8 @@
       "children": [
         {
           "name": "CalDAVMultiPutTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -141,7 +158,8 @@
       "children": [
         {
           "name": "CalDAVMultiMoveWithFallbackTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -151,7 +169,8 @@
       "children": [
         {
           "name": "CalDAVMkcalendarTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -161,7 +180,8 @@
       "children": [
         {
           "name": "CalDAVGetNotificationItemTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -171,11 +191,13 @@
       "children": [
         {
           "name": "CalDAVGetDelegatesTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         },
         {
           "name": "CalDAVGetGrantedDelegatesTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -185,7 +207,8 @@
       "children": [
         {
           "name": "CalDAVGetAccountPropertiesTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -195,7 +218,8 @@
       "children": [
         {
           "name": "CalDAVFreeBusyLookupTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -205,7 +229,8 @@
       "children": [
         {
           "name": "CalDAVDeleteCalendarItemTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -215,7 +240,8 @@
       "children": [
         {
           "name": "CalDAVContainerMultiGetTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -225,7 +251,8 @@
       "children": [
         {
           "name": "CalDAVContainerChecksumSyncTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -235,7 +262,8 @@
       "children": [
         {
           "name": "CalDAVContainer",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -245,7 +273,8 @@
       "children": [
         {
           "name": "CalDAVConcreteServerVersion",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -255,7 +284,8 @@
       "children": [
         {
           "name": "CalDAVCalendarUserSearchTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -265,7 +295,8 @@
       "children": [
         {
           "name": "CalDAVCalendarSyncOperation",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -275,7 +306,8 @@
       "children": [
         {
           "name": "CalDAVCalendarServerUpdateItem",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -285,7 +317,8 @@
       "children": [
         {
           "name": "CalDAVCalendarServerResourceChangeUpdatedElement",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -295,7 +328,8 @@
       "children": [
         {
           "name": "CalDAVCalendarServerResourceChangeElement",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -305,7 +339,8 @@
       "children": [
         {
           "name": "CalDAVCalendarServerChangedParameterItem",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -315,7 +350,8 @@
       "children": [
         {
           "name": "CalDAVCalendarQueryTask",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -325,7 +361,8 @@
       "children": [
         {
           "name": "CalDAVCalendarInfoTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -335,7 +372,8 @@
       "children": [
         {
           "name": "CalDAVCalendarInfoSyncTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     },
@@ -345,7 +383,8 @@
       "children": [
         {
           "name": "CalDAVBulkUploadTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CalDAV"
         }
       ]
     }

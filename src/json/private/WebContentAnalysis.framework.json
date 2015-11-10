@@ -1,5 +1,5 @@
 {
-  "name": "WebContentAnalysis.framework",
+  "name": "WebContentAnalysis",
   "list": [
     {
       "name": "NSObject",
@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "WFWhitelistSite",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         },
         {
           "name": "WFWhitelistSiteBuffer",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         },
         {
           "name": "WFWhitelistUserPreferences",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         },
         {
           "name": "WebFilterEvaluator",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         },
         {
           "name": "XMLNode",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         }
       ]
     },
@@ -33,11 +38,13 @@
       "children": [
         {
           "name": "WFWebPageToFilterText",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         },
         {
           "name": "WFWebPageToTrainingText",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         }
       ]
     },
@@ -47,7 +54,8 @@
       "children": [
         {
           "name": "WFUSC2257Tag",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         }
       ]
     },
@@ -57,7 +65,8 @@
       "children": [
         {
           "name": "WFTreeHTMLStripper",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         }
       ]
     },
@@ -67,7 +76,8 @@
       "children": [
         {
           "name": "WFRemotePINEntryViewController",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         }
       ]
     },
@@ -77,7 +87,8 @@
       "children": [
         {
           "name": "WFPINEntryViewController",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         }
       ]
     },
@@ -87,7 +98,8 @@
       "children": [
         {
           "name": "WFLink",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         }
       ]
     },
@@ -97,7 +109,8 @@
       "children": [
         {
           "name": "WFLSMScoreNormalizedMap",
-          "children": []
+          "children": [],
+          "framework": "WebContentAnalysis"
         }
       ]
     }

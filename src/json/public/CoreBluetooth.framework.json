@@ -7,27 +7,33 @@
       "children": [
         {
           "name": "CBPeripheral",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         },
         {
           "name": "CBPeripheralManager",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         },
         {
           "name": "CBService",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         },
         {
           "name": "CBUUID",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         },
         {
           "name": "CBXpcConnection",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         },
         {
           "name": "PSSpecifierStub",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         }
       ]
     },
@@ -37,7 +43,8 @@
       "children": [
         {
           "name": "CBMutableService",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         }
       ]
     },
@@ -47,7 +54,8 @@
       "children": [
         {
           "name": "CBMutableDescriptor",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         }
       ]
     },
@@ -57,7 +65,8 @@
       "children": [
         {
           "name": "CBMutableCharacteristic",
-          "children": []
+          "children": [],
+          "framework": "CoreBluetooth.framework"
         }
       ]
     }

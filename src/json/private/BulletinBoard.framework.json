@@ -1,5 +1,5 @@
 {
-  "name": "BulletinBoard.framework",
+  "name": "BulletinBoard",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "BBZeroingWeakReference",
-          "children": []
+          "children": [],
+          "framework": "BulletinBoard"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "children": [
         {
           "name": "BBXPCIncomingConnection",
-          "children": []
+          "children": [],
+          "framework": "BulletinBoard"
         },
         {
           "name": "BBXPCOutgoingConnection",
-          "children": []
+          "children": [],
+          "framework": "BulletinBoard"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "BBServerConnection",
-          "children": []
+          "children": [],
+          "framework": "BulletinBoard"
         }
       ]
     },
@@ -41,11 +45,13 @@
       "children": [
         {
           "name": "BBLocalDataProvider",
-          "children": []
+          "children": [],
+          "framework": "BulletinBoard"
         },
         {
           "name": "BBRemoteDataProvider",
-          "children": []
+          "children": [],
+          "framework": "BulletinBoard"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "BBLaunchAction",
-          "children": []
+          "children": [],
+          "framework": "BulletinBoard"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "BBBulletinRequest",
-          "children": []
+          "children": [],
+          "framework": "BulletinBoard"
         }
       ]
     }

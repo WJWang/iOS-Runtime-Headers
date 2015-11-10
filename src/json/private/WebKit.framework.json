@@ -1,5 +1,5 @@
 {
-  "name": "WebKit.framework",
+  "name": "WebKit",
   "list": [
     {
       "name": "NSObject",
@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "WebViewPrivate",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         },
         {
           "name": "WebVisiblePosition",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         },
         {
           "name": "_WebCoreLocationUpdateThreadingProxy",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         },
         {
           "name": "_WebSafeAsyncForwarder",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         },
         {
           "name": "_WebSafeForwarder",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         }
       ]
     },
@@ -33,7 +38,8 @@
       "children": [
         {
           "name": "WebView",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         }
       ]
     },
@@ -43,7 +49,8 @@
       "children": [
         {
           "name": "WebPluginPackage",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         }
       ]
     },
@@ -53,7 +60,8 @@
       "children": [
         {
           "name": "WebMainThreadInvoker",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         }
       ]
     },
@@ -63,11 +71,13 @@
       "children": [
         {
           "name": "WebHighlightLayer",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         },
         {
           "name": "WebIndicateLayer",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         }
       ]
     },
@@ -77,7 +87,8 @@
       "children": [
         {
           "name": "WebElementDictionary",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         }
       ]
     },
@@ -87,7 +98,8 @@
       "children": [
         {
           "name": "WebDownload",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         }
       ]
     },
@@ -97,7 +109,8 @@
       "children": [
         {
           "name": "WebCoreScrollView",
-          "children": []
+          "children": [],
+          "framework": "WebKit"
         }
       ]
     }

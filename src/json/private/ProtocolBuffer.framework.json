@@ -1,5 +1,5 @@
 {
-  "name": "ProtocolBuffer.framework",
+  "name": "ProtocolBuffer",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "PBRequester",
-          "children": []
+          "children": [],
+          "framework": "ProtocolBuffer"
         },
         {
           "name": "PBStreamReader",
-          "children": []
+          "children": [],
+          "framework": "ProtocolBuffer"
         },
         {
           "name": "PBStreamWriter",
-          "children": []
+          "children": [],
+          "framework": "ProtocolBuffer"
         },
         {
           "name": "PBUnknownFields",
-          "children": []
+          "children": [],
+          "framework": "ProtocolBuffer"
         }
       ]
     },
@@ -29,7 +33,8 @@
       "children": [
         {
           "name": "PBRequest",
-          "children": []
+          "children": [],
+          "framework": "ProtocolBuffer"
         }
       ]
     }

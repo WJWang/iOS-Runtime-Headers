@@ -1,5 +1,5 @@
 {
-  "name": "GeoServices.framework",
+  "name": "GeoServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,35 +7,43 @@
       "children": [
         {
           "name": "_GEONSURLConnectionWaiter",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "_GEORegionalResourceDownload",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "_GEORegionalResourcesTileLoader",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "_GEOResourceManifestTileGroupObserverProxy",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "_GEOSearchAttributionListener",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "_GEOTileDownloadOp",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "_GEOURLManifestListener",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "_GEOVoltaireMultiTileInfo",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -45,7 +53,8 @@
       "children": [
         {
           "name": "GEOZilchDecoderRequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -55,7 +64,8 @@
       "children": [
         {
           "name": "GEOZilchDecoder",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -65,7 +75,8 @@
       "children": [
         {
           "name": "GEOWaypoint",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -75,7 +86,8 @@
       "children": [
         {
           "name": "GEOVoltaireTileRequester",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -85,11 +97,13 @@
       "children": [
         {
           "name": "GEOVoltaireSimple3DTileRequester",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "GEOVoltaireSimpleTileRequester",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -99,7 +113,8 @@
       "children": [
         {
           "name": "GEOVoltaireSearchProvider",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -109,7 +124,8 @@
       "children": [
         {
           "name": "GEOVoltaireProblemProvider",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -119,11 +135,13 @@
       "children": [
         {
           "name": "GEOVoltaireLocationShiftProvider",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "GEOVoltairePolyLocationShiftProvider",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -133,7 +151,8 @@
       "children": [
         {
           "name": "GEOVoltaireGeocodeProvider",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -143,7 +162,8 @@
       "children": [
         {
           "name": "GEOVoltaireETAProvider",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -153,7 +173,8 @@
       "children": [
         {
           "name": "GEOVoltaireDirectionsProvider",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -163,7 +184,8 @@
       "children": [
         {
           "name": "GEOVoltaire3DTileRequester",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -173,7 +195,8 @@
       "children": [
         {
           "name": "GEOVoltaire3DMultiTileDownloader",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -183,7 +206,8 @@
       "children": [
         {
           "name": "GEOUsageCollectionRequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -193,11 +217,13 @@
       "children": [
         {
           "name": "GEOTileServerLocalProxy",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         },
         {
           "name": "GEOTileServerRemoteProxy",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -207,7 +233,8 @@
       "children": [
         {
           "name": "GEOTileLoaderInternal",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -217,7 +244,8 @@
       "children": [
         {
           "name": "GEOSearchResponse",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -227,7 +255,8 @@
       "children": [
         {
           "name": "GEOSearchRequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -237,7 +266,8 @@
       "children": [
         {
           "name": "GEOReverseGeocoderCache",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -247,7 +277,8 @@
       "children": [
         {
           "name": "GEORequester",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -257,7 +288,8 @@
       "children": [
         {
           "name": "GEORPVoltaireProblemProvider",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -267,7 +299,8 @@
       "children": [
         {
           "name": "GEORPProblemRequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -277,7 +310,8 @@
       "children": [
         {
           "name": "GEOProblemRequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -287,7 +321,8 @@
       "children": [
         {
           "name": "GEOExpiringTileCache",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -297,7 +332,8 @@
       "children": [
         {
           "name": "GEODirectionsRouteResponse",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -307,7 +343,8 @@
       "children": [
         {
           "name": "GEODirectionsRouteRequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -317,7 +354,8 @@
       "children": [
         {
           "name": "GEOClientETATrafficUpdateRequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -327,7 +365,8 @@
       "children": [
         {
           "name": "GEOClientETARequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     },
@@ -337,7 +376,8 @@
       "children": [
         {
           "name": "GEOBatchReverseGeocodeRequest",
-          "children": []
+          "children": [],
+          "framework": "GeoServices"
         }
       ]
     }

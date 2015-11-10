@@ -1,5 +1,5 @@
 {
-  "name": "MusicUI.framework",
+  "name": "MusicUI",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_MusicViewControllerNotificationObserver",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_MusicStoreViewControllerFactory",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "_MusicSongListTableViewCellContentView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "_MusicSongListTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "_MusicSearchTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "_MusicRadioScrollView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "_MusicRadioCollectionView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "_MusicGeniusMixCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "_MusicArtistTableViewCellContentView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "_MusicArtistTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "MusicVideoViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -117,7 +128,8 @@
       "children": [
         {
           "name": "MusicThinDetailSlider",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -127,7 +139,8 @@
       "children": [
         {
           "name": "MusicTheme",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -137,7 +150,8 @@
       "children": [
         {
           "name": "MusicTableViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -147,7 +161,8 @@
       "children": [
         {
           "name": "MusicTableViewCellContentView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -157,7 +172,8 @@
       "children": [
         {
           "name": "MusicTableView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -167,7 +183,8 @@
       "children": [
         {
           "name": "MusicTableSectionHeaderView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -177,7 +194,8 @@
       "children": [
         {
           "name": "MusicTabBarController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -187,7 +205,8 @@
       "children": [
         {
           "name": "MusicStoreClientController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -197,7 +216,8 @@
       "children": [
         {
           "name": "MusicSongsViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -207,7 +227,8 @@
       "children": [
         {
           "name": "MusicSongsDataSource",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -217,7 +238,8 @@
       "children": [
         {
           "name": "MusicSongListCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -227,11 +249,13 @@
       "children": [
         {
           "name": "MusicShuffleActionCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSongCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -241,7 +265,8 @@
       "children": [
         {
           "name": "MusicSharedLibrariesViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -251,7 +276,8 @@
       "children": [
         {
           "name": "MusicSearchViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -261,39 +287,48 @@
       "children": [
         {
           "name": "MusicSearchAlbumCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSearchArtistCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSearchAudiobookCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSearchCompilationCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSearchComposerCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSearchGenreCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSearchPodcastCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSearchPodcastEpisodeCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicSearchSongCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -303,7 +338,8 @@
       "children": [
         {
           "name": "MusicRadioViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -313,7 +349,8 @@
       "children": [
         {
           "name": "MusicRadioTrackHistoryDataSource",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -323,7 +360,8 @@
       "children": [
         {
           "name": "MusicRadioQueueFeeder",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -333,7 +371,8 @@
       "children": [
         {
           "name": "MusicRadioPlaybackContext",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -343,7 +382,8 @@
       "children": [
         {
           "name": "MusicRadioMyStationsCollectionViewLayout",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -353,7 +393,8 @@
       "children": [
         {
           "name": "MusicRadioMyStationCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -363,7 +404,8 @@
       "children": [
         {
           "name": "MusicRadioFeaturedStationsCollectionViewLayout",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -373,7 +415,8 @@
       "children": [
         {
           "name": "MusicQueryQueueFeeder",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -383,7 +426,8 @@
       "children": [
         {
           "name": "MusicQueryNowPlayingItem",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -393,7 +437,8 @@
       "children": [
         {
           "name": "MusicQueryDataSource",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -403,7 +448,8 @@
       "children": [
         {
           "name": "MusicPlaylistsListViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -413,7 +459,8 @@
       "children": [
         {
           "name": "MusicPlaylistSongsViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -423,7 +470,8 @@
       "children": [
         {
           "name": "MusicPlaylistSongCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -433,7 +481,8 @@
       "children": [
         {
           "name": "MusicPlaylistShuffleActionCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -443,7 +492,8 @@
       "children": [
         {
           "name": "MusicPlaylistEditingPickerOverlay",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -453,7 +503,8 @@
       "children": [
         {
           "name": "MusicNowPlayingVolumeSlider",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -463,7 +514,8 @@
       "children": [
         {
           "name": "MusicNowPlayingTransportControls",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -473,7 +525,8 @@
       "children": [
         {
           "name": "MusicNowPlayingTitlesView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -483,7 +536,8 @@
       "children": [
         {
           "name": "MusicNowPlayingPlaybackControlsView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -493,7 +547,8 @@
       "children": [
         {
           "name": "MusicNowPlayingIndicatorView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -503,7 +558,8 @@
       "children": [
         {
           "name": "MusicNavigationController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -513,7 +569,8 @@
       "children": [
         {
           "name": "MusicMoreNavigationController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -523,7 +580,8 @@
       "children": [
         {
           "name": "MusicMoreListController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -533,15 +591,18 @@
       "children": [
         {
           "name": "MusicMiniPlayerMusicTransportControls",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicMiniPlayerRadioAdTransportControls",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         },
         {
           "name": "MusicMiniPlayerRadioTransportControls",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -551,7 +612,8 @@
       "children": [
         {
           "name": "MusicGenreImageRequest",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -561,7 +623,8 @@
       "children": [
         {
           "name": "MusicGenreCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -571,7 +634,8 @@
       "children": [
         {
           "name": "MusicGeniusMixQueueFeeder",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -581,7 +645,8 @@
       "children": [
         {
           "name": "MusicGeniusMixPlaybackContext",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -591,7 +656,8 @@
       "children": [
         {
           "name": "MusicFlipsideTracksDataSource",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -601,7 +667,8 @@
       "children": [
         {
           "name": "MusicFlipsidePlaylistViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -611,7 +678,8 @@
       "children": [
         {
           "name": "MusicFlipsidePlaylistTrackTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -621,7 +689,8 @@
       "children": [
         {
           "name": "MusicFlipsidePlaylistTrackCellContentView",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -631,7 +700,8 @@
       "children": [
         {
           "name": "MusicFlipsidePlaylistDataSource",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -641,7 +711,8 @@
       "children": [
         {
           "name": "MusicFlipsideAlbumTracksCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -651,7 +722,8 @@
       "children": [
         {
           "name": "MusicFlipsideAlbumTrackTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -661,7 +733,8 @@
       "children": [
         {
           "name": "MusicFlipsideAlbumDetailViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -671,7 +744,8 @@
       "children": [
         {
           "name": "MusicFlipsideAlbumDataSource",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -681,7 +755,8 @@
       "children": [
         {
           "name": "MusicDownloadAllArtistCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -691,7 +766,8 @@
       "children": [
         {
           "name": "MusicComposersViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -701,7 +777,8 @@
       "children": [
         {
           "name": "MusicComposerCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -711,7 +788,8 @@
       "children": [
         {
           "name": "MusicCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -721,7 +799,8 @@
       "children": [
         {
           "name": "MusicAudiobooksCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -731,7 +810,8 @@
       "children": [
         {
           "name": "MusicAVPlayer",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     },
@@ -741,7 +821,8 @@
       "children": [
         {
           "name": "MPHCZMediaItemImageRequest",
-          "children": []
+          "children": [],
+          "framework": "MusicUI"
         }
       ]
     }

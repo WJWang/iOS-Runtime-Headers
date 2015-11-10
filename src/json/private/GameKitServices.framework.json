@@ -1,5 +1,5 @@
 {
-  "name": "GameKitServices.framework",
+  "name": "GameKitServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,151 +7,188 @@
       "children": [
         {
           "name": "HandleWrapper",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "ICEResultQuery",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "ICEResultWaitQueue",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "IPPortWrapper",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "LogDumpUtility",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "LoopbackSocketTunnel",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "SDPMini",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "SIPClientDataDictionary",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "SnapshotTimer",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "TCPBufferPool",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "TCPTunnelClient",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "TimingCollection",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "TimingInstance",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCBitrateArbiter",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCBitrateRule",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCCallInfo",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCCallLinkCongestionDetector",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCCallSession",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCCapabilities",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCHardwareRules",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCJitterBuffer",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCServerBag",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCSessionMessageTopic",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCSessionMessaging",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCTransport",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCVideoRule",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VCWCMClient",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VideoAttributes",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VideoConference",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VideoConferenceDefaults",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VideoConferenceManager",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VideoScaler",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VoiceChatSessionBeaconState",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "VoiceChatSessionRoster",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "XPCClientUser",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "XPCConnection",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         },
         {
           "name": "XPCServerUser",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         }
       ]
     },
@@ -161,7 +198,8 @@
       "children": [
         {
           "name": "GKVoiceChatSessionMessage",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         }
       ]
     },
@@ -171,7 +209,8 @@
       "children": [
         {
           "name": "GKVoiceChatServiceFocus",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         }
       ]
     },
@@ -181,7 +220,8 @@
       "children": [
         {
           "name": "GKSTUNObserverInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         }
       ]
     },
@@ -191,7 +231,8 @@
       "children": [
         {
           "name": "GKNATObserverInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         }
       ]
     },
@@ -201,7 +242,8 @@
       "children": [
         {
           "name": "GKConnectionInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         }
       ]
     },
@@ -211,7 +253,8 @@
       "children": [
         {
           "name": "GKAutoPeerIDTable",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         }
       ]
     },
@@ -221,7 +264,8 @@
       "children": [
         {
           "name": "GKAsyncSocketInternal",
-          "children": []
+          "children": [],
+          "framework": "GameKitServices"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "MailServices.framework",
+  "name": "MailServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "MSService",
-          "children": []
+          "children": [],
+          "framework": "MailServices"
         }
       ]
     },
@@ -17,27 +18,33 @@
       "children": [
         {
           "name": "MSMessageAutosave",
-          "children": []
+          "children": [],
+          "framework": "MailServices"
         },
         {
           "name": "MSNotificationObserver",
-          "children": []
+          "children": [],
+          "framework": "MailServices"
         },
         {
           "name": "MSPushRegistration",
-          "children": []
+          "children": [],
+          "framework": "MailServices"
         },
         {
           "name": "MSSaveEmail",
-          "children": []
+          "children": [],
+          "framework": "MailServices"
         },
         {
           "name": "MSSearch",
-          "children": []
+          "children": [],
+          "framework": "MailServices"
         },
         {
           "name": "MSSendEmail",
-          "children": []
+          "children": [],
+          "framework": "MailServices"
         }
       ]
     },
@@ -47,7 +54,8 @@
       "children": [
         {
           "name": "MSMailDefaultService",
-          "children": []
+          "children": [],
+          "framework": "MailServices"
         }
       ]
     }

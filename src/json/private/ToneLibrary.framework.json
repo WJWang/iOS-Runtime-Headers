@@ -1,5 +1,5 @@
 {
-  "name": "ToneLibrary.framework",
+  "name": "ToneLibrary",
   "list": [
     {
       "name": "NSObject",
@@ -7,43 +7,53 @@
       "children": [
         {
           "name": "TLAccessQueue",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLAlert",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLAlertController",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLITunesTone",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLTextToneInfo",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLToneManager",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLVibrationManager",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLVibrationManagerServiceClient",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLVibrationManagerServiceUtilities",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         },
         {
           "name": "TLVibrationPattern",
-          "children": []
+          "children": [],
+          "framework": "ToneLibrary"
         }
       ]
     }

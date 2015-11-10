@@ -1,5 +1,5 @@
 {
-  "name": "StreamingZip.framework",
+  "name": "StreamingZip",
   "list": [
     {
       "name": "NSObject",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "SZExtractor",
-          "children": []
+          "children": [],
+          "framework": "StreamingZip"
         },
         {
           "name": "StreamingUnzipState",
-          "children": []
+          "children": [],
+          "framework": "StreamingZip"
         },
         {
           "name": "StreamingUnzipper",
-          "children": []
+          "children": [],
+          "framework": "StreamingZip"
         }
       ]
     }

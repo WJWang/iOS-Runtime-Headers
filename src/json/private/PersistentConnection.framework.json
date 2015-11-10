@@ -1,5 +1,5 @@
 {
-  "name": "PersistentConnection.framework",
+  "name": "PersistentConnection",
   "list": [
     {
       "name": "NSObject",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "PCSimpleTimer",
-          "children": []
+          "children": [],
+          "framework": "PersistentConnection"
         },
         {
           "name": "PCSystemWakeManager",
-          "children": []
+          "children": [],
+          "framework": "PersistentConnection"
         },
         {
           "name": "PCWWANUsabilityMonitor",
-          "children": []
+          "children": [],
+          "framework": "PersistentConnection"
         }
       ]
     },
@@ -25,11 +28,13 @@
       "children": [
         {
           "name": "PCCancelAllProcessWakesOperation",
-          "children": []
+          "children": [],
+          "framework": "PersistentConnection"
         },
         {
           "name": "PCScheduleSystemWakeOperation",
-          "children": []
+          "children": [],
+          "framework": "PersistentConnection"
         }
       ]
     }

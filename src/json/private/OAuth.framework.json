@@ -1,5 +1,5 @@
 {
-  "name": "OAuth.framework",
+  "name": "OAuth",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "OACredential",
-          "children": []
+          "children": [],
+          "framework": "OAuth"
         },
         {
           "name": "OAHMAC_SHA1Signer",
-          "children": []
+          "children": [],
+          "framework": "OAuth"
         },
         {
           "name": "OAPlainTextSigner",
-          "children": []
+          "children": [],
+          "framework": "OAuth"
         },
         {
           "name": "OAURLRequestSigner",
-          "children": []
+          "children": [],
+          "framework": "OAuth"
         }
       ]
     }

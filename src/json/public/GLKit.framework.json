@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "GLKViewController",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "GLKView",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         }
       ]
     },
@@ -27,27 +29,33 @@
       "children": [
         {
           "name": "GLKShaderBlockNode",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKShadingHash",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKSkyboxEffect",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKTexture",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKTextureInfo",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKTextureLoader",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         }
       ]
     },
@@ -57,7 +65,8 @@
       "children": [
         {
           "name": "GLKReflectionMapEffect",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         }
       ]
     },
@@ -67,31 +76,38 @@
       "children": [
         {
           "name": "GLKEffectPropertyConstantColor",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKEffectPropertyFog",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKEffectPropertyLight",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKEffectPropertyMaterial",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKEffectPropertyTexGen",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKEffectPropertyTexture",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         },
         {
           "name": "GLKEffectPropertyTransform",
-          "children": []
+          "children": [],
+          "framework": "GLKit.framework"
         }
       ]
     }

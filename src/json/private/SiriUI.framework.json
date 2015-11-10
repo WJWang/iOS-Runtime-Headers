@@ -1,5 +1,5 @@
 {
-  "name": "SiriUI.framework",
+  "name": "SiriUI",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "SiriUIURLSession",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         },
         {
           "name": "SiriUIURLSessionImageDownload",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "SiriUITwoButtonFooterView",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -31,11 +34,13 @@
       "children": [
         {
           "name": "SiriUIStarsView",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         },
         {
           "name": "SiriUISuggestionsView",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "SiriUISnippetViewController",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "SiriUISnippetControllerCell",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "SiriUISiriStatusImageData",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "SiriUIReviewsViewController",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -85,7 +94,8 @@
       "children": [
         {
           "name": "SiriUIReviewsHeaderView",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -95,7 +105,8 @@
       "children": [
         {
           "name": "SiriUIReviewItemCell",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -105,7 +116,8 @@
       "children": [
         {
           "name": "SiriUIReusableSubtitledHeaderView",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -115,11 +127,13 @@
       "children": [
         {
           "name": "SiriUIReusableFooterView",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         },
         {
           "name": "SiriUIReusableHeaderView",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -129,7 +143,8 @@
       "children": [
         {
           "name": "SiriUIPhotoCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -139,7 +154,8 @@
       "children": [
         {
           "name": "SiriUIPersonPickerViewController",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -149,7 +165,8 @@
       "children": [
         {
           "name": "SiriUIMicButton",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -159,7 +176,8 @@
       "children": [
         {
           "name": "SiriUIHelpButton",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     },
@@ -169,7 +187,8 @@
       "children": [
         {
           "name": "SiriUIContentLabel",
-          "children": []
+          "children": [],
+          "framework": "SiriUI"
         }
       ]
     }

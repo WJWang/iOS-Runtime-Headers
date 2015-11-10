@@ -7,63 +7,78 @@
       "children": [
         {
           "name": "CTAsciiAddress",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTCall",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTCallCenter",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTCarrier",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTEmailAddress",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTMessage",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTMessageCenter",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTMessagePart",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTMessageStatus",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTMmsEncoder",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTPhoneNumber",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTRadioAccessTechnology",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTSubscriber",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTSubscriberInfo",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         },
         {
           "name": "CTTelephonyNetworkInfo",
-          "children": []
+          "children": [],
+          "framework": "CoreTelephony.framework"
         }
       ]
     }

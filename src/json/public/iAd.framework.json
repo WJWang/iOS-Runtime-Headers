@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_ADUIViewControllerAdController",
-          "children": []
+          "children": [],
+          "framework": "iAd.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "_ADRemoteViewController",
-          "children": []
+          "children": [],
+          "framework": "iAd.framework"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "ADVideoAdOverlayView",
-          "children": []
+          "children": [],
+          "framework": "iAd.framework"
         },
         {
           "name": "ADVideoAdView",
-          "children": []
+          "children": [],
+          "framework": "iAd.framework"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "ADTapGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "iAd.framework"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "ADCountdownButton",
-          "children": []
+          "children": [],
+          "framework": "iAd.framework"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "XPCService.framework",
+  "name": "XPCService",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "XPCServiceBundle",
-          "children": []
+          "children": [],
+          "framework": "XPCService"
         },
         {
           "name": "XPCServiceRuntime",
-          "children": []
+          "children": [],
+          "framework": "XPCService"
         }
       ]
     }

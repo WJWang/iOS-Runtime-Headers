@@ -1,5 +1,5 @@
 {
-  "name": "VoiceMemos.framework",
+  "name": "VoiceMemos",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "RCWeakRef",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "RCWeakProxyRef",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "RCWaveformSelectionOverlay",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "RCWaveformRasterizationOperation",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "RCTrimControl",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "RCTextLayer",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "RCShareMemoViewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "RCSavedRecordingPreviewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "RCSavedRecording",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "RCRecorderStateButton",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -107,11 +117,13 @@
       "children": [
         {
           "name": "RCPlayMemoViewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         },
         {
           "name": "RCRecordMemoViewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -121,7 +133,8 @@
       "children": [
         {
           "name": "RCMutableWaveform",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -131,23 +144,28 @@
       "children": [
         {
           "name": "RCCurrentRecordingServiceViewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         },
         {
           "name": "RCCurrentRecordingViewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         },
         {
           "name": "RCGLWaveformRenderer",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         },
         {
           "name": "RCGLWaveformViewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         },
         {
           "name": "RCMemoPlaybackViewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -157,7 +175,8 @@
       "children": [
         {
           "name": "RCCurrentRecordingRemoteViewController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -167,7 +186,8 @@
       "children": [
         {
           "name": "RCAudioRouteBarButtonItem",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -177,7 +197,8 @@
       "children": [
         {
           "name": "RCAVItem",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     },
@@ -187,7 +208,8 @@
       "children": [
         {
           "name": "RCAVController",
-          "children": []
+          "children": [],
+          "framework": "VoiceMemos"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "SportsVoices.framework",
+  "name": "SportsVoices",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "SlotsInContext",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         },
         {
           "name": "SpecialCharacters",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "SlotSequence",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "SimpleSlotSequence",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "Rule",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "NewProduction",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         }
       ]
     },
@@ -61,15 +67,18 @@
       "children": [
         {
           "name": "DisjunctionSlot",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         },
         {
           "name": "KleeneSlot",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         },
         {
           "name": "NegationSlot",
-          "children": []
+          "children": [],
+          "framework": "SportsVoices"
         }
       ]
     }

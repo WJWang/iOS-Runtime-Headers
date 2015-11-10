@@ -1,5 +1,5 @@
 {
-  "name": "IMFoundation.framework",
+  "name": "IMFoundation",
   "list": [
     {
       "name": "NSObject",
@@ -7,67 +7,83 @@
       "children": [
         {
           "name": "IMUserNotification",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMUserNotificationCenter",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMWeakArray",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMWeakObjectCache",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMWeakReference",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMXMLParser",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMXMLParserContext",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMXMLParserFrame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMXMLReparser",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMXMLReparserContext",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "NetworkChangeNotifier",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "_IMLogFileCompressor",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "_IMNotificationObservationHelper",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "_IMPingPacketData",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "_IMPingStatisticsCollector",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "_IMTimingInstance",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -77,7 +93,8 @@
       "children": [
         {
           "name": "IMToSuperParserFrame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -87,7 +104,8 @@
       "children": [
         {
           "name": "IMToSuperParserContext",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -97,7 +115,8 @@
       "children": [
         {
           "name": "IMThreadedInvocationTrampoline",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -107,11 +126,13 @@
       "children": [
         {
           "name": "IMSuperToPlainParserContext",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "IMSuperToSuperSanitizerContext",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -121,7 +142,8 @@
       "children": [
         {
           "name": "IMNetworkConnectionMonitor",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -131,7 +153,8 @@
       "children": [
         {
           "name": "IMMobileNetworkManager",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -141,7 +164,8 @@
       "children": [
         {
           "name": "IMHTMLToSuperParserContext",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -151,7 +175,8 @@
       "children": [
         {
           "name": "IMFromSuperParserContext",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -161,7 +186,8 @@
       "children": [
         {
           "name": "IMFileManager",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -171,35 +197,43 @@
       "children": [
         {
           "name": "HTMLToSuper_EM_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "HTMLToSuper_FONT_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "HTMLToSuper_I_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "HTMLToSuper_SPAN_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "HTMLToSuper_STRIKE_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "HTMLToSuper_STRONG_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "HTMLToSuper_S_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         },
         {
           "name": "HTMLToSuper_U_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -209,7 +243,8 @@
       "children": [
         {
           "name": "HTMLToSuper_Default_Frame",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     },
@@ -219,7 +254,8 @@
       "children": [
         {
           "name": "Broadcaster",
-          "children": []
+          "children": [],
+          "framework": "IMFoundation"
         }
       ]
     }

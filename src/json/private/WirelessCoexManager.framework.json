@@ -1,5 +1,5 @@
 {
-  "name": "WirelessCoexManager.framework",
+  "name": "WirelessCoexManager",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WCMSetting",
-          "children": []
+          "children": [],
+          "framework": "WirelessCoexManager"
         }
       ]
     }

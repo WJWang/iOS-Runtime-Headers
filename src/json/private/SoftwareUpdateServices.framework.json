@@ -1,5 +1,5 @@
 {
-  "name": "SoftwareUpdateServices.framework",
+  "name": "SoftwareUpdateServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "SUState",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         },
         {
           "name": "SUUtility",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "SUSoftwareUpdateAssetMatcher",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "SUMutableDownloadMetadata",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         }
       ]
     },
@@ -41,23 +45,28 @@
       "children": [
         {
           "name": "SUAutoDownloadPolicy",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         },
         {
           "name": "SUDefaultRoamingRestrictedDownloadPolicy",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         },
         {
           "name": "SUDefaultWiFiOnlyDownloadPolicy",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         },
         {
           "name": "SUDownloadPolicy",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         },
         {
           "name": "SUManualDownloadPolicy",
-          "children": []
+          "children": [],
+          "framework": "SoftwareUpdateServices"
         }
       ]
     }

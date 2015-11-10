@@ -1,5 +1,5 @@
 {
-  "name": "AirPortAssistant.framework",
+  "name": "AirPortAssistant",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WiFiUtils",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "WEPKeyFormatter",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "ViewScroller",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "UnreadBubbleCount",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "UTF8Formatter",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "UInt16Formatter",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -67,11 +73,13 @@
       "children": [
         {
           "name": "TopoNumberBadge",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         },
         {
           "name": "TopoProgressBar",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "TextLinkButton",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -91,7 +100,8 @@
       "children": [
         {
           "name": "TVMUINavigationController",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -101,7 +111,8 @@
       "children": [
         {
           "name": "StepByStepUIViewController_Restore_Config",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -111,23 +122,28 @@
       "children": [
         {
           "name": "StepByStepUIViewController_ExtendWirelessNetworkChoice",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         },
         {
           "name": "StepByStepUIViewController_ExtendWireless_Config",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         },
         {
           "name": "StepByStepUIViewController_Join_Config",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         },
         {
           "name": "StepByStepUIViewController_ReplaceBaseStation_Config",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         },
         {
           "name": "StepByStepUIViewController_ReplaceNetworkChoice",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -137,7 +153,8 @@
       "children": [
         {
           "name": "StepByStepUIViewController_ExtendWired_Connections",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -147,7 +164,8 @@
       "children": [
         {
           "name": "StepByStepUIViewController_ExtendWired_Config",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -157,7 +175,8 @@
       "children": [
         {
           "name": "StepByStepUIViewController",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -167,7 +186,8 @@
       "children": [
         {
           "name": "StepByStepController",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -177,7 +197,8 @@
       "children": [
         {
           "name": "SelectorStringThread",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -187,11 +208,13 @@
       "children": [
         {
           "name": "NetTopoAirPortDeviceLayer",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         },
         {
           "name": "NetTopoDeviceConnectionLayer",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -201,7 +224,8 @@
       "children": [
         {
           "name": "ManagedTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -211,11 +235,13 @@
       "children": [
         {
           "name": "IPv4AddressOctetFormatter",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         },
         {
           "name": "IPv4AddressWithPrefixFormatter",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -225,7 +251,8 @@
       "children": [
         {
           "name": "DiagsPrivacyHelpViewController",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -235,11 +262,13 @@
       "children": [
         {
           "name": "AssistantSubUIViewController",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         },
         {
           "name": "AssistantUIViewController",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -249,7 +278,8 @@
       "children": [
         {
           "name": "AUUITableViewController",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -259,7 +289,8 @@
       "children": [
         {
           "name": "AUMFiSetupController",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     },
@@ -269,7 +300,8 @@
       "children": [
         {
           "name": "APFormatter",
-          "children": []
+          "children": [],
+          "framework": "AirPortAssistant"
         }
       ]
     }

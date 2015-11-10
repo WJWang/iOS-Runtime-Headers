@@ -1,5 +1,5 @@
 {
-  "name": "FTServices.framework",
+  "name": "FTServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,31 +7,38 @@
       "children": [
         {
           "name": "FTMessageQueue",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         },
         {
           "name": "FTNetworkSupport",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         },
         {
           "name": "FTPasswordManager",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         },
         {
           "name": "FTRegion",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         },
         {
           "name": "FTRegionSupport",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         },
         {
           "name": "FTServerBag",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         },
         {
           "name": "FTUserConfiguration",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         }
       ]
     },
@@ -41,11 +48,13 @@
       "children": [
         {
           "name": "FTMessageDelivery_APS",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         },
         {
           "name": "FTMessageDelivery_HTTP",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         }
       ]
     },
@@ -55,11 +64,13 @@
       "children": [
         {
           "name": "FTGetRegionMetadataMessage",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         },
         {
           "name": "FTIDSMessage",
-          "children": []
+          "children": [],
+          "framework": "FTServices"
         }
       ]
     }

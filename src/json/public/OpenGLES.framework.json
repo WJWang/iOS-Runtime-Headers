@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "EAGLContext",
-          "children": []
+          "children": [],
+          "framework": "OpenGLES.framework"
         },
         {
           "name": "EAGLSharegroup",
-          "children": []
+          "children": [],
+          "framework": "OpenGLES.framework"
         }
       ]
     }

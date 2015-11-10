@@ -1,5 +1,5 @@
 {
-  "name": "DataAccessExpress.framework",
+  "name": "DataAccessExpress",
   "list": [
     {
       "name": "NSObject",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "DASearchQuery",
-          "children": []
+          "children": [],
+          "framework": "DataAccessExpress"
         },
         {
           "name": "DASharedCalendarContext",
-          "children": []
+          "children": [],
+          "framework": "DataAccessExpress"
         },
         {
           "name": "DAStatusReport",
-          "children": []
+          "children": [],
+          "framework": "DataAccessExpress"
         }
       ]
     },
@@ -25,11 +28,13 @@
       "children": [
         {
           "name": "DAContactsSearchQuery",
-          "children": []
+          "children": [],
+          "framework": "DataAccessExpress"
         },
         {
           "name": "DAMailboxSearchQuery",
-          "children": []
+          "children": [],
+          "framework": "DataAccessExpress"
         }
       ]
     }

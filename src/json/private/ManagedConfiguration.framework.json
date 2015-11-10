@@ -1,5 +1,5 @@
 {
-  "name": "ManagedConfiguration.framework",
+  "name": "ManagedConfiguration",
   "list": [
     {
       "name": "NSThread",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "MCWorkerThread",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     },
@@ -17,15 +18,18 @@
       "children": [
         {
           "name": "MCWebClipPayload",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         },
         {
           "name": "MCWebContentFilterPayload",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         },
         {
           "name": "MCWiFiPayload",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "MCWAPIIdentityCertificatePayload",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "MCVersioningUtilities",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "MCVPNPayload",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "MCSingleAppPayload",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "MCProfileServiceProfile",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     },
@@ -85,11 +94,13 @@
       "children": [
         {
           "name": "MCEASAccountPayload",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         },
         {
           "name": "MCEmailAccountPayload",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     },
@@ -99,7 +110,8 @@
       "children": [
         {
           "name": "MCCertificateWrapperProfile",
-          "children": []
+          "children": [],
+          "framework": "ManagedConfiguration"
         }
       ]
     }

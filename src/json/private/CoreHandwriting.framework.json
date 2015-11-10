@@ -1,5 +1,5 @@
 {
-  "name": "CoreHandwriting.framework",
+  "name": "CoreHandwriting",
   "list": [
     {
       "name": "CHRecognitionResult",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "CHTextRecognitionResult",
-          "children": []
+          "children": [],
+          "framework": "CoreHandwriting"
         }
       ]
     },
@@ -17,15 +18,18 @@
       "children": [
         {
           "name": "CHDrawing",
-          "children": []
+          "children": [],
+          "framework": "CoreHandwriting"
         },
         {
           "name": "CHRecognitionResult",
-          "children": []
+          "children": [],
+          "framework": "CoreHandwriting"
         },
         {
           "name": "CHRecognizer",
-          "children": []
+          "children": [],
+          "framework": "CoreHandwriting"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "DuetPLLConfigLogger.framework",
+  "name": "DuetPLLConfigLogger",
   "list": [
     {
       "name": "NSObject",
@@ -7,27 +7,33 @@
       "children": [
         {
           "name": "AppLaunchStatsAggD",
-          "children": []
+          "children": [],
+          "framework": "DuetPLLConfigLogger"
         },
         {
           "name": "BudgetPool",
-          "children": []
+          "children": [],
+          "framework": "DuetPLLConfigLogger"
         },
         {
           "name": "DuetConfigurator",
-          "children": []
+          "children": [],
+          "framework": "DuetPLLConfigLogger"
         },
         {
           "name": "DuetLogger",
-          "children": []
+          "children": [],
+          "framework": "DuetPLLConfigLogger"
         },
         {
           "name": "PoolResource",
-          "children": []
+          "children": [],
+          "framework": "DuetPLLConfigLogger"
         },
         {
           "name": "PowerLogStub",
-          "children": []
+          "children": [],
+          "framework": "DuetPLLConfigLogger"
         }
       ]
     }

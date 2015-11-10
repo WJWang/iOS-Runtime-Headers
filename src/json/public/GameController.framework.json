@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_GCUserHIDDevice",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "children": [
         {
           "name": "_GCMFiGamepadControllerProfile",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         },
         {
           "name": "_GCRemoteControllerProfile",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "_GCMFiExtendedGamepadControllerProfile",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "_GCGamepad",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "_GCExtendedGamepad",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -61,7 +67,8 @@
       "children": [
         {
           "name": "_GCControllerDirectionPad",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -71,7 +78,8 @@
       "children": [
         {
           "name": "_GCControllerButtonInput",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "_GCControllerAxisInput",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -91,7 +100,8 @@
       "children": [
         {
           "name": "_GCControllerAxisButtonInput",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -101,7 +111,8 @@
       "children": [
         {
           "name": "_GCController",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     },
@@ -111,15 +122,18 @@
       "children": [
         {
           "name": "GCControllerAxisInput",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         },
         {
           "name": "GCControllerButtonInput",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         },
         {
           "name": "GCControllerDirectionPad",
-          "children": []
+          "children": [],
+          "framework": "GameController.framework"
         }
       ]
     }

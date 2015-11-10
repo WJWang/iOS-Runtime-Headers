@@ -7,27 +7,33 @@
       "children": [
         {
           "name": "CUIInnerGlowOrShadowFilter",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CUIOuterBevelEmbossFilter",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CUIOuterGlowOrShadowFilter",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CUIShapeEffectBlur1",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "_CICompositeFilter",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "_CIScreenFilter",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -37,7 +43,8 @@
       "children": [
         {
           "name": "CIXRay",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -47,7 +54,8 @@
       "children": [
         {
           "name": "CIVector",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -57,7 +65,8 @@
       "children": [
         {
           "name": "CITwelvefoldReflectedTile",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -67,7 +76,8 @@
       "children": [
         {
           "name": "CITransformKernel",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -77,19 +87,23 @@
       "children": [
         {
           "name": "CISourceAtopCompositing",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CISourceInCompositing",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CISourceOutCompositing",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CISourceOverCompositing",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -99,15 +113,18 @@
       "children": [
         {
           "name": "CISaturationBlendMode",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIScreenBlendMode",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CISoftLightBlendMode",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -117,7 +134,8 @@
       "children": [
         {
           "name": "CIQRCodeGenerator",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -127,35 +145,43 @@
       "children": [
         {
           "name": "CIPhotoEffectChrome",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIPhotoEffectFade",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIPhotoEffectInstant",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIPhotoEffectMono",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIPhotoEffectNoir",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIPhotoEffectProcess",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIPhotoEffectTonal",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIPhotoEffectTransfer",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -165,11 +191,13 @@
       "children": [
         {
           "name": "CIHatchedScreen",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CILineScreen",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -179,11 +207,13 @@
       "children": [
         {
           "name": "CIFourfoldReflectedTile",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         },
         {
           "name": "CIFourfoldTranslatedTile",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -193,7 +223,8 @@
       "children": [
         {
           "name": "CIFaceFeature",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -203,7 +234,8 @@
       "children": [
         {
           "name": "CIFaceCoreDetector",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -213,7 +245,8 @@
       "children": [
         {
           "name": "CIEnhancementCalculator",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     },
@@ -223,7 +256,8 @@
       "children": [
         {
           "name": "CIColorCubeWithColorSpace",
-          "children": []
+          "children": [],
+          "framework": "CoreImage.framework"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "CoreDAV.framework",
+  "name": "CoreDAV",
   "list": [
     {
       "name": "NSXMLParser",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "CoreDAVXMLParser",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -17,15 +18,18 @@
       "children": [
         {
           "name": "CoreDAVXMLData",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         },
         {
           "name": "CoreDAVXMLElementAttribute",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         },
         {
           "name": "CoreDAVXMLElementGenerator",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -35,11 +39,13 @@
       "children": [
         {
           "name": "CoreDAVUpdateACLTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         },
         {
           "name": "CoreDAVValidatePrincipalsTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "CoreDAVSyncReportTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "CoreDAVSyncReportItem",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -69,15 +77,18 @@
       "children": [
         {
           "name": "CoreDAVSetItem",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         },
         {
           "name": "CoreDAVSupportedReportItem",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         },
         {
           "name": "CoreDAVSupportedReportSetItem",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -87,7 +98,8 @@
       "children": [
         {
           "name": "CoreDAVSRVLookupTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -97,7 +109,8 @@
       "children": [
         {
           "name": "CoreDAVPutTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -107,7 +120,8 @@
       "children": [
         {
           "name": "CoreDAVPutStreamTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -117,11 +131,13 @@
       "children": [
         {
           "name": "CoreDAVPostOrPutTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         },
         {
           "name": "CoreDAVPropPatchTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -131,7 +147,8 @@
       "children": [
         {
           "name": "CoreDAVOrderedAction",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -141,7 +158,8 @@
       "children": [
         {
           "name": "CoreDAVOctetStreamToFileParser",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -151,7 +169,8 @@
       "children": [
         {
           "name": "CoreDAVMoveTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -161,7 +180,8 @@
       "children": [
         {
           "name": "CoreDAVItemWithHrefChildItemTolerateBarePayload",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -171,7 +191,8 @@
       "children": [
         {
           "name": "CoreDAVHrefItem",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -181,7 +202,8 @@
       "children": [
         {
           "name": "CoreDAVGetToFileTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -191,7 +213,8 @@
       "children": [
         {
           "name": "CoreDAVFolderContentsMultiGetTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -201,7 +224,8 @@
       "children": [
         {
           "name": "CardDAVMultiPutTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -211,7 +235,8 @@
       "children": [
         {
           "name": "CardDAVGetAccountPropertiesTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -221,7 +246,8 @@
       "children": [
         {
           "name": "CardDAVFolderSyncTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -231,7 +257,8 @@
       "children": [
         {
           "name": "CardDAVFolderQueryTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -241,7 +268,8 @@
       "children": [
         {
           "name": "CardDAVFolderInfoTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -251,7 +279,8 @@
       "children": [
         {
           "name": "CardDAVBulkUploadTaskGroup",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -261,7 +290,8 @@
       "children": [
         {
           "name": "CardDAVBulkChangeTask",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     },
@@ -271,7 +301,8 @@
       "children": [
         {
           "name": "CardDAVAddressBookContainer",
-          "children": []
+          "children": [],
+          "framework": "CoreDAV"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "CoreRoutine.framework",
+  "name": "CoreRoutine",
   "list": [
     {
       "name": "NSObject",
@@ -7,39 +7,48 @@
       "children": [
         {
           "name": "RTBatchGeocoder",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         },
         {
           "name": "RTGeocoder",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         },
         {
           "name": "RTLOIDisplayInfo",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         },
         {
           "name": "RTLOIETA",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         },
         {
           "name": "RTLocationOfInterest",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         },
         {
           "name": "RTLocationOfInterestVisit",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         },
         {
           "name": "RTRoutineManager",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         },
         {
           "name": "_RTBatchSliceGeocoder",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         },
         {
           "name": "_RTRoutineManagerProxy",
-          "children": []
+          "children": [],
+          "framework": "CoreRoutine"
         }
       ]
     }

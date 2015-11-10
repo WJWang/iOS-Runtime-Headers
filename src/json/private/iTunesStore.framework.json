@@ -1,5 +1,5 @@
 {
-  "name": "iTunesStore.framework",
+  "name": "iTunesStore",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "asn1Token",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -17,19 +18,23 @@
       "children": [
         {
           "name": "asn1IntegerToken",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         },
         {
           "name": "asn1OSToken",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         },
         {
           "name": "asn1SequenceToken",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         },
         {
           "name": "asn1SetToken",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -39,11 +44,13 @@
       "children": [
         {
           "name": "ISURLOperation",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         },
         {
           "name": "ISURLOperationPoolOperation",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -53,7 +60,8 @@
       "children": [
         {
           "name": "ISURLAuthenticationChallenge",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -63,7 +71,8 @@
       "children": [
         {
           "name": "ISStreamUnzippingDataProvider",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -73,7 +82,8 @@
       "children": [
         {
           "name": "ISStoreURLOperation",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -83,7 +93,8 @@
       "children": [
         {
           "name": "ISRetryDialogOperation",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -93,7 +104,8 @@
       "children": [
         {
           "name": "ISPropertyListProvider",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -103,7 +115,8 @@
       "children": [
         {
           "name": "ISOperation",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -113,11 +126,13 @@
       "children": [
         {
           "name": "ISDelayedInvocationRecorder",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         },
         {
           "name": "ISMainThreadInvocationRecorder",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     },
@@ -127,7 +142,8 @@
       "children": [
         {
           "name": "ISCookieStorage",
-          "children": []
+          "children": [],
+          "framework": "iTunesStore"
         }
       ]
     }

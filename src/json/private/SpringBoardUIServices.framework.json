@@ -1,5 +1,5 @@
 {
-  "name": "SpringBoardUIServices.framework",
+  "name": "SpringBoardUIServices",
   "list": [
     {
       "name": "UIViewController",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "SBUIStarkHomeScreenBackgroundProviderViewController",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         },
         {
           "name": "_SBUISwitcherPageServiceViewController",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         },
         {
           "name": "_SBUIWidgetViewController",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -25,7 +28,8 @@
       "children": [
         {
           "name": "SBUIRingViewLabelButton",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -35,7 +39,8 @@
       "children": [
         {
           "name": "SBUIPasscodeTextField",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -45,11 +50,13 @@
       "children": [
         {
           "name": "SBUIPasscodeLockViewWithKeyboard",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         },
         {
           "name": "SBUIPasscodeLockViewWithKeypad",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "SBUIPasscodeLockViewSimple4DigitKeypad",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "SBUIPasscodeLockViewSIMLockKeypad",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "SBUIPasscodeLockViewFactory",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -89,15 +99,18 @@
       "children": [
         {
           "name": "SBUIPasscodeEntryField",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         },
         {
           "name": "SBUIPasscodeLockNumberPad",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         },
         {
           "name": "SBUIPasscodeLockViewBase",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -107,7 +120,8 @@
       "children": [
         {
           "name": "SBUINumericPasscodeEntryFieldBase",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -117,11 +131,13 @@
       "children": [
         {
           "name": "SBUIFourDigitPasscodeEntryField",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         },
         {
           "name": "SBUILongNumericPasscodeEntryField",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -131,7 +147,8 @@
       "children": [
         {
           "name": "SBUIEmergencyCallHostViewController",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -141,7 +158,8 @@
       "children": [
         {
           "name": "SBUIButton",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -151,7 +169,8 @@
       "children": [
         {
           "name": "SBSimplePasscodeEntryFieldButton",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -161,7 +180,8 @@
       "children": [
         {
           "name": "SBPasscodeNumberPadButton",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -171,7 +191,8 @@
       "children": [
         {
           "name": "SBPasscodeKeyboard",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     },
@@ -181,7 +202,8 @@
       "children": [
         {
           "name": "SBNumberPadWithDelegate",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUIServices"
         }
       ]
     }

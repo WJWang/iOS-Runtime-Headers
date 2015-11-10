@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WLEasyToHitCustomView",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "WLEasyToHitCustomButton",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -27,11 +29,13 @@
       "children": [
         {
           "name": "PKTunableSliderPref",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         },
         {
           "name": "PKTunableSwitchPref",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -41,11 +45,13 @@
       "children": [
         {
           "name": "PKTunablePref",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         },
         {
           "name": "PKTunablePrefs",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "PKSettingTableCell",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "PKServiceAddPassesViewController",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -75,7 +83,8 @@
       "children": [
         {
           "name": "PKRemoteAddPassesViewController",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -85,7 +94,8 @@
       "children": [
         {
           "name": "PKPassWelcomeFrontFaceView",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -95,7 +105,8 @@
       "children": [
         {
           "name": "PKPassWelcomeBackFaceView",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -105,7 +116,8 @@
       "children": [
         {
           "name": "PKPassGroupStackView",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -115,7 +127,8 @@
       "children": [
         {
           "name": "PKPassFrontFaceView",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -125,7 +138,8 @@
       "children": [
         {
           "name": "PKPassFaceView",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -135,7 +149,8 @@
       "children": [
         {
           "name": "PKBoxLayer",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     },
@@ -145,7 +160,8 @@
       "children": [
         {
           "name": "PKActivityItemProvider",
-          "children": []
+          "children": [],
+          "framework": "PassKit.framework"
         }
       ]
     }

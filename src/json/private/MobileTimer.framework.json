@@ -1,5 +1,5 @@
 {
-  "name": "MobileTimer.framework",
+  "name": "MobileTimer",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "WorldClockCity",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         },
         {
           "name": "WorldClockManager",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         }
       ]
     },
@@ -21,15 +23,18 @@
       "children": [
         {
           "name": "TimerDialView",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         },
         {
           "name": "VectorHandView",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         },
         {
           "name": "WorldClockCellView",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         }
       ]
     },
@@ -39,7 +44,8 @@
       "children": [
         {
           "name": "TableCellAnalogClockView",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "ShrinkableDateLabel",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "FullscreenPortraitAnalogClockView",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "DigitalClockLabel",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "CollectionCellAnalogClockLandscapeView",
-          "children": []
+          "children": [],
+          "framework": "MobileTimer"
         }
       ]
     }

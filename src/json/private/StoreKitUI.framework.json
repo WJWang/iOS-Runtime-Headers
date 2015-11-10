@@ -1,5 +1,5 @@
 {
-  "name": "StoreKitUI.framework",
+  "name": "StoreKitUI",
   "list": [
     {
       "name": "UIView",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_SKUIItemBrowseCellContentView",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "SKUIWishlistViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "SKUIWishlistDataConsumer",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "SKUIWishlist",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "SKUIViewControllerFactory",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "SKUIViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -67,11 +73,13 @@
       "children": [
         {
           "name": "SKUIUberImageDataConsumer",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUIVideoImageDataConsumer",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "SKUIURLConnectionRequest",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -91,7 +100,8 @@
       "children": [
         {
           "name": "SKUIURLActivityItemProvider",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -101,7 +111,8 @@
       "children": [
         {
           "name": "SKUITrailersCell",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -111,7 +122,8 @@
       "children": [
         {
           "name": "SKUITextBoxView",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -121,7 +133,8 @@
       "children": [
         {
           "name": "SKUITextBoxTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -131,7 +144,8 @@
       "children": [
         {
           "name": "SKUITableViewCell",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -141,7 +155,8 @@
       "children": [
         {
           "name": "SKUISyncWishlistOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -151,7 +166,8 @@
       "children": [
         {
           "name": "SKUISwooshPageComponent",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -161,11 +177,13 @@
       "children": [
         {
           "name": "SKUIStorePageCollectionViewLayout",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUISwooshCollectionViewLayout",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -175,7 +193,8 @@
       "children": [
         {
           "name": "SKUISpacePageSection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -185,7 +204,8 @@
       "children": [
         {
           "name": "SKUISortDataRequest",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -195,7 +215,8 @@
       "children": [
         {
           "name": "SKUISoftwareSwooshCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -205,7 +226,8 @@
       "children": [
         {
           "name": "SKUISoftwareSwooshCellLayout",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -215,7 +237,8 @@
       "children": [
         {
           "name": "SKUISlideshowImageScrollView",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -225,7 +248,8 @@
       "children": [
         {
           "name": "SKUIShowcaseButton",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -235,7 +259,8 @@
       "children": [
         {
           "name": "SKUISegmentedControl",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -245,7 +270,8 @@
       "children": [
         {
           "name": "SKUISearchItem",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -255,7 +281,8 @@
       "children": [
         {
           "name": "SKUISearchCollectionViewFlowLayout",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -265,7 +292,8 @@
       "children": [
         {
           "name": "SKUIRedeemViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -275,7 +303,8 @@
       "children": [
         {
           "name": "SKUIRedeemTextField",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -285,7 +314,8 @@
       "children": [
         {
           "name": "SKUIRedeemResultsViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -295,7 +325,8 @@
       "children": [
         {
           "name": "SKUIRedeemResultsView",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -305,11 +336,13 @@
       "children": [
         {
           "name": "SKUIRedeemResultLinksTableViewSection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUIRedeemResultSimpleTableViewSection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -319,7 +352,8 @@
       "children": [
         {
           "name": "SKUIQuicklinkCollectionViewCell",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -329,23 +363,28 @@
       "children": [
         {
           "name": "SKUIProductPageTableHeaderOnlySection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUIProductPageTableInAppPurchasesSection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUIProductPageTableLinksSection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUIProductPageTableTextBoxSection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUIProductPageTableUpdateHistorySection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -355,7 +394,8 @@
       "children": [
         {
           "name": "SKUIProductPageActivityViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -365,7 +405,8 @@
       "children": [
         {
           "name": "SKUIPostReviewOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -375,7 +416,8 @@
       "children": [
         {
           "name": "SKUIMenuViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -385,7 +427,8 @@
       "children": [
         {
           "name": "SKUILockupSwooshViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -395,7 +438,8 @@
       "children": [
         {
           "name": "SKUILockupSwooshArtworkLoader",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -405,15 +449,18 @@
       "children": [
         {
           "name": "SKUILoadArtworkResourceOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUILoadItemResourceOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUILoadSortDataOperation",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -423,7 +470,8 @@
       "children": [
         {
           "name": "SKUIItemRoomTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -433,7 +481,8 @@
       "children": [
         {
           "name": "SKUIItemCellLayout",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -443,7 +492,8 @@
       "children": [
         {
           "name": "SKUIITunesStoreUIPageViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -453,7 +503,8 @@
       "children": [
         {
           "name": "SKUIIPadSearchSeparatorView",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -463,7 +514,8 @@
       "children": [
         {
           "name": "SKUIGiftThemePickerViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -473,7 +525,8 @@
       "children": [
         {
           "name": "SKUIGiftThemeCollectionView",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -483,11 +536,13 @@
       "children": [
         {
           "name": "SKUIGiftSendDateSection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUIGiftTermsAndConditionsSection",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -497,7 +552,8 @@
       "children": [
         {
           "name": "SKUIGiftComposeRecipientView",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -507,7 +563,8 @@
       "children": [
         {
           "name": "SKUIGiftActivity",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -517,7 +574,8 @@
       "children": [
         {
           "name": "SKUIFocusedTouchGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -527,11 +585,13 @@
       "children": [
         {
           "name": "SKUIDonationAmountViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         },
         {
           "name": "SKUIDonationResultViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -541,7 +601,8 @@
       "children": [
         {
           "name": "SKUIDismissingProductViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -551,7 +612,8 @@
       "children": [
         {
           "name": "SKUICountdownFlapView",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -561,7 +623,8 @@
       "children": [
         {
           "name": "SKUIComposeReviewViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -571,7 +634,8 @@
       "children": [
         {
           "name": "SKUIComposeReviewFormViewController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -581,7 +645,8 @@
       "children": [
         {
           "name": "SKUICollectionViewLayoutAttributes",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -591,7 +656,8 @@
       "children": [
         {
           "name": "SKUIChartsPage",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -601,7 +667,8 @@
       "children": [
         {
           "name": "SKUIChartsDataConsumer",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -611,7 +678,8 @@
       "children": [
         {
           "name": "SKUIApplicationLicenseDataConsumer",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -621,7 +689,8 @@
       "children": [
         {
           "name": "SKScriptStoreSheetRequest",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -631,7 +700,8 @@
       "children": [
         {
           "name": "SKScriptInterface",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     },
@@ -641,7 +711,8 @@
       "children": [
         {
           "name": "ASSearchDisplayController",
-          "children": []
+          "children": [],
+          "framework": "StoreKitUI"
         }
       ]
     }

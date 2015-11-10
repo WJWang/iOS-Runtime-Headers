@@ -1,5 +1,5 @@
 {
-  "name": "VideoUpload.framework",
+  "name": "VideoUpload",
   "list": [
     {
       "name": "UIViewController",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "VUPublishViewController",
-          "children": []
+          "children": [],
+          "framework": "VideoUpload"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "VUPublishPost",
-          "children": []
+          "children": [],
+          "framework": "VideoUpload"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "VUPublishAgent",
-          "children": []
+          "children": [],
+          "framework": "VideoUpload"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "VUFooterContainerView",
-          "children": []
+          "children": [],
+          "framework": "VideoUpload"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "VUCategoryCell",
-          "children": []
+          "children": [],
+          "framework": "VideoUpload"
         }
       ]
     }

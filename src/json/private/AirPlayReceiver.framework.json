@@ -1,5 +1,5 @@
 {
-  "name": "AirPlayReceiver.framework",
+  "name": "AirPlayReceiver",
   "list": [
     {
       "name": "NSObject",
@@ -7,39 +7,48 @@
       "children": [
         {
           "name": "AirPlayControllerServer",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "AirPlayHIDDevice",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "AirPlayImage",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "AirPlayLocalSlideshow",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "AirPlayReceiverContext",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "AirPlayReceiverPlatform",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "AirPlayReceiverSimulator",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "MediaControlAudioPlayer",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "MediaControlServer",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         }
       ]
     },
@@ -49,11 +58,13 @@
       "children": [
         {
           "name": "APGraphLayer",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         },
         {
           "name": "APHUDLayer",
-          "children": []
+          "children": [],
+          "framework": "AirPlayReceiver"
         }
       ]
     }

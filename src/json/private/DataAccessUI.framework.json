@@ -1,5 +1,5 @@
 {
-  "name": "DataAccessUI.framework",
+  "name": "DataAccessUI",
   "list": [
     {
       "name": "ACUIDataclassConfigurationViewController",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "DASettingsDataclassConfigurationViewController",
-          "children": []
+          "children": [],
+          "framework": "DataAccessUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "DASettingsAccountsUIController",
-          "children": []
+          "children": [],
+          "framework": "DataAccessUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "DADiagnosticsPSController",
-          "children": []
+          "children": [],
+          "framework": "DataAccessUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "DADiagnosticsNotesPane",
-          "children": []
+          "children": [],
+          "framework": "DataAccessUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "DADiagnosticsNotesController",
-          "children": []
+          "children": [],
+          "framework": "DataAccessUI"
         }
       ]
     }

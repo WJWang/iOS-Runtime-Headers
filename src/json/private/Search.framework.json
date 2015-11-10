@@ -1,5 +1,5 @@
 {
-  "name": "Search.framework",
+  "name": "Search",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "SPTopHitsCompoundResult",
-          "children": []
+          "children": [],
+          "framework": "Search"
         },
         {
           "name": "SPXPCConnection",
-          "children": []
+          "children": [],
+          "framework": "Search"
         },
         {
           "name": "SPXPCMessage",
-          "children": []
+          "children": [],
+          "framework": "Search"
         },
         {
           "name": "SPXPCServer",
-          "children": []
+          "children": [],
+          "framework": "Search"
         }
       ]
     },
@@ -29,7 +33,8 @@
       "children": [
         {
           "name": "SPTopHitIndexer",
-          "children": []
+          "children": [],
+          "framework": "Search"
         }
       ]
     },
@@ -39,7 +44,8 @@
       "children": [
         {
           "name": "SPTopHit",
-          "children": []
+          "children": [],
+          "framework": "Search"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "SPSearchResultSerializer",
-          "children": []
+          "children": [],
+          "framework": "Search"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "SPSearchResultSection",
-          "children": []
+          "children": [],
+          "framework": "Search"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "SPSearchResultDeserializer",
-          "children": []
+          "children": [],
+          "framework": "Search"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "SPContentResult",
-          "children": []
+          "children": [],
+          "framework": "Search"
         }
       ]
     }

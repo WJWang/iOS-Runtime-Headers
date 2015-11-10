@@ -1,5 +1,5 @@
 {
-  "name": "CertUI.framework",
+  "name": "CertUI",
   "list": [
     {
       "name": "NSObject",
@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "CertUIConnectionDelegate",
-          "children": []
+          "children": [],
+          "framework": "CertUI"
         },
         {
           "name": "CertUIPrompt",
-          "children": []
+          "children": [],
+          "framework": "CertUI"
         },
         {
           "name": "CertUITrustManager",
-          "children": []
+          "children": [],
+          "framework": "CertUI"
         }
       ]
     }

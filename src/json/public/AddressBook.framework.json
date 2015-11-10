@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "ABValuePredicate",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "children": [
         {
           "name": "ABVCardRecord",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         },
         {
           "name": "ABVCardValueSetter",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "ABVCardPersonValueSetter",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "ABVCardCardDAVValueSetter",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "ABVCardCardDAVRecord",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     },
@@ -61,7 +67,8 @@
       "children": [
         {
           "name": "ABVCardCardDAVParser",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     },
@@ -71,7 +78,8 @@
       "children": [
         {
           "name": "ABVCardCardDAVExporter",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "ABSearchOperation",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     },
@@ -91,7 +100,8 @@
       "children": [
         {
           "name": "ABPredicate",
-          "children": []
+          "children": [],
+          "framework": "AddressBook.framework"
         }
       ]
     }

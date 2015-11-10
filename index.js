@@ -7,113 +7,21 @@ var realFs = require('fs');
 var gracefulFs = require('graceful-fs');
 var uid = require('uid');
 
-var TreeNode = require('treenode').TreeNode;
+var Tree = require('./src/tree.js');
 var recursive = require('recursive-readdir');
 
+var Weather = require('./src/json/private/Weather.framework.json');
 
 
-recursive(PRIVATE_JSON_PATH, function(err, files) {
-  if(err) {
-    throw err;
-  } else {
-    var a = 1;
-    files.forEach(function(file) {
-      var inheritList = [];
-      var fileObj = require(file);
-      var newList = recursiveInherit(fileObj.list);
-      fileObj.list = newList;
-
-      function recursiveInherit(list) {
-        var reducedObj = list.reduce(function(pre, ele) {
-          if(pre.name === ele.name) {
-            return {
-              name : pre.name,
-              parent: pre.parent || ele.parent,
-              children : pre.children.concat(ele.children),
-            };
-          } else {
-            return ele;
-          }
-        });
-        inheritList.push(reducedObj);
-
-        var newList = _.filter(list, function(ele) {
-          return (ele.name !== reducedObj.name);
-        });
-
-        if(newList.length) {
-          recursiveInherit(newList);
-        }
-        return inheritList;
-      }
-      gracefulFs.writeFile(__dirname+'/src/json/private/' + fileObj.name + ".json", JSON.stringify(fileObj, null, 2), 'utf8', function(err) {
-        console.log("DONE");
-      });
-    });
-  }
+var WeatherInheritList = Weather.list;
+var treeList = WeatherInheritList.map(function(element) {
+  return new Tree(element);
 });
 
-recursive(PUBLIC_JSON_PATH, function(err, files) {
-  if(err) {
-    throw err;
-  } else {
-    var a = 1;
-    files.forEach(function(file) {
-      var inheritList = [];
-      var fileObj = require(file);
-      var newList = recursiveInherit(fileObj.list);
-      fileObj.list = newList;
-
-      function recursiveInherit(list) {
-        var reducedObj = list.reduce(function(pre, ele) {
-          if(pre.name === ele.name) {
-            return {
-              name : pre.name,
-              parent: pre.parent || ele.parent,
-              children : pre.children.concat(ele.children),
-            };
-          } else {
-            return ele;
-          }
-        });
-        inheritList.push(reducedObj);
-
-        var newList = _.filter(list, function(ele) {
-          return (ele.name !== reducedObj.name);
-        });
-
-        if(newList.length) {
-          recursiveInherit(newList);
-        }
-        return inheritList;
-      }
-      gracefulFs.writeFile(__dirname+'/src/json/public/' + fileObj.name + ".json", JSON.stringify(fileObj, null, 2), 'utf8', function(err) {
-        console.log("DONE");
-      });
-    });
-  }
+var tree = new Tree(WeatherInheritList[0]);
+// console.log(tree);
+tree.findChild('WeatherXMLHTTPRequest', function(data) {
+  // console.log(data);
+  tree.setChildNode(data[0].index, {name:'test'});
+  console.log(tree);
 });
-
-// function recursiveInherit(list) {
-//   var reducedObj = list.reduce(function(pre, ele) {
-//     if(pre.name === ele.name) {
-//       return {
-//         name : pre.name,
-//         parent: pre.parent || ele.parent,
-//         children : pre.children.concat(ele.children),
-//       };
-//     } else {
-//       return ele;
-//     }
-//   });
-//   inheritList.push(reducedObj);
-//
-//   var newList = _.filter(list, function(ele) {
-//     return (ele.name !== reducedObj.name);
-//   });
-//
-//   if(newList.length) {
-//     recursiveInherit(newList);
-//   }
-//   return inheritList;
-// }

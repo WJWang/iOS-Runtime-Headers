@@ -1,5 +1,5 @@
 {
-  "name": "AssistantServices.framework",
+  "name": "AssistantServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,39 +7,48 @@
       "children": [
         {
           "name": "AFSettingsConnection",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         },
         {
           "name": "AFSpeakableUtteranceParser",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         },
         {
           "name": "AFSpeechCorrectionInfo",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         },
         {
           "name": "AFSpeechInterpretation",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         },
         {
           "name": "AFSpeechPhrase",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         },
         {
           "name": "AFSpeechRequestOptions",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         },
         {
           "name": "AFSpeechToken",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         },
         {
           "name": "AFVoiceInfo",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         },
         {
           "name": "_AFSpeakableUtterancePassThroughProvider",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         }
       ]
     },
@@ -49,7 +58,8 @@
       "children": [
         {
           "name": "AFSUPFunctionProvider",
-          "children": []
+          "children": [],
+          "framework": "AssistantServices"
         }
       ]
     }

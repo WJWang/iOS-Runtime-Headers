@@ -1,5 +1,5 @@
 {
-  "name": "HomeSharing.framework",
+  "name": "HomeSharing",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "SagaPlaylistImporter",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         },
         {
           "name": "_HSUnresolvedLibrary",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "HSUpdateResponse",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         }
       ]
     },
@@ -31,19 +34,23 @@
       "children": [
         {
           "name": "HSServerInfoRequest",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         },
         {
           "name": "HSSetPropertyRequest",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         },
         {
           "name": "HSSetRentalPlaybackStartDateRequest",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         },
         {
           "name": "HSUpdateRequest",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         }
       ]
     },
@@ -53,7 +60,8 @@
       "children": [
         {
           "name": "HSSagaML3TrackDataSource",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         }
       ]
     },
@@ -63,7 +71,8 @@
       "children": [
         {
           "name": "HSSagaML3ImportItem",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         }
       ]
     },
@@ -73,7 +82,8 @@
       "children": [
         {
           "name": "HSMutableConnectionConfiguration",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         }
       ]
     },
@@ -83,7 +93,8 @@
       "children": [
         {
           "name": "HSDAAPML3ImportItem",
-          "children": []
+          "children": [],
+          "framework": "HomeSharing"
         }
       ]
     }

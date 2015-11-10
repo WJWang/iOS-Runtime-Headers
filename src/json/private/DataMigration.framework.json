@@ -1,5 +1,5 @@
 {
-  "name": "DataMigration.framework",
+  "name": "DataMigration",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "DMXPCConnection",
-          "children": []
+          "children": [],
+          "framework": "DataMigration"
         },
         {
           "name": "DataClassMigrator",
-          "children": []
+          "children": [],
+          "framework": "DataMigration"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "DMConnection",
-          "children": []
+          "children": [],
+          "framework": "DataMigration"
         }
       ]
     }

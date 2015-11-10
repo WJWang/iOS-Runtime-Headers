@@ -1,5 +1,5 @@
 {
-  "name": "AppStoreUI.framework",
+  "name": "AppStoreUI",
   "list": [
     {
       "name": "SUViewControllerFactory",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "ASViewControllerFactory",
-          "children": []
+          "children": [],
+          "framework": "AppStoreUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "ASPurchaseBatch",
-          "children": []
+          "children": [],
+          "framework": "AppStoreUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "ASClientController",
-          "children": []
+          "children": [],
+          "framework": "AppStoreUI"
         }
       ]
     }

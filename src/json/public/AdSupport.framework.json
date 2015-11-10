@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "ASIdentifierManager",
-          "children": []
+          "children": [],
+          "framework": "AdSupport.framework"
         }
       ]
     }

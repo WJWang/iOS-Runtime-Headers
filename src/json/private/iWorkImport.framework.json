@@ -1,5 +1,5 @@
 {
-  "name": "iWorkImport.framework",
+  "name": "iWorkImport",
   "list": [
     {
       "name": "TSUImage",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_TSUImageM",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "TSWPUserDefaults",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "TSWPUpdateDateTimeFieldCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "TSWPUnsupportedHyperlinkField",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -47,11 +51,13 @@
       "children": [
         {
           "name": "TSWPTextualAttachment",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSWPUIGraphicalAttachment",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -61,7 +67,8 @@
       "children": [
         {
           "name": "TSWPTextStylePreset",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -71,7 +78,8 @@
       "children": [
         {
           "name": "TSWPTextKnob",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "TSWPTextHostRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -91,7 +100,8 @@
       "children": [
         {
           "name": "TSWPTextHostLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -101,7 +111,8 @@
       "children": [
         {
           "name": "TSWPTextEditingShapeLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -111,7 +122,8 @@
       "children": [
         {
           "name": "TSWPTextEditingShapeInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -121,7 +133,8 @@
       "children": [
         {
           "name": "TSWPTextCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -131,7 +144,8 @@
       "children": [
         {
           "name": "TSWPTextBaseCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -141,7 +155,8 @@
       "children": [
         {
           "name": "TSWPTextApplyThemeCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -151,7 +166,8 @@
       "children": [
         {
           "name": "TSWPTableStorage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -161,7 +177,8 @@
       "children": [
         {
           "name": "TSWPTOCRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -171,7 +188,8 @@
       "children": [
         {
           "name": "TSWPTOCPageNumberAttachment",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -181,7 +199,8 @@
       "children": [
         {
           "name": "TSWPTOCEntryStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -191,7 +210,8 @@
       "children": [
         {
           "name": "TSWPTOCAttachment",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -201,7 +221,8 @@
       "children": [
         {
           "name": "TSWPStyleUpdatePropertyMapCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -211,23 +232,28 @@
       "children": [
         {
           "name": "TSWPStyleCreateCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSWPStyleDeleteCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSWPStyleRenameCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSWPStyleReorderCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSWPStyleUpdateCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -237,7 +263,8 @@
       "children": [
         {
           "name": "TSWPStorageChildEnumerator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -247,7 +274,8 @@
       "children": [
         {
           "name": "TSWPStorageAttributeRangeProvider",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -257,7 +285,8 @@
       "children": [
         {
           "name": "TSWPShapeStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -267,7 +296,8 @@
       "children": [
         {
           "name": "TSWPShapeRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -277,7 +307,8 @@
       "children": [
         {
           "name": "TSWPShapeLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -287,7 +318,8 @@
       "children": [
         {
           "name": "TSWPShapeInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -297,7 +329,8 @@
       "children": [
         {
           "name": "TSWPShapeEditor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -307,7 +340,8 @@
       "children": [
         {
           "name": "TSWPShapeApplyPresetCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -317,7 +351,8 @@
       "children": [
         {
           "name": "TSWPSelectionHighlightLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -327,7 +362,8 @@
       "children": [
         {
           "name": "TSWPSelection",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -337,7 +373,8 @@
       "children": [
         {
           "name": "TSWPSearch",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -347,7 +384,8 @@
       "children": [
         {
           "name": "TSWPRubyField",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -357,7 +395,8 @@
       "children": [
         {
           "name": "TSWPReplaceAllTextCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -367,7 +406,8 @@
       "children": [
         {
           "name": "TSWPRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -377,7 +417,8 @@
       "children": [
         {
           "name": "TSWPRemoveIdentifiedCharacterStyleStyler",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -387,7 +428,8 @@
       "children": [
         {
           "name": "TSWPParagraphStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -397,11 +439,13 @@
       "children": [
         {
           "name": "TSWPPageCountAttachment",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSWPPageNumberAttachment",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -411,11 +455,13 @@
       "children": [
         {
           "name": "TSWPModifyTOCSettingsForTOCInfoCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSWPModifyTOCSettingsPresetForThemeCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -425,7 +471,8 @@
       "children": [
         {
           "name": "TSWPLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -435,7 +482,8 @@
       "children": [
         {
           "name": "TSWPInteractiveCanvasController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -445,7 +493,8 @@
       "children": [
         {
           "name": "TSWPHyperlinkAction",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -455,7 +504,8 @@
       "children": [
         {
           "name": "TSWPFloatingCommentTextEditor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -465,7 +515,8 @@
       "children": [
         {
           "name": "TSWPFloatingCommentEditor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -475,7 +526,8 @@
       "children": [
         {
           "name": "TSWPFilteredString",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -485,7 +537,8 @@
       "children": [
         {
           "name": "TSWPCharacterStyler",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -495,7 +548,8 @@
       "children": [
         {
           "name": "TSUZipFileWriter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -505,7 +559,8 @@
       "children": [
         {
           "name": "TSUZipFileArchive",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -515,7 +570,8 @@
       "children": [
         {
           "name": "TSUScaledProgress",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -525,7 +581,8 @@
       "children": [
         {
           "name": "TSURetainedPointerSet",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -535,11 +592,13 @@
       "children": [
         {
           "name": "TSUPolynomialRegressionModel",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSUPowerRegressionModel",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -549,7 +608,8 @@
       "children": [
         {
           "name": "TSUPointerSet",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -559,7 +619,8 @@
       "children": [
         {
           "name": "TSUNumberOrDateOrDurationFormatter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -569,7 +630,8 @@
       "children": [
         {
           "name": "TSUMutableRetainedPointerSet",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -579,7 +641,8 @@
       "children": [
         {
           "name": "TSUMutablePointerSet",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -589,7 +652,8 @@
       "children": [
         {
           "name": "TSUIntDictionary",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -599,7 +663,8 @@
       "children": [
         {
           "name": "TSUFlushableCachedImage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -609,7 +674,8 @@
       "children": [
         {
           "name": "TSUCustomCallBackDictionary",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -619,7 +685,8 @@
       "children": [
         {
           "name": "TSUConcurrentCache",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -629,7 +696,8 @@
       "children": [
         {
           "name": "TSUChunkedString",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -639,7 +707,8 @@
       "children": [
         {
           "name": "TSTWrappedFormula",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -649,7 +718,8 @@
       "children": [
         {
           "name": "TSTWPTokenAttachment",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -659,7 +729,8 @@
       "children": [
         {
           "name": "TSTWPTableInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -669,7 +740,8 @@
       "children": [
         {
           "name": "TSTWPColumnCache",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -679,11 +751,13 @@
       "children": [
         {
           "name": "TSTTableTileRowInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTileIDKeyDict",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -693,7 +767,8 @@
       "children": [
         {
           "name": "TSTTableRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -703,7 +778,8 @@
       "children": [
         {
           "name": "TSTTableInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -713,43 +789,53 @@
       "children": [
         {
           "name": "TSTTableDataCommentStorage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataConditionalStyleSet",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataCustomFormat",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataFormat",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataFormula",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataFormulaError",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataMultipleChoiceList",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataRichTextPayload",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataString",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTTableDataStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -759,11 +845,13 @@
       "children": [
         {
           "name": "TSTReferenceNode",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTStringNode",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -773,11 +861,13 @@
       "children": [
         {
           "name": "TSTPostfixOperatorNode",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTPrefixOperatorNode",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -787,11 +877,13 @@
       "children": [
         {
           "name": "TSTLayoutDynamicResizeInfoAccordion",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSTLayoutDynamicResizeInfoUnify",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -801,7 +893,8 @@
       "children": [
         {
           "name": "TSTLayoutCellIterator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -811,7 +904,8 @@
       "children": [
         {
           "name": "TSTLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -821,7 +915,8 @@
       "children": [
         {
           "name": "TSTCustomFormatList",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -831,7 +926,8 @@
       "children": [
         {
           "name": "TSTCompletionToken",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -841,7 +937,8 @@
       "children": [
         {
           "name": "TSTChartReferenceFormula",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -851,7 +948,8 @@
       "children": [
         {
           "name": "TSTCellRegionRowMajorReverseIterator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -861,7 +959,8 @@
       "children": [
         {
           "name": "TSSupportPackageWriteCoordinator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -871,7 +970,8 @@
       "children": [
         {
           "name": "TSSMutablePropertySet",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -881,7 +981,8 @@
       "children": [
         {
           "name": "TSPUnknownObjectUnarchiver",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -891,11 +992,13 @@
       "children": [
         {
           "name": "TSPUnknownFieldTreeNodeWithChildren",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSPUnknownFieldTreeNodeWithUnknownField",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -905,15 +1008,18 @@
       "children": [
         {
           "name": "TSPUnknownFieldDataReference",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSPUnknownFieldMessage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSPUnknownFieldObjectReference",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -923,7 +1029,8 @@
       "children": [
         {
           "name": "TSPTemporaryDataStorage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -933,7 +1040,8 @@
       "children": [
         {
           "name": "TSPSupportPackageReadCoordinator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -943,7 +1051,8 @@
       "children": [
         {
           "name": "TSPSupportAutosaveOperationState",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -953,7 +1062,8 @@
       "children": [
         {
           "name": "TSPPasteboardUIPasteboard",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -963,7 +1073,8 @@
       "children": [
         {
           "name": "TSPPasteboardReadCoordinator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -973,7 +1084,8 @@
       "children": [
         {
           "name": "TSPPasteboardArchiver",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -983,7 +1095,8 @@
       "children": [
         {
           "name": "TSPLazyReferenceArray",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -993,7 +1106,8 @@
       "children": [
         {
           "name": "TSPDatabaseReader",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1003,11 +1117,13 @@
       "children": [
         {
           "name": "TSPDatabaseObjectWithDataState",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSPDatabaseObjectWithFileState",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1017,7 +1133,8 @@
       "children": [
         {
           "name": "TSPDatabaseDataRepresentation",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1027,7 +1144,8 @@
       "children": [
         {
           "name": "TSPDatabase",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1037,7 +1155,8 @@
       "children": [
         {
           "name": "TSPCopyAssistant",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1047,7 +1166,8 @@
       "children": [
         {
           "name": "TSPCachedDocumentResourceDataStorage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1057,11 +1177,13 @@
       "children": [
         {
           "name": "TSPAlternateArchiver",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSPArchiver",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1071,7 +1193,8 @@
       "children": [
         {
           "name": "TSKUndoRedoStateCommandSelectionBehavior",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1081,7 +1204,8 @@
       "children": [
         {
           "name": "TSKTintLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1091,11 +1215,13 @@
       "children": [
         {
           "name": "TSKRemovedFromDocumentContext_Hiding",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSKRemovedFromDocumentContext_Moving",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1105,7 +1231,8 @@
       "children": [
         {
           "name": "TSKPulseAnimationController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1115,7 +1242,8 @@
       "children": [
         {
           "name": "TSKProgressiveCommandGroup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1125,7 +1253,8 @@
       "children": [
         {
           "name": "TSKLowPriorityThreadDispatcher",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1135,19 +1264,23 @@
       "children": [
         {
           "name": "TSKAddedToDocumentContext_SubstorageForChangeTrackingCopy",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSKAddedToDocumentContext_Unarchiving",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSKAddedToDocumentContext_UndoDelete",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSKAddedToDocumentContext_Unhiding",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1157,7 +1290,8 @@
       "children": [
         {
           "name": "TSKAddedToDocumentContext_PastingMatchStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1167,7 +1301,8 @@
       "children": [
         {
           "name": "TSKAddedToDocumentContext_ImportingMasterTemplate",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1177,7 +1312,8 @@
       "children": [
         {
           "name": "TSKAddedToDocumentContext_DragMove",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1187,7 +1323,8 @@
       "children": [
         {
           "name": "TSKAVQueuePlayerController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1197,7 +1334,8 @@
       "children": [
         {
           "name": "TSDUngroupGroupCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1207,7 +1345,8 @@
       "children": [
         {
           "name": "TSDTransformGradient",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1217,7 +1356,8 @@
       "children": [
         {
           "name": "TSDTilingTileLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1227,7 +1367,8 @@
       "children": [
         {
           "name": "TSDTilingLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1237,7 +1378,8 @@
       "children": [
         {
           "name": "TSDSwatchRenderingOperation",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1247,7 +1389,8 @@
       "children": [
         {
           "name": "TSDStyledDrawableEditor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1257,7 +1400,8 @@
       "children": [
         {
           "name": "TSDSpacingGuide",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1267,7 +1411,8 @@
       "children": [
         {
           "name": "TSDSmartStroke",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1277,7 +1422,8 @@
       "children": [
         {
           "name": "TSDSizingGuide",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1287,7 +1433,8 @@
       "children": [
         {
           "name": "TSDSimpleTileProvider",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1297,7 +1444,8 @@
       "children": [
         {
           "name": "TSDShapeStyleSetValueCommand",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1307,7 +1455,8 @@
       "children": [
         {
           "name": "TSDShapeRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1317,7 +1466,8 @@
       "children": [
         {
           "name": "TSDShapeRenderingOperation",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1327,7 +1477,8 @@
       "children": [
         {
           "name": "TSDShapeLineSegmentKnobTracker",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1337,7 +1488,8 @@
       "children": [
         {
           "name": "TSDShapeLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1347,7 +1499,8 @@
       "children": [
         {
           "name": "TSDShapeInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1357,7 +1510,8 @@
       "children": [
         {
           "name": "TSDShapeEditor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1367,7 +1521,8 @@
       "children": [
         {
           "name": "TSDScalarPathSource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1377,7 +1532,8 @@
       "children": [
         {
           "name": "TSDRootLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1387,7 +1543,8 @@
       "children": [
         {
           "name": "TSDPathFiller",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1397,7 +1554,8 @@
       "children": [
         {
           "name": "TSDPDFImageProvider",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1407,7 +1565,8 @@
       "children": [
         {
           "name": "TSDNonInteractiveInsertionContext",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1417,7 +1576,8 @@
       "children": [
         {
           "name": "TSDNonInteractiveFloatingInsertionContext",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1427,7 +1587,8 @@
       "children": [
         {
           "name": "TSDMutableTransformGradient",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1437,7 +1598,8 @@
       "children": [
         {
           "name": "TSDMutableShadow",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1447,7 +1609,8 @@
       "children": [
         {
           "name": "TSDMutableReflection",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1457,7 +1620,8 @@
       "children": [
         {
           "name": "TSDMutableLayoutGeometry",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1467,7 +1631,8 @@
       "children": [
         {
           "name": "TSDMutableInfoGeometry",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1477,7 +1642,8 @@
       "children": [
         {
           "name": "TSDMutableImageFill",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1487,7 +1653,8 @@
       "children": [
         {
           "name": "TSDMutableImageAdjustments",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1497,7 +1664,8 @@
       "children": [
         {
           "name": "TSDMutableGradientStop",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1507,7 +1675,8 @@
       "children": [
         {
           "name": "TSDMutableFrame",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1517,7 +1686,8 @@
       "children": [
         {
           "name": "TSDMutableExteriorTextWrap",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1527,7 +1697,8 @@
       "children": [
         {
           "name": "TSDMutableDropShadow",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1537,7 +1708,8 @@
       "children": [
         {
           "name": "TSDMutableCurvedShadow",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1547,7 +1719,8 @@
       "children": [
         {
           "name": "TSDMutableContactShadow",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1557,7 +1730,8 @@
       "children": [
         {
           "name": "TSDMutableColorFill",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1567,7 +1741,8 @@
       "children": [
         {
           "name": "TSDMutableCalligraphyStroke",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1577,7 +1752,8 @@
       "children": [
         {
           "name": "TSDMutableBrushStroke",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1587,7 +1763,8 @@
       "children": [
         {
           "name": "TSDMutableAngleGradient",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1597,7 +1774,8 @@
       "children": [
         {
           "name": "TSDMovieRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1607,7 +1785,8 @@
       "children": [
         {
           "name": "TSDMovieLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1617,7 +1796,8 @@
       "children": [
         {
           "name": "TSDMovieKnob",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1627,7 +1807,8 @@
       "children": [
         {
           "name": "TSDMovieInfoImporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1637,7 +1818,8 @@
       "children": [
         {
           "name": "TSDMovieInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1647,7 +1829,8 @@
       "children": [
         {
           "name": "TSDMovieEditor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1657,7 +1840,8 @@
       "children": [
         {
           "name": "TSDImageFill",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1667,7 +1851,8 @@
       "children": [
         {
           "name": "TSDHUDViewController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1677,7 +1862,8 @@
       "children": [
         {
           "name": "TSDGroupLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1687,31 +1873,38 @@
       "children": [
         {
           "name": "TSDGLShaderQualifierFloat",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSDGLShaderQualifierInt",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSDGLShaderQualifierMat3",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSDGLShaderQualifierMat4",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSDGLShaderQualifierPoint2D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSDGLShaderQualifierPoint3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSDGLShaderQualifierPoint4D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1721,7 +1914,8 @@
       "children": [
         {
           "name": "TSDGLLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1731,7 +1925,8 @@
       "children": [
         {
           "name": "TSDGLCurvedShadow",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1741,7 +1936,8 @@
       "children": [
         {
           "name": "TSDFPSCACounter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1751,7 +1947,8 @@
       "children": [
         {
           "name": "TSDConnectionLinePathSource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1761,11 +1958,13 @@
       "children": [
         {
           "name": "TSDConnectionLineLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSDConnectionLineOrthogonalLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1775,7 +1974,8 @@
       "children": [
         {
           "name": "TSDCommentKnobTracker",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1785,11 +1985,13 @@
       "children": [
         {
           "name": "TSDBrushStroke",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSDCalligraphyStroke",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1799,7 +2001,8 @@
       "children": [
         {
           "name": "TSDBrushPathManipulation",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1809,7 +2012,8 @@
       "children": [
         {
           "name": "TSDAsyncTilingLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1819,11 +2023,13 @@
       "children": [
         {
           "name": "TSCHStackedBarElementBuilder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHStackedColumnElementBuilder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1833,7 +2039,8 @@
       "children": [
         {
           "name": "TSCHStackedBarColumnElementBuilder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1843,7 +2050,8 @@
       "children": [
         {
           "name": "TSCHStackedAreaElementBuilder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1853,7 +2061,8 @@
       "children": [
         {
           "name": "TSCHSearchSelection",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1863,7 +2072,8 @@
       "children": [
         {
           "name": "TSCHScatterElementBuilder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1873,7 +2083,8 @@
       "children": [
         {
           "name": "TSCHPropertyMutationIndirectTuple",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1883,11 +2094,13 @@
       "children": [
         {
           "name": "TSCHPresetImagerStackedBar",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPresetImagerStackedColumn",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1897,11 +2110,13 @@
       "children": [
         {
           "name": "TSCHPresetImagerScatter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPresetImagerStackedArea",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1911,7 +2126,8 @@
       "children": [
         {
           "name": "TSCHPresetImagerPie",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1921,7 +2137,8 @@
       "children": [
         {
           "name": "TSCHPresetImagerMultiDataScatter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1931,7 +2148,8 @@
       "children": [
         {
           "name": "TSCHPresetImagerMultiDataColumn",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1941,7 +2159,8 @@
       "children": [
         {
           "name": "TSCHPresetImagerMultiDataBubble",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1951,7 +2170,8 @@
       "children": [
         {
           "name": "TSCHPresetImagerMultiDataBar",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1961,35 +2181,43 @@
       "children": [
         {
           "name": "TSCHPreUFFChartAxisNonStyleForUpgrade",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPreUFFChartAxisStyleForUpgrade",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPreUFFChartNonStyleForUpgrade",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPreUFFChartSeriesNonStyleForUpgrade",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPreUFFChartSeriesStyleForUpgrade",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPreUFFChartStyleForUpgrade",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPreUFFLegendNonStyleForUpgrade",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHPreUFFLegendStyleForUpgrade",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -1999,7 +2227,8 @@
       "children": [
         {
           "name": "TSCHPieWedgeRendererLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2009,7 +2238,8 @@
       "children": [
         {
           "name": "TSCHPieElementBuilder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2019,7 +2249,8 @@
       "children": [
         {
           "name": "TSCHPieChartRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2029,7 +2260,8 @@
       "children": [
         {
           "name": "TSCHMultiDataScatterChartRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2039,7 +2271,8 @@
       "children": [
         {
           "name": "TSCHMultiDataChartType",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2049,7 +2282,8 @@
       "children": [
         {
           "name": "TSCHMultiDataBubbleShapeLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2059,7 +2293,8 @@
       "children": [
         {
           "name": "TSCHLineElementBuilder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2069,7 +2304,8 @@
       "children": [
         {
           "name": "TSCHLegendStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2079,7 +2315,8 @@
       "children": [
         {
           "name": "TSCHLegendResizeKnob",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2089,7 +2326,8 @@
       "children": [
         {
           "name": "TSCHLegendRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2099,7 +2337,8 @@
       "children": [
         {
           "name": "TSCHLegendKnobTracker",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2109,7 +2348,8 @@
       "children": [
         {
           "name": "TSCHLegendAreaLayoutItem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2119,79 +2359,98 @@
       "children": [
         {
           "name": "TSCHCommandAddColumns",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandAddRows",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandChartApplyPreset",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandDeleteColumns",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandDeleteRows",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandMoveGridColumns",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandMoveGridRows",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandReplaceGridValues",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetCategoryName",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetChartType",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetGridDirection",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetGridValue",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetLegendFrame",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetMultiDataSetIndex",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetPieWedgeExplosion",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetPreviewLoc",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetScatterFormat",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandSetSeriesName",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHCommandStyleSwap",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2201,7 +2460,8 @@
       "children": [
         {
           "name": "TSCHChartValueAxisRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2211,7 +2471,8 @@
       "children": [
         {
           "name": "TSCHChartValueAxisLayoutItem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2221,7 +2482,8 @@
       "children": [
         {
           "name": "TSCHChartValueAxisLabelsLayoutItem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2231,7 +2493,8 @@
       "children": [
         {
           "name": "TSCHChartValueAxis",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2241,19 +2504,23 @@
       "children": [
         {
           "name": "TSCHChartTypePie3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartTypeStackedArea3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartTypeStackedBar3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartTypeStackedColumn3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2263,11 +2530,13 @@
       "children": [
         {
           "name": "TSCHChartTypeMultiDataColumn",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartTypeMultiDataScatter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2277,7 +2546,8 @@
       "children": [
         {
           "name": "TSCHChartTypeMultiDataBubble",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2287,7 +2557,8 @@
       "children": [
         {
           "name": "TSCHChartTypeBubble",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2297,7 +2568,8 @@
       "children": [
         {
           "name": "TSCHChartStyleState",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2307,11 +2579,13 @@
       "children": [
         {
           "name": "TSCHChartStackedPercentValueAxis",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartStackedValueAxis",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2321,7 +2595,8 @@
       "children": [
         {
           "name": "TSCHChartStackedLineValueAxis",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2331,7 +2606,8 @@
       "children": [
         {
           "name": "TSCHChartStackedBarElementsRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2341,7 +2617,8 @@
       "children": [
         {
           "name": "TSCHChartStackedAreaElementsRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2351,7 +2628,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeValueTransformer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2361,7 +2639,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeStackedColumn3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2371,7 +2650,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeStackedColumn",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2381,7 +2661,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeStackedBar3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2391,7 +2672,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeStackedBar",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2401,7 +2683,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeStackedArea3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2411,7 +2694,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeStackedArea",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2421,7 +2705,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeScatter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2431,7 +2716,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypePie3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2441,11 +2727,13 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeLine3D",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartSeriesTypeMixedLine",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2455,7 +2743,8 @@
       "children": [
         {
           "name": "TSCHChartSeriesTypeBubble",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2465,7 +2754,8 @@
       "children": [
         {
           "name": "TSCHChartResizeKnobTracker",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2475,7 +2765,8 @@
       "children": [
         {
           "name": "TSCHChartPieBodyLayoutItem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2485,7 +2776,8 @@
       "children": [
         {
           "name": "TSCHChartPieAxis",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2495,7 +2787,8 @@
       "children": [
         {
           "name": "TSCHChartPieAreaLayoutItem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2505,7 +2798,8 @@
       "children": [
         {
           "name": "TSCHChartMainTitleLayoutItem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2515,11 +2809,13 @@
       "children": [
         {
           "name": "TSCHChartGridCountAdapter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartGridRowAdapter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2529,7 +2825,8 @@
       "children": [
         {
           "name": "TSCHChartGridConstantAdapter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2539,7 +2836,8 @@
       "children": [
         {
           "name": "TSCHChartFeatureTwoAxis",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2549,7 +2847,8 @@
       "children": [
         {
           "name": "TSCHChartFeatureStackedColumn",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2559,7 +2858,8 @@
       "children": [
         {
           "name": "TSCHChartFeatureStackedBar",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2569,7 +2869,8 @@
       "children": [
         {
           "name": "TSCHChartFeatureStackedArea",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2579,15 +2880,18 @@
       "children": [
         {
           "name": "TSCHChartFeatureCategory",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartFeaturePie",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCHChartFeatureScatter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2597,7 +2901,8 @@
       "children": [
         {
           "name": "TSCHChartFeatureBubble",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2607,7 +2912,8 @@
       "children": [
         {
           "name": "TSCHChartAxisTitleLayoutItemWithStaticPadding",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2617,7 +2923,8 @@
       "children": [
         {
           "name": "TSCHChartAxisSeriesLabelsLayoutItem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2627,7 +2934,8 @@
       "children": [
         {
           "name": "TSCHAreaElementBuilder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2637,19 +2945,23 @@
       "children": [
         {
           "name": "TSCH3Dvec1DataBuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3Dvec2DataBuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3Dvec3DataBuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3Dvec4DataBuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2659,7 +2971,8 @@
       "children": [
         {
           "name": "TSCH3DVerticalChartTitlePositioner",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2669,7 +2982,8 @@
       "children": [
         {
           "name": "TSCH3DVertexShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2679,7 +2993,8 @@
       "children": [
         {
           "name": "TSCH3DVectorN3DDataBuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2689,7 +3004,8 @@
       "children": [
         {
           "name": "TSCH3DVectorN2DDataBuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2699,7 +3015,8 @@
       "children": [
         {
           "name": "TSCH3DValueIndexedResources",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2709,7 +3026,8 @@
       "children": [
         {
           "name": "TSCH3DValueAxisLabelKind",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2719,7 +3037,8 @@
       "children": [
         {
           "name": "TSCH3DVBOHandle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2729,7 +3048,8 @@
       "children": [
         {
           "name": "TSCH3DVAOResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2739,7 +3059,8 @@
       "children": [
         {
           "name": "TSCH3DVAOLoader",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2749,11 +3070,13 @@
       "children": [
         {
           "name": "TSCH3DUByteDataBuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DUShortDataBuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2763,11 +3086,13 @@
       "children": [
         {
           "name": "TSCH3DTrackResourcesRenderProcessor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DTransformGeometryRenderProcessor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2777,7 +3102,8 @@
       "children": [
         {
           "name": "TSCH3DTileSceneRenderSetup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2787,7 +3113,8 @@
       "children": [
         {
           "name": "TSCH3DTileSceneRenderPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2797,11 +3124,13 @@
       "children": [
         {
           "name": "TSCH3DTileImageSceneRenderPipelineMultipleImagesGenerator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DTileImageSceneRenderPipelineSingleImageGenerator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2811,7 +3140,8 @@
       "children": [
         {
           "name": "TSCH3DTileImageSceneRenderPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2821,7 +3151,8 @@
       "children": [
         {
           "name": "TSCH3DTileImage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2831,7 +3162,8 @@
       "children": [
         {
           "name": "TSCH3DTightComponent16WidenPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2841,7 +3173,8 @@
       "children": [
         {
           "name": "TSCH3DTightComponent16AccumulatePipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2851,7 +3184,8 @@
       "children": [
         {
           "name": "TSCH3DTexturesMaterial",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2861,7 +3195,8 @@
       "children": [
         {
           "name": "TSCH3DTexturedRectangle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2871,11 +3206,13 @@
       "children": [
         {
           "name": "TSCH3DTexCoordTilingShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DTextureBlendShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2885,11 +3222,13 @@
       "children": [
         {
           "name": "TSCH3DTexCoordGenerationCube",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DTexCoordGenerationCylinder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2899,7 +3238,8 @@
       "children": [
         {
           "name": "TSCH3DTSPImageDataTexture",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2909,7 +3249,8 @@
       "children": [
         {
           "name": "TSCH3DTSDGLESLayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2919,7 +3260,8 @@
       "children": [
         {
           "name": "TSCH3DSwitchSideAxisLabelPositioner",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2929,7 +3271,8 @@
       "children": [
         {
           "name": "TSCH3DSupersampleSceneRenderPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2939,7 +3282,8 @@
       "children": [
         {
           "name": "TSCH3DStaticBackgroundBlendLayerAnimationClip",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2949,7 +3293,8 @@
       "children": [
         {
           "name": "TSCH3DSpotLightUniformArrayShaderVariables",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2959,7 +3304,8 @@
       "children": [
         {
           "name": "TSCH3DSpotLightShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2969,7 +3315,8 @@
       "children": [
         {
           "name": "TSCH3DSpotLight",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2979,11 +3326,13 @@
       "children": [
         {
           "name": "TSCH3DShininessMaterial",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DSpecularMaterial",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -2993,7 +3342,8 @@
       "children": [
         {
           "name": "TSCH3DSharegroupPoolSharegroupToken",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3003,7 +3353,8 @@
       "children": [
         {
           "name": "TSCH3DShaderStatement",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3013,7 +3364,8 @@
       "children": [
         {
           "name": "TSCH3DShaderArrayElementVariable",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3023,7 +3375,8 @@
       "children": [
         {
           "name": "TSCH3DSetAnimationTimeSlice",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3033,7 +3386,8 @@
       "children": [
         {
           "name": "TSCH3DSelectionPath",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3043,7 +3397,8 @@
       "children": [
         {
           "name": "TSCH3DSceneRenderPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3053,7 +3408,8 @@
       "children": [
         {
           "name": "TSCH3DSageInvisibleBoundsSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3063,7 +3419,8 @@
       "children": [
         {
           "name": "TSCH3DSageGeometryHelperLimitingSeriesUpgrader",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3073,7 +3430,8 @@
       "children": [
         {
           "name": "TSCH3DSageGeometryHelper",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3083,7 +3441,8 @@
       "children": [
         {
           "name": "TSCH3DRetargetRenderProcessor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3093,7 +3452,8 @@
       "children": [
         {
           "name": "TSCH3DRenderBlockTileImageSceneRenderPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3103,7 +3463,8 @@
       "children": [
         {
           "name": "TSCH3DRectangleLens",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3113,7 +3474,8 @@
       "children": [
         {
           "name": "TSCH3DRGBA8ResolvePipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3123,7 +3485,8 @@
       "children": [
         {
           "name": "TSCH3DRGBA8FramebufferAccumulationPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3133,7 +3496,8 @@
       "children": [
         {
           "name": "TSCH3DQuadResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3143,7 +3507,8 @@
       "children": [
         {
           "name": "TSCH3DPyramidBlurFBOResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3153,7 +3518,8 @@
       "children": [
         {
           "name": "TSCH3DPrefilteredLineRendererRenderCacheObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3163,7 +3529,8 @@
       "children": [
         {
           "name": "TSCH3DPlaneProjectRenderProcessor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3173,7 +3540,8 @@
       "children": [
         {
           "name": "TSCH3DPieWedgeGeometry",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3183,7 +3551,8 @@
       "children": [
         {
           "name": "TSCH3DPieBevelEdgeNormalDirectionMapper",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3193,7 +3562,8 @@
       "children": [
         {
           "name": "TSCH3DPhongShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3203,7 +3573,8 @@
       "children": [
         {
           "name": "TSCH3DPhongMaterialShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3213,7 +3584,8 @@
       "children": [
         {
           "name": "TSCH3DPhongMaterialPackage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3223,7 +3595,8 @@
       "children": [
         {
           "name": "TSCH3DPhongLikeLightingModel",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3233,7 +3606,8 @@
       "children": [
         {
           "name": "TSCH3DPhongLightingModel",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3243,7 +3617,8 @@
       "children": [
         {
           "name": "TSCH3DOrthographicLens",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3253,7 +3628,8 @@
       "children": [
         {
           "name": "TSCH3DOpenGL3_2Version",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3263,7 +3639,8 @@
       "children": [
         {
           "name": "TSCH3DMutableVector",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3273,7 +3650,8 @@
       "children": [
         {
           "name": "TSCH3DMutable2DResources",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3283,7 +3661,8 @@
       "children": [
         {
           "name": "TSCH3DLineProjector",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3293,7 +3672,8 @@
       "children": [
         {
           "name": "TSCH3DLineExtrusionGeometry",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3303,19 +3683,23 @@
       "children": [
         {
           "name": "TSCH3DLabels2DQuadMeshRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DLabelsAtlasMeshRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DLabelsRayPickMeshRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DLabelsReprojectionMeshRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3325,7 +3709,8 @@
       "children": [
         {
           "name": "TSCH3DLabelResources",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3335,7 +3720,8 @@
       "children": [
         {
           "name": "TSCH3DInteractiveCanvasSharegroupToken",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3345,7 +3731,8 @@
       "children": [
         {
           "name": "TSCH3DInteractiveCanvasCALayer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3355,7 +3742,8 @@
       "children": [
         {
           "name": "TSCH3DImageTextureTiling",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3365,7 +3753,8 @@
       "children": [
         {
           "name": "TSCH3DGet3DBoundsPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3375,7 +3764,8 @@
       "children": [
         {
           "name": "TSCH3DGeometryRepresentativeVertexCollector",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3385,7 +3775,8 @@
       "children": [
         {
           "name": "TSCH3DGLVertexAttributeVBOLoader",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3395,7 +3786,8 @@
       "children": [
         {
           "name": "TSCH3DGLSharegroup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3405,7 +3797,8 @@
       "children": [
         {
           "name": "TSCH3DGLRenderBufferStorage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3415,7 +3808,8 @@
       "children": [
         {
           "name": "TSCH3DGLMultisampleFramebuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3425,7 +3819,8 @@
       "children": [
         {
           "name": "TSCH3DGLMixinFramebuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3435,7 +3830,8 @@
       "children": [
         {
           "name": "TSCH3DGLHandle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3445,7 +3841,8 @@
       "children": [
         {
           "name": "TSCH3DGLFramebuffer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3455,7 +3852,8 @@
       "children": [
         {
           "name": "TSCH3DGLESLayerFBO",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3465,7 +3863,8 @@
       "children": [
         {
           "name": "TSCH3DGLESContext",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3475,7 +3874,8 @@
       "children": [
         {
           "name": "TSCH3DGLContext",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3485,7 +3885,8 @@
       "children": [
         {
           "name": "TSCH3DFullComponent16WidenPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3495,7 +3896,8 @@
       "children": [
         {
           "name": "TSCH3DFramebufferSplitPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3505,7 +3907,8 @@
       "children": [
         {
           "name": "TSCH3DFramebufferGaussianBlurAndBlendPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3515,11 +3918,13 @@
       "children": [
         {
           "name": "TSCH3DComponent16ResolveShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DComponent16WidenShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3529,7 +3934,8 @@
       "children": [
         {
           "name": "TSCH3DComponent16AccumulatePipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3539,7 +3945,8 @@
       "children": [
         {
           "name": "TSCH3DClipPlaneShaderEffect",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3549,7 +3956,8 @@
       "children": [
         {
           "name": "TSCH3DChartZAxisAnimation",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3559,7 +3967,8 @@
       "children": [
         {
           "name": "TSCH3DChartValueLabelsSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3569,7 +3978,8 @@
       "children": [
         {
           "name": "TSCH3DChartValueAxisTitleSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3579,7 +3989,8 @@
       "children": [
         {
           "name": "TSCH3DChartThumbnailsAndInsertionIconsRenderCycle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3589,7 +4000,8 @@
       "children": [
         {
           "name": "TSCH3DChartTexcoordSharedResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3599,7 +4011,8 @@
       "children": [
         {
           "name": "TSCH3DChartStaticCanvasRenderCycle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3609,11 +4022,13 @@
       "children": [
         {
           "name": "TSCH3DChartStagedAxisSceneOrthographicShadows",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartStagedAxisScenePerspectiveShadows",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3623,7 +4038,8 @@
       "children": [
         {
           "name": "TSCH3DChartStagedAxisScene",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3633,7 +4049,8 @@
       "children": [
         {
           "name": "TSCH3DChartStackedColumnSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3643,7 +4060,8 @@
       "children": [
         {
           "name": "TSCH3DChartStackedBarSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3653,7 +4071,8 @@
       "children": [
         {
           "name": "TSCH3DChartStackedAreaSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3663,7 +4082,8 @@
       "children": [
         {
           "name": "TSCH3DChartSeriesSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3673,7 +4093,8 @@
       "children": [
         {
           "name": "TSCH3DChartSeparateCapGrowAnimationClip",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3683,7 +4104,8 @@
       "children": [
         {
           "name": "TSCH3DChartSceneRenderTiledTightSizeSetup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3693,7 +4115,8 @@
       "children": [
         {
           "name": "TSCH3DChartSceneRenderTiledFullSizeSetup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3703,7 +4126,8 @@
       "children": [
         {
           "name": "TSCH3DChartSceneRenderTightSizeSetup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3713,11 +4137,13 @@
       "children": [
         {
           "name": "TSCH3DChartSceneRenderBuildImageSetup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartSceneRenderStaticCanvasSetup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3727,7 +4153,8 @@
       "children": [
         {
           "name": "TSCH3DChartSceneRenderBackgroundThreadTiledSizeSetup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3737,7 +4164,8 @@
       "children": [
         {
           "name": "TSCH3DChartScenePropertyAccessor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3747,7 +4175,8 @@
       "children": [
         {
           "name": "TSCH3DChartSceneAreaLayoutItem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3757,7 +4186,8 @@
       "children": [
         {
           "name": "TSCH3DChartRotationTouchHandler",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3767,11 +4197,13 @@
       "children": [
         {
           "name": "TSCH3DChartRotateAndGrowAnimation",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartRotateAnimation",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3781,7 +4213,8 @@
       "children": [
         {
           "name": "TSCH3DChartRepDisplayLayerDelegate",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3791,7 +4224,8 @@
       "children": [
         {
           "name": "TSCH3DChartRenderBlockBuildImageRenderCycle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3801,7 +4235,8 @@
       "children": [
         {
           "name": "TSCH3DChartPieWedgeKnob",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3811,7 +4246,8 @@
       "children": [
         {
           "name": "TSCH3DChartPieResizer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3821,7 +4257,8 @@
       "children": [
         {
           "name": "TSCH3DChartPieGrowAnimationClip",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3831,7 +4268,8 @@
       "children": [
         {
           "name": "TSCH3DChartPieElementProperties",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3841,7 +4279,8 @@
       "children": [
         {
           "name": "TSCH3DChartPerspectiveShadowsSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3851,7 +4290,8 @@
       "children": [
         {
           "name": "TSCH3DChartPerElementAlphaBlendAnimationClip",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3861,11 +4301,13 @@
       "children": [
         {
           "name": "TSCH3DChartMixinElementProperties",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartMutableElementProperties",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3875,7 +4317,8 @@
       "children": [
         {
           "name": "TSCH3DChartMeshSharedResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3885,7 +4328,8 @@
       "children": [
         {
           "name": "TSCH3DChartMainTitleSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3895,7 +4339,8 @@
       "children": [
         {
           "name": "TSCH3DChartLineSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3905,7 +4350,8 @@
       "children": [
         {
           "name": "TSCH3DChartLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3915,7 +4361,8 @@
       "children": [
         {
           "name": "TSCH3DChartInteractiveCanvasCALayerImageContentRenderPresenter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3925,7 +4372,8 @@
       "children": [
         {
           "name": "TSCH3DChartGLLayerRenderPresenter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3935,15 +4383,18 @@
       "children": [
         {
           "name": "TSCH3DChartElementSceneObjectProcessGeometryOnlyItems",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartElementSceneObjectProcessRenderItems",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartElementSceneObjectProcessTransparentItems",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3953,7 +4404,8 @@
       "children": [
         {
           "name": "TSCH3DChartElementSceneObjectProcessBoundsItems",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3963,11 +4415,13 @@
       "children": [
         {
           "name": "TSCH3DChartCompileBarAnimationData",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartCompileGeometryResourceAnimationData",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3977,7 +4431,8 @@
       "children": [
         {
           "name": "TSCH3DChartColumnSceneObject",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3987,7 +4442,8 @@
       "children": [
         {
           "name": "TSCH3DChartCanvasRenderCycle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -3997,7 +4453,8 @@
       "children": [
         {
           "name": "TSCH3DChartCacheableGetProjectedBoundsPipeline",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4007,7 +4464,8 @@
       "children": [
         {
           "name": "TSCH3DChartCacheableGLLayerRenderPresenter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4017,7 +4475,8 @@
       "children": [
         {
           "name": "TSCH3DChartBoundsLayoutSceneDelegatePie",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4027,7 +4486,8 @@
       "children": [
         {
           "name": "TSCH3DChartBasicElementProperties",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4037,7 +4497,8 @@
       "children": [
         {
           "name": "TSCH3DChartBackgroundThreadCanvasRenderCycle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4047,7 +4508,8 @@
       "children": [
         {
           "name": "TSCH3DChartAntialiasedStaticCanvasRenderCycle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4057,15 +4519,18 @@
       "children": [
         {
           "name": "TSCH3DChartAddDepthBoundsSceneObjectMode",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartAddRadialBoundsSceneObjectMode",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DChartAddRotationBoundsSceneObjectMode",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4075,7 +4540,8 @@
       "children": [
         {
           "name": "TSCH3DCacheableLayerLogic",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4085,7 +4551,8 @@
       "children": [
         {
           "name": "TSCH3DCacheTrackingLayerLogic",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4095,7 +4562,8 @@
       "children": [
         {
           "name": "TSCH3DBaseImageTextureTiling",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4105,7 +4573,8 @@
       "children": [
         {
           "name": "TSCH3DBarVertexResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4115,7 +4584,8 @@
       "children": [
         {
           "name": "TSCH3DBarUnitCubeResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4125,7 +4595,8 @@
       "children": [
         {
           "name": "TSCH3DBarTexCoordResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4135,7 +4606,8 @@
       "children": [
         {
           "name": "TSCH3DBarNormalResource",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4145,7 +4617,8 @@
       "children": [
         {
           "name": "TSCH3DBarChartCircularAppearance",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4155,15 +4628,18 @@
       "children": [
         {
           "name": "TSCH3DAxisGridEnumerator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DAxisLabelCachedEnumerator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DAxisLabelEnumerator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4173,7 +4649,8 @@
       "children": [
         {
           "name": "TSCH3DArray2DResources",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4183,11 +4660,13 @@
       "children": [
         {
           "name": "TSCH3DAnimationTimings",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCH3DAnimationValueTiming",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4197,7 +4676,8 @@
       "children": [
         {
           "name": "TSCH3DAnimationNamedFunctionInterpolation",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4207,7 +4687,8 @@
       "children": [
         {
           "name": "TSCH3D2DResources",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4217,7 +4698,8 @@
       "children": [
         {
           "name": "TSCH2DChartType",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4227,7 +4709,8 @@
       "children": [
         {
           "name": "TSCH2DChartLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4237,11 +4720,13 @@
       "children": [
         {
           "name": "TSCETableDeletion",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCETectonicShift",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4251,23 +4736,28 @@
       "children": [
         {
           "name": "TSCEBooleanCellValue",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCEDateCellValue",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCENilCellValue",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCENumberCellValue",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSCEStringCellValue",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4277,7 +4767,8 @@
       "children": [
         {
           "name": "TSATheme",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4287,7 +4778,8 @@
       "children": [
         {
           "name": "TSAStyleMapper",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4297,7 +4789,8 @@
       "children": [
         {
           "name": "TSADocumentRoot",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4307,7 +4800,8 @@
       "children": [
         {
           "name": "TSAChangePropagationVisitor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4317,11 +4811,13 @@
       "children": [
         {
           "name": "TSACPShapeTextStyleReplacementStrategy",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TSACPTableTextStyleReplacementStrategy",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4331,7 +4827,8 @@
       "children": [
         {
           "name": "TSABaseApplicationDelegate",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4341,7 +4838,8 @@
       "children": [
         {
           "name": "TSAApplicationTemplateInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4351,7 +4849,8 @@
       "children": [
         {
           "name": "TPThumbnailImager",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4361,7 +4860,8 @@
       "children": [
         {
           "name": "TPTheme",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4371,7 +4871,8 @@
       "children": [
         {
           "name": "TPShapeTextWrapController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4381,7 +4882,8 @@
       "children": [
         {
           "name": "TPRenderingExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4391,7 +4893,8 @@
       "children": [
         {
           "name": "TPQuicklookCompatibilityDelegate",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4401,7 +4904,8 @@
       "children": [
         {
           "name": "TPQuicklookAppDelegate",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4411,7 +4915,8 @@
       "children": [
         {
           "name": "TPPreviewExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4421,7 +4926,8 @@
       "children": [
         {
           "name": "TPPdfHyperlinkController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4431,7 +4937,8 @@
       "children": [
         {
           "name": "TPPaginatedPageRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4441,7 +4948,8 @@
       "children": [
         {
           "name": "TPPaginatedPageLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4451,7 +4959,8 @@
       "children": [
         {
           "name": "TPPaginatedPageInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4461,7 +4970,8 @@
       "children": [
         {
           "name": "TPPaginatedPageController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4471,7 +4981,8 @@
       "children": [
         {
           "name": "TPOffscreenLayoutController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4481,7 +4992,8 @@
       "children": [
         {
           "name": "TPInflatableFootnoteContainerLayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4491,11 +5003,13 @@
       "children": [
         {
           "name": "TPFootnoteRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "TPHeaderRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4505,7 +5019,8 @@
       "children": [
         {
           "name": "TPDocumentRoot",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4515,7 +5030,8 @@
       "children": [
         {
           "name": "TPCanvasSelection",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4525,7 +5041,8 @@
       "children": [
         {
           "name": "TPAppDelegate",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4535,7 +5052,8 @@
       "children": [
         {
           "name": "TNQuicklookCompatibilityDelegate",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4545,7 +5063,8 @@
       "children": [
         {
           "name": "TNPreviewExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4555,7 +5074,8 @@
       "children": [
         {
           "name": "TNPersistentChartMediator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4565,7 +5085,8 @@
       "children": [
         {
           "name": "TNMutableChartFormulaStorage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4575,7 +5096,8 @@
       "children": [
         {
           "name": "TNMutableChartFormulaArgumentCollection",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4585,7 +5107,8 @@
       "children": [
         {
           "name": "TNFormBasedSheet",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4595,7 +5118,8 @@
       "children": [
         {
           "name": "TNChartMediator",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4605,7 +5129,8 @@
       "children": [
         {
           "name": "TCAImportController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4615,7 +5140,8 @@
       "children": [
         {
           "name": "SFUZipException",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4625,7 +5151,8 @@
       "children": [
         {
           "name": "KNWipeBase",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4635,7 +5162,8 @@
       "children": [
         {
           "name": "KNTransitionWipe",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4645,7 +5173,8 @@
       "children": [
         {
           "name": "KNTransitionRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4655,7 +5184,8 @@
       "children": [
         {
           "name": "KNTransitionIris",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4665,7 +5195,8 @@
       "children": [
         {
           "name": "KNTransitionAttributes",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4675,7 +5206,8 @@
       "children": [
         {
           "name": "KNTitlePlaceholderInfo",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4685,7 +5217,8 @@
       "children": [
         {
           "name": "KNSlideNumberPlaceholderRep",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4695,7 +5228,8 @@
       "children": [
         {
           "name": "KNSlideNumberAttachment",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4705,7 +5239,8 @@
       "children": [
         {
           "name": "KNSlideExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4715,7 +5250,8 @@
       "children": [
         {
           "name": "KNSlide",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4725,7 +5261,8 @@
       "children": [
         {
           "name": "KNShimmerSystem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4735,11 +5272,13 @@
       "children": [
         {
           "name": "KNShimmerObjectSystem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNShimmerParticleSystem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4749,19 +5288,23 @@
       "children": [
         {
           "name": "KNRecordingLaserEvent",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNRecordingMovieEvent",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNRecordingNavigationEvent",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNRecordingPauseEvent",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4771,7 +5314,8 @@
       "children": [
         {
           "name": "KNQuicklookCompatibilityDelegate",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4781,11 +5325,13 @@
       "children": [
         {
           "name": "KNPdfSlideExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNPreviewExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4795,15 +5341,18 @@
       "children": [
         {
           "name": "KNPdfGridExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNPdfHandoutExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNPdfNoteExporter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4813,7 +5362,8 @@
       "children": [
         {
           "name": "KNMovieRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4823,7 +5373,8 @@
       "children": [
         {
           "name": "KNMagicMoveRenderer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4833,7 +5384,8 @@
       "children": [
         {
           "name": "KNMacMutableUILayout",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4843,19 +5395,23 @@
       "children": [
         {
           "name": "KNContentAwareImpliedMotionPath",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNContentAwareShimmer",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNContentAwareSparkle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNContentAwareSwing",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4865,7 +5421,8 @@
       "children": [
         {
           "name": "KNCommandController",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4875,11 +5432,13 @@
       "children": [
         {
           "name": "KNChart3DRotationBasedBuild",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNChart3DZAxisBuild",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4889,15 +5448,18 @@
       "children": [
         {
           "name": "KNChart3DCraneBuild",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNChart3DRotateBuild",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNChart3DRotatingGrowBuild",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4907,7 +5469,8 @@
       "children": [
         {
           "name": "KNBuildZoomByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4917,7 +5480,8 @@
       "children": [
         {
           "name": "KNBuildTwirlByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4927,7 +5491,8 @@
       "children": [
         {
           "name": "KNBuildSwooshByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4937,7 +5502,8 @@
       "children": [
         {
           "name": "KNBuildSpinByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4947,7 +5513,8 @@
       "children": [
         {
           "name": "KNBuildScaleBigByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4957,7 +5524,8 @@
       "children": [
         {
           "name": "KNBuildPopByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4967,7 +5535,8 @@
       "children": [
         {
           "name": "KNBuildPivotByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4977,7 +5546,8 @@
       "children": [
         {
           "name": "KNBuildMovieStart",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4987,7 +5557,8 @@
       "children": [
         {
           "name": "KNBuildMoveInByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -4997,7 +5568,8 @@
       "children": [
         {
           "name": "KNBuildFlipByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5007,7 +5579,8 @@
       "children": [
         {
           "name": "KNBuildDropByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5017,7 +5590,8 @@
       "children": [
         {
           "name": "KNBuildDriftByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5027,7 +5601,8 @@
       "children": [
         {
           "name": "KNBuildDissolveByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5037,7 +5612,8 @@
       "children": [
         {
           "name": "KNBuildCubeByCharacter",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5047,7 +5623,8 @@
       "children": [
         {
           "name": "KNBuildAudioStart",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5057,11 +5634,13 @@
       "children": [
         {
           "name": "KNBuildAnvilSmokeSystem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "KNBuildAnvilSpecksSystem",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5071,7 +5650,8 @@
       "children": [
         {
           "name": "GQUWebView",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5081,7 +5661,8 @@
       "children": [
         {
           "name": "GQUSimpleURLProtocol",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5091,7 +5672,8 @@
       "children": [
         {
           "name": "GQSSpiceTable",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5101,15 +5683,18 @@
       "children": [
         {
           "name": "GQPBGProcessor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQPLSProcessor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQPSLProcessor",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5119,7 +5704,8 @@
       "children": [
         {
           "name": "GQHTextBox",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5129,11 +5715,13 @@
       "children": [
         {
           "name": "GQHTable",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQHTableCellStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5143,7 +5731,8 @@
       "children": [
         {
           "name": "GQHParagraphStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5153,15 +5742,18 @@
       "children": [
         {
           "name": "GQHKeynoteState",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQHLassoState",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQHPagesState",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5171,7 +5763,8 @@
       "children": [
         {
           "name": "GQHGraphicStyle",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5181,7 +5774,8 @@
       "children": [
         {
           "name": "GQHChartLegend",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5191,7 +5785,8 @@
       "children": [
         {
           "name": "GQDWebView",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5201,11 +5796,13 @@
       "children": [
         {
           "name": "GQDWPTocEmpty",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQDWPTocEntry",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5215,7 +5812,8 @@
       "children": [
         {
           "name": "GQDWPSpan",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5225,11 +5823,13 @@
       "children": [
         {
           "name": "GQDWPLink",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQDWPParagraph",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5239,7 +5839,8 @@
       "children": [
         {
           "name": "GQDWPLayoutStorage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5249,7 +5850,8 @@
       "children": [
         {
           "name": "GQDWPHeaderFooterStorage",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5259,7 +5861,8 @@
       "children": [
         {
           "name": "GQDWPAttachmentRef",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5269,7 +5872,8 @@
       "children": [
         {
           "name": "GQDTTextCell",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5279,7 +5883,8 @@
       "children": [
         {
           "name": "GQDTSpiceTableModel",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5289,7 +5894,8 @@
       "children": [
         {
           "name": "GQDTSpiceCell",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5299,7 +5905,8 @@
       "children": [
         {
           "name": "GQDTDCell",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5309,11 +5916,13 @@
       "children": [
         {
           "name": "GQDTBooleanCell",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQDTCheckboxCell",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5323,7 +5932,8 @@
       "children": [
         {
           "name": "GQDScalarPath",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5333,7 +5943,8 @@
       "children": [
         {
           "name": "GQDSLPublication",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5343,7 +5954,8 @@
       "children": [
         {
           "name": "GQDSLPageMargins",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5353,7 +5965,8 @@
       "children": [
         {
           "name": "GQDRFrame",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5363,11 +5976,13 @@
       "children": [
         {
           "name": "GQDGraphic",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQDGroup",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5377,11 +5992,13 @@
       "children": [
         {
           "name": "GQDBGSlideNumberPlaceholder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQDBGTitlePlaceholder",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     },
@@ -5391,11 +6008,13 @@
       "children": [
         {
           "name": "GQDBGMasterSlide",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         },
         {
           "name": "GQDBGSlide",
-          "children": []
+          "children": [],
+          "framework": "iWorkImport"
         }
       ]
     }

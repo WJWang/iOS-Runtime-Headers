@@ -1,5 +1,5 @@
 {
-  "name": "AccountsUI.framework",
+  "name": "AccountsUI",
   "list": [
     {
       "name": "UIView",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "_ACUILinkButtonFooterView",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         },
         {
           "name": "_ACUITextWithLinkButtonFooterView",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "ACUIViewController",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "ACUISetupViewController",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         }
       ]
     },
@@ -41,15 +45,18 @@
       "children": [
         {
           "name": "ACUILocalization",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         },
         {
           "name": "ACUIPluginLoader",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         },
         {
           "name": "ACUISettingsPluginManager",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "ACUILinkButton",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "ACUIDataclassConfigurationViewController",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "ACUIAppInstallCell",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         }
       ]
     },
@@ -89,7 +99,8 @@
       "children": [
         {
           "name": "ACUIAddMailAccountViewController",
-          "children": []
+          "children": [],
+          "framework": "AccountsUI"
         }
       ]
     }

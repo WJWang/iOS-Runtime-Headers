@@ -1,5 +1,5 @@
 {
-  "name": "CommonUtilities.framework",
+  "name": "CommonUtilities",
   "list": [
     {
       "name": "NSObject",
@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "CUTFileCopier",
-          "children": []
+          "children": [],
+          "framework": "CommonUtilities"
         },
         {
           "name": "CUTPowerAssertion",
-          "children": []
+          "children": [],
+          "framework": "CommonUtilities"
         },
         {
           "name": "CUTPowerMonitor",
-          "children": []
+          "children": [],
+          "framework": "CommonUtilities"
         },
         {
           "name": "CUTWeakReference",
-          "children": []
+          "children": [],
+          "framework": "CommonUtilities"
         },
         {
           "name": "CUTWiFiManager",
-          "children": []
+          "children": [],
+          "framework": "CommonUtilities"
         }
       ]
     }

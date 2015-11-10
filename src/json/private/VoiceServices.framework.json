@@ -1,5 +1,5 @@
 {
-  "name": "VoiceServices.framework",
+  "name": "VoiceServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,31 +7,38 @@
       "children": [
         {
           "name": "VSSpeechConnection",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSSpeechConnectionDelegateWrapper",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSSpeechRequest",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSSpeechSynthesizer",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSTextPreProcessor",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSTextPreProcessorRule",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSVoiceAsset",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         }
       ]
     },
@@ -41,15 +48,18 @@
       "children": [
         {
           "name": "VSRecognitionRecognizeAction",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSRecognitionSpeakAction",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSRecognitionURLAction",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         }
       ]
     },
@@ -59,11 +69,13 @@
       "children": [
         {
           "name": "VSRecognitionConfirmAction",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         },
         {
           "name": "VSRecognitionDisambiguateAction",
-          "children": []
+          "children": [],
+          "framework": "VoiceServices"
         }
       ]
     }

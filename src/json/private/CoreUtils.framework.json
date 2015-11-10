@@ -1,5 +1,5 @@
 {
-  "name": "CoreUtils.framework",
+  "name": "CoreUtils",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "CAAnimationDelegateBlockHelper",
-          "children": []
+          "children": [],
+          "framework": "CoreUtils"
         }
       ]
     }

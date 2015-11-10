@@ -1,5 +1,5 @@
 {
-  "name": "OfficeImport.framework",
+  "name": "OfficeImport",
   "list": [
     {
       "name": "NSObject",
@@ -7,71 +7,88 @@
       "children": [
         {
           "name": "WXSection",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXShading",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXSpecialCharacter",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXStyle",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXStyleSheet",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXSymbol",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXTable",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXTableCell",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXTableCellProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXTableProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXTableRow",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXTableRowProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXTableStyleOverride",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXText",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXTextBox",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WXVmlClient",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -81,7 +98,8 @@
       "children": [
         {
           "name": "WXRubyRun",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -91,7 +109,8 @@
       "children": [
         {
           "name": "WXReader",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -101,7 +120,8 @@
       "children": [
         {
           "name": "WXOfficeArtClient",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -111,7 +131,8 @@
       "children": [
         {
           "name": "WXOAVState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -121,7 +142,8 @@
       "children": [
         {
           "name": "WMTop",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -131,7 +153,8 @@
       "children": [
         {
           "name": "WMTableStyle",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -141,19 +164,23 @@
       "children": [
         {
           "name": "WMSymbolMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WMTableCellMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WMTableMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WMTableRowMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -163,7 +190,8 @@
       "children": [
         {
           "name": "WMStyle",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -173,7 +201,8 @@
       "children": [
         {
           "name": "WMState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -183,11 +212,13 @@
       "children": [
         {
           "name": "WMOfficeArtMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WMPictureMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -197,7 +228,8 @@
       "children": [
         {
           "name": "WMFieldMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -207,7 +239,8 @@
       "children": [
         {
           "name": "WMEnumProperty",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -217,7 +250,8 @@
       "children": [
         {
           "name": "WMBordersProperty",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -227,7 +261,8 @@
       "children": [
         {
           "name": "WDTestIterator",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -237,11 +272,13 @@
       "children": [
         {
           "name": "WDTableCellRunIterator",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WDTableRowCellIterator",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -251,7 +288,8 @@
       "children": [
         {
           "name": "WDTable",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -261,11 +299,13 @@
       "children": [
         {
           "name": "WDSpecialCharacter",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WDSymbol",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -275,7 +315,8 @@
       "children": [
         {
           "name": "WDRubyRun",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -285,7 +326,8 @@
       "children": [
         {
           "name": "WDPicture",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -295,7 +337,8 @@
       "children": [
         {
           "name": "WDOleObject",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -305,11 +348,13 @@
       "children": [
         {
           "name": "WDEndnoteIterator",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "WDFootnoteIterator",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -319,7 +364,8 @@
       "children": [
         {
           "name": "WDDocument",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -329,7 +375,8 @@
       "children": [
         {
           "name": "WBReader",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -339,7 +386,8 @@
       "children": [
         {
           "name": "WBPicture",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -349,7 +397,8 @@
       "children": [
         {
           "name": "WBOleObject",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -359,7 +408,8 @@
       "children": [
         {
           "name": "WBOfficeArtWriterState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -369,7 +419,8 @@
       "children": [
         {
           "name": "WBOfficeArtReaderState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -379,7 +430,8 @@
       "children": [
         {
           "name": "TSUShallowCopyPair",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -389,11 +441,13 @@
       "children": [
         {
           "name": "TSUPointerKeyDictionary",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "TSURetainedPointerKeyDictionary",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -403,7 +457,8 @@
       "children": [
         {
           "name": "TSUNoCopyDictionary",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -413,7 +468,8 @@
       "children": [
         {
           "name": "TSUMutableShallowCopyPair",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -423,7 +479,8 @@
       "children": [
         {
           "name": "TSUMutableNumberFormat",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -433,7 +490,8 @@
       "children": [
         {
           "name": "TSUFileSizeFormatter",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -443,7 +501,8 @@
       "children": [
         {
           "name": "TSUDurationFormatter",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -453,7 +512,8 @@
       "children": [
         {
           "name": "TSUAssertionHandler",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -463,11 +523,13 @@
       "children": [
         {
           "name": "STStorage",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "STStream",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -477,7 +539,8 @@
       "children": [
         {
           "name": "STRootStorage",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -487,15 +550,18 @@
       "children": [
         {
           "name": "SFUFileDataRepresentation",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "SFUMemoryDataRepresentation",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "SFUZipArchiveMemoryDataRepresentation",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -505,7 +571,8 @@
       "children": [
         {
           "name": "PMMasterSlideMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -515,7 +582,8 @@
       "children": [
         {
           "name": "PDWheelDirectionOptions",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -525,7 +593,8 @@
       "children": [
         {
           "name": "PDVideoNode",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -535,7 +604,8 @@
       "children": [
         {
           "name": "PDTransition",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -545,7 +615,8 @@
       "children": [
         {
           "name": "PDSlideTarget",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -555,7 +626,8 @@
       "children": [
         {
           "name": "PDSlideNumberField",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -565,7 +637,8 @@
       "children": [
         {
           "name": "PDSlideMaster",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -575,11 +648,13 @@
       "children": [
         {
           "name": "PDSlide",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PDSlideLayout",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -589,7 +664,8 @@
       "children": [
         {
           "name": "PDSetBehavior",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -599,7 +675,8 @@
       "children": [
         {
           "name": "PDSequentialTimeNode",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -609,7 +686,8 @@
       "children": [
         {
           "name": "PDRootTimeNode",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -619,7 +697,8 @@
       "children": [
         {
           "name": "PDRevealOptions",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -629,7 +708,8 @@
       "children": [
         {
           "name": "PDPrismOptions",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -639,15 +719,18 @@
       "children": [
         {
           "name": "PDChartBuild",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PDDiagramBuild",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PDParagraphBuild",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -657,27 +740,33 @@
       "children": [
         {
           "name": "PDAnimationBackgroundTarget",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PDAnimationChartTarget",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PDAnimationDiagramTarget",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PDAnimationOleChartTarget",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PDAnimationSoundTarget",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PDAnimationTextTarget",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -687,7 +776,8 @@
       "children": [
         {
           "name": "PDAnimateMotionBehavior",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -697,11 +787,13 @@
       "children": [
         {
           "name": "PBSlide",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "PBSlideMaster",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -711,7 +803,8 @@
       "children": [
         {
           "name": "PBOfficeArtWriterClient",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -721,7 +814,8 @@
       "children": [
         {
           "name": "PBAnimationCacheState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -731,11 +825,13 @@
       "children": [
         {
           "name": "OIXMLDocument",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "OIXMLElement",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -745,7 +841,8 @@
       "children": [
         {
           "name": "OISFUZipException",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -755,7 +852,8 @@
       "children": [
         {
           "name": "OISFUTangierCryptoKey",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -765,7 +863,8 @@
       "children": [
         {
           "name": "OISFUCommonCryptoCryptor",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -775,7 +874,8 @@
       "children": [
         {
           "name": "ODIVerticalProcess2",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -785,11 +885,13 @@
       "children": [
         {
           "name": "ODIVenn1",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "ODIVenn3",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -799,7 +901,8 @@
       "children": [
         {
           "name": "ODITitlePoint",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -809,7 +912,8 @@
       "children": [
         {
           "name": "ODIGear1",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -819,11 +923,13 @@
       "children": [
         {
           "name": "ODICycle5",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "ODICycle7",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -833,7 +939,8 @@
       "children": [
         {
           "name": "ODICycle4",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -843,7 +950,8 @@
       "children": [
         {
           "name": "ODIBendingList2",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -853,7 +961,8 @@
       "children": [
         {
           "name": "ODIAccentedImageLinear",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -863,7 +972,8 @@
       "children": [
         {
           "name": "ODDWhen",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -873,7 +983,8 @@
       "children": [
         {
           "name": "ODDTransitionPoint",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -883,7 +994,8 @@
       "children": [
         {
           "name": "ODDShape",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -893,7 +1005,8 @@
       "children": [
         {
           "name": "ODDPresentationPoint",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -903,7 +1016,8 @@
       "children": [
         {
           "name": "ODDDiagram",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -913,7 +1027,8 @@
       "children": [
         {
           "name": "OCXReader",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -923,7 +1038,8 @@
       "children": [
         {
           "name": "OCPZipPackagePart",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -933,7 +1049,8 @@
       "children": [
         {
           "name": "OCPZipPackage",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -943,7 +1060,8 @@
       "children": [
         {
           "name": "OCImporter",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -953,7 +1071,8 @@
       "children": [
         {
           "name": "OCDEncryptedReader",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -963,7 +1082,8 @@
       "children": [
         {
           "name": "OCDDelayedMedia",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -973,11 +1093,13 @@
       "children": [
         {
           "name": "OAXBlipContext",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "OAXMovieContext",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -987,7 +1109,8 @@
       "children": [
         {
           "name": "OADWordArt",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -997,7 +1120,8 @@
       "children": [
         {
           "name": "OADWavAudioFile",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1007,7 +1131,8 @@
       "children": [
         {
           "name": "OADVideoFile",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1017,7 +1142,8 @@
       "children": [
         {
           "name": "OADVectorArcPathElement",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1027,7 +1153,8 @@
       "children": [
         {
           "name": "OADValueColorTransform",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1037,7 +1164,8 @@
       "children": [
         {
           "name": "OADTileTechnique",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1047,7 +1175,8 @@
       "children": [
         {
           "name": "OADThemeOverrides",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1057,11 +1186,13 @@
       "children": [
         {
           "name": "OADTextField",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "OADTextLineBreak",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1071,7 +1202,8 @@
       "children": [
         {
           "name": "OADTableProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1081,7 +1213,8 @@
       "children": [
         {
           "name": "OADSystemColor",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1091,11 +1224,13 @@
       "children": [
         {
           "name": "OADSound",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "OADSubBlip",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1105,7 +1240,8 @@
       "children": [
         {
           "name": "OADSolidFill",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1115,7 +1251,8 @@
       "children": [
         {
           "name": "OADShapeProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1125,7 +1262,8 @@
       "children": [
         {
           "name": "OADShape",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1135,7 +1273,8 @@
       "children": [
         {
           "name": "OADShadowEffect",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1145,7 +1284,8 @@
       "children": [
         {
           "name": "OADRoundLineJoin",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1155,7 +1295,8 @@
       "children": [
         {
           "name": "OADQuarterEllipseToPathElement",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1165,7 +1306,8 @@
       "children": [
         {
           "name": "OADPresetTextWarp",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1175,7 +1317,8 @@
       "children": [
         {
           "name": "OADPresetShapeGeometry",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1185,7 +1328,8 @@
       "children": [
         {
           "name": "OADPresetShadowEffect",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1195,7 +1339,8 @@
       "children": [
         {
           "name": "OADPresetPattern",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1205,7 +1350,8 @@
       "children": [
         {
           "name": "OADPresetDash",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1215,7 +1361,8 @@
       "children": [
         {
           "name": "OADPointTextSpacing",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1225,11 +1372,13 @@
       "children": [
         {
           "name": "OADPercentBulletSize",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "OADPointBulletSize",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1239,7 +1388,8 @@
       "children": [
         {
           "name": "OADPathShade",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1249,7 +1399,8 @@
       "children": [
         {
           "name": "OADParagraphProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1259,7 +1410,8 @@
       "children": [
         {
           "name": "OADNullBulletProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1269,7 +1421,8 @@
       "children": [
         {
           "name": "OADNormalTextBodyAutoFit",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1279,7 +1432,8 @@
       "children": [
         {
           "name": "OADMasterBackground",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1289,7 +1443,8 @@
       "children": [
         {
           "name": "OADLuminanceEffect",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1299,7 +1454,8 @@
       "children": [
         {
           "name": "OADLinkedMediaFile",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1309,11 +1465,13 @@
       "children": [
         {
           "name": "OADConnectorProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "OADLineProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1323,11 +1481,13 @@
       "children": [
         {
           "name": "OADBulletFontFollowText",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "OADBulletFontSpecification",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1337,11 +1497,13 @@
       "children": [
         {
           "name": "OADBulletColorFollowText",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "OADBulletColorSpecification",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1351,7 +1513,8 @@
       "children": [
         {
           "name": "OABShapeManager",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1361,7 +1524,8 @@
       "children": [
         {
           "name": "OABShapeBaseManager",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1376,7 +1540,8 @@
       "children": [
         {
           "name": "MFPhoneSolidBrush",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1386,7 +1551,8 @@
       "children": [
         {
           "name": "MFPhoneRegion",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1396,7 +1562,8 @@
       "children": [
         {
           "name": "MFPhonePen",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1406,7 +1573,8 @@
       "children": [
         {
           "name": "MFPhonePath",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1416,7 +1584,8 @@
       "children": [
         {
           "name": "MFPhoneFont",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1426,7 +1595,8 @@
       "children": [
         {
           "name": "MFPhoneBrush",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1436,7 +1606,8 @@
       "children": [
         {
           "name": "MFPhoneBitmap",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1446,7 +1617,8 @@
       "children": [
         {
           "name": "MFPTintEffect",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1456,7 +1628,8 @@
       "children": [
         {
           "name": "MFPTextureBrush",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1466,7 +1639,8 @@
       "children": [
         {
           "name": "MFPSolidBrush",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1476,7 +1650,8 @@
       "children": [
         {
           "name": "MFPPathGradientBrush",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1486,11 +1661,13 @@
       "children": [
         {
           "name": "MFPBitmapImage",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "MFPMetafileImage",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1500,7 +1677,8 @@
       "children": [
         {
           "name": "EXOfficeArtState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1510,7 +1688,8 @@
       "children": [
         {
           "name": "ESDRoot",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1520,11 +1699,13 @@
       "children": [
         {
           "name": "ESDDibFileBlipContext",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "ESDMetafileBlipContext",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1534,7 +1715,8 @@
       "children": [
         {
           "name": "EPTableStyleFlattener",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1544,23 +1726,28 @@
       "children": [
         {
           "name": "EPFormulaCleaner",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "EPFormulaCollectionCleaner",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "EPMergedRegionScanner",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "EPNameFormulaCleaner",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "EPStyleFlattener",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1570,7 +1757,8 @@
       "children": [
         {
           "name": "EPBorder",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1580,11 +1768,13 @@
       "children": [
         {
           "name": "EMChartsheetMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "EMWorksheetMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1594,11 +1784,13 @@
       "children": [
         {
           "name": "EDUnsupportedSheet",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "EDWorksheet",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1608,7 +1800,8 @@
       "children": [
         {
           "name": "EDTwoCellAnchor",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1618,11 +1811,13 @@
       "children": [
         {
           "name": "EDStylesCollection",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "EDTableStylesCollection",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1632,7 +1827,8 @@
       "children": [
         {
           "name": "EDSortedCollection",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1642,7 +1838,8 @@
       "children": [
         {
           "name": "EDSheetReference",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1652,7 +1849,8 @@
       "children": [
         {
           "name": "EDSharedFormula",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1662,7 +1860,8 @@
       "children": [
         {
           "name": "EDRunsCollection",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1672,7 +1871,8 @@
       "children": [
         {
           "name": "EDPatternFill",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1682,7 +1882,8 @@
       "children": [
         {
           "name": "EDNamedStyle",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1692,7 +1893,8 @@
       "children": [
         {
           "name": "EDArrayedFormula",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1702,7 +1904,8 @@
       "children": [
         {
           "name": "ECPointerNilKeyDictionary",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1712,7 +1915,8 @@
       "children": [
         {
           "name": "EBReaderState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1722,7 +1926,8 @@
       "children": [
         {
           "name": "CXUnqualifiedNamespace",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1732,11 +1937,13 @@
       "children": [
         {
           "name": "CPExportTracing",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CPImportTracing",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1746,31 +1953,38 @@
       "children": [
         {
           "name": "CPDumpArray",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CPDumpBlob",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CPDumpContainer",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CPDumpEmfPlusContainer",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CPDumpNumeric",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CPDumpStruct",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CPDumpUnion",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1780,7 +1994,8 @@
       "children": [
         {
           "name": "CMProgressiveArchiveManager",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1790,7 +2005,8 @@
       "children": [
         {
           "name": "CMLineShapeBuilder",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1800,7 +2016,8 @@
       "children": [
         {
           "name": "CMFreeFormShapeBuilder",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1810,7 +2027,8 @@
       "children": [
         {
           "name": "CMDrawableStyle",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1820,11 +2038,13 @@
       "children": [
         {
           "name": "CMDiagramShapeMatrixMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramShapeVennMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1834,7 +2054,8 @@
       "children": [
         {
           "name": "CMDiagramShapeMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1844,51 +2065,63 @@
       "children": [
         {
           "name": "CMDiagramPointArrowMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointChevronMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointContinuousArrowMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointEllipseMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointListBaseMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointListItemL1Mapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointPyramidLayerMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointRoundedRectMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointSegmentedPieMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointSegmentedPyramidLayerMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointTextMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CMDiagramPointTransitionMapper",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1898,7 +2131,8 @@
       "children": [
         {
           "name": "CHXAutoStyling",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1908,7 +2142,8 @@
       "children": [
         {
           "name": "CHDValueAxis",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1918,7 +2153,8 @@
       "children": [
         {
           "name": "CHDUnsupportedType",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1928,7 +2164,8 @@
       "children": [
         {
           "name": "CHDUnsupportedSeries",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1938,7 +2175,8 @@
       "children": [
         {
           "name": "CHDSurfaceType",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1948,7 +2186,8 @@
       "children": [
         {
           "name": "CHDScatterSeries",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1958,7 +2197,8 @@
       "children": [
         {
           "name": "CHDRelativeSizeAnchor",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1968,7 +2208,8 @@
       "children": [
         {
           "name": "CHDPieDataValueProperties",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1978,7 +2219,8 @@
       "children": [
         {
           "name": "CHDPie3DType",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1988,7 +2230,8 @@
       "children": [
         {
           "name": "CHDLineType",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -1998,11 +2241,13 @@
       "children": [
         {
           "name": "CHDLine2DType",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         },
         {
           "name": "CHDLine3DType",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -2012,7 +2257,8 @@
       "children": [
         {
           "name": "CHDBar3DType",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -2022,7 +2268,8 @@
       "children": [
         {
           "name": "CHDArea3DType",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     },
@@ -2032,7 +2279,8 @@
       "children": [
         {
           "name": "CHBReaderState",
-          "children": []
+          "children": [],
+          "framework": "OfficeImport"
         }
       ]
     }

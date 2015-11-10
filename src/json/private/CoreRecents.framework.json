@@ -1,5 +1,5 @@
 {
-  "name": "CoreRecents.framework",
+  "name": "CoreRecents",
   "list": [
     {
       "name": "NSObject",
@@ -7,23 +7,28 @@
       "children": [
         {
           "name": "CRRecentContact",
-          "children": []
+          "children": [],
+          "framework": "CoreRecents"
         },
         {
           "name": "CRRecentContactsLibrary",
-          "children": []
+          "children": [],
+          "framework": "CoreRecents"
         },
         {
           "name": "CRXPCReplyAnalyzer",
-          "children": []
+          "children": [],
+          "framework": "CoreRecents"
         },
         {
           "name": "CRXPCServiceAdapter",
-          "children": []
+          "children": [],
+          "framework": "CoreRecents"
         },
         {
           "name": "CRXPCServiceMethod",
-          "children": []
+          "children": [],
+          "framework": "CoreRecents"
         }
       ]
     }

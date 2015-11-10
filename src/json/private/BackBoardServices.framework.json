@@ -1,5 +1,5 @@
 {
-  "name": "BackBoardServices.framework",
+  "name": "BackBoardServices",
   "list": [
     {
       "name": "NSObject",
@@ -7,43 +7,53 @@
       "children": [
         {
           "name": "BKSSystemServiceUtility",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSTimer",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSWatchdogServerWrapper",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSWorkspace",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSWorkspaceActivationResponse",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSWorkspaceActivationToken",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSWorkspaceActivationTokenFactory",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSWorkspaceApplicationInfo",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSXPCMessage",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSXPCReply",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         }
       ]
     },
@@ -53,11 +63,13 @@
       "children": [
         {
           "name": "BKSApplicationDataStoreRepositoryClient",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         },
         {
           "name": "BKSSystemServiceClient",
-          "children": []
+          "children": [],
+          "framework": "BackBoardServices"
         }
       ]
     }

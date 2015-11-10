@@ -7,35 +7,43 @@
       "children": [
         {
           "name": "JSContext",
-          "children": []
+          "children": [],
+          "framework": "JavaScriptCore.framework"
         },
         {
           "name": "JSManagedValue",
-          "children": []
+          "children": [],
+          "framework": "JavaScriptCore.framework"
         },
         {
           "name": "JSObjCClassInfo",
-          "children": []
+          "children": [],
+          "framework": "JavaScriptCore.framework"
         },
         {
           "name": "JSVMWrapperCache",
-          "children": []
+          "children": [],
+          "framework": "JavaScriptCore.framework"
         },
         {
           "name": "JSValue",
-          "children": []
+          "children": [],
+          "framework": "JavaScriptCore.framework"
         },
         {
           "name": "JSVirtualMachine",
-          "children": []
+          "children": [],
+          "framework": "JavaScriptCore.framework"
         },
         {
           "name": "JSWTFMainThreadCaller",
-          "children": []
+          "children": [],
+          "framework": "JavaScriptCore.framework"
         },
         {
           "name": "JSWrapperMap",
-          "children": []
+          "children": [],
+          "framework": "JavaScriptCore.framework"
         }
       ]
     }

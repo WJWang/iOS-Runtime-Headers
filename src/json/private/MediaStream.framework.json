@@ -1,5 +1,5 @@
 {
-  "name": "MediaStream.framework",
+  "name": "MediaStream",
   "list": [
     {
       "name": "NSObject",
@@ -7,55 +7,68 @@
       "children": [
         {
           "name": "MSAMNotificationInfo",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSASConnection",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSASPlatformImplementation",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSAlertManager",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSAuthenticationManager",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSBatteryPowerMonitor",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSClientSidePauseContext",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSConnection",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSMSPlatform",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSPBTimerContext",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSPauseManager",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSPowerAssertionManager",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         },
         {
           "name": "MSPowerBudget",
-          "children": []
+          "children": [],
+          "framework": "MediaStream"
         }
       ]
     }

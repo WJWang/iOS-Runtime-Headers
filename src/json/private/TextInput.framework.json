@@ -1,5 +1,5 @@
 {
-  "name": "TextInput.framework",
+  "name": "TextInput",
   "list": [
     {
       "name": "TIKeyboardCandidateSingle",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "TIZephyrCandidate",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -17,23 +18,28 @@
       "children": [
         {
           "name": "TIPreferencesController",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIUserDictionaryEntryValue",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIUserDictionaryTransaction",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIUserDictionaryWord",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIWordTokenizer",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -43,7 +49,8 @@
       "children": [
         {
           "name": "TIMutableCharacterSetDescription",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -53,7 +60,8 @@
       "children": [
         {
           "name": "TIMecabraCandidateTruncated",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -63,7 +71,8 @@
       "children": [
         {
           "name": "TIMecabraCandidate",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -73,63 +82,78 @@
       "children": [
         {
           "name": "TIKeyboardOperationAcceptCandidate",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationClearShiftStatus",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationDeleteBackward",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationDeleteForward",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationHWRDeleteStrokes",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationInsertText",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationInsertTextAfterSelection",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationOverrideLayoutKey",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationSetAutocorrection",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationSetCandidates",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationSetInputManagerState",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationSetLayoutTag",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationSetMarkedText",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationSetTypologyLog",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardOperationUnmarkText",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -139,7 +163,8 @@
       "children": [
         {
           "name": "TIKeyboardOperation",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -149,35 +174,43 @@
       "children": [
         {
           "name": "TIKeyboardBehaviors_Autocorrect",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardBehaviors_Japanese",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardBehaviors_Pinyin",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardBehaviors_ShapeBased",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardBehaviors_Simple",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardBehaviors_Thai",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardBehaviors_WaitingForCandidates",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         },
         {
           "name": "TIKeyboardBehaviors_Zhuyin",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -187,7 +220,8 @@
       "children": [
         {
           "name": "TIKeyEventMapWubi",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -197,7 +231,8 @@
       "children": [
         {
           "name": "TIKeyEventMapTraditionalZhuyin",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     },
@@ -207,7 +242,8 @@
       "children": [
         {
           "name": "TIKeyEventMapChinese",
-          "children": []
+          "children": [],
+          "framework": "TextInput"
         }
       ]
     }

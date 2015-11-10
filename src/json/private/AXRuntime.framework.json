@@ -1,5 +1,5 @@
 {
-  "name": "AXRuntime.framework",
+  "name": "AXRuntime",
   "list": [
     {
       "name": "AXElementGrouper",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "AXVisualElementGrouper",
-          "children": []
+          "children": [],
+          "framework": "AXRuntime"
         }
       ]
     },
@@ -17,19 +18,23 @@
       "children": [
         {
           "name": "AXElementGroupPruner",
-          "children": []
+          "children": [],
+          "framework": "AXRuntime"
         },
         {
           "name": "AXElementGrouper",
-          "children": []
+          "children": [],
+          "framework": "AXRuntime"
         },
         {
           "name": "AXObserverElementPair",
-          "children": []
+          "children": [],
+          "framework": "AXRuntime"
         },
         {
           "name": "AXUIElement",
-          "children": []
+          "children": [],
+          "framework": "AXRuntime"
         }
       ]
     },
@@ -39,7 +44,8 @@
       "children": [
         {
           "name": "AXElementGroup",
-          "children": []
+          "children": [],
+          "framework": "AXRuntime"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "AXAttributedString",
-          "children": []
+          "children": [],
+          "framework": "AXRuntime"
         }
       ]
     }

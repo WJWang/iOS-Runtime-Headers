@@ -1,5 +1,5 @@
 {
-  "name": "AccessibilityUIService.framework",
+  "name": "AccessibilityUIService",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "AXUIServiceContext",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUIService"
         },
         {
           "name": "AXUIServiceEntitlementChecker",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUIService"
         },
         {
           "name": "AXUIServiceManager",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUIService"
         },
         {
           "name": "AXUIUtilities",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUIService"
         }
       ]
     },
@@ -29,7 +33,8 @@
       "children": [
         {
           "name": "AXUIRootViewController",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUIService"
         }
       ]
     },
@@ -39,7 +44,8 @@
       "children": [
         {
           "name": "AXUIPassiveWindow",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUIService"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "AXUIAlert",
-          "children": []
+          "children": [],
+          "framework": "AccessibilityUIService"
         }
       ]
     }

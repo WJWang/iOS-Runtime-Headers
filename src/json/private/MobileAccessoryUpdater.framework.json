@@ -1,5 +1,5 @@
 {
-  "name": "MobileAccessoryUpdater.framework",
+  "name": "MobileAccessoryUpdater",
   "list": [
     {
       "name": "NSObject",
@@ -7,19 +7,23 @@
       "children": [
         {
           "name": "FudInternalConnection",
-          "children": []
+          "children": [],
+          "framework": "MobileAccessoryUpdater"
         },
         {
           "name": "FudProgressWeights",
-          "children": []
+          "children": [],
+          "framework": "MobileAccessoryUpdater"
         },
         {
           "name": "FudXPCConnection",
-          "children": []
+          "children": [],
+          "framework": "MobileAccessoryUpdater"
         },
         {
           "name": "MobileAccessoryUpdater",
-          "children": []
+          "children": [],
+          "framework": "MobileAccessoryUpdater"
         }
       ]
     }

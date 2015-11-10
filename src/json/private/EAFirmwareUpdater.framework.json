@@ -1,5 +1,5 @@
 {
-  "name": "EAFirmwareUpdater.framework",
+  "name": "EAFirmwareUpdater",
   "list": [
     {
       "name": "NSObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "FirmwareBundle",
-          "children": []
+          "children": [],
+          "framework": "EAFirmwareUpdater"
         },
         {
           "name": "iAUPServer",
-          "children": []
+          "children": [],
+          "framework": "EAFirmwareUpdater"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "EAFirmwareUpdater",
-          "children": []
+          "children": [],
+          "framework": "EAFirmwareUpdater"
         }
       ]
     }

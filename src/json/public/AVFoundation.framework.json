@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "SpeexEndpointer",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "VoiceVerificationEndpointer",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -21,15 +23,18 @@
       "children": [
         {
           "name": "CMTimeAsValue",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "CMTimeMappingAsValue",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "CMTimeRangeAsValue",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -39,7 +44,8 @@
       "children": [
         {
           "name": "AVWAVEOutputSettingsValidator",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "AVVideoOutputSettings",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -59,7 +66,8 @@
       "children": [
         {
           "name": "AVUnreachableAssetInspectorLoader",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -69,7 +77,8 @@
       "children": [
         {
           "name": "AVURLAsset",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -79,7 +88,8 @@
       "children": [
         {
           "name": "AVTrackReaderInspector",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -89,7 +99,8 @@
       "children": [
         {
           "name": "AVTrackGroup",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -99,11 +110,13 @@
       "children": [
         {
           "name": "AVSubtitleLayer",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVSynchronizedLayer",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -113,7 +126,8 @@
       "children": [
         {
           "name": "AVStreamingResourceInspector",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "AVRunLoopCondition",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -133,7 +148,8 @@
       "children": [
         {
           "name": "AVRetainReleaseWeakReference",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -143,7 +159,8 @@
       "children": [
         {
           "name": "AVQueuePlayer",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -153,11 +170,13 @@
       "children": [
         {
           "name": "AVPlayerOccasionalCaller",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVPlayerPeriodicCaller",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -167,7 +186,8 @@
       "children": [
         {
           "name": "AVPlayerLayerSubtitleLayer",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -177,11 +197,13 @@
       "children": [
         {
           "name": "AVPlayerItemLegibleOutput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVPlayerItemVideoOutput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -191,7 +213,8 @@
       "children": [
         {
           "name": "AVPlaybackItemInspectorLoader",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -201,7 +224,8 @@
       "children": [
         {
           "name": "AVPixelBufferAttributesVideoOutputSettings",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -211,7 +235,8 @@
       "children": [
         {
           "name": "AVMutableVideoCompositionLayerInstruction",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -221,7 +246,8 @@
       "children": [
         {
           "name": "AVMutableVideoCompositionInstruction",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -231,7 +257,8 @@
       "children": [
         {
           "name": "AVMutableVideoComposition",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -241,7 +268,8 @@
       "children": [
         {
           "name": "AVMutableTimedMetadataGroup",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -251,7 +279,8 @@
       "children": [
         {
           "name": "AVMutableMetadataItem",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -261,7 +290,8 @@
       "children": [
         {
           "name": "AVMutableCompositionTrack",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -271,7 +301,8 @@
       "children": [
         {
           "name": "AVMutableComposition",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -281,7 +312,8 @@
       "children": [
         {
           "name": "AVMutableAudioMixInputParameters",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -291,7 +323,8 @@
       "children": [
         {
           "name": "AVMutableAudioMix",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -301,7 +334,8 @@
       "children": [
         {
           "name": "AVMetadataMachineReadableCodeObject",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -311,7 +345,8 @@
       "children": [
         {
           "name": "AVMetadataItemFilterForSharing",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -321,7 +356,8 @@
       "children": [
         {
           "name": "AVMetadataEnumerator",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -331,7 +367,8 @@
       "children": [
         {
           "name": "AVMediaSelectionTrackOption",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -341,11 +378,13 @@
       "children": [
         {
           "name": "AVMediaSelectionKeyValueGroup",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVMediaSelectionTrackGroup",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -355,15 +394,18 @@
       "children": [
         {
           "name": "AVFigAssetWriterAudioTrack",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVFigAssetWriterGenericTrack",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVFigAssetWriterVideoTrack",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -373,7 +415,8 @@
       "children": [
         {
           "name": "AVCompositionTrackSegment",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -383,7 +426,8 @@
       "children": [
         {
           "name": "AVCompositionTrackReaderInspector",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -393,7 +437,8 @@
       "children": [
         {
           "name": "AVCompositionTrack",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -403,11 +448,13 @@
       "children": [
         {
           "name": "AVCaptureStillImageOutput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVCaptureVideoDataOutput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -417,7 +464,8 @@
       "children": [
         {
           "name": "AVCaptureMovieFileOutput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -427,11 +475,13 @@
       "children": [
         {
           "name": "AVCaptureFigAudioDevice",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVCaptureFigVideoDevice",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -441,7 +491,8 @@
       "children": [
         {
           "name": "AVCaptureDeviceInput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -451,15 +502,18 @@
       "children": [
         {
           "name": "AVAssetWriterTerminalHelper",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVAssetWriterUnknownHelper",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVAssetWriterWritingHelper",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -469,15 +523,18 @@
       "children": [
         {
           "name": "AVAssetWriterInputTerminalHelper",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVAssetWriterInputUnknownHelper",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVAssetWriterInputWritingHelper",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -487,11 +544,13 @@
       "children": [
         {
           "name": "AVAssetWriterClientInitiatedTerminalHelper",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVAssetWriterFailedTerminalHelper",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -501,7 +560,8 @@
       "children": [
         {
           "name": "AVAssetTrackInspector",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -511,15 +571,18 @@
       "children": [
         {
           "name": "AVAssetReaderAudioMixOutput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVAssetReaderTrackOutput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         },
         {
           "name": "AVAssetReaderVideoCompositionOutput",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     },
@@ -529,7 +592,8 @@
       "children": [
         {
           "name": "AVAVAudioSettingsAudioOutputSettings",
-          "children": []
+          "children": [],
+          "framework": "AVFoundation.framework"
         }
       ]
     }

@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "_MFTableCellAttributesCache",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "_MFValueTransformer",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -21,11 +23,13 @@
       "children": [
         {
           "name": "_MFSecureMIMEPersonHeaderBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "_MFSecureMIMEPersonHeaderLabel",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -35,11 +39,13 @@
       "children": [
         {
           "name": "_MFSearchAddResultsOperation",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "_MFSearchProcessResultsOperation",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -49,7 +55,8 @@
       "children": [
         {
           "name": "_MFPlaceholderComposeRecipient",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -59,11 +66,13 @@
       "children": [
         {
           "name": "_MFParsedHTMLTag",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "_MFParsedHTMLText",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -73,7 +82,8 @@
       "children": [
         {
           "name": "_MFModernAddressAtomEffectButton",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -83,11 +93,13 @@
       "children": [
         {
           "name": "_MFMessageBodyDOMElement",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "_MFMessageBodyHTMLElement",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -97,7 +109,8 @@
       "children": [
         {
           "name": "_MFMailRecipientTextField",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -107,7 +120,8 @@
       "children": [
         {
           "name": "_MFMailComposePlaceholderView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -117,7 +131,8 @@
       "children": [
         {
           "name": "_MFFontToFontDescriptorTransformer",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -127,7 +142,8 @@
       "children": [
         {
           "name": "_MFAttachmentScalingDataConsumer",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -137,7 +153,8 @@
       "children": [
         {
           "name": "MFSearchShadowView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -147,7 +164,8 @@
       "children": [
         {
           "name": "MFSearchResultsViewController",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -157,7 +175,8 @@
       "children": [
         {
           "name": "MFSearchInAccountWithIDOperation",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -167,7 +186,8 @@
       "children": [
         {
           "name": "MFRecipientTableViewCell",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -177,7 +197,8 @@
       "children": [
         {
           "name": "MFRecentComposeRecipientGroup",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -187,7 +208,8 @@
       "children": [
         {
           "name": "MFPopoverController",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -197,7 +219,8 @@
       "children": [
         {
           "name": "MFModernComposeRecipientAtom",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -207,7 +230,8 @@
       "children": [
         {
           "name": "MFModernAtomView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -217,7 +241,8 @@
       "children": [
         {
           "name": "MFModernAddressAtom",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -227,7 +252,8 @@
       "children": [
         {
           "name": "MFMessageWebProtocol",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -237,7 +263,8 @@
       "children": [
         {
           "name": "MFMessageWebLayer",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -247,7 +274,8 @@
       "children": [
         {
           "name": "MFMessageComposeViewController",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -257,11 +285,13 @@
       "children": [
         {
           "name": "MFMessageBodyParser",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "MFMessageBodySubparser",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -271,7 +301,8 @@
       "children": [
         {
           "name": "MFMessageBodyOriginalTextSubparser",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -281,11 +312,13 @@
       "children": [
         {
           "name": "MFMessageBodyDOMParser",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "MFMessageBodyHTMLParser",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -295,7 +328,8 @@
       "children": [
         {
           "name": "MFMailInlineTextAttachment",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -305,7 +339,8 @@
       "children": [
         {
           "name": "MFMailComposeView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -315,7 +350,8 @@
       "children": [
         {
           "name": "MFMailComposeRemoteViewController",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -325,7 +361,8 @@
       "children": [
         {
           "name": "MFMailComposeRecipientView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -335,7 +372,8 @@
       "children": [
         {
           "name": "MFHeaderLabelView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -345,7 +383,8 @@
       "children": [
         {
           "name": "MFGroupDetailViewController",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -355,7 +394,8 @@
       "children": [
         {
           "name": "MFGobblerGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -365,7 +405,8 @@
       "children": [
         {
           "name": "MFGenericAttachmentStore",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -375,7 +416,8 @@
       "children": [
         {
           "name": "MFFromAddressTableView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -385,7 +427,8 @@
       "children": [
         {
           "name": "MFComposeTextField",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -395,7 +438,8 @@
       "children": [
         {
           "name": "MFComposeTextContentView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -405,23 +449,28 @@
       "children": [
         {
           "name": "MFComposeFromView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "MFComposeImageSizeView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "MFComposeMultiView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "MFComposeRecipientView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         },
         {
           "name": "MFComposeSubjectView",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -431,7 +480,8 @@
       "children": [
         {
           "name": "MFComposeBodyField",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     },
@@ -441,7 +491,8 @@
       "children": [
         {
           "name": "MFAtomIcon",
-          "children": []
+          "children": [],
+          "framework": "MessageUI.framework"
         }
       ]
     }

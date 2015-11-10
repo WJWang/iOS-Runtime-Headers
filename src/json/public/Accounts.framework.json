@@ -7,27 +7,33 @@
       "children": [
         {
           "name": "ACDataclassAction",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACDispatchCerberus",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACNotificationRebroadcaster",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACOAuthSigner",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACSystemConfigManager",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACXPCProxyHelper",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         }
       ]
     },
@@ -37,27 +43,33 @@
       "children": [
         {
           "name": "ACDManagedAccessOptionsKey",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACDManagedAccount",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACDManagedAccountProperty",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACDManagedAccountType",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACDManagedAuthorization",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         },
         {
           "name": "ACDManagedDataclass",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         }
       ]
     },
@@ -67,7 +79,8 @@
       "children": [
         {
           "name": "ACAccountMigrationLock",
-          "children": []
+          "children": [],
+          "framework": "Accounts.framework"
         }
       ]
     }

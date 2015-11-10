@@ -1,5 +1,5 @@
 {
-  "name": "WebCore.framework",
+  "name": "WebCore",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WebUndefined",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "WebTiledScrollingIndicatorLayer",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "WebTiledLayer",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "WebGLLayer",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "WebCustomNSURLError",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "WebCoreSharedBufferData",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "WebCascadeList",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "WebAccessibilityObjectWrapper",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -87,11 +95,13 @@
       "children": [
         {
           "name": "WAKView",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "WAKWindow",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -101,11 +111,13 @@
       "children": [
         {
           "name": "WAKClipView",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "WAKScrollView",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -115,11 +127,13 @@
       "children": [
         {
           "name": "DOMXPathExpression",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMXPathResult",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -129,7 +143,8 @@
       "children": [
         {
           "name": "DOMWheelEvent",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -139,7 +154,8 @@
       "children": [
         {
           "name": "DOMWebKitTransitionEvent",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -149,7 +165,8 @@
       "children": [
         {
           "name": "DOMWebKitCSSTransformValue",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -159,15 +176,18 @@
       "children": [
         {
           "name": "DOMWebKitCSSKeyframeRule",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMWebKitCSSKeyframesRule",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMWebKitCSSRegionRule",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -177,11 +197,13 @@
       "children": [
         {
           "name": "DOMTextEvent",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMTouchEvent",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -191,7 +213,8 @@
       "children": [
         {
           "name": "DOMText",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -201,7 +224,8 @@
       "children": [
         {
           "name": "DOMProcessingInstruction",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -211,7 +235,8 @@
       "children": [
         {
           "name": "DOMObject",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -221,179 +246,223 @@
       "children": [
         {
           "name": "DOMHTMLEmbedElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLFieldSetElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLFontElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLFormElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLFrameElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLFrameSetElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLHRElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLHeadElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLHeadingElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLHtmlElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLIFrameElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLImageElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLInputElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLKeygenElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLLIElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLLabelElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLLegendElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLLinkElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLMapElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLMarqueeElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLMenuElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLMetaElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLModElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLOListElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLObjectElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLOptGroupElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLOptionElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLParagraphElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLParamElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLPreElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLProgressElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLQuoteElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLScriptElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLSelectElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLStyleElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLTableCaptionElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLTableCellElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLTableColElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLTableElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLTableRowElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLTableSectionElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLTextAreaElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLTitleElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         },
         {
           "name": "DOMHTMLUListElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -403,7 +472,8 @@
       "children": [
         {
           "name": "DOMHTMLElement",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -413,7 +483,8 @@
       "children": [
         {
           "name": "DOMHTMLDocument",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -423,7 +494,8 @@
       "children": [
         {
           "name": "DOMFile",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -433,7 +505,8 @@
       "children": [
         {
           "name": "DOMCSSValueList",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -443,7 +516,8 @@
       "children": [
         {
           "name": "DOMCSSStyleSheet",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     },
@@ -453,7 +527,8 @@
       "children": [
         {
           "name": "DOMCDATASection",
-          "children": []
+          "children": [],
+          "framework": "WebCore"
         }
       ]
     }

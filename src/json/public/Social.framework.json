@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "_SLSheetMaskLayer",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "WECoreSig1Signer",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "SLYoukuService",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "SLWeiboUserRecord",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "SLWeiboComposeViewController",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "SLWeiboBeveledImageView",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -67,11 +73,13 @@
       "children": [
         {
           "name": "SLURLAttachment",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         },
         {
           "name": "SLVideoAttachment",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -81,7 +89,8 @@
       "children": [
         {
           "name": "SLTwitterSearchBar",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -91,7 +100,8 @@
       "children": [
         {
           "name": "SLTwitterExpandedHitTestImageView",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -101,7 +111,8 @@
       "children": [
         {
           "name": "SLTwitterExpandedHitTestButton",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -111,11 +122,13 @@
       "children": [
         {
           "name": "SLSheetURLPreviewView",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         },
         {
           "name": "SLSheetVideoPreviewView",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -125,11 +138,13 @@
       "children": [
         {
           "name": "SLSheetPlaceViewController",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         },
         {
           "name": "SLSheetRootViewController",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -139,7 +154,8 @@
       "children": [
         {
           "name": "SLSheetNavigationController",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -149,11 +165,13 @@
       "children": [
         {
           "name": "SLRequestBodyInputStream",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         },
         {
           "name": "SLRequestMultiPartInputStream",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -163,7 +181,8 @@
       "children": [
         {
           "name": "SLRemoteComposeViewController",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -173,7 +192,8 @@
       "children": [
         {
           "name": "SLMicroBlogComposeViewController",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -183,7 +203,8 @@
       "children": [
         {
           "name": "SLMicroBlogAccountsTableViewController",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -193,7 +214,8 @@
       "children": [
         {
           "name": "SLManagedObject",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -203,11 +225,13 @@
       "children": [
         {
           "name": "SLFacebookRequest",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         },
         {
           "name": "SLInternalTencentWeiboRequest",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -217,11 +241,13 @@
       "children": [
         {
           "name": "SLFacebookRegistrationRequest",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         },
         {
           "name": "SLFacebookRenewTokenRequest",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -231,7 +257,8 @@
       "children": [
         {
           "name": "SLFacebookPlace",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -241,7 +268,8 @@
       "children": [
         {
           "name": "SLFacebookLoginInfoCell",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     },
@@ -251,7 +279,8 @@
       "children": [
         {
           "name": "SLFacebookBatchResponse",
-          "children": []
+          "children": [],
+          "framework": "Social.framework"
         }
       ]
     }

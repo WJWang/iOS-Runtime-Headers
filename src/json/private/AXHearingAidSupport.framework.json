@@ -1,5 +1,5 @@
 {
-  "name": "AXHearingAidSupport.framework",
+  "name": "AXHearingAidSupport",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "AXRemoteHearingAidDevice",
-          "children": []
+          "children": [],
+          "framework": "AXHearingAidSupport"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "AXHearingSpringBoardServer",
-          "children": []
+          "children": [],
+          "framework": "AXHearingAidSupport"
         }
       ]
     },
@@ -27,15 +29,18 @@
       "children": [
         {
           "name": "AXHearingLiveListenMeterCell",
-          "children": []
+          "children": [],
+          "framework": "AXHearingAidSupport"
         },
         {
           "name": "AXHearingProgramCell",
-          "children": []
+          "children": [],
+          "framework": "AXHearingAidSupport"
         },
         {
           "name": "AXHearingSliderValueCell",
-          "children": []
+          "children": [],
+          "framework": "AXHearingAidSupport"
         }
       ]
     },
@@ -45,7 +50,8 @@
       "children": [
         {
           "name": "AXHearingDetailViewController",
-          "children": []
+          "children": [],
+          "framework": "AXHearingAidSupport"
         }
       ]
     },
@@ -55,7 +61,8 @@
       "children": [
         {
           "name": "AXHearingAidFakeDevice",
-          "children": []
+          "children": [],
+          "framework": "AXHearingAidSupport"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "AXGradientLabel",
-          "children": []
+          "children": [],
+          "framework": "AXHearingAidSupport"
         }
       ]
     }

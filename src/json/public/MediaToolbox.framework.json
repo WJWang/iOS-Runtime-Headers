@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "FigVideoLayerInternal",
-          "children": []
+          "children": [],
+          "framework": "MediaToolbox.framework"
         },
         {
           "name": "FigVirtualDisplayInhibitor",
-          "children": []
+          "children": [],
+          "framework": "MediaToolbox.framework"
         },
         {
           "name": "fmpcDummyThreadInvoker",
-          "children": []
+          "children": [],
+          "framework": "MediaToolbox.framework"
         }
       ]
     },
@@ -25,23 +28,28 @@
       "children": [
         {
           "name": "FigCaptionLayer",
-          "children": []
+          "children": [],
+          "framework": "MediaToolbox.framework"
         },
         {
           "name": "FigCaptionRowLayer",
-          "children": []
+          "children": [],
+          "framework": "MediaToolbox.framework"
         },
         {
           "name": "FigHUDGraphLayer",
-          "children": []
+          "children": [],
+          "framework": "MediaToolbox.framework"
         },
         {
           "name": "FigHUDLayer",
-          "children": []
+          "children": [],
+          "framework": "MediaToolbox.framework"
         },
         {
           "name": "FigVideoLayer",
-          "children": []
+          "children": [],
+          "framework": "MediaToolbox.framework"
         }
       ]
     }

@@ -7,15 +7,18 @@
       "children": [
         {
           "name": "EKWatchdog",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "_EKAlarmEngine",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "_EKNotificationMonitor",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -25,15 +28,18 @@
       "children": [
         {
           "name": "EKUnacknowledgedEventsPredicate",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKUnalertedEventsPredicate",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKUpcomingEventsPredicate",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -43,11 +49,13 @@
       "children": [
         {
           "name": "EKSource",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKStructuredLocation",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -57,7 +65,8 @@
       "children": [
         {
           "name": "EKSideTableContext",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -67,7 +76,8 @@
       "children": [
         {
           "name": "EKSideAlarm",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -77,11 +87,13 @@
       "children": [
         {
           "name": "EKReminderPredicate",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKScheduledReminderPredicate",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -91,7 +103,8 @@
       "children": [
         {
           "name": "EKReminder",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -101,15 +114,18 @@
       "children": [
         {
           "name": "EKPersistentResourceChange",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKPersistentSharee",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKPersistentSource",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -119,7 +135,8 @@
       "children": [
         {
           "name": "EKPersistentReminder",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -129,11 +146,13 @@
       "children": [
         {
           "name": "EKPersistentAttendee",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKPersistentOrganizer",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -143,7 +162,8 @@
       "children": [
         {
           "name": "EKOrganizer",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -153,11 +173,13 @@
       "children": [
         {
           "name": "EKObjectToManyRelation",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKObjectToOneRelation",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -167,7 +189,8 @@
       "children": [
         {
           "name": "EKMutableCalendarDate",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     },
@@ -177,19 +200,23 @@
       "children": [
         {
           "name": "EKCalendarEventInvitationNotification",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKCalendarInviteReplyNotification",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKCalendarResourceChangeNotification",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         },
         {
           "name": "EKCalendarSharedCalendarNotification",
-          "children": []
+          "children": [],
+          "framework": "EventKit.framework"
         }
       ]
     }

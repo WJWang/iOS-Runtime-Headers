@@ -1,5 +1,5 @@
 {
-  "name": "DataAccess.framework",
+  "name": "DataAccess",
   "list": [
     {
       "name": "NSObject",
@@ -7,27 +7,33 @@
       "children": [
         {
           "name": "DATaskManager",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DATrafficLogger",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DAUserNotificationInfo",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DAUserNotificationUtilities",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DAWaiterWrapper",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DAiCalendarLogger",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         }
       ]
     },
@@ -37,11 +43,13 @@
       "children": [
         {
           "name": "DAMoveAction",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DAResponse",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         }
       ]
     },
@@ -51,19 +59,23 @@
       "children": [
         {
           "name": "DAMailboxDeleteMessageRequest",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DAMailboxFetchMessageRequest",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DAMailboxGetUpdatesRequest",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         },
         {
           "name": "DAMailboxSetFlagsRequest",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         }
       ]
     },
@@ -73,7 +85,8 @@
       "children": [
         {
           "name": "DAConvertCRtoCRLFStream",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         }
       ]
     },
@@ -83,7 +96,8 @@
       "children": [
         {
           "name": "DAConcreteLocalDBGateKeeper",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         }
       ]
     },
@@ -93,7 +107,8 @@
       "children": [
         {
           "name": "ASAccountActor",
-          "children": []
+          "children": [],
+          "framework": "DataAccess"
         }
       ]
     }

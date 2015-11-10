@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "_CTMutableGlyphStorage",
-          "children": []
+          "children": [],
+          "framework": "CoreText.framework"
         },
         {
           "name": "_CTNativeGlyphStorage",
-          "children": []
+          "children": [],
+          "framework": "CoreText.framework"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "_CTGlyphStorage",
-          "children": []
+          "children": [],
+          "framework": "CoreText.framework"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "_CTFontFallbacksArray",
-          "children": []
+          "children": [],
+          "framework": "CoreText.framework"
         }
       ]
     }

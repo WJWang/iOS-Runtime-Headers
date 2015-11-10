@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "_MKUserTrackingButtonController",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         },
         {
           "name": "_MKWiFiObserver",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "_MKUserTrackingButton",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "_MKUserInteractionGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "_MKSmallCalloutPassthroughButton",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -51,19 +56,23 @@
       "children": [
         {
           "name": "_MKPopoverEmbeddingView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         },
         {
           "name": "_MKScaleUnitsView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         },
         {
           "name": "_MKSegmentView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         },
         {
           "name": "_MKSmallCalloutContainerView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -73,7 +82,8 @@
       "children": [
         {
           "name": "_MKPopoverController",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -83,11 +93,13 @@
       "children": [
         {
           "name": "_MKLegendString",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         },
         {
           "name": "_MKMapLayerHostingLayer",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -97,7 +109,8 @@
       "children": [
         {
           "name": "_MKGemUserLocationView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -107,7 +120,8 @@
       "children": [
         {
           "name": "_MKDirections",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -117,7 +131,8 @@
       "children": [
         {
           "name": "_MKAnnotationViewAnchor",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -127,7 +142,8 @@
       "children": [
         {
           "name": "MKVariableDelayTapRecognizer",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -137,7 +153,8 @@
       "children": [
         {
           "name": "MKUserTrackingBarButtonItem",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -147,7 +164,8 @@
       "children": [
         {
           "name": "MKUserLocationView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -157,7 +175,8 @@
       "children": [
         {
           "name": "MKTiltGestureRecognizer",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -167,7 +186,8 @@
       "children": [
         {
           "name": "MKTileOverlayRequester",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -177,7 +197,8 @@
       "children": [
         {
           "name": "MKTileOverlayRenderer",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -187,7 +208,8 @@
       "children": [
         {
           "name": "MKSuggestionEntrySearchCompletion",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -197,7 +219,8 @@
       "children": [
         {
           "name": "MKSmallCalloutViewController",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -207,11 +230,13 @@
       "children": [
         {
           "name": "MKRoutePolyline",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         },
         {
           "name": "MKRouteStepPolyline",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -221,7 +246,8 @@
       "children": [
         {
           "name": "MKPopoverBasedAnnotationCalloutController",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -231,7 +257,8 @@
       "children": [
         {
           "name": "MKPolylineView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -241,7 +268,8 @@
       "children": [
         {
           "name": "MKPolylineRenderer",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -251,11 +279,13 @@
       "children": [
         {
           "name": "MKPolygon",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         },
         {
           "name": "MKPolyline",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -265,7 +295,8 @@
       "children": [
         {
           "name": "MKPointAnnotation",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -275,7 +306,8 @@
       "children": [
         {
           "name": "MKPlacemark",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -285,7 +317,8 @@
       "children": [
         {
           "name": "MKOverlayPathView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -295,11 +328,13 @@
       "children": [
         {
           "name": "MKNewAnnotationContainerView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         },
         {
           "name": "MKOldAnnotationContainerView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -309,7 +344,8 @@
       "children": [
         {
           "name": "MKMapAnnotationManager",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -319,7 +355,8 @@
       "children": [
         {
           "name": "MKLocalSearchCompleter",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -329,7 +366,8 @@
       "children": [
         {
           "name": "MKDistanceFormatter",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -339,7 +377,8 @@
       "children": [
         {
           "name": "MKDate",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -349,7 +388,8 @@
       "children": [
         {
           "name": "MKCalloutBackgroundView",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     },
@@ -359,7 +399,8 @@
       "children": [
         {
           "name": "MKAttributionLabel",
-          "children": []
+          "children": [],
+          "framework": "MapKit.framework"
         }
       ]
     }

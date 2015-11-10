@@ -1,5 +1,5 @@
 {
-  "name": "AirTraffic.framework",
+  "name": "AirTraffic",
   "list": [
     {
       "name": "NSObject",
@@ -7,55 +7,68 @@
       "children": [
         {
           "name": "ATAirlock",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATAsset",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATAssetManager",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATClientController",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATConnection",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATMessage",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATRollableLog",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATStoreInfo",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATUserDefaults",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATWakeupCall",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATXPCConnection",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATXPCMessage",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         },
         {
           "name": "ATXPCServer",
-          "children": []
+          "children": [],
+          "framework": "AirTraffic"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "SAObjects.framework",
+  "name": "SAObjects",
   "list": [
     {
       "name": "AceObject",
@@ -7,11 +7,13 @@
       "children": [
         {
           "name": "SAWebWebResult",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAWebWebSearchResult",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -21,7 +23,8 @@
       "children": [
         {
           "name": "SAWebVideoResult",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -31,7 +34,8 @@
       "children": [
         {
           "name": "SAWebSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -41,7 +45,8 @@
       "children": [
         {
           "name": "SAWebSiteSearchStarted",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -51,11 +56,13 @@
       "children": [
         {
           "name": "SAWebSearch",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAWebSiteSearch",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -65,7 +72,8 @@
       "children": [
         {
           "name": "SAWebObject",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -75,11 +83,13 @@
       "children": [
         {
           "name": "SAWebImageResult",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAWebNewsResult",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -89,7 +99,8 @@
       "children": [
         {
           "name": "SAWebAceWebThumbnail",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -99,7 +110,8 @@
       "children": [
         {
           "name": "SAWeatherLocation",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -109,11 +121,13 @@
       "children": [
         {
           "name": "SAWeatherDailyForecast",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAWeatherHourlyForecast",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -123,7 +137,8 @@
       "children": [
         {
           "name": "SAUIUserUtteranceView",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -133,11 +148,13 @@
       "children": [
         {
           "name": "SAUIUnlockDevice",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAUIUpdateViews",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -147,7 +164,8 @@
       "children": [
         {
           "name": "SAUISnippetOpened",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -157,11 +175,13 @@
       "children": [
         {
           "name": "SAUISnippetAttributeOpened",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAUISnippetObjectInteraction",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -171,7 +191,8 @@
       "children": [
         {
           "name": "SAUIDomainObjectPickerSelection",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -181,7 +202,8 @@
       "children": [
         {
           "name": "SAUIAssistantHintView",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -191,7 +213,8 @@
       "children": [
         {
           "name": "SASportsTeamSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -201,7 +224,8 @@
       "children": [
         {
           "name": "SASportsTeam",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -211,7 +235,8 @@
       "children": [
         {
           "name": "SASportsMatchupDetailsSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -221,7 +246,8 @@
       "children": [
         {
           "name": "SASportsBaseballMatchup",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -231,7 +257,8 @@
       "children": [
         {
           "name": "SASportsAthleteComparisonSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -241,11 +268,13 @@
       "children": [
         {
           "name": "SASettingSetVoiceOver",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingSetWiFi",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -255,7 +284,8 @@
       "children": [
         {
           "name": "SASettingSetValueResponse",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -265,7 +295,8 @@
       "children": [
         {
           "name": "SASettingSetValue",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -275,7 +306,8 @@
       "children": [
         {
           "name": "SASettingSetNumberResponse",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -285,7 +317,8 @@
       "children": [
         {
           "name": "SASettingSetNumber",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -295,7 +328,8 @@
       "children": [
         {
           "name": "SASettingSetFloatResponse",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -305,7 +339,8 @@
       "children": [
         {
           "name": "SASettingSetFloat",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -315,7 +350,8 @@
       "children": [
         {
           "name": "SASettingSetBrightness",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -325,11 +361,13 @@
       "children": [
         {
           "name": "SASettingOpenVoiceOver",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenWiFi",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -339,83 +377,103 @@
       "children": [
         {
           "name": "SASettingOpenCompassSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenFaceTimeSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenFacebookSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenFlickrSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenGameCenterSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenMCCSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenMapsSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenMessagesSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenMusicSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenNotesSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenPhoneSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenPhotosAndCameraSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenRemindersSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenSafariSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenSinaWeiboSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenStoreSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenTencentWeiboSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenTwitterSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenVideosSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingOpenVimeoSettings",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -425,7 +483,8 @@
       "children": [
         {
           "name": "SASettingNumericSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -435,7 +494,8 @@
       "children": [
         {
           "name": "SASettingNumericEntity",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -445,11 +505,13 @@
       "children": [
         {
           "name": "SASettingGetVoiceOver",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASettingGetWiFi",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -459,7 +521,8 @@
       "children": [
         {
           "name": "SASettingGetNumberResponse",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -469,7 +532,8 @@
       "children": [
         {
           "name": "SASettingGetNumber",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -479,7 +543,8 @@
       "children": [
         {
           "name": "SASettingGetFloatResponse",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -489,7 +554,8 @@
       "children": [
         {
           "name": "SASettingGetFloat",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -499,7 +565,8 @@
       "children": [
         {
           "name": "SASettingGetBrightness",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -509,7 +576,8 @@
       "children": [
         {
           "name": "SASettingFloatSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -519,7 +587,8 @@
       "children": [
         {
           "name": "SASettingFloatEntity",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -529,15 +598,18 @@
       "children": [
         {
           "name": "SASStartPronunciationRequest",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASStartSpeechDictation",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SASStartSpeechRequest",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -547,7 +619,8 @@
       "children": [
         {
           "name": "SARestaurantRestaurantsSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -557,7 +630,8 @@
       "children": [
         {
           "name": "SARestaurantRestaurant",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -567,15 +641,18 @@
       "children": [
         {
           "name": "SAReminderCompositeTrigger",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAReminderDateTimeTrigger",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAReminderLocationTrigger",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -585,7 +662,8 @@
       "children": [
         {
           "name": "SAPhoneVoiceMailItemList",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -595,11 +673,13 @@
       "children": [
         {
           "name": "SAPhoneCallHistory",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAPhoneVoiceMail",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -609,7 +689,8 @@
       "children": [
         {
           "name": "SAPhoneCallEmergencySnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -619,11 +700,13 @@
       "children": [
         {
           "name": "SAMovieShowtimeListSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAMovieTheaterListSnippet",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -633,11 +716,13 @@
       "children": [
         {
           "name": "SAMicroblogTwitterPost",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAMicroblogWeiboPost",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -647,11 +732,13 @@
       "children": [
         {
           "name": "SAMicroblogSinaWeiboCredential",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAMicroblogTwitterCredential",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -661,11 +748,13 @@
       "children": [
         {
           "name": "SAMicroblogMicroblogSearchResultPost",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAMicroblogMicroblogSearchResultUser",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -675,11 +764,13 @@
       "children": [
         {
           "name": "SAMicroblogMicroblogSearchEmbeddedImage",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAMicroblogMicroblogSearchResultNews",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -689,7 +780,8 @@
       "children": [
         {
           "name": "SAMicroblogGetTwitterCredential",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -699,7 +791,8 @@
       "children": [
         {
           "name": "SAMPTitleCollection",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -709,11 +802,13 @@
       "children": [
         {
           "name": "SAMPPodcast",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAMPSong",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -723,11 +818,13 @@
       "children": [
         {
           "name": "SAMPCollection",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAMPMediaItem",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -737,7 +834,8 @@
       "children": [
         {
           "name": "SALocalSearchActionableMapItem",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -747,7 +845,8 @@
       "children": [
         {
           "name": "SAGKWebSearchDomainObject",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -757,11 +856,13 @@
       "children": [
         {
           "name": "SAGKVideoPod",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAGKWebLinkPod",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -771,7 +872,8 @@
       "children": [
         {
           "name": "SAGKVideoLinkedAnswer",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -781,11 +883,13 @@
       "children": [
         {
           "name": "SAGKImageLinkedAnswer",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAGKNewsLinkedAnswer",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -795,11 +899,13 @@
       "children": [
         {
           "name": "SAEndpointPlugin",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAEndpointService",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -809,7 +915,8 @@
       "children": [
         {
           "name": "SAClassRegistry",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -819,7 +926,8 @@
       "children": [
         {
           "name": "SACalendarSource",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -829,11 +937,13 @@
       "children": [
         {
           "name": "SAAnswerSocialAnswer",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         },
         {
           "name": "SAAnswerSocialQuestion",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -843,7 +953,8 @@
       "children": [
         {
           "name": "SAAnswerSearchResults",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -853,7 +964,8 @@
       "children": [
         {
           "name": "SAABPersonPicker",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     },
@@ -863,7 +975,8 @@
       "children": [
         {
           "name": "SAABPerson",
-          "children": []
+          "children": [],
+          "framework": "SAObjects"
         }
       ]
     }

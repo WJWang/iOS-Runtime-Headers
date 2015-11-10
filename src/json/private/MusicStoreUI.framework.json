@@ -1,5 +1,5 @@
 {
-  "name": "MusicStoreUI.framework",
+  "name": "MusicStoreUI",
   "list": [
     {
       "name": "SUViewController",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "MSVolumeViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "MSViewControllerFactory",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "MSTrackListViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "MSTrackListTableHeaderView",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "MSTrackListLoadMoreCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "MSTrackListLinkCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "MSTrackListDataSource",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "MSTrackListCellContext",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "MSTrackListCellConfiguration",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "MSTonePurchaseContinuation",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "MSTableCell",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -117,7 +128,8 @@
       "children": [
         {
           "name": "MSStructuredPageViewController",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -127,7 +139,8 @@
       "children": [
         {
           "name": "MSStructuredPageTableDataSource",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -137,7 +150,8 @@
       "children": [
         {
           "name": "MSSearchLinkItem",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -147,7 +161,8 @@
       "children": [
         {
           "name": "MSPurchaseBatch",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     },
@@ -157,7 +172,8 @@
       "children": [
         {
           "name": "MSClientApplicationController",
-          "children": []
+          "children": [],
+          "framework": "MusicStoreUI"
         }
       ]
     }

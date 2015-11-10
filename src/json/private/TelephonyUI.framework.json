@@ -1,5 +1,5 @@
 {
-  "name": "TelephonyUI.framework",
+  "name": "TelephonyUI",
   "list": [
     {
       "name": "UIView",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "TPWellButtonView",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "TPWell",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "TPTopLockBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "TPStarkUtilities",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "TPStarkInCallViewController",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "TPStarkInCallButton",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "TPSimpleNumberPadButton",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "TPSimpleNumberPad",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "TPShineLabel",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "TPPortraitOnlyNavigationController",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -107,7 +117,8 @@
       "children": [
         {
           "name": "TPPhonePad",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -117,11 +128,13 @@
       "children": [
         {
           "name": "TPNumberPadDarkStyleButton",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         },
         {
           "name": "TPNumberPadLightStyleButton",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -131,7 +144,8 @@
       "children": [
         {
           "name": "TPLegacyLCDView",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -141,11 +155,13 @@
       "children": [
         {
           "name": "TPLegacyBottomLockBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         },
         {
           "name": "TPLegacyBottomSingleButtonBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -155,7 +171,8 @@
       "children": [
         {
           "name": "TPLegacyBottomDoubleButtonBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -165,7 +182,8 @@
       "children": [
         {
           "name": "TPLCDView",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -175,7 +193,8 @@
       "children": [
         {
           "name": "TPIncomingCallOptionsScrollView",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -185,7 +204,8 @@
       "children": [
         {
           "name": "TPCallWaitingButton",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -195,7 +215,8 @@
       "children": [
         {
           "name": "TPBottomSingleButtonGrabberBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -205,15 +226,18 @@
       "children": [
         {
           "name": "TPBottomDoubleHeightButtonBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         },
         {
           "name": "TPBottomLockBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         },
         {
           "name": "TPBottomSingleButtonBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -223,7 +247,8 @@
       "children": [
         {
           "name": "TPBottomDoubleButtonGrabberBar",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     },
@@ -233,7 +258,8 @@
       "children": [
         {
           "name": "TPAudioRouteCell",
-          "children": []
+          "children": [],
+          "framework": "TelephonyUI"
         }
       ]
     }

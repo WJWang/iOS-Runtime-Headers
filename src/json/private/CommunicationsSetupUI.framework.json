@@ -1,23 +1,45 @@
 {
-  "name": "CommunicationsSetupUI.framework",
+  "name": "CommunicationsSetupUI",
   "list": [
-    {
-      "name": "NSObject",
-      "parent": null,
-      "children": [
-        {
-          "name": "FTRegUtilities",
-          "children": []
-        }
-      ]
-    },
     {
       "name": "UIView",
       "parent": null,
       "children": [
         {
           "name": "UserPassBox",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
+        }
+      ]
+    },
+    {
+      "name": "NSObject",
+      "parent": null,
+      "children": [
+        {
+          "name": "FTRegAccountMonitor",
+          "children": [],
+          "framework": "CommunicationsSetupUI"
+        },
+        {
+          "name": "FTRegAccountServiceDelegate",
+          "children": [],
+          "framework": "CommunicationsSetupUI"
+        },
+        {
+          "name": "FTRegAppleIDSetupManager",
+          "children": [],
+          "framework": "CommunicationsSetupUI"
+        },
+        {
+          "name": "FTRegConnectionHandler",
+          "children": [],
+          "framework": "CommunicationsSetupUI"
+        },
+        {
+          "name": "FTRegUtilities",
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -27,7 +49,8 @@
       "children": [
         {
           "name": "CSUISettingsBundleController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -37,7 +60,8 @@
       "children": [
         {
           "name": "CNFRegWizardController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -47,7 +71,8 @@
       "children": [
         {
           "name": "CNFRegViewAccountController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -57,7 +82,8 @@
       "children": [
         {
           "name": "CNFRegTranslucentBlackAppearanceController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -67,11 +93,13 @@
       "children": [
         {
           "name": "CNFRegTableFooterLabel",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         },
         {
           "name": "CNFRegTableHeaderLabel",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -81,7 +109,8 @@
       "children": [
         {
           "name": "CNFRegSplashSignInController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -91,7 +120,8 @@
       "children": [
         {
           "name": "CNFRegSplashScreenController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -101,7 +131,8 @@
       "children": [
         {
           "name": "CNFRegSpinnerCell",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -111,7 +142,8 @@
       "children": [
         {
           "name": "CNFRegSignInController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -121,7 +153,8 @@
       "children": [
         {
           "name": "CNFRegSettingsController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -131,7 +164,8 @@
       "children": [
         {
           "name": "CNFRegServerWebViewController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -141,7 +175,8 @@
       "children": [
         {
           "name": "CNFRegSecureAccountWebViewController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -151,7 +186,8 @@
       "children": [
         {
           "name": "CNFRegRegionChooserController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -161,11 +197,13 @@
       "children": [
         {
           "name": "CNFRegModernTransparentDarkAppearanceController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         },
         {
           "name": "CNFRegModernTransparentLightAppearanceController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -175,7 +213,8 @@
       "children": [
         {
           "name": "CNFRegListController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -185,7 +224,8 @@
       "children": [
         {
           "name": "CNFRegLearnMoreButton",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -195,7 +235,8 @@
       "children": [
         {
           "name": "CNFRegEditableTableCell",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -205,7 +246,8 @@
       "children": [
         {
           "name": "CNFRegEditablePhoneTableCell",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -215,7 +257,8 @@
       "children": [
         {
           "name": "CNFRegCreateAccountController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -225,7 +268,8 @@
       "children": [
         {
           "name": "CNFRegCallerIdDetailController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     },
@@ -235,7 +279,8 @@
       "children": [
         {
           "name": "CNFRegAccountWebViewController",
-          "children": []
+          "children": [],
+          "framework": "CommunicationsSetupUI"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "name": "SportsWorkout.framework",
+  "name": "SportsWorkout",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WordsSpeaker",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -17,11 +18,13 @@
       "children": [
         {
           "name": "StateObservationTarget",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         },
         {
           "name": "UserEventObservationTarget",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -31,11 +34,13 @@
       "children": [
         {
           "name": "SWSyncCompleteConnection",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         },
         {
           "name": "SWSyncWorkoutConnection",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -45,11 +50,13 @@
       "children": [
         {
           "name": "SWRunWorkoutRecord",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         },
         {
           "name": "SWSnapshot",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -59,19 +66,23 @@
       "children": [
         {
           "name": "SWRunWorkoutPresetCalorieGoal",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         },
         {
           "name": "SWRunWorkoutPresetDistanceGoal",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         },
         {
           "name": "SWRunWorkoutPresetNoGoal",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         },
         {
           "name": "SWRunWorkoutPresetTimeGoal",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -81,7 +92,8 @@
       "children": [
         {
           "name": "SWRunWorkout",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -91,7 +103,8 @@
       "children": [
         {
           "name": "SWRunSensor",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -101,11 +114,13 @@
       "children": [
         {
           "name": "SWLocalRunWorkoutProxy",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         },
         {
           "name": "SWRemoteRunWorkoutProxyClient",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -115,11 +130,13 @@
       "children": [
         {
           "name": "SWBluetoothRunSensor",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         },
         {
           "name": "SWFakeRunSensor",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     },
@@ -129,7 +146,8 @@
       "children": [
         {
           "name": "SWBluetoothRemote",
-          "children": []
+          "children": [],
+          "framework": "SportsWorkout"
         }
       ]
     }

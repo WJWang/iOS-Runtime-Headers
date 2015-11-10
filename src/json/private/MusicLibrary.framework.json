@@ -1,5 +1,5 @@
 {
-  "name": "MusicLibrary.framework",
+  "name": "MusicLibrary",
   "list": [
     {
       "name": "NSObject",
@@ -7,31 +7,38 @@
       "children": [
         {
           "name": "_LibraryNotification",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "_LocalLibraryNotification",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "_ML3DatabaseConnectionSubPool",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "_ML3DatabaseConnectionWrapper",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "_ML3DatabaseNaturalStatement",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "_ML3ValidatableDatabase",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "_MLClientCompletionBlockWrapper",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -41,11 +48,13 @@
       "children": [
         {
           "name": "MLTemplatedDatabaseOperation",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "MLValidateDatabaseOperation",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -55,7 +64,8 @@
       "children": [
         {
           "name": "MLSetValuesForPropertiesOperation",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -65,7 +75,8 @@
       "children": [
         {
           "name": "MLLibraryOperation",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -75,7 +86,8 @@
       "children": [
         {
           "name": "MLITChapterTOC",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -85,7 +97,8 @@
       "children": [
         {
           "name": "MLException",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -95,11 +108,13 @@
       "children": [
         {
           "name": "ML3TruthPredicate",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "ML3UnaryPredicate",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -109,11 +124,13 @@
       "children": [
         {
           "name": "ML3StoreLink",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "ML3Track",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -123,7 +140,8 @@
       "children": [
         {
           "name": "ML3QueryResultSet_MutableBackingStore",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -133,7 +151,8 @@
       "children": [
         {
           "name": "ML3NegationPredicate",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -143,7 +162,8 @@
       "children": [
         {
           "name": "ML3Genre",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -153,11 +173,13 @@
       "children": [
         {
           "name": "ML3DatabaseFunctionBlock",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "ML3DatabaseFunctionPointer",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -167,7 +189,8 @@
       "children": [
         {
           "name": "ML3DatabaseDistantResult",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -177,7 +200,8 @@
       "children": [
         {
           "name": "ML3DatabaseDistantConnection",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -187,7 +211,8 @@
       "children": [
         {
           "name": "ML3DatabaseCachedRow",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -197,11 +222,13 @@
       "children": [
         {
           "name": "ML3ContainmentPredicate",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "ML3ContainsPredicate",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -211,7 +238,8 @@
       "children": [
         {
           "name": "ML3ContainerQueryResultSet",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -221,7 +249,8 @@
       "children": [
         {
           "name": "ML3ContainerQuery",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -231,7 +260,8 @@
       "children": [
         {
           "name": "ML3ChapterTOC",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     },
@@ -241,11 +271,13 @@
       "children": [
         {
           "name": "ML3AllCompoundPredicate",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         },
         {
           "name": "ML3AnyCompoundPredicate",
-          "children": []
+          "children": [],
+          "framework": "MusicLibrary"
         }
       ]
     }

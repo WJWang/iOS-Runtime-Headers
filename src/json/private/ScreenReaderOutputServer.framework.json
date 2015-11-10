@@ -1,5 +1,5 @@
 {
-  "name": "ScreenReaderOutputServer.framework",
+  "name": "ScreenReaderOutputServer",
   "list": [
     {
       "name": "SCROBrailleDisplay",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "SCROStealthBrailleDisplay",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutputServer"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "SCROServer",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutputServer"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "SCROIOUSBHIDElement",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutputServer"
         }
       ]
     },
@@ -37,11 +40,13 @@
       "children": [
         {
           "name": "SCROIOHIDElement",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutputServer"
         },
         {
           "name": "SCROIOUSBElement",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutputServer"
         }
       ]
     },
@@ -51,7 +56,8 @@
       "children": [
         {
           "name": "SCROBrailleKeyboardKey",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutputServer"
         }
       ]
     },
@@ -61,7 +67,8 @@
       "children": [
         {
           "name": "SCROBrailleHandler",
-          "children": []
+          "children": [],
+          "framework": "ScreenReaderOutputServer"
         }
       ]
     }

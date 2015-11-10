@@ -1,5 +1,5 @@
 {
-  "name": "IMAVCore.framework",
+  "name": "IMAVCore",
   "list": [
     {
       "name": "NSObject",
@@ -7,31 +7,38 @@
       "children": [
         {
           "name": "IMAVHandler",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         },
         {
           "name": "IMAVInterface",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         },
         {
           "name": "IMAVLocalPreviewClient",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         },
         {
           "name": "IMAVMicrophone",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         },
         {
           "name": "IMAVMicrophoneController",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         },
         {
           "name": "IMAVTelephonyManager",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         },
         {
           "name": "IMAViTunesController",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         }
       ]
     },
@@ -41,7 +48,8 @@
       "children": [
         {
           "name": "IMAVEmbeddedInterface",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         }
       ]
     },
@@ -51,7 +59,8 @@
       "children": [
         {
           "name": "IMAVConferenceInterface",
-          "children": []
+          "children": [],
+          "framework": "IMAVCore"
         }
       ]
     }

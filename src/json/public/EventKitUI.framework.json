@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "WeekViewAllDayContents",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "UINotesTableView",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "TwoPartTextLabel",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "TodayInvalidationTimerWrapper",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "SubtitleCellWithAdditionalDetail",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "ScrollSpringFactory",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "PreferencesDoubleTwoPartValueCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "OccurrenceCacheSearchDataSource",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -87,11 +95,13 @@
       "children": [
         {
           "name": "EKTimeZoneViewController",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKUnknownIdentityViewController",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -101,7 +111,8 @@
       "children": [
         {
           "name": "EKTextViewWithLabelTextMetrics",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -111,7 +122,8 @@
       "children": [
         {
           "name": "EKShareeViewController",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -121,7 +133,8 @@
       "children": [
         {
           "name": "EKReminderTitleInlineEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -131,11 +144,13 @@
       "children": [
         {
           "name": "EKReminderShowLessEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKReminderShowMoreEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -145,7 +160,8 @@
       "children": [
         {
           "name": "EKReminderRecurrenceEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -155,7 +171,8 @@
       "children": [
         {
           "name": "EKReminderPriorityEditViewController",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -165,11 +182,13 @@
       "children": [
         {
           "name": "EKReminderInlineEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKReminderPriorityEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -179,7 +198,8 @@
       "children": [
         {
           "name": "EKReminderEditor",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -189,7 +209,8 @@
       "children": [
         {
           "name": "EKReminderEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -199,7 +220,8 @@
       "children": [
         {
           "name": "EKLazyDrawingLayer",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -209,7 +231,8 @@
       "children": [
         {
           "name": "EKEventURLInlineEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -219,35 +242,43 @@
       "children": [
         {
           "name": "EKEventEditedByDetailItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventFacebookButtonDetailItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventNotesDetailItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventOrganizerDetailItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventPreviewDetailItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventRecurrenceDetailItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventTitleDetailItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventURLDetailItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -257,7 +288,8 @@
       "children": [
         {
           "name": "EKEventEditableDetailGroup",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -267,7 +299,8 @@
       "children": [
         {
           "name": "EKEventEditViewController",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -277,39 +310,48 @@
       "children": [
         {
           "name": "EKEventDetailAttendeesCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventDetailCommentCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventDetailNotesCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventDetailOrganizerCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventDetailPreviewCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventDetailRecurrenceCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventDetailTitleCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventDetailTwoValueCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKEventDetailURLCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -319,7 +361,8 @@
       "children": [
         {
           "name": "EKEventDetailAlarmCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -329,7 +372,8 @@
       "children": [
         {
           "name": "EKDeclinedCalendarItemInfo",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -339,11 +383,13 @@
       "children": [
         {
           "name": "EKCalendarShareesEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         },
         {
           "name": "EKCalendarTitleEditItem",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -353,7 +399,8 @@
       "children": [
         {
           "name": "EKCalendarShareePicker",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -363,7 +410,8 @@
       "children": [
         {
           "name": "CalendarPublishingActivityViewController",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -373,7 +421,8 @@
       "children": [
         {
           "name": "CalendarInvitationWrapperController",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -383,7 +432,8 @@
       "children": [
         {
           "name": "CalendarEventDatesAndTimeZoneCell",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     },
@@ -393,7 +443,8 @@
       "children": [
         {
           "name": "BlockableScrollView",
-          "children": []
+          "children": [],
+          "framework": "EventKitUI.framework"
         }
       ]
     }

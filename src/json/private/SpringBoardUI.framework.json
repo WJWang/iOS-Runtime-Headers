@@ -1,5 +1,5 @@
 {
-  "name": "SpringBoardUI.framework",
+  "name": "SpringBoardUI",
   "list": [
     {
       "name": "NSObject",
@@ -7,7 +7,8 @@
       "children": [
         {
           "name": "SBUISound",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -17,7 +18,8 @@
       "children": [
         {
           "name": "SBUISlidingFullscreenAlertController",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -27,7 +29,8 @@
       "children": [
         {
           "name": "SBUIFullscreenAlertController",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -37,7 +40,8 @@
       "children": [
         {
           "name": "SBUIControlCenterSlider",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -47,7 +51,8 @@
       "children": [
         {
           "name": "SBUIControlCenterProgressView",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -57,7 +62,8 @@
       "children": [
         {
           "name": "SBUIControlCenterLabel",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -67,7 +73,8 @@
       "children": [
         {
           "name": "SBUIControlCenterButton",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -77,7 +84,8 @@
       "children": [
         {
           "name": "SBPasscodeTextField",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -87,7 +95,8 @@
       "children": [
         {
           "name": "SBPasscodeField",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -97,7 +106,8 @@
       "children": [
         {
           "name": "SBLockScreenTimerDialView",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -107,11 +117,13 @@
       "children": [
         {
           "name": "SBDeviceLockViewWithKeypadPhone",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         },
         {
           "name": "SBDeviceLockViewWithKeypadWildcat",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -121,7 +133,8 @@
       "children": [
         {
           "name": "SBDeviceLockViewWithKeypad",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -131,11 +144,13 @@
       "children": [
         {
           "name": "SBDeviceLockViewWithKeyboardPhone",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         },
         {
           "name": "SBDeviceLockViewWithKeyboardWildcat",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -145,15 +160,18 @@
       "children": [
         {
           "name": "SBDeviceLockTitlePhone",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         },
         {
           "name": "SBDeviceLockTitleWildcatKeyboard",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         },
         {
           "name": "SBDeviceLockTitleWildcatKeypad",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -163,7 +181,8 @@
       "children": [
         {
           "name": "SBDeviceLockKeypadWildcat",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -173,7 +192,8 @@
       "children": [
         {
           "name": "SBDeviceLockKeypadSiri",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -183,7 +203,8 @@
       "children": [
         {
           "name": "SBDeviceLockKeypad",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     },
@@ -193,7 +214,8 @@
       "children": [
         {
           "name": "SBDeviceLockKeyboard",
-          "children": []
+          "children": [],
+          "framework": "SpringBoardUI"
         }
       ]
     }

@@ -30,7 +30,8 @@ Utilities.getFrameworkInherit = function(dirPath, frameWorkName, cb) {
             parent : null,
             children : [{
               name : tmp[0],
-              children : []
+              children : [],
+              framework : frameWorkName
             }]
           });
         }
@@ -68,9 +69,11 @@ Utilities.getFrameworkInherit = function(dirPath, frameWorkName, cb) {
       return inheritList;
     }
 
+
+    var groupParentsList = recursiveInherit(list);
     cb({
       name : frameWorkName,
-      list :  recursiveInherit(list)
+      list :  groupParentsList
     });
   });
 
