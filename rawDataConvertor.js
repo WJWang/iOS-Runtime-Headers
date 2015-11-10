@@ -13,7 +13,6 @@ gracefulFs.readdir(PRIVATE_FRAMEWORKS_PATH, function(err, frameworkDirNameList) 
   if(err) {
     throw err;
   } else {
-
     frameworkDirNameList.forEach(function(frameworkDirName) {
       var tmp = frameworkDirName.split(".");
       Utils.getFrameworkInherit(PRIVATE_FRAMEWORKS_PATH + frameworkDirName, tmp[0], function(result) {
